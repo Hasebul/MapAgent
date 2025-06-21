@@ -1,0 +1,530 @@
+[
+    {
+        "image": null,
+        "question": "I am driving to Brassica in Bexley Via E Whittier St. After reaching Alum Creek Dr, where should I go next? A.Turn left onto College Ave B.Turn right onto E Main St C.Turn right onto E Whittier St D.Turn right onto US-33 E/E Livingston Ave",
+        "pid": "0",
+        "answer": "B",
+        "answer_text": "Turn right onto E Main St",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Araucano Park to Museum of Memory & Human Rights via Autop. Costanera Nte. How many times do I need to merge onto a toll road? A.1 B.2 C.3 D.0",
+        "pid": "1",
+        "answer": "B",
+        "answer_text": "2",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am going from Indira Road to Chillox Dhanmondi by car via mirpur road.After reaching manik mia avenue where should I go next? A.Turn right onto Road no 16 B.Turn left onto Mirpur road C.Turn left onto indira road D.Turn right onto new elephant road",
+        "pid": "2",
+        "answer": "B",
+        "answer_text": "Turn left onto Mirpur road",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Hassan II Mosque to Koutoubia via A3. Which exit will I take at the roundabout on Bd Oued Issil? A.1st exit B.2nd exit C.3rd exit D.4th exit",
+        "pid": "3",
+        "answer": "C",
+        "answer_text": "3rd exit",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "Which of the following locations is closest to Bondi Beach by public transport in terms of travel time? A.Sydney Opera House B.Royal Botanic Garden Sydney C. D.",
+        "pid": "4",
+        "answer": "B",
+        "answer_text": "Royal Botanic Garden Sydney",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am walking to Brassica in Bexley from South Wind Motel, Via Parsons Ave and E Main St. After reaching E Main St, where should I go next? A.Turn left onto College Ave B.Turn right onto E Whittier St C.Turn left onto S Ohio Ave D.Turn right onto E Whittier St",
+        "pid": "5",
+        "answer": "A",
+        "answer_text": "Turn left onto College Ave",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "Which route by foot has the longest distance from Centre of Germany to Wildkatzendorf Hütscheroda? A.Via L2104 B.Via L1042 C.Via L1042 and Hainichlandweg D.",
+        "pid": "6",
+        "answer": "C",
+        "answer_text": "Via L1042 and Hainichlandweg",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church via High Bridge Trail. After reaching US-460 E, where should I go next? A.Turn right onto E Osborn Rd B.Turn left onto High Bridge Trail C.Turn right onto High Rock Rd D.Slight right at Early St",
+        "pid": "7",
+        "answer": "C",
+        "answer_text": "Turn right onto High Rock Rd",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from Zurich to Lucerne by car. How much distance do I need to cover if I go via A14? A.61.224 km B.61.15 km C.52.0 km D.56.5 km",
+        "pid": "8",
+        "answer": "A",
+        "answer_text": "61.224 km",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "If I drive from Christ the Redeemer to Sugarloaf Mountain via Estr. das Paineiras, how much distance I need to travel? A.11565 B.12522 C.12300 D.16030",
+        "pid": "9",
+        "answer": "B",
+        "answer_text": "12522",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am going from Indira Road to Chillox Dhanmondi by car. Which road should I take after Manik Mia Avenue on the Satmasjid Road route to Chillox Dhanmondi? A.Kazi Nazrul Islam Ave B.Road No 16 C.Mirpur Rd D.New Elephant Rd",
+        "pid": "10",
+        "answer": "C",
+        "answer_text": "Mirpur Rd",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "Which walking route from D03 Flame Tree Ridge to Aster Cedars Hospital involves taking stairs multiple times? A.Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54 B.Via Hessa St/D61 C.Via Al Asayel St/D72 D.Via Garn Al Sabkha St/D59",
+        "pid": "11",
+        "answer": "B",
+        "answer_text": "Via Hessa St/D61",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from  D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali Via Garn Al Sabkha St/D59. After reaching Sheikh Zayed Rd/E11, where should I go next? A.Take exit 22 toward PJA Port Gate 1/PJA Port Gate 2 B.Keep left to stay on Garn Al Sabkha St/D59 C.Take the ramp to Al Khail Rd/E44 D.Merge onto Sheikh Zayed Rd/E11 via the ramp to Jebel Ali/Abu Dhabi",
+        "pid": "12",
+        "answer": "A",
+        "answer_text": "Take exit 22 toward PJA Port Gate 1/PJA Port Gate 2",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "What's the best walking route from Ramada by Wyndham Islamabad to Bahria University - Islamabad Campus? A. Via Srinagar Highway and 9th Avenue B.Via Khayaban-e-Suhrwardy C.Via Srinagar Hwy and Faisal Ave D. Via Srinagar Hwy",
+        "pid": "13",
+        "answer": "B",
+        "answer_text": "Via Khayaban-e-Suhrwardy",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "If I drive via E Main St from South Wind Motel to Brassica in Bexley, which of the following landmarks will I pass by? A.Taco Bell B.Dollar General C.Shumacher Alley D.Alum Creek Dr",
+        "pid": "14",
+        "answer": "B",
+        "answer_text": "Dollar General",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "On the driving route from Hassan II Mosque to Koutoubia via A3, how many roundabouts I will encounter in total? A.4 B.5 C.6 D.7",
+        "pid": "15",
+        "answer": "D",
+        "answer_text": "7",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am at Duhail. What's the fastest route from my current location  to Al Khor Family Park & Zoo? A.Via Al Khor Coastal Rd  B.Via Al Shamal Rd C.via Al Khor Coastal Rd and Al Shamal Rd D.via Al Sailiya Rd",
+        "pid": "16",
+        "answer": "B",
+        "answer_text": "Via Al Shamal Rd",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am going from Indira Road to Chillox Dhanmondi by car. On the Mirpur Rd route, what is the landmark I will pass by after turning left onto Mirpur Rd? A.Agrani Bank PLC B.BRAC Bank Limited | ATM Booth C.Green Galleria D.COTTO Sanitary Ware Display Center",
+        "pid": "17",
+        "answer": "C",
+        "answer_text": "Green Galleria",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the longest distance I can travel? A.6336 m B.6123 m C.6523 m D.6189 m",
+        "pid": "18",
+        "answer": "A",
+        "answer_text": "6336 m",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from K J Somaiya College Of Arts And Commerce to Zynova Shalby Hospital via Mahatma Gandhi Rd. After reaching Parmanand Rd, where should I go next? A.Turn left onto Karani Ln/Navroji Ln B.Turn right onto Navroji Ln C.Turn left to stay on Mahatma Gandhi Rd D.Turn left onto Ghatkopar - Mahul Rd",
+        "pid": "19",
+        "answer": "A",
+        "answer_text": "Turn left onto Karani Ln/Navroji Ln",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from Monas (National Monument) to Kota Tua Jakarta by car. Which route should I follow If I want to cover the most distance? A.Via Jl. Gn. Sahari B.Via Jl. Ir. H. Juanda and Jl. Gn. Sahari C.Via Jl. Medan Merdeka Barat and Jl. Gn. Sahari D.",
+        "pid": "20",
+        "answer": "B",
+        "answer_text": "Via Jl. Ir. H. Juanda and Jl. Gn. Sahari",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "My partner and I have decided to spend the day in Paris. We want to start with a visit to the iconic Eiffel Tower and then make our way to the artistic neighborhood of Montmartre, taking a leisurely, scenic route. How can we take the longest path from the Eiffel Tower to Montmartre by car? A.Via Rue Caulaincourt B.Via Rue Caulaincourt and Rue Lamarck C.Via Rue Saint-Dominique and Rue Caulaincourt D.",
+        "pid": "21",
+        "answer": "A",
+        "answer_text": "Via Rue Caulaincourt",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the fastest time to reach there? A.16 mins B.17 mins C.18 mins D.19 mins",
+        "pid": "22",
+        "answer": "C",
+        "answer_text": "18 mins",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "Give the fastest route from Indira Road to Chillox Dhanmondi by car. A.Via Satmasjid Road B.Via Mirpur Rd C.Via Kazi Nazrul Islam Ave D.",
+        "pid": "23",
+        "answer": "A",
+        "answer_text": "Via Satmasjid Road",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "What is the shortest route from Christ the Redeemer to Sugarloaf Mountain in Rio de Janeiro, Brazil by car? A.Via Estr. das Paineiras B.Via Estr. das Paineiras and R. Cosme Velho C.Via Av. Infante Dom Henrique D.",
+        "pid": "24",
+        "answer": "B",
+        "answer_text": "Via Estr. das Paineiras and R. Cosme Velho",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from K J Somaiya College Of Arts And Commerce to Zynova Shalby Hospital via Mahatma Gandhi Rd. After reaching K. J. Somaiya Rd, where should I go next? A.Turn left to stay on Mahatma Gandhi Rd B.Turn left onto Ghatkopar - Mahul Rd C.Turn left onto Karani Ln/Navroji Ln D.Turn right onto Parmanand Rd",
+        "pid": "25",
+        "answer": "B",
+        "answer_text": "Turn left onto Ghatkopar - Mahul Rd",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church via High Bridge Trail. After reaching E Osborn Rd, where should I go next? A.Slight right at Early St B.Head west toward Wedgewood Dr C. Turn right onto S Airport Rd D.Turn right onto High Rock Rd",
+        "pid": "26",
+        "answer": "A",
+        "answer_text": "Slight right at Early St",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I’m planning a trip from Da Nang to Hội An. If I follow the fastest driving route. How much time will it take to go there? A.1 hour 3 mins B.1 hour 7 mins C.1 hour 5 mins D.59 mins",
+        "pid": "27",
+        "answer": "C",
+        "answer_text": "1 hour 5 mins",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "If I am traveling by car from Centre of Germany to Wildkatzendorf Hütscheroda and prefer to minimize the number of roundabouts, which route should I take? A.Via B84 B.Via L1016 C.Via B247 and B84 D.",
+        "pid": "28",
+        "answer": "A",
+        "answer_text": "Via B84",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "How long does it take to go from Times Square to Central Park on foot via Broadway and 7th Ave? A.15 B.10 C.17 D.18",
+        "pid": "29",
+        "answer": "D",
+        "answer_text": "18",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the longest route to take? A.Via Av. Ing. Huergo B.Via Av. Ing. Huergo and Av. Almte. Brown C.Via Av. Paseo Colón and Av. Almte. Brown D.",
+        "pid": "30",
+        "answer": "C",
+        "answer_text": "Via Av. Paseo Colón and Av. Almte. Brown",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from Monas (National Monument) to Kota Tua Jakarta by car. How much time will it take if I go Via Jl. Medan Merdeka Barat and Jl. Gn. Sahari? A.13 mins B.22 mins C.17 mins D.21 mins",
+        "pid": "31",
+        "answer": "D",
+        "answer_text": "21 mins",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Araucano Park to Museum of Memory & Human Rights Via Av. Pdte. Kennedy and Autop. Costanera Nte. How many times do I need to take a left turn before reaching Av. Matucana? A.2 B.3 C.4 D.5",
+        "pid": "32",
+        "answer": "B",
+        "answer_text": "3",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Mittelpunkt Deutschlands to Wildkatzendorf Hütscheroda Via B247 and B84. After reaching Mühlhäuser Str, where should I go next? A.Turn right onto B84 B. Continue onto Schloßstraße C.Mühlhäuser Str. turns slightly left and becomes L2104 D.Take the B84 ramp to A4/Eisenach/Weberstedt/Bad Langensalza",
+        "pid": "33",
+        "answer": "C",
+        "answer_text": "Mühlhäuser Str. turns slightly left and becomes L2104",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "What’s the fastest walking route from Centre of Germany to Wildkatzendorf Hütscheroda? A.Via L1042 B.Via L1042 and Hainichlandweg C. Via L2104 D. Via L2104",
+        "pid": "34",
+        "answer": "C",
+        "answer_text": " Via L2104",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church Via Jamestown Rd and High Bridge Trail. After reaching  River Rd, where should I go next? A.Turn left onto High Bridge Trail B.Turn left onto Wedgewood Dr C.Turn right onto US-460 E D.Turn right onto Jamestown Rd",
+        "pid": "35",
+        "answer": "A",
+        "answer_text": "Turn left onto High Bridge Trail",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving to Brassica in Bexley Via E Main St. After reaching Parsons Ave, where should I go next? A.Turn right onto E Main St B. Turn left onto College Ave C.Turn right onto US-33 E/E Livingston Ave D.Merge onto Alum Creek Dr",
+        "pid": "36",
+        "answer": "A",
+        "answer_text": "Turn right onto E Main St",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the shortest route to take? A.Via Av. Ing. Huergo B.Via Av. Ing. Huergo and Av. Almte. Brown C.Via Av. Paseo Colón and Av. Almte. Brown D.",
+        "pid": "37",
+        "answer": "C",
+        "answer_text": "Via Av. Paseo Colón and Av. Almte. Brown",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving to Brassica in Bexley Via E Whittier St. After reaching Lockbourne Rd, where should I go next? A.Turn left onto College Ave B. Take exit 103A toward Main St/Bexley C.Head north on S High St toward Shumacher Alley D. US-33 E/E Livingston Ave",
+        "pid": "38",
+        "answer": "D",
+        "answer_text": " US-33 E/E Livingston Ave",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "Which walking route from D03 Flame Tree Ridge to Aster Cedars Hospital requires taking a ramp onto Umm Suqeim St/D63? A.Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54 B.Via Hessa St/D61 C.Via Al Asayel St/D72 D.Via D57",
+        "pid": "39",
+        "answer": "B",
+        "answer_text": "Via Hessa St/D61",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am walking from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54. After reaching Hessa St/D61 (signs for E611 S/Emirates Rd), where should I go next?  A.Continue onto Al Fay Rd B.Turn right onto street 511 C.Turn right onto Sheikh Zayed Bin Hamdan Al Nahyan Street/D54 D.At the roundabout, take the 3rd exit onto Golf Course Dr",
+        "pid": "40",
+        "answer": "C",
+        "answer_text": "Turn right onto Sheikh Zayed Bin Hamdan Al Nahyan Street/D54",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Mittelpunkt Deutschlands to Wildkatzendorf Hütscheroda via B84. After reaching Hohler Weg/Langensalzaer Str, where should I go next? A.Continue onto Schloßstraße B.Continue onto Am Alten Sportpl. C.Continue straight onto L2103 D.Continue onto L1042",
+        "pid": "41",
+        "answer": "D",
+        "answer_text": "Continue onto L1042",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I’m planning a trip from Da Nang to Hội An. If I follow the shortest driving route. How much time will it take to go there? A.1 hour 5 mins B.1 hour 6 mins C.1 hour 7 mins D.1 hour 8 mins",
+        "pid": "42",
+        "answer": "B",
+        "answer_text": "1 hour 6 mins",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "What's the fastest route from Villa Elsewhere to  D. B. Patil International Airport, Navi Mumbai? A.Via NH 48 and Uran Rd B.Via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Pune Expy/Mumbai - Satara Hwy/Yashwantrao Chavan Expy  C.Via NH 48 D.",
+        "pid": "43",
+        "answer": "C",
+        "answer_text": "Via NH 48",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I’m planning a trip from Da Nang to Hội An. Which is the shortest driving route? A.Via Nam Kỳ Khởi Nghĩa B.Via Nam Kỳ Khởi Nghĩa and QL1A C.Via CT02 D.",
+        "pid": "44",
+        "answer": "C",
+        "answer_text": "Via CT02",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church Via Jamestown Rd and High Bridge Trail. After reaching Turn right onto S Airport Rd, where should I go next? A.Turn left onto VA-45 N B.Turn right onto High Rock Rd C.Turn right onto Jamestown Rd D.Turn right to stay on Jamestown Rd",
+        "pid": "45",
+        "answer": "A",
+        "answer_text": "Turn left onto VA-45 N",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am going from Ramada by Wyndham Islamabad to Bahria University - Islamabad Campus by car Via Srinagar Hwy .After reaching Faisal Ave/Islamabad Expy, where should I go next? A.Keep right to continue on Jinnah Avenue Underpass B.Turn right onto 9th Ave C.Turn right onto Main Margalla Rd D.Turn left at Bahria University Gate onto Shangrilla Rd",
+        "pid": "46",
+        "answer": "A",
+        "answer_text": "Keep right to continue on Jinnah Avenue Underpass",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I’m planning a trip from Da Nang to Hội An. Which is the longest distance I can cover if I drive? A.43520 B.43622 C.44601 D.43790",
+        "pid": "47",
+        "answer": "B",
+        "answer_text": "43622",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am at Ramada by Wyndham Islamabad. I am going from my current location to Bahria University - Islamabad Campus by car via Srinagar Hwy and Faisal Ave .After reaching 9th Ave, where should I go next? A.Keep right to continue on Jinnah Avenue Underpass B.Continue onto Faisal Ave C.Turn right onto Main Margalla Rd D.Slight left toward Jinnah Avenue",
+        "pid": "48",
+        "answer": "C",
+        "answer_text": "Turn right onto Main Margalla Rd",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I’m planning a trip from Da Nang to Hội An. Which is the longest driving route? A.Via Nam Kỳ Khởi Nghĩa B.Via Nam Kỳ Khởi Nghĩa and QL1A C.Via CT02 D.",
+        "pid": "49",
+        "answer": "B",
+        "answer_text": "Via Nam Kỳ Khởi Nghĩa and QL1A",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from Zurich to Lucerne by car. What is the maximum distance I can cover using any route? A.63.45 B.61.224 C.60.12 D.66.124",
+        "pid": "50",
+        "answer": "B",
+        "answer_text": "61.224",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am walking from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali Via Al Asayel St/D72. After reaching Hessa St/D61, where should I go next? A.Turn right onto First Al Khail St/D86 B.Merge onto Umm Suqeim St/D63 C.Continue onto D57 D. At the roundabout, continue straight to stay on 39th St",
+        "pid": "51",
+        "answer": "A",
+        "answer_text": "Turn right onto First Al Khail St/D86",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving to Brassica in Bexley Via E Main St. After reaching E Whittier St, where should I go next? A.Turn right onto E Whittier St B.Continue straight to stay on E Main St C. Turn left onto Lockbourne Rd D.Turn left onto Parsons Ave",
+        "pid": "52",
+        "answer": "D",
+        "answer_text": "Turn left onto Parsons Ave",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am biking from The Farmville Regional Airport to High Rock Baptist Church via High Bridge Trail. After reaching S Airport Rd, where should I go next? A.Turn right onto E Osborn Rd B.Turn left onto High Bridge Trail C.Turn right onto US-460 E D.Turn right onto Plank Rd",
+        "pid": "53",
+        "answer": "D",
+        "answer_text": "Turn right onto Plank Rd",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to walk from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali. Which route passes through the largest number of roundabouts? A.Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54 B.Via Al Asayel St/D72 C.Via Hessa St/D61 D.None of the above",
+        "pid": "54",
+        "answer": "C",
+        "answer_text": "Via Hessa St/D61",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from Monas (National Monument) to Kota Tua Jakarta by car. How much distance do I need to cover if I go via Jl. Gn. Sahari? A.6.05 km B.6.67 km C.6.66 km D.5.9 km",
+        "pid": "55",
+        "answer": "A",
+        "answer_text": "6.05 km",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "Which walking route from D03 Flame Tree Ridge to Aster Cedars Hospital goes through Al Khayay St‎? A.Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54 B.Via Al Asayel St/D72 C.Via Hessa St/D61 D.None of the above",
+        "pid": "56",
+        "answer": "C",
+        "answer_text": "Via Hessa St/D61",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Mittelpunkt Deutschlands to Wildkatzendorf Hütscheroda Via L1016. After reaching Am Anger, where should I go next? A.Continue onto Propelstraße B.Continue onto Essener Str. C.Continue onto Schlossallee/Thomas-Müntzer-Straße D.Continue onto L1016",
+        "pid": "57",
+        "answer": "C",
+        "answer_text": "Continue onto Schlossallee/Thomas-Müntzer-Straße",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to walk from D03 Flame Tree Ridge to Aster Cedars Hospital, Jebel Ali. Which walking route involves taking the pedestrian overpass? A.Via Hessa St/D61 B.Via Al Asayel St/D72 C.Via Sheikh Zayed Bin Hamdan Al Nahyan Street/D54 D.Via Garn Al Sabkha St/D59",
+        "pid": "58",
+        "answer": "A",
+        "answer_text": "Via Hessa St/D61",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "What is the fastest route from Times Square to Central Park by walking? A.Via 7th Ave B.Via Broadway and 7th Ave C.Via Broadway D.",
+        "pid": "59",
+        "answer": "A",
+        "answer_text": "Via 7th Ave",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. What is the fastest route to take? A.Via Av. Ing. Huergo B.Via Av. Ing. Huergo and Av. Almte. Brown C.Via Av. Paseo Colón and Av. Almte. Brown D.",
+        "pid": "60",
+        "answer": "B",
+        "answer_text": "Via Av. Ing. Huergo and Av. Almte. Brown",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I will drive from Christ the Redeemer to Sugarloaf Mountain. I want to travel the maximum distance. Which route should I follow? A.Via Estr. das Paineiras B.Via Estr. das Paineiras and R. Cosme Velho C.Via Av. Infante Dom Henrique D.",
+        "pid": "61",
+        "answer": "C",
+        "answer_text": "Via Av. Infante Dom Henrique",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Araucano Park to Museum of Memory & Human Rights via Autop. Costanera Nte. How many exits I need to take to reach the destination? A.0 B.1 C.2 D.3",
+        "pid": "62",
+        "answer": "B",
+        "answer_text": "1",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from Zurich to Lucerne by car. How much time will it take to go via A14? A.59 mins B.54 mins C.57 mins D.51 mins",
+        "pid": "63",
+        "answer": "A",
+        "answer_text": "59 mins",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Hassan II Mosque to Koutoubia via A3. Before turning left onto Pl. Al Mourabitine/N8, how many roundabouts I will pass through on Bd 11 Janvier/N8/N9? A.1 B.2 C.3 D.4",
+        "pid": "64",
+        "answer": "A",
+        "answer_text": "1",
+        "category": "routing"
+    },
+    {
+        "image": null,
+        "question": "I am driving from Hassan II Mosque to Koutoubia via A3. At the first roundabout on Bd Moulay Youssef, which exit should I take to stay on Bd Moulay Youssef? A.1st exit B.2nd exit C.3rd exit D.4th exit",
+        "pid": "65",
+        "answer": "C",
+        "answer_text": "3rd exit",
+        "category": "routing"
+    }
+]

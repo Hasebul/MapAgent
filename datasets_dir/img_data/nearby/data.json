@@ -1,0 +1,730 @@
+[
+    {
+        "image": "Vdata/ID_433.PNG",
+        "question": "i am at সাগর ইলেকট্রিক সার্ভিস সেন্টার .What is the nearest mosque to my location? Options: (A) Kalumaria Mosque (B) Al Ihsan Jame Mosque (C) Komlapur Jame Masjid (D) Mollikpur mosque",
+        "pid": "0",
+        "answer": "B",
+        "answer_text": "Al Ihsan Jame Mosque",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1105.PNG",
+        "question": "What is the nearest resting house from sparkling Pure Water Factory? Options: (A) Cole Street Guesthouse (B) Comfort Lodge (C) Seabird Water Taxi (D) Ambi Travelers Lounge",
+        "pid": "1",
+        "answer": "B",
+        "answer_text": "Comfort Lodge",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_579.PNG",
+        "question": "I will be visitng Switzerland from Dhaka on upcoming 27th May. I dont know anything about Switzerland. I am living in mohammadpur, Dhaka. Suggest me the nearest place from where I can buy the plane ticket for switzerland. Options: (A) Novo Air Ticket office (B) US-Bangla Airlines Mohammadpur Outlet (C) US bangla Ticket office (D) Air Zarin",
+        "pid": "2",
+        "answer": "B",
+        "answer_text": "US-Bangla Airlines Mohammadpur Outlet",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1101.PNG",
+        "question": "Which church is near st johannes? Options: (A) Gustaf Vasa Church (B) Adolf Fredriks Forsamling' \"St Peter's Church\" 'City Church (C)  (D) ",
+        "pid": "3",
+        "answer": "B",
+        "answer_text": "Adolf Fredriks Forsamling' \"St Peter's Church\" 'City Church",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1112.PNG",
+        "question": "Which castle is closest to Howth rail station? Options: (A) Howth Castle (B) Mary Castle (C) Claremont Castle (D) Balscadden House",
+        "pid": "4",
+        "answer": "A",
+        "answer_text": "Howth Castle",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1121.PNG",
+        "question": "Which shopping mall is closest from the metro station? Options: (A) Азбука daily (B) ТЦ Мини Молл (C) Winestyle винный магазин (D) Vernyy Верный",
+        "pid": "5",
+        "answer": "B",
+        "answer_text": "ТЦ Мини Молл",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_428.PNG",
+        "question": "What is the closest mosque  to the Dudhal Model School? Options: (A) Kaya Bazar Jame Mosque (B) গোমা বাজার জামে মসজিদ (C) আল-কাদরীয়া জামে মসজিদ (D) কাঠিপাড়া",
+        "pid": "6",
+        "answer": "B",
+        "answer_text": "গোমা বাজার জামে মসজিদ",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1111.PNG",
+        "question": "Which metro station is near the reataurant domenica? Options: (A) Tobala L1 (B) El Golf (C) Ambrosia Bistro (D) Callao",
+        "pid": "7",
+        "answer": "A",
+        "answer_text": "Tobala L1",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_413.PNG",
+        "question": "I am employed at the James J. Peters Department of Veterans Affairs Medical Center. What are the closest educational institutions near my workplace? Options: (A) Fordham Preparatory School (B) Academy of Mount St. Ursula (C) Fordham University (D) Monroe College",
+        "pid": "8",
+        "answer": "D",
+        "answer_text": "Monroe College",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_432.PNG",
+        "question": "i am at Netaji Subhash Chandra Bose International Airport .What is the nearest hospital to my location? Options: (A) Bindubasini Nursing Home (B) Belur State General Hospital (C) ESI Hospital Kamarhati (D) Dum Dum Municipal Specialized Hospital and Cancer Research Center",
+        "pid": "9",
+        "answer": "D",
+        "answer_text": "Dum Dum Municipal Specialized Hospital and Cancer Research Center",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from কংলাক রিয়াং ঝর্না? Options: (A) Machang Nak Resort Sajek Valley (B) Honeymoon Cottage (C) Sajek Hill View Resort (D) Meghpunji Resort, Sajek",
+        "pid": "10",
+        "answer": "D",
+        "answer_text": "Meghpunji Resort, Sajek",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1120.PNG",
+        "question": "I want to visit the Marines Museum, which is the closest metro station? Options: (A) Rotterdam (B) Blaak (C) TLeuvehaven (D) Eendrachtsplein",
+        "pid": "11",
+        "answer": "B",
+        "answer_text": "Blaak",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_434.PNG",
+        "question": "I'm at Tawar Mall. Could you tell me which hospital is closest to my location? Options: (A) Al Hazm (B) Al-Ahli Hospital (C) AlMahmoud Medical Center (D) Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي",
+        "pid": "12",
+        "answer": "D",
+        "answer_text": "Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_410.PNG",
+        "question": "I'm currently located at The Old Vic and aiming to reach Big Ben. Which bridge would be the nearest for me to cross the river? Options: (A) Westminster Bridge (B) Hungerford Bridge and Golden Jubilee Bridges (C) Waterloo (D) Waterloo East",
+        "pid": "13",
+        "answer": "A",
+        "answer_text": "Westminster Bridge",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_421.PNG",
+        "question": "I  am presently at Cleopatra's Needle. I need to cross the river to get to Waterloo Campus. What is the nearest bridge to my location? Options: (A) Hungerford Bridge and Golden Jubilee Bridges (B) Waterloo Bridge (C) Blackfriars Bridge (D) National Theatre",
+        "pid": "14",
+        "answer": "A",
+        "answer_text": "Hungerford Bridge and Golden Jubilee Bridges",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_417.PNG",
+        "question": "I am at the  Jean Talon Hospital. What are the closest resturent  near my workplace? Options: (A) Le Super Qualité (B) La (C)  (D) ",
+        "pid": "15",
+        "answer": "A",
+        "answer_text": "Le Super Qualité",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1106.PNG",
+        "question": "Whats the nearest Mosque from Putra Medical Centre Alor Setar and UTC Kedath? Options: (A) Masjid Zahir (B) Masjid Nagore (C) Masjid Al-Irfan (D) Mashjid Al-Bukhari",
+        "pid": "16",
+        "answer": "A",
+        "answer_text": "Masjid Zahir",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1111.PNG",
+        "question": "Which restaurant is closest to Campus to Contador? Options: (A) La Bifera (B) Tacu Tacu Restaurant (C) Tea Connection (D) Indisa",
+        "pid": "17",
+        "answer": "C",
+        "answer_text": "Tea Connection",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_505.PNG",
+        "question": "I'm currently staying at Hörselberg-Hainich, while my friend is staying at Tüngeda. After we meet up, I want to visit an amusement park nearby. Can you suggest one that's close to us? Options: (A) Panzerarena (B) Baumkronenpfad im Nationalpark Hainich (C) Haineck Castle (D) Climbing Forest Hainich on Reckenbühl",
+        "pid": "18",
+        "answer": "A",
+        "answer_text": "Panzerarena",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting McIntyre Medical Science Building - Lower Entrance. Could you please inform me about the nearby historical landmark? Options: (A) Circle Stone (B) secret pool (C) Maison William Caldwell Cottingham (D) Poste de cavalerie du Service de police de la Ville de Montréal",
+        "pid": "19",
+        "answer": "B",
+        "answer_text": "secret pool",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_431.PNG",
+        "question": "i am at Burjeel Medical City, 28th Street - Mohamed Bin Zayed City - Abu Dhabi - United Arab Emirates .What is the nearest restaurant to my location? Options: (A) Mado Al Qana Restaurant,CF4V+4CM - Rabdan - المَقطَع - Abu Dhabi - United Arab Emirates (B) Oii Restaurant & Cafe, Al Maqta' St - Rabdan - Abu Dhabi - United Arab Emirates (C) Jade Restaurant (D) Du Roi Cafe & Restaurant",
+        "pid": "20",
+        "answer": "C",
+        "answer_text": "Jade Restaurant",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_577.PNG",
+        "question": "I am in Chittagong, Agrabad area. Can you suggest a good bakery near me? Options: (A) Flavors (B) Well Food (C) Tasty Treat (D) Le Bakehouse",
+        "pid": "21",
+        "answer": "A",
+        "answer_text": "Flavors",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1130.PNG",
+        "question": "I just landed at the airport, where is the closes atm booth? Options: (A) NBM Bank ATM (B) TIA (C) Diyana ATM (D) Aviation ATM",
+        "pid": "22",
+        "answer": "A",
+        "answer_text": "NBM Bank ATM",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1123.PNG",
+        "question": "Which shopping mall is closest from the Christ Revealed Worlwide? Options: (A) 74 cameron bushhouse shop 112 (B) Finches Curtains, Rods & Blinds. (C) YoPlug (D) Cameron Mall",
+        "pid": "23",
+        "answer": "C",
+        "answer_text": "YoPlug",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to the Place Guillaume II? Options: (A) Luxembourg City History Museum (B) Hämmelsmarsch statue la Wil Lofy (C) Muerbelsmillen (D) Abgeordnetenkammer",
+        "pid": "24",
+        "answer": "D",
+        "answer_text": "Abgeordnetenkammer",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_409.PNG",
+        "question": "What is the closest doctor's office to me? I am a student at Mittelschule GTS Ennsleite. Options: (A) DI Mag. DDDr. Constantin Gegenhuber (B) Diaetologie Eberharter (C) Ordination Dr. Sabine Hackl (D) Parkhotel Styria Steyr",
+        "pid": "25",
+        "answer": "C",
+        "answer_text": "Ordination Dr. Sabine Hackl",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_418.PNG",
+        "question": "I am currently at the Baseball Diamond. What is the closest pharmacy to my location? Options: (A) Paylan Yetvart Pharmaciens (B) Pharmacie Arslanian (C) Medzy (D) PJC Jean Coutu Santé",
+        "pid": "26",
+        "answer": "D",
+        "answer_text": "PJC Jean Coutu Santé",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_429.PNG",
+        "question": "What is the closest market to Barishal University? Options: (A) Kalijira Bazar (B) Talukdar Market (C) চৌমাথা বাজার (D) RANIRHAT, HAZI-MARKET",
+        "pid": "27",
+        "answer": "C",
+        "answer_text": "চৌমাথা বাজার",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1106.PNG",
+        "question": "Find a mosque with some restaurants nearby. Options: (A) Masjid Zahir (B) Masjid Mohammad Iskandar Wan Tempawan (C) Masjid Al-Irfan (D) Mashjid Al-Bukhari",
+        "pid": "28",
+        "answer": "B",
+        "answer_text": "Masjid Mohammad Iskandar Wan Tempawan",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_578.PNG",
+        "question": "I am searching the best hotel near Ramnagar, Dinajpur. Find me the best one near Ramnagar. Options: (A) Hotel Shahra (B) Hotel Happy Tree (C) Uzzal Mansion (D) Hotel Grand Noor",
+        "pid": "29",
+        "answer": "B",
+        "answer_text": "Hotel Happy Tree",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_416.PNG",
+        "question": "I am currently at Rue Peel Steps. Could you please inform me about the nearest hotel to my location? Options: (A) Sofitel Montreal Golden Mile (B) Delta Hotels by Marriott Montreal (C) Hilton Garden Inn Montreal Centre-Ville (D) Hotel Omni Mont-Royal",
+        "pid": "30",
+        "answer": "D",
+        "answer_text": "Hotel Omni Mont-Royal",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_569.PNG",
+        "question": "I am in Sylhet’s Lamabazar area and looking for a safe and well-maintained playground for my children to play .Can you suggest one nearby? Options: (A) SPI Play Ground (B) Bilpar Play Ground (C) Kolapara Playground (D) SPI Play Ground-2",
+        "pid": "31",
+        "answer": "B",
+        "answer_text": "Bilpar Play Ground",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_404.PNG",
+        "question": "I  am currently a student at American Academy School, and my friend is not feeling well. Can you suggest a nearby hospital for them? Options: (A) Al Thumama Stadium (B) Workers Health Center Mesaimeer - Qatar Red Crescent (C) Aman Hospital (D) Al Thumama Health Center",
+        "pid": "32",
+        "answer": "D",
+        "answer_text": "Al Thumama Health Center",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1116.PNG",
+        "question": "Which hotel is nearest the A101 super market? Options: (A) Melrose Viewpoint Hotel (B) Beyaz Kale Pansiyon (C) Aspawa Hotel (D) The Cotton House",
+        "pid": "33",
+        "answer": "D",
+        "answer_text": "The Cotton House",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_430.PNG",
+        "question": "At the Phai Sali (Dai Tan) Intersection bridge, what is the nearest temple to my location? Options: (A) Wat Pa Siriwattanawisuth (B) Wat Ban Khao Hin Kling (C) Wat Khok Makham Ngam (D) Wat Sa Thale",
+        "pid": "34",
+        "answer": "D",
+        "answer_text": "Wat Sa Thale",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1107.PNG",
+        "question": "I want to visit Bergen Havn in the morning, which nearest Hotel I should stay for convenience? Options: (A) Radisson Blu Royal Hotel (B) Thon Hotel Orion (C) Hotel Bergen (D) Comfort Hotel Bergen",
+        "pid": "35",
+        "answer": "D",
+        "answer_text": "Comfort Hotel Bergen",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1114.PNG",
+        "question": "I want to visit Pringle bay beach, which hotel should be nearby for me? Options: (A) The Crowded House (B) Hilton House (C) The Mermaids Tail (D) Gecko House Accomodation",
+        "pid": "36",
+        "answer": "C",
+        "answer_text": "The Mermaids Tail",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_413.PNG",
+        "question": "I am employed at the Burlington. What are the closest educational institutions near my workplace? Options: (A) Fordham Preparatory School (B) Academy of Mount St. Ursula (C) Fordham University (D) Bronx Community College",
+        "pid": "37",
+        "answer": "C",
+        "answer_text": "Fordham University",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_572.PNG",
+        "question": "I am in Cox’s Bazar, Kolatoli Beach. Can you suggest a tourist spot nearby? Options: (A) Cox's Bazar Sea Beach (B) Sayman point, Kolatoli, Coxsbazar (C) Darianagar Sea View Park (D) Laboni Point Sea Beach",
+        "pid": "38",
+        "answer": "C",
+        "answer_text": "Darianagar Sea View Park",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1119.PNG",
+        "question": "Which hotel is closest to Witte de Withstraat? Options: (A) de Boeg (B) Leuvehaven (C) The Usual Rotterdam (D) Museum Boijmans Van Beuningen",
+        "pid": "39",
+        "answer": "C",
+        "answer_text": "The Usual Rotterdam",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_589.PNG",
+        "question": "I’ve recently joined Bangladesh Parjatan Corporation. I’m looking for the best restaurant near me for dinner, which I usually have at 3 AM. Can you suggest a good option? Options: (A) Mollah hotel & restaurant (B) শেখ রেশমার ভাতের হোটেল (C) Snigdha Hotel & Restaurant (D) Sunmoon Kitchen & Restaurant",
+        "pid": "40",
+        "answer": "A",
+        "answer_text": "Mollah hotel & restaurant",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to the bridge? Options: (A) Luxembourg City History Museum (B) Nationalmusée um Fëschmaart (C) Muerbelsmillen (D) Archaeological Crypt",
+        "pid": "41",
+        "answer": "D",
+        "answer_text": "Archaeological Crypt",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_434.PNG",
+        "question": "I'm at Al Gharrafa Air-Conditioned Park. Could you tell me which hospital is closest to my location? Options: (A) Al Hazm (B) Al-Ahli Hospital (C) AlMahmoud Medical Center (D) Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي",
+        "pid": "42",
+        "answer": "D",
+        "answer_text": "Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from Lushai Heritage Village Options: (A) Machang Nak Resort Sajek Valley (B) Honeymoon Cottage (C) Sajek Hill View Resort (D) Meghpunji Resort, Sajek",
+        "pid": "43",
+        "answer": "B",
+        "answer_text": "Honeymoon Cottage",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1103.PNG",
+        "question": "Which school is nearest the calle 40 and calle 39? Options: (A) Unitropico (B) SENA (C) Yopal Casanare (D) Papelaria Yopal",
+        "pid": "44",
+        "answer": "A",
+        "answer_text": "Unitropico",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1118.PNG",
+        "question": "Which hotel is closest to Juba airport? Options: (A) Riviera Hotel (B) Yam Hotel (C) Hotel Panorama Plaza Juba (D) Nile Fortune Hotel",
+        "pid": "45",
+        "answer": "B",
+        "answer_text": "Yam Hotel",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_422.PNG",
+        "question": "What is the closest tourist attraction near the river? Options: (A) Cleopatra's Needle\" 'The National Gallery (B) The Courtauld Gallery (C) London Transport Museum (D) ",
+        "pid": "46",
+        "answer": "A",
+        "answer_text": "Cleopatra's Needle\" 'The National Gallery",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_406.PNG",
+        "question": "I am currently at Green Road Government Staff Quarter. and my uncle getting brain stock .what hospital are near to me Options: (A) BRB Hospitals (B) Bangladesh Colorectal and Gastroenterology Centre (C) Square Hospital (D) Green Life Medical College Hospital",
+        "pid": "47",
+        "answer": "D",
+        "answer_text": "Green Life Medical College Hospital",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_408.PNG",
+        "question": "What is the nearest any Museum from Qatar Flagpole ? Options: (A) Car Museum (B) Sheikh Abdulla bin Jassim Al-Thani Palace (C) National Museum of Qatar Playgrounds (D) National Museum of Qatar",
+        "pid": "48",
+        "answer": "A",
+        "answer_text": "Car Museum",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_423.PNG",
+        "question": "What is the nearest hotel to Biam Model School & College Rajshahi? Options: (A) Parjatan Motel, Rajshahi (B) Hotel X Rajshahi (C) Grand River View Hotel (D) Circuit house Rajshahi",
+        "pid": "49",
+        "answer": "C",
+        "answer_text": "Grand River View Hotel",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_418.PNG",
+        "question": "I am currently at the BCentre de transport STM Legendre. What is the closest pharmacy to my location? Options: (A) Paylan Yetvart Pharmaciens (B) Pharmacie Arslanian (C) Medzy (D) PJC Jean Coutu Santé",
+        "pid": "50",
+        "answer": "C",
+        "answer_text": "Medzy",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1004.PNG",
+        "question": "I'm at New World Beijing Hotel. Could you tell me which tourist attraction is closest to my location? Options: (A) Beijing tourism hub (B) Zhengyang Bridge (C) Zhengyangmen (D) Wangfujing Pedestrian Street",
+        "pid": "51",
+        "answer": "A",
+        "answer_text": "Beijing tourism hub",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_420.PNG",
+        "question": "\"I am currently at  Bibliothèque Germaine-Guèvremont. What is the closest coffee shop or restaurant to my location? Options: (A) Cora Breakfast and Lunch (B) Taglio di Roma (C) Tim Hortons (D) McDonald’s",
+        "pid": "52",
+        "answer": "D",
+        "answer_text": "McDonald’s",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_407.PNG",
+        "question": " I am in the car, and my current location is Ras Abu Abboud Expressway. I want to go to the airport. Which airport is nearest to me? Options: (A) Doha International Airport (DIA) (B) Hamad International Airport (C) VFS Global Visa Application Centres (D) The Orchard",
+        "pid": "53",
+        "answer": "B",
+        "answer_text": "Hamad International Airport",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1125.PNG",
+        "question": "Which parks are nearest to the tourists attarctions? Options: (A) 해군회관 (B) 남구실내빙상장. (C) 오륙도 해맞이공원 (D) 자연이주는 밥상",
+        "pid": "54",
+        "answer": "C",
+        "answer_text": "오륙도 해맞이공원",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting  Mount Royal Park . Could you please inform me about the nearby historical landmark? Options: (A) Circle Stone (B) secret pool (C) Maison William Caldwell Cottingham (D) Poste de cavalerie du Service de police de la Ville de Montréal",
+        "pid": "55",
+        "answer": "A",
+        "answer_text": "Circle Stone",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_409.PNG",
+        "question": "What is the closest hotel to me? I am a student at Mittelschule GTS Ennsleite. Options: (A) DI Mag. DDDr. Constantin Gegenhuber (B) Diaetologie Eberharter (C) Ordination Dr. Sabine Hackl (D) Parkhotel Styria Steyr",
+        "pid": "56",
+        "answer": "C",
+        "answer_text": "Ordination Dr. Sabine Hackl",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_403.PNG",
+        "question": "I live on Al Hikma St. in Doha. Can you recommend the nearest 4-star hotel? Options: (A) The Royal Riviera Hotel Qatar (B) فندق هورايزون مانور (C) Best Western Plus Doha (D) Shaza Doha",
+        "pid": "57",
+        "answer": "B",
+        "answer_text": "فندق هورايزون مانور",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1114.PNG",
+        "question": "Which restaurant is closest to the green area? Options: (A) Lemon+Lime Deli (B) Hook Line & Srinker (C) The Mermaids Tail (D) Lynette Morris-Hale",
+        "pid": "58",
+        "answer": "B",
+        "answer_text": "Hook Line & Srinker",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_425.PNG",
+        "question": "Can you inform me about the nearest tourist attraction from my current location? I am a student at La Dante Alighieri Luxembourg. Options: (A) 1Citadel of the Holy Spirit (B) Wenzel photopoint (C) Fontaine aux colombes (D) Vestiges du Fort Verlorenkost",
+        "pid": "59",
+        "answer": "C",
+        "answer_text": "Fontaine aux colombes",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_573.PNG",
+        "question": "I am in Bogura, Satmatha area. Where is the nearest bookstore? Options: (A) বিসমিল্লাহ মেডিকেল বুক হাউস (B) Bogura Online Book Shop (C) Book Center (D) Peace Park",
+        "pid": "60",
+        "answer": "B",
+        "answer_text": "Bogura Online Book Shop",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_401.PNG",
+        "question": "\"I stayed at Cortland Village Apartment Homes. Can you recommend the nearest restaurant to my location?\" Options: (A) Copper River Restaurant & Bar (B) BJ's Restaurant & Brewhouse (C) Mr. Bento Burger (D) Best Buy in Town Landscape Supply",
+        "pid": "61",
+        "answer": "C",
+        "answer_text": "Mr. Bento Burger",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1110.PNG",
+        "question": "Whats the nearest school from Hotel Mokotów? Options: (A) Przedszkole nr 228 (B) Przedszkole No. 199 (C) Przedszkole nr 170 (D) Jordanowski Park II",
+        "pid": "62",
+        "answer": "B",
+        "answer_text": "Przedszkole No. 199",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1122.PNG",
+        "question": "Which is the closest shopping mall from Unidad Cultural y Deportiva Azquil and El Polvorin? Options: (A) Neto Santa Maria 9058 (B) Ofertas S y H (C) Tlapalería Don Chava (D) EPOEM",
+        "pid": "63",
+        "answer": "A",
+        "answer_text": "Neto Santa Maria 9058",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_512.PNG",
+        "question": "As a doctor at Kontum Hospital and a Christian, I attend church every noon. Given that I stay near Bệnh Xá Phong Đắk Kia, I am looking for a church that is conveniently located nearby. Options: (A) TRUNG TÂM HÀNH CHÍNH TỈNH KON TUM (B) Nhà Thờ Giáo Xứ Đắk Kia (C) CHÙA HOA NGHIÊM (D) Nhà Thờ Kon Rơ Bang",
+        "pid": "64",
+        "answer": "D",
+        "answer_text": "Nhà Thờ Kon Rơ Bang",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_425.PNG",
+        "question": "Could you please tell me the closest tourist attraction to my current location? I work at Home Services Lux SARL Options: (A) Fontaine aux colombes (B) Wenzel photopoint (C) Citadel of the Holy Spirit (D) Vestiges du Fort Verlorenkost",
+        "pid": "65",
+        "answer": "A",
+        "answer_text": "Fontaine aux colombes",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_430.PNG",
+        "question": "what is the nearest temple to my location? Options: (A) Wat Pa Siriwattanawisuth (B) Wat Ban Khao Hin Kling (C) Wat Khok Makham Ngam (D) Wat Sa Thale",
+        "pid": "66",
+        "answer": "B",
+        "answer_text": "Wat Ban Khao Hin Kling",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1110.PNG",
+        "question": "Whats the nearest restaurant of Marzanny? Options: (A) Karachi Restaurant (B) Restauracja Locale (C) Mountain Cafe (D) Bezownia",
+        "pid": "67",
+        "answer": "B",
+        "answer_text": "Restauracja Locale",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting Maison William Caldwell Cottingham. Could you please inform me about the nearby educational institutions? Options: (A) McGill University - Faculty of Medicine (B) McIntyre Medical Science Building - Lower Entrance (C) Cimetière Notre-Dame des neiges (D) Poste de cavalerie du Service de police de la Ville de Montréal",
+        "pid": "68",
+        "answer": "B",
+        "answer_text": "McIntyre Medical Science Building - Lower Entrance",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1113.PNG",
+        "question": "Which is the closest Hotel from Rudolfinum? Options: (A) Mala Strana (B) The Julius Prague (C) Mandarin Oriental (D) Escape",
+        "pid": "69",
+        "answer": "C",
+        "answer_text": "Mandarin Oriental",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_576.PNG",
+        "question": "I recently moved to the Uttara area in Dhaka, and I need to find a mosque close to Sector 4 for daily prayers. Can you help me locate the nearest one? Options: (A) Riazul Jannah Jame Mosjid (B) Uttara 1No. Sector Jame Mosque (C) RAK Tower Jame Mosque (D) Uttara 4 Sector Jame Masjid",
+        "pid": "70",
+        "answer": "D",
+        "answer_text": "Uttara 4 Sector Jame Masjid",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_428.PNG",
+        "question": "What is the closest mosque  to the bridge? Options: (A) Kaya Bazar Jame Mosque (B) গোমা বাজার জামে মসজিদ (C) আল-কাদরীয়া জামে মসজিদ (D) কাঠিপাড়া",
+        "pid": "71",
+        "answer": "B",
+        "answer_text": "গোমা বাজার জামে মসজিদ",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_420.PNG",
+        "question": "\"I am currently at  Centre Duvernay. What is the closest coffee shop or restaurant to my location? Options: (A) Cora Breakfast and Lunch (B) Taglio di Roma (C) Tutti Frutti déjeuner et diner (D) Tim Hortons",
+        "pid": "72",
+        "answer": "A",
+        "answer_text": "Cora Breakfast and Lunch",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1131.PNG",
+        "question": "Whats the closes shoipping mall from the hospital? Options: (A) Gymnase Alice Milliat (B) Lidl (C) Franpix (D) Espace Langevin",
+        "pid": "73",
+        "answer": "B",
+        "answer_text": "Lidl",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1117.PNG",
+        "question": "Which restaurant or club is near a parking? Options: (A) Nick's Food Design\" 'Cigges Club (B) Juhana Herttuan kellari (C) Café Poiju (D) ",
+        "pid": "74",
+        "answer": "B",
+        "answer_text": "Juhana Herttuan kellari",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_421.PNG",
+        "question": "I  am presently at Cleopatra's Needle. I need to cross the river to get to Royal Festival Hall. What is the nearest bridge to my location? Options: (A) Hungerford Bridge and Golden Jubilee Bridges (B) Waterloo Bridge (C) Blackfriars Bridge (D) National Theatre",
+        "pid": "75",
+        "answer": "B",
+        "answer_text": "Waterloo Bridge",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1109.PNG",
+        "question": "Which café is nearest to the Bridge across the river and nirvana inn? Options: (A) Hotel Seasons (B) Brioche Cafe (C) Mountain Cafe (D) Biriyani House and Thali",
+        "pid": "76",
+        "answer": "A",
+        "answer_text": "Hotel Seasons",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from Sajek Valley International Park? Options: (A) Machang Nak Resort Sajek Valley (B) Honeymoon Cottage (C) Sajek Hill View Resort (D) Meghpunji Resort, Sajek",
+        "pid": "77",
+        "answer": "B",
+        "answer_text": "Honeymoon Cottage",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_431.PNG",
+        "question": "i am at Abu Dhabi Golf Club, A - Khalifa City - Abu Dhabi - United Arab Emirates .What is the nearest restaurant to my location? Options: (A) Mado Al Qana Restaurant,CF4V+4CM - Rabdan - المَقطَع - Abu Dhabi - United Arab Emirates (B) Oii Restaurant & Cafe, Al Maqta' St - Rabdan - Abu Dhabi - United Arab Emirates (C) Jade Restaurant (D) Du Roi Cafe & Restaurant",
+        "pid": "78",
+        "answer": "D",
+        "answer_text": "Du Roi Cafe & Restaurant",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_401.PNG",
+        "question": "\"I stayed at SpringHill Suites by Marriott Portland Hillsboro. Can you recommend the nearest restaurant to my location?\" Options: (A) Copper River Restaurant & Bar' \"BJ's Restaurant & Brewhouse\" 'Mr. Bento Burger (B) Best Buy in Town Landscape Supply (C)  (D) ",
+        "pid": "79",
+        "answer": "A",
+        "answer_text": "Copper River Restaurant & Bar' \"BJ's Restaurant & Brewhouse\" 'Mr. Bento Burger",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1108.PNG",
+        "question": "Whats the nearest Metro station from the river? Options: (A) Oktogon (B) Opera (C) Kossuth (D) Szabadság tér",
+        "pid": "80",
+        "answer": "C",
+        "answer_text": "Kossuth",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_405.PNG",
+        "question": "\"I am currently employed at Al Hiba Pharmacy, and it's evening. I would like to go for a cup of tea. Can you recommend the nearest restaurant to my workplace? Options: (A) Bab Al Mandi Restaurant (B) مطعم هل الدار (C) Tea Time Karthiyath (D) Grand Hypermarket",
+        "pid": "81",
+        "answer": "C",
+        "answer_text": "Tea Time Karthiyath",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_402.PNG",
+        "question": " \"I'm a student at McMenamins Kennedy School and I'm looking for the nearest park. Any suggestions?\" Options: (A) Irving Park (B) Wilshire Park (C) Rose City Golf Course (D) Luuwit View Park",
+        "pid": "82",
+        "answer": "B",
+        "answer_text": "Wilshire Park",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1126.PNG",
+        "question": "I willl be visiting Piscine Miami, which hotel should I stay in? Options: (A) THALASSO HOTEL & Spa (B) Four Seasons Hotel Casablanca (C) Plage Lalla Meryem (D) Casablanca",
+        "pid": "83",
+        "answer": "A",
+        "answer_text": "THALASSO HOTEL & Spa",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1115.PNG",
+        "question": "Which meuseum is closest to a tourist attraction and a theatre? Options: (A) Beaux-Arts Mons (B) Belfry of Mons (C) Salle Saint-Georges (D) Musée du Doudou",
+        "pid": "84",
+        "answer": "C",
+        "answer_text": "Salle Saint-Georges",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to theNeumünster Abbey? Options: (A) Luxembourg City History Museum (B) Nationalmusée um Fëschmaart (C) Hämmelsmarsch statue la Wil Lofy (D) Muerbelsmillen",
+        "pid": "85",
+        "answer": "A",
+        "answer_text": "Luxembourg City History Museum",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1004.PNG",
+        "question": "I'm at Imperial Ancestral Temple. Could you tell me which tourist attraction is closest to my location? Options: (A) Beijing tourism hub (B) Zhengyang Bridge (C) Zhengyangmen (D) Duanmen",
+        "pid": "86",
+        "answer": "D",
+        "answer_text": "Duanmen",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_412.PNG",
+        "question": "I reside in Jaipur. What are the nearest educational institutions to my location? Options: (A) Adamas University (B) Delhi World Public School - Barasat (C) Barasat College (D) Brainware University",
+        "pid": "87",
+        "answer": "D",
+        "answer_text": "Brainware University",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_1102.PNG",
+        "question": "Which restaurant is nearest Fodklinikken Herning hospital and Uhrskov Vinhandel? Options: (A) Møllegrillen Herning (B) Brasseriet (C) FællesBo (D) Herning Kirke",
+        "pid": "88",
+        "answer": "A",
+        "answer_text": "Møllegrillen Herning",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_411.PNG",
+        "question": "My current location is Patuli Jheel Park.What are the nearest hospital from my current location? Options: (A) Ruby General Hospital (B) Narayana Hospital - RN Tagore Hospital, Mukundapur (C) Narayana Hospital, Chunavati (D) Peerless Hospital",
+        "pid": "89",
+        "answer": "D",
+        "answer_text": "Peerless Hospital",
+        "category": "nearby"
+    },
+    {
+        "image": "Vdata/ID_433.PNG",
+        "question": "i am at KHORKHORI COMPLAIN CENTER.What is the nearest mosque to my location? Options: (A) Kalumaria Mosque (B) Al Ihsan Jame Mosque (C) Komlapur Jame Masjid (D) Mollikpur mosque",
+        "pid": "90",
+        "answer": "A",
+        "answer_text": "Kalumaria Mosque",
+        "category": "nearby"
+    }
+]

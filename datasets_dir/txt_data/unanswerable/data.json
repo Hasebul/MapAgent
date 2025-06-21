@@ -1,0 +1,162 @@
+[
+    {
+        "image": null,
+        "question": "Is there any publicly accessible lake around Nørreport where people can arrange a program? A.Udekørende fysioterapi v/Elie Poulsen B.Haveskriver C.Christian Liljedahl D.Madsen Jørgen Lund",
+        "pid": "0",
+        "answer": "E",
+        "answer_text": "Madsen Jørgen Lund",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "Find a good path for a morning walk that avoids busy areas from Kifisia. A.Via Mark. Mpotsari  B.Via Leof. Kifisias C.Via Sokratous D.",
+        "pid": "1",
+        "answer": "E",
+        "answer_text": "",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "Where is the first gas station on my way from Grünerløkka to Karl Johans gate? A.Esso B.SHELL SINSEN C.YX Truck Filipstad D.Uno-X",
+        "pid": "2",
+        "answer": "E",
+        "answer_text": "Uno-X",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I'm in Lisbon and craving seafood. Which restaurant nearby is considered the best for fresh seafood? A. Fogo e chão  B.Real colherdepau de Lisboa | Lisbon C.combine your business  D.Estoril",
+        "pid": "3",
+        "answer": "E",
+        "answer_text": "Estoril",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I'm in Bashundhara, Dhaka and my car is having issues. Can you recommend a reputable car mechanic near me A.S.R Auto Electronics Engineering Workshop B.Dhaka Auto Vulcanizeing Workshop ঢাকা অটো ভলকানাইজিং ওয়াকসপ C.Johirul Bike Servicing  D.CAR HEAVEN Workshop Vehicle Repair Shop",
+        "pid": "4",
+        "answer": "E",
+        "answer_text": "CAR HEAVEN Workshop Vehicle Repair Shop",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I'm in Seoul and enjoy playing at casinos. Where's the best nearby casino? A. PARADISE Co., Ltd. B.Paradise City C.Paradise City Incheon Casino Poker Room D.WEZBET ",
+        "pid": "5",
+        "answer": "E",
+        "answer_text": "WEZBET ",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I am currently at Begum Rokeya University in Rangpur. Can you help me find the nearest mosque where I can go for my prayers? A.জলকরিয়া কেন্দ্রীয় জামে মসজিদ  B.কারমাইকেল কলেজ মসজিদ C.Salbon Jame Mosque D.তালুক হাবু বাইতুস সালাম জামে মসজিদ",
+        "pid": "6",
+        "answer": "E",
+        "answer_text": "তালুক হাবু বাইতুস সালাম জামে মসজিদ",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "Which road should I follow from Wola to Mokotów to avoid flooded roads in heavy rains? A.Via al. Prymasa Tysiąclecia B.Via DK79 C.Via al. Niepodległości D.",
+        "pid": "7",
+        "answer": "E",
+        "answer_text": "",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "Today is Sunday. At tomorrow 3 pm I will leave my house. I need to go to Military Museum to visit with friends for 2 hours and Multiplan Center to buy a keyboard (which will take 20 minutes) and Sonali Bank, BUET to receive my check book (which will take 30 minutes). Schedule my day If I visit the places in this order: First Military Museum, then Multiplan Center, then Sonali bank and then come back home. I will use public transport. A.Military Museum (3:00 PM) -> Multiplan Center (3:40 PM) -> Sonali Bank (4:30 PM) -> Home (5:20 PM) B.Military Museum (3:35 PM) -> Multiplan Center (3:50 PM) -> Sonali Bank (4:30 PM) -> Home (5:15 PM) C.Military Museum (3:35 PM) -> Multiplan Center (4:20 PM) -> Sonali Bank (5:45 PM) -> Home (8.10 PM) D.Military Museum (3:05 PM) -> Multiplan Center (5:18 PM) -> Sonali Bank (5:45 PM) -> Home (6:31 PM)",
+        "pid": "8",
+        "answer": "E",
+        "answer_text": "Military Museum (3:05 PM) -> Multiplan Center (5:18 PM) -> Sonali Bank (5:45 PM) -> Home (6:31 PM)",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "Find a driving route from Old Town to Letná Park that includes a car repair shop. A.Truck - Components s.r.o. B.Brzdy Baumrukr S.r.o. C.Pneuzone S.r.o. D.Rameder Tažné zařízení",
+        "pid": "9",
+        "answer": "E",
+        "answer_text": "Rameder Tažné zařízení",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "How many food stalls are there north of the overbridge at Hakaniemi? A.Petitra Oy B.Mäkinen Mika Petteri C.Espresso House Hakaniemi D.Hakaniemen Hallin Kukka",
+        "pid": "10",
+        "answer": "E",
+        "answer_text": "Hakaniemen Hallin Kukka",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "What is the best time to go to Gamla Stan from Södermalm? I want to avoid traffic. A.5:00 AM - 7:00 AM B.8:00 PM - 11:00 PM C.2:00 PM - 3:00 PM D.10:00 AM - 11:00 AM",
+        "pid": "11",
+        "answer": "E",
+        "answer_text": "10:00 AM - 11:00 AM",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "What is the most beautiful route from Buda Castle to Heroes' Square for a tourist? A.Via Rákóczi út B.Via Andrássy út C.Via Margit körút D.",
+        "pid": "12",
+        "answer": "E",
+        "answer_text": "",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I am in Sylhet’s Ambarkhana area and I need to catch a bus to Dhaka. Can you guide me to the nearest bus terminal? A.Dighirpar Bus Stand B.Shikpur Bus station C.Airport Road Bus Stop D.Sukrobari Bazar Bus Stan",
+        "pid": "13",
+        "answer": "E",
+        "answer_text": "Sukrobari Bazar Bus Stan",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I need to catch a bus and I'm near Rajshahi University. Can you tell me where the nearest bus stop is? A.Gatelock Bus Terminal-2 B.Rajshahi Bus Stand ,amnura C.Rajshahi Bus Terminal ,Vadra. D.Nawabganj Bypass Bus Stand",
+        "pid": "14",
+        "answer": "E",
+        "answer_text": "Nawabganj Bypass Bus Stand",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "Find a good coffee shop on the left side of my driving path from my home near Petaling Jaya to my office in Kuala Lumpur. A.Dareia Coffee B.Gwaku Coffee C.The Lemon Tree D.Coffeeloca",
+        "pid": "15",
+        "answer": "E",
+        "answer_text": "Coffeeloca",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I am currently at Dublin Castle. Find a nearby atm which is at north of the castle. A.AIB ATM Dame Street B.AIB ATM C.Spar ATM D.ATM inside Temple Bar",
+        "pid": "16",
+        "answer": "E",
+        "answer_text": "ATM inside Temple Bar",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I am going from Menteng to Kebayoran Baru by car. Find a good coffee shop based on rating on the left side of the road. A.Riau pekanbaru B.BERASA COFFEE C.Mega Cikini Coffee Shop D.Warung Kopi 72",
+        "pid": "17",
+        "answer": "E",
+        "answer_text": "Warung Kopi 72",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I'm in Cairo and want to explore Egyptian artifacts. Which museum nearby is considered the best for this? A.Lama Temple B.Great Wall of Badaling C.The National Museum of Egyptian Civilization D.Tiananmen",
+        "pid": "18",
+        "answer": "E",
+        "answer_text": "Tiananmen",
+        "category": "unanswerable"
+    },
+    {
+        "image": null,
+        "question": "I'm in Bangkok and want to visit some tourist attractions. Which nearby attractions are the most renowned? A.Devasthan (Brahmin Shrines) B.Mahakan Fort C.Rattanakosin Exhibition Hall D.Roongroj Tour",
+        "pid": "19",
+        "answer": "E",
+        "answer_text": "Roongroj Tour",
+        "category": "unanswerable"
+    }
+]

@@ -1,0 +1,666 @@
+[
+    {
+        "image": null,
+        "question": "I'm at Khansa Market and feeling really hungry. Where can I get something to eat quickly? A.Shawarma Juha B.Souq Al-Lail Al-Qadim Restaurant C.Kfteraa Cham Shawarma Arabic on coal  D.Torch Restaurant",
+        "pid": "0",
+        "answer": "D",
+        "answer_text": "Torch Restaurant",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Louvre Museum. What is the nearest restaurant? A.Bistrot Benoit B.Starbucks Louvre C. Le Comptoir du Louvre D.Comptoir Denon & Richelieu",
+        "pid": "1",
+        "answer": "B",
+        "answer_text": "Starbucks Louvre",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the nearest park to the Tower of London? A.Tower Bridge Piazza - 362 Tower Hill B.Wakefield Gardens - Tower Hill, London C.Trinity Square Gardens - Tower Hill Station, 38 Trinity Square D.Seething Lane Garden - Seething Lane",
+        "pid": "2",
+        "answer": "A",
+        "answer_text": "Tower Bridge Piazza - 362 Tower Hill",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with at least 4.5 rating and stays open at 9:15 AM on Tuesday. A.McDonald's B.Wimpy C.New York Fries D.Neat Burger",
+        "pid": "3",
+        "answer": "C",
+        "answer_text": "New York Fries",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the second nearest park to the Tower of London? A.Seething Lane Garden - Seething Lane B.Tower Bridge Piazza - 362 Tower Hill C.Trinity Square Gardens - Tower Hill Station, 38 Trinity Square D.Wakefield Gardens - Tower Hill, London",
+        "pid": "4",
+        "answer": "C",
+        "answer_text": "Trinity Square Gardens - Tower Hill Station, 38 Trinity Square",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the nearest library to the Frida Kahlo Museum in Mexico City, Mexico? A.Apoyo al Desarrollo de Archivos y Bibliotecas de Mexico B.Library Ignacio Ramirez C.Biblioteca Francisco Zarco D.Biblioteca Eusebio F. Kino del Instituto Libre de Filosofía y Ciencia, A. C.",
+        "pid": "5",
+        "answer": "D",
+        "answer_text": "Biblioteca Eusebio F. Kino del Instituto Libre de Filosofía y Ciencia, A. C.",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Dubai Mall. Suggest a nearby moderately priced restaurant with a rating of at least 4.5 that is open at 9:00 AM on Thursday. A.McDonald's B.Nando's Dubai Mall C.Bikanervala Dubai Mall D.The GrillShack",
+        "pid": "6",
+        "answer": "B",
+        "answer_text": "Nando's Dubai Mall",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at JA The Resort Golf Course. What is the nearest parking to me? A.Gurjant wali parking  B.Al Hesah St Parking C.Jebel parking D.Guest Parking Area",
+        "pid": "7",
+        "answer": "C",
+        "answer_text": "Jebel parking",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the 2nd nearest park to Marina Bay Sands in Singapore? A.Fullerton Promenade - 1 Fullerton Rd B.Silver Gardens - 18 Marina Gardens Dr C.Merlion - Singapore D.Gardens by the Bay - 18 Marina Gardens Dr",
+        "pid": "8",
+        "answer": "B",
+        "answer_text": "Silver Gardens - 18 Marina Gardens Dr",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm currently at the Golden Apple Boutique Hotel. Could you help me find the nearest Stadium ? A. EAST BENGAL STADIUM B. MOHUN BAGAN STADIUM C.Netaji Indoor Stadium D.Howrah Indoor Stadium ",
+        "pid": "9",
+        "answer": "A",
+        "answer_text": " EAST BENGAL STADIUM",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I need to mail a letter and I'm in Mymensingh Town. Can you tell me where I can find the nearest post office? A.পুলিশ লাইন পোস্ট অফিস B.রাঘবপুর মাদ্রাসা ডিজিটাল পোস্ট ই-সেন্টার C.Bangladesh Agricultural University Post Office D.Mymensingh Head Post Office",
+        "pid": "10",
+        "answer": "D",
+        "answer_text": "Mymensingh Head Post Office",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with over 2000 user ratings. A.McDonald's B.New York Fries C.Wimpy D.The GrillShack",
+        "pid": "11",
+        "answer": "D",
+        "answer_text": "The GrillShack",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Sylhet and need to withdraw some cash. Can you tell me where the nearest ATM is located? A.United Commercial Bank Limited B.Trust Bank ATM C.ATM Booth IBBL D.Pubali Bank ATM",
+        "pid": "12",
+        "answer": "A",
+        "answer_text": "United Commercial Bank Limited",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Habiganj,Sylhet and need to buy a new pair of shoes. Can you suggest a reputable shoe store nearby? A.Bata Amin Shoe Store B.আয়ান-সু ষ্টোর। C.Steve Madden D.চরণতল-ChoronTOL",
+        "pid": "13",
+        "answer": "A",
+        "answer_text": "Bata Amin Shoe Store",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at JA The Resort Golf Course.What is the nearest hospital to me? A.AL SHIFA INTERNATIONAL CLINIC  B.Al Shifa International Clinicl LLC-Branch C.NMC Medical Centre JAFZA D. Emirates Field Hospital Entrance (SEHA) ",
+        "pid": "14",
+        "answer": "C",
+        "answer_text": "NMC Medical Centre JAFZA",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Toronto Zoo. Today is Sunday and it's currently 8:30 PM. How many nearby ATMs are open now? A.6 B.7 C.8 D.9",
+        "pid": "15",
+        "answer": "D",
+        "answer_text": "9",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm currently in Uttara, Dhaka, and I'm having tooth pain. Can you suggest a dentist near my location? A.Quick Dental Care B.Bangla Dental Care C.Tooth Aid Dental Zone D.Holy Dental Care",
+        "pid": "16",
+        "answer": "C",
+        "answer_text": "Tooth Aid Dental Zone",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Rangamati and need to take my pet to the vet. Can you tell me where the nearest veterinary clinic is located? A.Vet Care Plus B.Vet Care Center C.Vetlab D.Hasan Veterinary Pharmacy",
+        "pid": "17",
+        "answer": "D",
+        "answer_text": "Hasan Veterinary Pharmacy",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Narayanganj and want to work out. Can you tell me where the nearest fitness center is located? A.Nirvana Fitness Center & Swimming Pool B.X-Men Gym C.Life Style Fitness D.Fit 4 Life Gym",
+        "pid": "18",
+        "answer": "C",
+        "answer_text": "Life Style Fitness",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm currently at the Golden Apple Boutique Hotel. Could you help me find the nearest zoo? A.Marble Palace Zoo B. Alipur zoo C.Alipore Zoo Aquarium D. Bird Walk ",
+        "pid": "19",
+        "answer": "A",
+        "answer_text": "Marble Palace Zoo",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Rajbari and need to buy some tools for home improvement. Can you recommend a good hardware store in the area? A.মিতু মেশিনারিজ এন্ড সেনেটারি B.Shaba Hardware Store & Electronics C.সওদাগর হার্ডওয়্যার D.",
+        "pid": "20",
+        "answer": "C",
+        "answer_text": "সওদাগর হার্ডওয়্যার",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Sirajganj and need to buy some medicine. Can you tell me where the nearest pharmacy is? A.Orin Pharmacy B.Unique Pharma-Model Pharmacy C.Sajeeb Medicine Center D.Gulf Pharmacy",
+        "pid": "21",
+        "answer": "C",
+        "answer_text": "Sajeeb Medicine Center",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the second nearest grocery store to the Colosseum in Rome, Italy? A.Urbana 47 B.RoYaL Art Cafè  C.Hostaria Al Gladiatore D.La Cicala E La Formica",
+        "pid": "22",
+        "answer": "C",
+        "answer_text": "Hostaria Al Gladiatore",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Dubai Mall. Suggest a nearby moderate restaurant with over 2100 user ratings. A.McDonald's B.Nando's Dubai Mall C.Bikanervala Dubai Mall D.The GrillShack",
+        "pid": "23",
+        "answer": "D",
+        "answer_text": "The GrillShack",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Duck Lake,what is the nearest mosque to me? A.Hamad Bin Jassim Bin Jaber Bin Mohamed Al Thani Mosque - Mosque, Via, Doha B.The Pearl Mosque - Masjid C.Inside small Grand Hyatt Mosque - 9GGH+Q3H, Doha D.The Golden Masjid - 9G6G+9M2, Doha",
+        "pid": "24",
+        "answer": "B",
+        "answer_text": "The Pearl Mosque - Masjid",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the nearest park to Marina Bay Sands in Singapore? A.Gardens by the Bay - 18 Marina Gardens Drive B.Merlion Park - 1 Fullerton Road C.Marina Bay Sands Garden Park D.Esplanade Park - Along Connaught Drive",
+        "pid": "25",
+        "answer": "C",
+        "answer_text": "Marina Bay Sands Garden Park",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants have at least 4.5 ratings and 500 total user ratings? A.0 B.1 C.2 D.3",
+        "pid": "26",
+        "answer": "B",
+        "answer_text": "1",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Dubai Mall. Suggest a nearby moderate restaurant with at least 4.6 rating. A.McDonald's B.Nando's Dubai Mall C.Bikanervala Dubai Mall D.The GrillShack",
+        "pid": "27",
+        "answer": "D",
+        "answer_text": "The GrillShack",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Parliament Hill. How many  nearby restaurants are closed on Sunday? A.6 B.7 C.8 D.9",
+        "pid": "28",
+        "answer": "C",
+        "answer_text": "8",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many cafés are there within a 600 m radius of the Sacré-Cœur Basilica in Paris, France? A.13 B.14 C.15 D.16",
+        "pid": "29",
+        "answer": "C",
+        "answer_text": "15",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with at least 4.8 rating. A.McDonald's B.Wimpy C.New York Fries D.The GrillShack",
+        "pid": "30",
+        "answer": "B",
+        "answer_text": "Wimpy",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "Which museum is inside 500 m radius of Gyeongbokgung Palace in Seoul? A.National Museum of Korea B.War Memorial of Korea C.Bukchon Traditional Culture Center D.National Palace Museum of Korea",
+        "pid": "31",
+        "answer": "D",
+        "answer_text": "National Palace Museum of Korea",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the nearest museum to Gyeongbokgung Palace in Seoul, South Korea? A.National Museum of Korea B.National Palace Museum of Korea C.War Memorial of Korea D.Bukchon Traditional Culture Center",
+        "pid": "32",
+        "answer": "B",
+        "answer_text": "National Palace Museum of Korea",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I’m staying at the Sheraton Mexico City Maria Isabel Hotel. Can you tell me where the nearest café is? A.Amorino B. Boudega C.Tortas, sándwiches y bagels de la calle D. Pasión Café",
+        "pid": "33",
+        "answer": "A",
+        "answer_text": "Amorino",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the second nearest temple to the Taj Mahal in Agra, India? A.Prachin Shree Laxminarayan ji B.Hanuman Mandir C.Shree Shanidev Mandir D.Dande wala baba ka mandir ",
+        "pid": "34",
+        "answer": "C",
+        "answer_text": "Shree Shanidev Mandir",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm currently in Vancouver and interested in outdoor activities. What is the nearest park or nature reserve in this area ? A.Portal Park B.Robson Square C.Bentall Centre Courtyard D.Rainbow Park",
+        "pid": "35",
+        "answer": "B",
+        "answer_text": "Robson Square",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "\"I'm in Kushtia and want to buy some fresh bread and pastries. Can you suggest a good bakery in the area? A.Mariyam cake house B.Pizza and Pastry C.Bonolota Sweets & Bakery D.Shishir Bakery",
+        "pid": "36",
+        "answer": "D",
+        "answer_text": "Shishir Bakery",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am currently at Begum Rokeya University in Rangpur. Can you help me find the nearest hindu_temple where I can go for my prayers? A.Shiv Mandir B.ISKCON Tajhat Temple - শ্রী শ্রী রাধাগোপীনাথ জিউ মন্দির  C. Dimla Kali Temple D.Shree Shree Maa Kali Temple",
+        "pid": "37",
+        "answer": "D",
+        "answer_text": "Shree Shree Maa Kali Temple",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. List the nearby moderately priced restaurant with at least 4.1 rating. A.Uno Mustachio, European Delight B.Churrasco Of The St Lawrence, Yianni's Kitchen C.Market Street Catch, Buster's Sea Cove - St. Lawrence Market D.European Delight, Big Pita",
+        "pid": "38",
+        "answer": "C",
+        "answer_text": "Market Street Catch, Buster's Sea Cove - St. Lawrence Market",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "Which of the following restaurants is located on Level 2 of the Dubai Mall food court? A.Nando's Dubai Mall B.Bikanervala Dubai Mall C.McDonald's D.The GrillShack",
+        "pid": "39",
+        "answer": "C",
+        "answer_text": "McDonald's",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I will visit St. Lawrence Market on Monday. List the nearby restaurants that I will find open? A.Market Street Catch, Paddington's Pump, Crepe It Up,  Quik Sushi B.Quik Sushi, Bindia Indian Bistro, A&W Canada, Dnister Ukrainian Store C.A&W Canada, European Delight, Big Pita, Bar St. Lo, Manotas Organics, Spanish & Latin Foods D.Market Street Catch, A&W Canada, Quik Sushi, Big Pita, Pizza Pizza",
+        "pid": "40",
+        "answer": "D",
+        "answer_text": "Market Street Catch, A&W Canada, Quik Sushi, Big Pita, Pizza Pizza",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm staying at the Golden Apple Boutique Hotel. Could you help me locate the nearest tourist attraction? A. Lenin's Statue  B.Smaranika Tram Museum C.Indian Museum D.St. Thomas Church (C.N.I.)",
+        "pid": "41",
+        "answer": "D",
+        "answer_text": "St. Thomas Church (C.N.I.)",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm at Camping Ettelbruck. Which university is closest to me? A.Lycée Ermesinde Mersch (LEM)  B.Université du Luxembourg C.Huberty Martine D.Seck Pierre",
+        "pid": "42",
+        "answer": "A",
+        "answer_text": "Lycée Ermesinde Mersch (LEM) ",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "List the nearby ATMs of Toronto Zoo that are open 24 hours. A.RBC Royal Bank ATM, TD Canada Trust Branch and ATM, Localcoin Bitcoin ATM - Happy Mart B.CIBC ATM, Meridian Credit Union ATM, President's Choice Financial Pavilion and ATM C.TD Canada Trust ATM, Scotiabank, TD Canada Trust ATM, CoinFlip Bitcoin ATM D.RBC Royal Bank ATM, CIBC ATM, TD Canada Trust ATM, Shell",
+        "pid": "43",
+        "answer": "D",
+        "answer_text": "RBC Royal Bank ATM, CIBC ATM, TD Canada Trust ATM, Shell",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many restaurants are there within 500 meters of the Colosseum in Rome? A.5 B.6 C.7 D.8",
+        "pid": "44",
+        "answer": "C",
+        "answer_text": "7",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "i am at Washington Square Park, Washington Square, New York, NY 10012, United States. A.Staley-Wise Gallery | 100 Crosby Street #305, New York B.The Climate Museum | 105 Wooster Street, New York C. Dr. Bernard Heller Museum | 1 West 4th Street, New York D.Tibet House | 22 West 15th Street, New York",
+        "pid": "45",
+        "answer": "C",
+        "answer_text": " Dr. Bernard Heller Museum | 1 West 4th Street, New York",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Thakurgaon and want to buy some fresh bread and pastries. Can you tell me where the nearest bakery is located? A.Sazz's Cake B.Tasty Treat C.Tan'z Bakery D.মুক্তা বেকারী এন্ড সুইটস্ ",
+        "pid": "46",
+        "answer": "D",
+        "answer_text": "মুক্তা বেকারী এন্ড সুইটস্ ",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants have ratings at least 4.5? A.4 B.6 C.7 D.5",
+        "pid": "47",
+        "answer": "D",
+        "answer_text": "5",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many convenience stores are there within a 400 m radius of the Tokyo Tower? A.0 B.1 C.2 D.3",
+        "pid": "48",
+        "answer": "B",
+        "answer_text": "1",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many museums are there inside 500 m radius of Gyeongbokgung Palace in Seoul? A.1 B.2 C.3 D.4",
+        "pid": "49",
+        "answer": "A",
+        "answer_text": "1",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Mymensingh and want to watch a movie. Can you tell me where the nearest cinema is? A.Kanan Cinema Hall B.Tulshipur Cinema Hall C.Purobi Cinema Hall D.Hol-er Mor",
+        "pid": "50",
+        "answer": "C",
+        "answer_text": "Purobi Cinema Hall",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at The University of Tokyo What is the nearest hospital to me? A.東大病院面会受付 B.東京大学医学部附属病院 管理・研究棟 C.Hosobe Clinics  D.Tanaka Acupuncture Orthopedic Clinic",
+        "pid": "51",
+        "answer": "B",
+        "answer_text": "東京大学医学部附属病院 管理・研究棟",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Zayed International Airport. What is the nearest restaurant to me? A.Shawarmanji B.Crepe Delicious  C.Capri Pizza - Masdar Park D.Grab & Fly",
+        "pid": "52",
+        "answer": "D",
+        "answer_text": "Grab & Fly",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "Which of the following bank is within 500 meters of the Pantheon in Rome? A.Banca Sella S.p.A - Piazza Poli, 38 / 41, 00187 Roma RM B.Crédit Agricole Italia - Via Pietro Cavallini, 43, 00193 Roma RM C.Deutsche Bank - Largo di Torre Argentina, 4, 00186 Roma RM D.Imprebanca S.P.A. - Piazza Benedetto Cairoli, 119, 00186 Roma RM",
+        "pid": "53",
+        "answer": "C",
+        "answer_text": "Deutsche Bank - Largo di Torre Argentina, 4, 00186 Roma RM",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at The British Museum. It is currently 6:00 PM on Tuesday. Please suggest the best nearby restaurant to eat now. Price should be moderate. A.The Pizzeria B.Museum Tavern C. The Blue Door Bistro D.Starbucks Coffee ",
+        "pid": "54",
+        "answer": "B",
+        "answer_text": "Museum Tavern",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "Which restaurant near Dubai Mall has the fewest total user ratings? A.McDonald's B.Nando's Dubai Mall C.The GrillShack D.Bikanervala Dubai Mall",
+        "pid": "55",
+        "answer": "D",
+        "answer_text": "Bikanervala Dubai Mall",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I want to travel from the Obelisco de Buenos Aires to the Caminito in La Boca by car. How much distance I need to cover if I go Via Av. Ing. Huergo and Av. Almte. Brown? A.5213 m B.6123 m C.6336 m D.6666 m",
+        "pid": "56",
+        "answer": "B",
+        "answer_text": "6123 m",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. Which of the nearby restaurants have ratings at least 4.5? A.Seafront Fish Market, Buster's Sea Cove - St. Lawrence Market, Churrasco Of The St Lawrence B.Yianni's Kitchen, Churrasco Of The St Lawrence, Market Street Catch, Uno Mustachio C.Paddington's Pump, Quik Sushi, Big Pita, A&W Canada D.Yianni's Kitchen, Bar St. Lo, Big Pita, Manotas Organics, Spanish & Latin Foods, Crepe It Up",
+        "pid": "57",
+        "answer": "D",
+        "answer_text": "Yianni's Kitchen, Bar St. Lo, Big Pita, Manotas Organics, Spanish & Latin Foods, Crepe It Up",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Feni and need to get my clothes cleaned. Can you tell me where the nearest laundry service is? A.Sufed laundry B.Auto Clean C.সুনীল লন্ড্রী এন্ড ড্রাই ক্লিনার্স D.BANDBOX",
+        "pid": "58",
+        "answer": "C",
+        "answer_text": "সুনীল লন্ড্রী এন্ড ড্রাই ক্লিনার্স",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants have at least 500 total user ratings? A.4 B.5 C.6 D.7",
+        "pid": "59",
+        "answer": "B",
+        "answer_text": "5",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm at Base Hospital Delhi Cantt. Could you help me locate the nearest Gym? A.Outdoor Gym B.GAME OF FITNESS C.The Workout Zone  D.Exclusive fit gym ",
+        "pid": "60",
+        "answer": "B",
+        "answer_text": "GAME OF FITNESS",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at The University of Tokyo  What is the nearest gas_station to me? A.ENEOS Yushima Service Station B.ENEOS Taito Chuo Service Station C.Shell  D.Eneos Akihabara Service Station",
+        "pid": "61",
+        "answer": "A",
+        "answer_text": "ENEOS Yushima Service Station",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many parks are there within a 500 m radius of the CN Tower in Toronto, Canada? A.10 B.12 C.13 D.15",
+        "pid": "62",
+        "answer": "C",
+        "answer_text": "13",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I need a haircut and I’m in Natore. Can you recommend a reputable hair salon in the area? A.Western Salon B.Orjun salun & parler C.হেয়ার কাটিং D. Evan Rony ER ",
+        "pid": "63",
+        "answer": "A",
+        "answer_text": "Western Salon",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "Which nearby restaurant of Dubai Mall has the highest rating? A.McDonald's B.The GrillShack C.Nando's Dubai Mall D.Bikanervala Dubai Mall",
+        "pid": "64",
+        "answer": "B",
+        "answer_text": "The GrillShack",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "What is the second nearest bookstore to the Sydney Opera House? A.The Invisible Tree Publications  B.Sydney Opera House Gift Shop  C.The Library Shop  D.The Library Shop ",
+        "pid": "65",
+        "answer": "A",
+        "answer_text": "The Invisible Tree Publications ",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many restaurants are there within a 500 m radius of the Sydney Harbour Bridge in Sydney? A.1 B.2 C.3 D.4",
+        "pid": "66",
+        "answer": "B",
+        "answer_text": "2",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "If I visit The Metropolitan Museum of Art on Wednesday, which nearby cafes would be closed? A.Starbucks and Matto Espresso B.American Wing Cafe and The Great Hall Balcony Cafe C.Petrie Court Café and Central Park cafe D.All cafes are open on Wednesday",
+        "pid": "67",
+        "answer": "B",
+        "answer_text": "American Wing Cafe and The Great Hall Balcony Cafe",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm at Camping Ettelbruck. Which Tourist Attraction is closest to me? A.Wasserfall  B.Panorama view over Michelau C.General Patton Museum D.Springbrunnen ",
+        "pid": "68",
+        "answer": "C",
+        "answer_text": "General Patton Museum",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "i am at JA The Resort Golf Course. What is the nearest Mosque to me? A. مسجد النور  B.MASJID AL RAHMAN JEBEL ALI C.DP World Terminal 3 Mosque D.Emirates Station Mosque",
+        "pid": "69",
+        "answer": "A",
+        "answer_text": " مسجد النور ",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Thakurgaon and need to buy flowers for an event. Can you suggest a good florist in the area? A.Aparajita Pushpa Bitaan B.মেঘলা তিথি পুষ্প কুঞ্জ ইভেন্ট ম্যানেজমেন্ট  C.Khaja Flower Shop D.Jeni Mala Badol",
+        "pid": "70",
+        "answer": "B",
+        "answer_text": "মেঘলা তিথি পুষ্প কুঞ্জ ইভেন্ট ম্যানেজমেন্ট ",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants are open on Monday? A.2 B.3 C.4 D.5",
+        "pid": "71",
+        "answer": "D",
+        "answer_text": "5",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "My home is located on Indira Road in Dhaka, Bangladesh. Best restaurant in 500m radius from my home. A.Piccadilly Restaurant B.Boishakhi Hotel And Restaurant C.Bibiyana Tehari O Biryani Ghar D.Food Fair",
+        "pid": "72",
+        "answer": "B",
+        "answer_text": "Boishakhi Hotel And Restaurant",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. Which of the nearby restaurants have at least 500 total user ratings? A.Bindia Indian Bistro, Paddington's Pump, Pizza Pizza, A&W Canada, Uno Mustachio B.Big Pita, European Delight, Yianni's Kitchen,  Market Street Catch, Bar St. Lo C.Buster's Sea Cove - St. Lawrence Market, Churrasco Of The St Lawrence, Uno Mustachio, Crepe It Up D.Buster's Sea Cove - St. Lawrence Market, Big Pita, Bindia Indian Bistro, Market Street Catch, Paddington's Pump",
+        "pid": "73",
+        "answer": "D",
+        "answer_text": "Buster's Sea Cove - St. Lawrence Market, Big Pita, Bindia Indian Bistro, Market Street Catch, Paddington's Pump",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many shopping malls are there within a 500 m radius of Berlin Cathedral? A.3 B.4 C.5 D.6",
+        "pid": "74",
+        "answer": "A",
+        "answer_text": "3",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "My office is at Agargaon ICT Tower. One of my colleagues has broken his leg accidentally. I want to take him to an orthopedic hospital near me. Suggest me an orthopedic hospital near ICT tower, Agargaon, Dhaka. A.National Institute of Traumatology and Orthopaedic Rehabilitation (NITOR) B. Mary Orthopedic General Hospital and Diagnosis Center C.Amader Hospital Ltd D.National Institute of Laboratory Medicine & Referral Center (NILMRC)",
+        "pid": "75",
+        "answer": "B",
+        "answer_text": " Mary Orthopedic General Hospital and Diagnosis Center",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "How many parks are there inside 500 m radius of Marina Bay Sands Singapore? A.5 B.6 C.7 D.8",
+        "pid": "76",
+        "answer": "A",
+        "answer_text": "5",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I'm in Comilla and need to see a dentist. Can you recommend a good dental clinic in the area?\" A.Jannat dental care B.Jahid dental C.Hazari Dental Care D.কমার্শিয়াল ষ্টোর",
+        "pid": "77",
+        "answer": "C",
+        "answer_text": "Hazari Dental Care",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at Dubai Mall. Suggest a nearby restaurant with at least 4.7 rating and over 1000 user ratings. A.Wimpy  B.New York Fries C.Noon & Kabab  D.The GrillShack",
+        "pid": "78",
+        "answer": "A",
+        "answer_text": "Wimpy ",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am currently at Begum Rokeya University in Rangpur. Can you help me find the nearest mosque where I can go for my prayers? A.দক্ষিণ হোসেনপুর জামে মসজিদ B. Begum Rokeya University Mosque  C.. Central Jame Mosque, BRUR D.Alhaj Nagar Jame Masjid",
+        "pid": "79",
+        "answer": "B",
+        "answer_text": " Begum Rokeya University Mosque ",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am staying at SUST now. I have been suffering from fever for 3 days. I want to meet a doctor nearest to campus. Suggest me a doctor near my campus A.সেবা ডায়াগনষ্টিক সেন্টার B.মোঃ হেলাল উদ্দিন C. Shuvo Madical Hall D.ডাঃ মোঃ ছমির উদ্দিন",
+        "pid": "80",
+        "answer": "B",
+        "answer_text": "মোঃ হেলাল উদ্দিন",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I am at St. Lawrence Market. How many nearby restaurants are open at 8:00 PM on Tuesday? A.4 B.5 C.6 D.7",
+        "pid": "81",
+        "answer": "C",
+        "answer_text": "6",
+        "category": "nearby"
+    },
+    {
+        "image": null,
+        "question": "I’m in Rajshahi and want to do some shopping. What is the best shopping mall in the city where I can find a variety of stores? A.Infinity MegaMall B.রাজশাহী সিটি সেন্টার C.Shopnochura Tower D.Theme Omor Plaza",
+        "pid": "82",
+        "answer": "D",
+        "answer_text": "Theme Omor Plaza",
+        "category": "nearby"
+    }
+]

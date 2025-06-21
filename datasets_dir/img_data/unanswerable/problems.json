@@ -1,0 +1,340 @@
+{
+    "1": {
+        "image_path": "Vdata/ID_909.PNG",
+        "question": "Where is the nearest airport, i am currently at Selbourne Park?",
+        "choices": [
+            "Kumalo Aerodrome",
+            "Bangkok Airport",
+            "Diplomat Chauffeur (Pvt) Ltd",
+            "Kumalo Aerobrome Terminal Building"
+        ],
+        "answer": "Kumalo Aerobrome Terminal Building",
+        "hint": "",
+        "image": "Vdata/ID_909.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "2": {
+        "image_path": "Vdata/ID_904.PNG",
+        "question": "How go go from Lan Zhou Bin He Er Tong Gong Yuan to Yunzhan Meat Store",
+        "choices": [
+            "Head west Sharp left to stay on 南环中路/建西东路/G312 Turn right onto 南环中路/建西东路/G312 Turn left toward 南环中路/建西东路/G312 Continue straight onto 兰工坪路/南环中路/G212/G248/G312 Sharp left to stay on 兰工坪路/南环中路/G212/G248/G312",
+            "Head west Turn left toward 南环中路/建西东路/G312 Turn right onto 南环中路/建西东路/G312 Sharp left to stay on 南环中路/建西东路/G312 Continue straight onto 兰工坪路/南环中路/G212/G248/G312 Sharp left to stay on 兰工坪路/南环中路/G212/G248/G312",
+            "Head west Turn left toward 南环中路/建西东路/G312 Turn right onto 南环中路/建西东路/G312 Turn left to stay on 南环中路/建西东路/G312 Turn right to stay on 南环中路/建西东路/G312 Turn left onto 武威路 Turn left to stay on 武威路 Turn left onto 晏家坪北路 Turn right Turn left",
+            "Head east Turn right toward 南环中路/建西东路/G312 Turn left onto 南环中路/建西东路/G312 Sharp right onto 晏家坪东路/G212/G248 Turn right onto 晏家坪北路 Turn left"
+        ],
+        "answer": "Head east Turn right toward 南环中路/建西东路/G312 Turn left onto 南环中路/建西东路/G312 Sharp right onto 晏家坪东路/G212/G248 Turn right onto 晏家坪北路 Turn left",
+        "hint": "",
+        "image": "Vdata/ID_904.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "3": {
+        "image_path": "Vdata/ID_913.PNG",
+        "question": "Where is the jetty?",
+        "choices": [
+            "Beside Azmeri school",
+            "Left of Anju pharma",
+            "Left of monserrat",
+            "Right to Anju pharma"
+        ],
+        "answer": "Right to Anju pharma",
+        "hint": "",
+        "image": "Vdata/ID_913.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "4": {
+        "image_path": "Vdata/ID_905.PNG",
+        "question": "Here is the best school?",
+        "choices": [
+            "FAFANG TOWN",
+            "HUAI'AN TOWN",
+            "JINSHAXIAN",
+            "JINTAXIAN"
+        ],
+        "answer": "JINTAXIAN",
+        "hint": "",
+        "image": "Vdata/ID_905.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "5": {
+        "image_path": "Vdata/ID_901.PNG",
+        "question": "I am at the kholamora ghat, where is the nearest rail station",
+        "choices": [
+            "Komlapur Rail Station",
+            "Airport Rail Station",
+            "Gazipur Rail Sation",
+            "M Monsur Ali Rail Station"
+        ],
+        "answer": "M Monsur Ali Rail Station",
+        "hint": "",
+        "image": "Vdata/ID_901.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "6": {
+        "image_path": "Vdata/ID_915.PNG",
+        "question": "I am currently at Panama Canal Museum, which is the nearest airport?",
+        "choices": [
+            "Albrook Airport",
+            "Panama Pacific International Airport",
+            "Helipuerto",
+            "Aeropuerto internacional"
+        ],
+        "answer": "Aeropuerto internacional",
+        "hint": "",
+        "image": "Vdata/ID_915.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "7": {
+        "image_path": "Vdata/ID_907.PNG",
+        "question": "Which hospital is best for kidney stone, i live in the Fourah Bay area",
+        "choices": [
+            "Ola During Children's Hospital\" \"Children's Hospital\" 'Bishop John Secondary School",
+            "Easton Hospital"
+        ],
+        "answer": "Easton Hospital",
+        "hint": "",
+        "image": "Vdata/ID_907.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "8": {
+        "image_path": "Vdata/ID_917.PNG",
+        "question": "How to get to Vektor from Автосервис Драйв Люблино?",
+        "choices": [
+            "Follow Северо-восточная Хорда to пр. Проектируемый 3723/ул. Шоссейная.  Exit from Северо-восточная Хорда Continue on ул. Шоссейная to your destination",
+            "Head northwest toward ул. Перерва Turn right toward ул. Перерва Turn left onto ул. Перерва Turn right onto пр. Графитный/ул. Перерва Continue to follow пр. Графитный Continue onto ул. Иловайская Turn right onto ул. Шоссейная Slight left Keep left Keep right Take the exit toward проезд Проектируемый 4294 Take the ramp to проезд Проектируемый 4294 Continue onto проезд Проектируемый 4294 Go through 1 roundabout Turn right Turn right Turn right Turn right Turn left Turn right",
+            "Head southwest toward ш. Каширское Take пр-т Андропова and пр. Пролетарский to ул. Кантемировская Take ул. Бехтерева to ул. Севанская Exit from ул. Севанская Take набережная Курьяновская/пр-д 4386-й Проектируемый, проезд Проектируемый 1481 and проезд Проектируемый 4294 to your destination",
+            "Head southwest Turn left Slight right Turn right"
+        ],
+        "answer": "Head southwest Turn left Slight right Turn right",
+        "hint": "",
+        "image": "Vdata/ID_917.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "9": {
+        "image_path": "Vdata/ID_908.PNG",
+        "question": "Which way should be efficient while visit from Abis bus station to KONO so that Victoria park is on the way",
+        "choices": [
+            "Head southeast on Rawdon St toward Garrison St  Slight right onto Regent Rd  Turn left at the 2nd cross street onto Regent St  Turn right onto Bambana St  Turn left onto Annie Walsh St  Turn left onto Upper Mountain Cut  Turn right onto Lawson Ln",
+            "Head southeast on Rawdon St toward Garrison St   Slight right onto Regent Rd  Turn left at the 1st cross street onto Goderich Rd   Turn right onto Bambana St   Turn left onto Annie Walsh St   Turn left onto Upper Mountain Cut   Turn right onto Lawson Ln",
+            "Head southeast on Rawdon St toward Garrison St   Turn left onto Garrison St  Slight right onto Sanni Abacha St",
+            "Head west on British Council Road toward Gloucester St  Turn right onto Gloucester St   Turn right onto Rokel St   Turn left onto Goderich Rd   Turn left onto Kissy Rd"
+        ],
+        "answer": "Head west on British Council Road toward Gloucester St   Turn right onto Gloucester St   Turn right onto Rokel St   Turn left onto Goderich Rd   Turn left onto Kissy Rd",
+        "hint": "",
+        "image": "Vdata/ID_908.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "10": {
+        "image_path": "Vdata/ID_919.PNG",
+        "question": "How much time would it take to go South African Embassy by bus from parliament house?",
+        "choices": [
+            "50 min",
+            "40 min",
+            "22 min",
+            "33 min"
+        ],
+        "answer": "33 min",
+        "hint": "",
+        "image": "Vdata/ID_919.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "11": {
+        "image_path": "Vdata/ID_910.PNG",
+        "question": "Which is the closest park to walk, i am currently at Strathcona Oil Refinery",
+        "choices": [
+            "Rossdale Water Treatment Plant",
+            "Edmonton Fire Station 21",
+            "Rossdale Linear Park",
+            "Rossdale playground"
+        ],
+        "answer": "Rossdale playground",
+        "hint": "",
+        "image": "Vdata/ID_910.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "12": {
+        "image_path": "Vdata/ID_918.PNG",
+        "question": "Which school is closed to Club Atlético Puerto Comercial?",
+        "choices": [
+            "Secondary school No. 25",
+            "PROVINCIAL SCHOOL No. 67 TOMAS ESPORA",
+            "Province of Buenos Aires SCHOOL No. 507",
+            "SCHOOL No.5 Province of Buenos Aires"
+        ],
+        "answer": "SCHOOL No.5 Province of Buenos Aires",
+        "hint": "",
+        "image": "Vdata/ID_918.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "13": {
+        "image_path": "Vdata/ID_916.PNG",
+        "question": "Which coffee shop is near Lukhmanovskiy Park?",
+        "choices": [
+            "Шашлычный дворик",
+            "Coffee Cantata",
+            "Точка Coffee",
+            "Coffee Combo"
+        ],
+        "answer": "Coffee Combo",
+        "hint": "",
+        "image": "Vdata/ID_916.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "14": {
+        "image_path": "Vdata/ID_920.PNG",
+        "question": "I am currently at Panama Canal Museum, which is the nearest airport?",
+        "choices": [
+            "Albrook Airport",
+            "Panama Pacific International Airport",
+            "Helipuerto",
+            "Aeropuerto internacional"
+        ],
+        "answer": "Aeropuerto internacional",
+        "hint": "",
+        "image": "Vdata/ID_920.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "15": {
+        "image_path": "Vdata/ID_902.PNG",
+        "question": "I have 1 hr at my hand, i am at chaoyang treatment rescue center, there is the closest cinema theatre that can be reached within my time",
+        "choices": [
+            "Regal Palace Thetre Restaurant",
+            "Dadi Cinema Fatou Yonghui Branch",
+            "曙光电影院",
+            "Dongrong International Film City"
+        ],
+        "answer": "Dongrong International Film City",
+        "hint": "",
+        "image": "Vdata/ID_902.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "16": {
+        "image_path": "Vdata/ID_903.PNG",
+        "question": "Which one is the cricket stadium?",
+        "choices": [
+            "CHENGUANGCUN",
+            "Mirpur Stadium",
+            "Ounong Modeling",
+            "Sujia Hewan"
+        ],
+        "answer": "Sujia Hewan",
+        "hint": "",
+        "image": "Vdata/ID_903.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "17": {
+        "image_path": "Vdata/ID_912.PNG",
+        "question": "Which school is closed to Club Atlético Puerto Comercial?",
+        "choices": [
+            "Secondary school No. 25",
+            "PROVINCIAL SCHOOL No. 67 TOMAS ESPORA",
+            "Province of Buenos Aires SCHOOL No. 507",
+            "SCHOOL No.5 Province of Buenos Aires"
+        ],
+        "answer": "SCHOOL No.5 Province of Buenos Aires",
+        "hint": "",
+        "image": "Vdata/ID_912.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "18": {
+        "image_path": "Vdata/ID_914.PNG",
+        "question": "How nuch time it would take to go to Igreja Nossa Senhora Da Conceição do Coroadinho - Matriz?",
+        "choices": [
+            "1hr",
+            "2 hr",
+            "5 hr",
+            "4 hr"
+        ],
+        "answer": "4 hr",
+        "hint": "",
+        "image": "Vdata/ID_914.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "19": {
+        "image_path": "Vdata/ID_906.PNG",
+        "question": "Where is the nearest hospital?",
+        "choices": [
+            "Beilin District Xicheng Yiyang Service Office",
+            "Renhe Comprehensive Department",
+            "Suihua Zhuanwachang Health Clinic",
+            "Zhangyunpeng Clinic"
+        ],
+        "answer": "Zhangyunpeng Clinic",
+        "hint": "",
+        "image": "Vdata/ID_906.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    },
+    "20": {
+        "image_path": "Vdata/ID_911.PNG",
+        "question": "Where can i get vegeterian food and mexican food?",
+        "choices": [
+            "Malón",
+            "Coiron Restaurant",
+            "Promofiesta Norte",
+            "285 Restaurant & Bar"
+        ],
+        "answer": "285 Restaurant & Bar",
+        "hint": "",
+        "image": "Vdata/ID_911.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "unanswerable"
+    }
+}

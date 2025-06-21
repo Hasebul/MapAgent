@@ -1,0 +1,162 @@
+[
+    {
+        "image": "Vdata/ID_909.PNG",
+        "question": "Where is the nearest airport, i am currently at Selbourne Park? Options: (A) Kumalo Aerodrome (B) Bangkok Airport (C) Diplomat Chauffeur (Pvt) Ltd (D) Kumalo Aerobrome Terminal Building",
+        "pid": "0",
+        "answer": "D",
+        "answer_text": "Kumalo Aerobrome Terminal Building",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_904.PNG",
+        "question": "How go go from Lan Zhou Bin He Er Tong Gong Yuan to Yunzhan Meat Store Options: (A) Head west Sharp left to stay on 南环中路/建西东路/G312 Turn right onto 南环中路/建西东路/G312 Turn left toward 南环中路/建西东路/G312 Continue straight onto 兰工坪路/南环中路/G212/G248/G312 Sharp left to stay on 兰工坪路/南环中路/G212/G248/G312 (B) Head west Turn left toward 南环中路/建西东路/G312 Turn right onto 南环中路/建西东路/G312 Sharp left to stay on 南环中路/建西东路/G312 Continue straight onto 兰工坪路/南环中路/G212/G248/G312 Sharp left to stay on 兰工坪路/南环中路/G212/G248/G312 (C) Head west Turn left toward 南环中路/建西东路/G312 Turn right onto 南环中路/建西东路/G312 Turn left to stay on 南环中路/建西东路/G312 Turn right to stay on 南环中路/建西东路/G312 Turn left onto 武威路 Turn left to stay on 武威路 Turn left onto 晏家坪北路 Turn right Turn left (D) Head east Turn right toward 南环中路/建西东路/G312 Turn left onto 南环中路/建西东路/G312 Sharp right onto 晏家坪东路/G212/G248 Turn right onto 晏家坪北路 Turn left",
+        "pid": "1",
+        "answer": "D",
+        "answer_text": "Head east Turn right toward 南环中路/建西东路/G312 Turn left onto 南环中路/建西东路/G312 Sharp right onto 晏家坪东路/G212/G248 Turn right onto 晏家坪北路 Turn left",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_913.PNG",
+        "question": "Where is the jetty? Options: (A) Beside Azmeri school (B) Left of Anju pharma (C) Left of monserrat (D) Right to Anju pharma",
+        "pid": "2",
+        "answer": "D",
+        "answer_text": "Right to Anju pharma",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_905.PNG",
+        "question": "Here is the best school? Options: (A) FAFANG TOWN (B) HUAI'AN TOWN (C) JINSHAXIAN (D) JINTAXIAN",
+        "pid": "3",
+        "answer": "D",
+        "answer_text": "JINTAXIAN",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_901.PNG",
+        "question": "I am at the kholamora ghat, where is the nearest rail station Options: (A) Komlapur Rail Station (B) Airport Rail Station (C) Gazipur Rail Sation (D) M Monsur Ali Rail Station",
+        "pid": "4",
+        "answer": "D",
+        "answer_text": "M Monsur Ali Rail Station",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_915.PNG",
+        "question": "I am currently at Panama Canal Museum, which is the nearest airport? Options: (A) Albrook Airport (B) Panama Pacific International Airport (C) Helipuerto (D) Aeropuerto internacional",
+        "pid": "5",
+        "answer": "D",
+        "answer_text": "Aeropuerto internacional",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_907.PNG",
+        "question": "Which hospital is best for kidney stone, i live in the Fourah Bay area Options: (A) Ola During Children's Hospital\" \"Children's Hospital\" 'Bishop John Secondary School (B) Easton Hospital (C)  (D) ",
+        "pid": "6",
+        "answer": "B",
+        "answer_text": "Easton Hospital",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_917.PNG",
+        "question": "How to get to Vektor from Автосервис Драйв Люблино? Options: (A) Follow Северо-восточная Хорда to пр. Проектируемый 3723/ул. Шоссейная.  Exit from Северо-восточная Хорда Continue on ул. Шоссейная to your destination (B) Head northwest toward ул. Перерва Turn right toward ул. Перерва Turn left onto ул. Перерва Turn right onto пр. Графитный/ул. Перерва Continue to follow пр. Графитный Continue onto ул. Иловайская Turn right onto ул. Шоссейная Slight left Keep left Keep right Take the exit toward проезд Проектируемый 4294 Take the ramp to проезд Проектируемый 4294 Continue onto проезд Проектируемый 4294 Go through 1 roundabout Turn right Turn right Turn right Turn right Turn left Turn right (C) Head southwest toward ш. Каширское Take пр-т Андропова and пр. Пролетарский to ул. Кантемировская Take ул. Бехтерева to ул. Севанская Exit from ул. Севанская Take набережная Курьяновская/пр-д 4386-й Проектируемый, проезд Проектируемый 1481 and проезд Проектируемый 4294 to your destination (D) Head southwest Turn left Slight right Turn right",
+        "pid": "7",
+        "answer": "D",
+        "answer_text": "Head southwest Turn left Slight right Turn right",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_908.PNG",
+        "question": "Which way should be efficient while visit from Abis bus station to KONO so that Victoria park is on the way Options: (A) Head southeast on Rawdon St toward Garrison St  Slight right onto Regent Rd  Turn left at the 2nd cross street onto Regent St  Turn right onto Bambana St  Turn left onto Annie Walsh St  Turn left onto Upper Mountain Cut  Turn right onto Lawson Ln (B) Head southeast on Rawdon St toward Garrison St   Slight right onto Regent Rd  Turn left at the 1st cross street onto Goderich Rd   Turn right onto Bambana St   Turn left onto Annie Walsh St   Turn left onto Upper Mountain Cut   Turn right onto Lawson Ln (C) Head southeast on Rawdon St toward Garrison St   Turn left onto Garrison St  Slight right onto Sanni Abacha St (D) Head west on British Council Road toward Gloucester St  Turn right onto Gloucester St   Turn right onto Rokel St   Turn left onto Goderich Rd   Turn left onto Kissy Rd",
+        "pid": "8",
+        "answer": "E",
+        "answer_text": "Head west on British Council Road toward Gloucester St   Turn right onto Gloucester St   Turn right onto Rokel St   Turn left onto Goderich Rd   Turn left onto Kissy Rd",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_919.PNG",
+        "question": "How much time would it take to go South African Embassy by bus from parliament house? Options: (A) 50 min (B) 40 min (C) 22 min (D) 33 min",
+        "pid": "9",
+        "answer": "D",
+        "answer_text": "33 min",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_910.PNG",
+        "question": "Which is the closest park to walk, i am currently at Strathcona Oil Refinery Options: (A) Rossdale Water Treatment Plant (B) Edmonton Fire Station 21 (C) Rossdale Linear Park (D) Rossdale playground",
+        "pid": "10",
+        "answer": "D",
+        "answer_text": "Rossdale playground",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_918.PNG",
+        "question": "Which school is closed to Club Atlético Puerto Comercial? Options: (A) Secondary school No. 25 (B) PROVINCIAL SCHOOL No. 67 TOMAS ESPORA (C) Province of Buenos Aires SCHOOL No. 507 (D) SCHOOL No.5 Province of Buenos Aires",
+        "pid": "11",
+        "answer": "D",
+        "answer_text": "SCHOOL No.5 Province of Buenos Aires",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_916.PNG",
+        "question": "Which coffee shop is near Lukhmanovskiy Park? Options: (A) Шашлычный дворик (B) Coffee Cantata (C) Точка Coffee (D) Coffee Combo",
+        "pid": "12",
+        "answer": "D",
+        "answer_text": "Coffee Combo",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_920.PNG",
+        "question": "I am currently at Panama Canal Museum, which is the nearest airport? Options: (A) Albrook Airport (B) Panama Pacific International Airport (C) Helipuerto (D) Aeropuerto internacional",
+        "pid": "13",
+        "answer": "D",
+        "answer_text": "Aeropuerto internacional",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_902.PNG",
+        "question": "I have 1 hr at my hand, i am at chaoyang treatment rescue center, there is the closest cinema theatre that can be reached within my time Options: (A) Regal Palace Thetre Restaurant (B) Dadi Cinema Fatou Yonghui Branch (C) 曙光电影院 (D) Dongrong International Film City",
+        "pid": "14",
+        "answer": "D",
+        "answer_text": "Dongrong International Film City",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_903.PNG",
+        "question": "Which one is the cricket stadium? Options: (A) CHENGUANGCUN (B) Mirpur Stadium (C) Ounong Modeling (D) Sujia Hewan",
+        "pid": "15",
+        "answer": "D",
+        "answer_text": "Sujia Hewan",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_912.PNG",
+        "question": "Which school is closed to Club Atlético Puerto Comercial? Options: (A) Secondary school No. 25 (B) PROVINCIAL SCHOOL No. 67 TOMAS ESPORA (C) Province of Buenos Aires SCHOOL No. 507 (D) SCHOOL No.5 Province of Buenos Aires",
+        "pid": "16",
+        "answer": "D",
+        "answer_text": "SCHOOL No.5 Province of Buenos Aires",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_914.PNG",
+        "question": "How nuch time it would take to go to Igreja Nossa Senhora Da Conceição do Coroadinho - Matriz? Options: (A) 1hr (B) 2 hr (C) 5 hr (D) 4 hr",
+        "pid": "17",
+        "answer": "D",
+        "answer_text": "4 hr",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_906.PNG",
+        "question": "Where is the nearest hospital? Options: (A) Beilin District Xicheng Yiyang Service Office (B) Renhe Comprehensive Department (C) Suihua Zhuanwachang Health Clinic (D) Zhangyunpeng Clinic",
+        "pid": "18",
+        "answer": "D",
+        "answer_text": "Zhangyunpeng Clinic",
+        "category": "unanswerable"
+    },
+    {
+        "image": "Vdata/ID_911.PNG",
+        "question": "Where can i get vegeterian food and mexican food? Options: (A) Malón (B) Coiron Restaurant (C) Promofiesta Norte (D) 285 Restaurant & Bar",
+        "pid": "19",
+        "answer": "D",
+        "answer_text": "285 Restaurant & Bar",
+        "category": "unanswerable"
+    }
+]

@@ -1,0 +1,1622 @@
+{
+    "1": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nGolden Era Productions(lat:33.83377319959687,long-116.98780989999999)\nJack in the Box(lat:34.0772158996043,long-118.15158199999998)\nYoshinoya(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer to Golden Era Productions, Jack in the Box or Yoshinoya? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nGolden Era Productions(lat:33.83377319959687,long-116.98780989999999)\nJack in the Box(lat:34.0772158996043,long-118.15158199999998)\nYoshinoya(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "0",
+        "answer": "Yoshinoya",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Yoshinoya"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "2": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nThe Vault(lat:34.0772158996043,long-118.15158199999998)\nRoyal Falconer(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Jack in the Box, The Vault or Royal Falconer? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nThe Vault(lat:34.0772158996043,long-118.15158199999998)\nRoyal Falconer(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "1",
+        "answer": "Royal Falconer",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Royal Falconer"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "3": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nDarby's American Cantina(lat:33.83377319959687,long-116.98780989999999)\nCircle K & Minimart(lat:34.0772158996043,long-118.15158199999998)\nBenjarong Thai Cuisine(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Darby's American Cantina, Circle K & Minimart or Benjarong Thai Cuisine? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nDarby's American Cantina(lat:33.83377319959687,long-116.98780989999999)\nCircle K & Minimart(lat:34.0772158996043,long-118.15158199999998)\nBenjarong Thai Cuisine(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "2",
+        "answer": "Benjarong Thai Cuisine",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Benjarong Thai Cuisine"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "4": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nMyung GA Tofu and Korean BBQ(lat:33.83377319959687,long-116.98780989999999)\nParty House Restaurant(lat:34.0772158996043,long-118.15158199999998)\nPho Ha Vietnamese Restaurant(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Myung GA Tofu and Korean BBQ, Party House Restaurant or Pho Ha Vietnamese Restaurant? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nMyung GA Tofu and Korean BBQ(lat:33.83377319959687,long-116.98780989999999)\nParty House Restaurant(lat:34.0772158996043,long-118.15158199999998)\nPho Ha Vietnamese Restaurant(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "3",
+        "answer": "Pho Ha Vietnamese Restaurant",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Pho Ha Vietnamese Restaurant"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "5": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nḾU(lat:33.83377319959687,long-116.98780989999999)\nOcean Pho(lat:34.0772158996043,long-118.15158199999998)\nArco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer to ḾU, Ocean Pho or Arco? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nḾU(lat:33.83377319959687,long-116.98780989999999)\nOcean Pho(lat:34.0772158996043,long-118.15158199999998)\nArco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "4",
+        "answer": "Arco",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Arco"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "6": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nTaylor's Cocktail Lounge(lat:33.83377319959687,long-116.98780989999999)\nBoiler Room(lat:34.0772158996043,long-118.15158199999998)\nBalboa Island Ferry(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Taylor's Cocktail Lounge, Boiler Room or Balboa Island Ferry? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nTaylor's Cocktail Lounge(lat:33.83377319959687,long-116.98780989999999)\nBoiler Room(lat:34.0772158996043,long-118.15158199999998)\nBalboa Island Ferry(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "5",
+        "answer": "Balboa Island Ferry",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Balboa Island Ferry"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "7": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBalboa Island Ferry(lat:33.83377319959687,long-116.98780989999999)\nYMCA of the Foothills(lat:34.0772158996043,long-118.15158199999998)\nLot D(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Balboa Island Ferry, YMCA of the Foothills or Lot D? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBalboa Island Ferry(lat:33.83377319959687,long-116.98780989999999)\nYMCA of the Foothills(lat:34.0772158996043,long-118.15158199999998)\nLot D(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "6",
+        "answer": "Lot D",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Lot D"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "8": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nOutdoor Theatre(lat:33.83377319959687,long-116.98780989999999)\nRamona Bowl(lat:34.0772158996043,long-118.15158199999998)\nCamp Irwin Owen(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Outdoor Theatre, Ramona Bowl or Camp Irwin Owen? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nOutdoor Theatre(lat:33.83377319959687,long-116.98780989999999)\nRamona Bowl(lat:34.0772158996043,long-118.15158199999998)\nCamp Irwin Owen(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "7",
+        "answer": "Camp Irwin Owen",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Camp Irwin Owen"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "9": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nWellington Heights(lat:33.83377319959687,long-116.98780989999999)\nLaguna Hills Mobile Home Estates(lat:34.0772158996043,long-118.15158199999998)\nChevron(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer to Wellington Heights, Laguna Hills Mobile Home Estates or Chevron? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nWellington Heights(lat:33.83377319959687,long-116.98780989999999)\nLaguna Hills Mobile Home Estates(lat:34.0772158996043,long-118.15158199999998)\nChevron(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "8",
+        "answer": "Chevron",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Chevron"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "10": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAquinas High School(lat:33.83377319959687,long-116.98780989999999)\nWestchester-Loyola Village Branch Library(lat:34.0772158996043,long-118.15158199999998)\nWells Fargo(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Aquinas High School, Westchester-Loyola Village Branch Library or Wells Fargo? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAquinas High School(lat:33.83377319959687,long-116.98780989999999)\nWestchester-Loyola Village Branch Library(lat:34.0772158996043,long-118.15158199999998)\nWells Fargo(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "9",
+        "answer": "Wells Fargo",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Wells Fargo"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "11": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nThe Abbey(lat:33.83377319959687,long-116.98780989999999)\nPho Dakao(lat:34.0772158996043,long-118.15158199999998)\nCVS Pharmacy(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to The Abbey, Pho Dakao or CVS Pharmacy? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nThe Abbey(lat:33.83377319959687,long-116.98780989999999)\nPho Dakao(lat:34.0772158996043,long-118.15158199999998)\nCVS Pharmacy(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "10",
+        "answer": "CVS Pharmacy",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "CVS Pharmacy"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "12": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nWells Fargo(lat:33.83377319959687,long-116.98780989999999)\nCity Of San Gabriel Police Department(lat:34.0772158996043,long-118.15158199999998)\nChevron(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Wells Fargo, City Of San Gabriel Police Department or Chevron? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nWells Fargo(lat:33.83377319959687,long-116.98780989999999)\nCity Of San Gabriel Police Department(lat:34.0772158996043,long-118.15158199999998)\nChevron(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "11",
+        "answer": "Chevron",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Chevron"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "13": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nChipotle(lat:33.83377319959687,long-116.98780989999999)\nCongregation Beth Israel(lat:34.0772158996043,long-118.15158199999998)\nLeucadia(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Chipotle, Congregation Beth Israel or Leucadia? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nChipotle(lat:33.83377319959687,long-116.98780989999999)\nCongregation Beth Israel(lat:34.0772158996043,long-118.15158199999998)\nLeucadia(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "12",
+        "answer": "Leucadia",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Leucadia"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "14": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nSubarashi(lat:33.83377319959687,long-116.98780989999999)\nWorld(lat:34.0772158996043,long-118.15158199999998)\nShell(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Subarashi, World or Shell? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nSubarashi(lat:33.83377319959687,long-116.98780989999999)\nWorld(lat:34.0772158996043,long-118.15158199999998)\nShell(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "13",
+        "answer": "Shell",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Shell"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "15": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nMobil(lat:33.83377319959687,long-116.98780989999999)\nThai Time III(lat:34.0772158996043,long-118.15158199999998)\nTapioca Express(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Mobil, Thai Time III or Tapioca Express? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nMobil(lat:33.83377319959687,long-116.98780989999999)\nThai Time III(lat:34.0772158996043,long-118.15158199999998)\nTapioca Express(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "14",
+        "answer": "Tapioca Express",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Tapioca Express"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "16": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nRite Aid(lat:33.83377319959687,long-116.98780989999999)\nCarl's Jr. / The Green Burrito(lat:34.0772158996043,long-118.15158199999998)\nClairemont Auto Care(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Rite Aid, Carl's Jr. / The Green Burrito or Clairemont Auto Care? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nRite Aid(lat:33.83377319959687,long-116.98780989999999)\nCarl's Jr. / The Green Burrito(lat:34.0772158996043,long-118.15158199999998)\nClairemont Auto Care(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "15",
+        "answer": "Clairemont Auto Care",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Clairemont Auto Care"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "17": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nSipz Fusion Cafe(lat:33.83377319959687,long-116.98780989999999)\nCalifornia Mission Inn(lat:34.0772158996043,long-118.15158199999998)\nChevron Mission Car Wash(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Sipz Fusion Cafe, California Mission Inn or Chevron Mission Car Wash? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nSipz Fusion Cafe(lat:33.83377319959687,long-116.98780989999999)\nCalifornia Mission Inn(lat:34.0772158996043,long-118.15158199999998)\nChevron Mission Car Wash(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "16",
+        "answer": "Chevron Mission Car Wash",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Chevron Mission Car Wash"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "18": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nLos Primos Mexican Food(lat:33.83377319959687,long-116.98780989999999)\nShanghai Cafe(lat:34.0772158996043,long-118.15158199999998)\nThe Daily Bagel(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Los Primos Mexican Food, Shanghai Cafe or The Daily Bagel? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nLos Primos Mexican Food(lat:33.83377319959687,long-116.98780989999999)\nShanghai Cafe(lat:34.0772158996043,long-118.15158199999998)\nThe Daily Bagel(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "17",
+        "answer": "The Daily Bagel",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "The Daily Bagel"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "19": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nYokohama Sushi(lat:33.83377319959687,long-116.98780989999999)\nBank of America(lat:34.0772158996043,long-118.15158199999998)\nCitibank(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Yokohama Sushi, Bank of America or Citibank? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nYokohama Sushi(lat:33.83377319959687,long-116.98780989999999)\nBank of America(lat:34.0772158996043,long-118.15158199999998)\nCitibank(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "18",
+        "answer": "Citibank",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Citibank"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "20": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nPete's Coffee and Tea(lat:33.83377319959687,long-116.98780989999999)\nSnooze(lat:34.0772158996043,long-118.15158199999998)\nFlying J(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer to Pete's Coffee and Tea, Snooze or Flying J? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nPete's Coffee and Tea(lat:33.83377319959687,long-116.98780989999999)\nSnooze(lat:34.0772158996043,long-118.15158199999998)\nFlying J(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "19",
+        "answer": "Flying J",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Flying J"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "21": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nHope Christian Fellowship(lat:33.83377319959687,long-116.98780989999999)\nDead Horse Trailhead(lat:34.0772158996043,long-118.15158199999998)\nArco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Hope Christian Fellowship, Dead Horse Trailhead or Arco? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nHope Christian Fellowship(lat:33.83377319959687,long-116.98780989999999)\nDead Horse Trailhead(lat:34.0772158996043,long-118.15158199999998)\nArco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "20",
+        "answer": "Arco",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Arco"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "22": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nChevron(lat:33.83377319959687,long-116.98780989999999)\nLos Angeles County Fire Department Station #23(lat:34.0772158996043,long-118.15158199999998)\nCafe 222(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Chevron, Los Angeles County Fire Department Station #23 or Cafe 222? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nChevron(lat:33.83377319959687,long-116.98780989999999)\nLos Angeles County Fire Department Station #23(lat:34.0772158996043,long-118.15158199999998)\nCafe 222(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "21",
+        "answer": "Cafe 222",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Cafe 222"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "23": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nLos Angeles County Fire Department Station #31(lat:33.83377319959687,long-116.98780989999999)\nLB Fire Station #5(lat:34.0772158996043,long-118.15158199999998)\nL B Fire Station #17(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Los Angeles County Fire Department Station #31, LB Fire Station #5 or L B Fire Station #17? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nLos Angeles County Fire Department Station #31(lat:33.83377319959687,long-116.98780989999999)\nLB Fire Station #5(lat:34.0772158996043,long-118.15158199999998)\nL B Fire Station #17(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "22",
+        "answer": "L B Fire Station #17",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "L B Fire Station #17"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "24": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nLong Beach Fire Department Station #11(lat:33.83377319959687,long-116.98780989999999)\nLong Beach Fire Department Station #6(lat:34.0772158996043,long-118.15158199999998)\nTerminal Island Fire Station(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Long Beach Fire Department Station #11, Long Beach Fire Department Station #6 or Terminal Island Fire Station? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nLong Beach Fire Department Station #11(lat:33.83377319959687,long-116.98780989999999)\nLong Beach Fire Department Station #6(lat:34.0772158996043,long-118.15158199999998)\nTerminal Island Fire Station(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "23",
+        "answer": "Terminal Island Fire Station",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Terminal Island Fire Station"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "25": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nLong Beach Fire Station #3(lat:33.83377319959687,long-116.98780989999999)\nLong Beach Fire Station #4(lat:34.0772158996043,long-118.15158199999998)\nLong Beach Fire Station #7(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Long Beach Fire Station #3, Long Beach Fire Station #4 or Long Beach Fire Station #7? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nLong Beach Fire Station #3(lat:33.83377319959687,long-116.98780989999999)\nLong Beach Fire Station #4(lat:34.0772158996043,long-118.15158199999998)\nLong Beach Fire Station #7(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "24",
+        "answer": "Long Beach Fire Station #7",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Long Beach Fire Station #7"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "26": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nLong Beach Fire Station #13(lat:33.83377319959687,long-116.98780989999999)\nLong Beach Fire Station #14(lat:34.0772158996043,long-118.15158199999998)\nLong Beach Fire Station #15(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Long Beach Fire Station #13, Long Beach Fire Station #14 or Long Beach Fire Station #15? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nLong Beach Fire Station #13(lat:33.83377319959687,long-116.98780989999999)\nLong Beach Fire Station #14(lat:34.0772158996043,long-118.15158199999998)\nLong Beach Fire Station #15(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "25",
+        "answer": "Long Beach Fire Station #15",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Long Beach Fire Station #15"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "27": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nOak View Post Office(lat:33.83377319959687,long-116.98780989999999)\nBank of America(lat:34.0772158996043,long-118.15158199999998)\nNewLife Christian Fellowship(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Oak View Post Office, Bank of America or NewLife Christian Fellowship? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nOak View Post Office(lat:33.83377319959687,long-116.98780989999999)\nBank of America(lat:34.0772158996043,long-118.15158199999998)\nNewLife Christian Fellowship(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "26",
+        "answer": "NewLife Christian Fellowship",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "NewLife Christian Fellowship"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "28": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBank of the West(lat:33.83377319959687,long-116.98780989999999)\nApplebee's(lat:34.0772158996043,long-118.15158199999998)\nRound Table Pizza(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Bank of the West, Applebee's or Round Table Pizza? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBank of the West(lat:33.83377319959687,long-116.98780989999999)\nApplebee's(lat:34.0772158996043,long-118.15158199999998)\nRound Table Pizza(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "27",
+        "answer": "Round Table Pizza",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Round Table Pizza"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "29": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nDave's Hot Chicken(lat:33.83377319959687,long-116.98780989999999)\nFuddruckers(lat:34.0772158996043,long-118.15158199999998)\nEl Torito(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Dave's Hot Chicken, Fuddruckers or El Torito? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nDave's Hot Chicken(lat:33.83377319959687,long-116.98780989999999)\nFuddruckers(lat:34.0772158996043,long-118.15158199999998)\nEl Torito(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "28",
+        "answer": "El Torito",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "El Torito"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "30": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nRed Lobster(lat:33.83377319959687,long-116.98780989999999)\nGurudwara San Diego(lat:34.0772158996043,long-118.15158199999998)\nRoberto's Taco Shop(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer to Red Lobster, Gurudwara San Diego or Roberto's Taco Shop? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nRed Lobster(lat:33.83377319959687,long-116.98780989999999)\nGurudwara San Diego(lat:34.0772158996043,long-118.15158199999998)\nRoberto's Taco Shop(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "29",
+        "answer": "Roberto's Taco Shop",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Roberto's Taco Shop"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "31": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nThe Hat(lat:34.0772158996043,long-118.15158199999998)\nStarbucks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Jack in the Box, The Hat or Starbucks? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nThe Hat(lat:34.0772158996043,long-118.15158199999998)\nStarbucks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "30",
+        "answer": "Starbucks",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Starbucks"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "32": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nYoshinoya(lat:33.83377319959687,long-116.98780989999999)\nOno Hawaiian BBQ(lat:34.0772158996043,long-118.15158199999998)\nTogo's(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Yoshinoya, Ono Hawaiian BBQ or Togo's? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nYoshinoya(lat:33.83377319959687,long-116.98780989999999)\nOno Hawaiian BBQ(lat:34.0772158996043,long-118.15158199999998)\nTogo's(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "31",
+        "answer": "Togo's",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Togo's"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "33": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBaskin-Robbins(lat:33.83377319959687,long-116.98780989999999)\nPepe's(lat:34.0772158996043,long-118.15158199999998)\nLittle Caesars(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Baskin-Robbins, Pepe's or Little Caesars? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBaskin-Robbins(lat:33.83377319959687,long-116.98780989999999)\nPepe's(lat:34.0772158996043,long-118.15158199999998)\nLittle Caesars(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "32",
+        "answer": "Little Caesars",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Little Caesars"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "34": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nRose Donuts(lat:33.83377319959687,long-116.98780989999999)\nH. Salt(lat:34.0772158996043,long-118.15158199999998)\nTaco Bell(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Rose Donuts, H. Salt or Taco Bell? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nRose Donuts(lat:33.83377319959687,long-116.98780989999999)\nH. Salt(lat:34.0772158996043,long-118.15158199999998)\nTaco Bell(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "33",
+        "answer": "Taco Bell",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Taco Bell"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "35": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nEl Pollo Loco(lat:33.83377319959687,long-116.98780989999999)\nDel Taco(lat:34.0772158996043,long-118.15158199999998)\nMamma's Brick Oven Pizza & Pasta(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to El Pollo Loco, Del Taco or Mamma's Brick Oven Pizza & Pasta? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nEl Pollo Loco(lat:33.83377319959687,long-116.98780989999999)\nDel Taco(lat:34.0772158996043,long-118.15158199999998)\nMamma's Brick Oven Pizza & Pasta(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "34",
+        "answer": "Mamma's Brick Oven Pizza & Pasta",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Mamma's Brick Oven Pizza & Pasta"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "36": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nTop's(lat:34.0772158996043,long-118.15158199999998)\nRoadhouse(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Jack in the Box, Top's or Roadhouse? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nTop's(lat:34.0772158996043,long-118.15158199999998)\nRoadhouse(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "35",
+        "answer": "Roadhouse",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Roadhouse"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "37": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nOrange Chicken(lat:33.83377319959687,long-116.98780989999999)\nShiki Seafood Buffet(lat:34.0772158996043,long-118.15158199999998)\nEl Pollo Loco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Orange Chicken, Shiki Seafood Buffet or El Pollo Loco? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nOrange Chicken(lat:33.83377319959687,long-116.98780989999999)\nShiki Seafood Buffet(lat:34.0772158996043,long-118.15158199999998)\nEl Pollo Loco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "36",
+        "answer": "El Pollo Loco",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "El Pollo Loco"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "38": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nMcDonald's(lat:33.83377319959687,long-116.98780989999999)\nCarl's Jr.(lat:34.0772158996043,long-118.15158199999998)\nEl Pollo Loco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to McDonald's, Carl's Jr. or El Pollo Loco? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nMcDonald's(lat:33.83377319959687,long-116.98780989999999)\nCarl's Jr.(lat:34.0772158996043,long-118.15158199999998)\nEl Pollo Loco(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "37",
+        "answer": "El Pollo Loco",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "El Pollo Loco"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "39": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nMcDonald's(lat:34.0772158996043,long-118.15158199999998)\nStarbucks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Jack in the Box, McDonald's or Starbucks? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nJack in the Box(lat:33.83377319959687,long-116.98780989999999)\nMcDonald's(lat:34.0772158996043,long-118.15158199999998)\nStarbucks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "38",
+        "answer": "Starbucks",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Starbucks"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "40": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nSaint Lukes Catholic Church(lat:33.83377319959687,long-116.98780989999999)\nWalgreens(lat:34.0772158996043,long-118.15158199999998)\nCVS Pharmacy(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Saint Lukes Catholic Church, Walgreens or CVS Pharmacy? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nSaint Lukes Catholic Church(lat:33.83377319959687,long-116.98780989999999)\nWalgreens(lat:34.0772158996043,long-118.15158199999998)\nCVS Pharmacy(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "39",
+        "answer": "CVS Pharmacy",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "CVS Pharmacy"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "41": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nChevron(lat:33.83377319959687,long-116.98780989999999)\nMobil(lat:34.0772158996043,long-118.15158199999998)\nChase(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Chevron, Mobil or Chase? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nChevron(lat:33.83377319959687,long-116.98780989999999)\nMobil(lat:34.0772158996043,long-118.15158199999998)\nChase(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "40",
+        "answer": "Chase",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Chase"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "42": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nKaya Japanese Seafood(lat:33.83377319959687,long-116.98780989999999)\nPetrillo's(lat:34.0772158996043,long-118.15158199999998)\n76(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to Kaya Japanese Seafood, Petrillo's or 76? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nKaya Japanese Seafood(lat:33.83377319959687,long-116.98780989999999)\nPetrillo's(lat:34.0772158996043,long-118.15158199999998)\n76(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "41",
+        "answer": "76",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "76"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "43": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nJamba(lat:33.83377319959687,long-116.98780989999999)\nArco(lat:34.0772158996043,long-118.15158199999998)\nStarbucks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Jamba, Arco or Starbucks? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nJamba(lat:33.83377319959687,long-116.98780989999999)\nArco(lat:34.0772158996043,long-118.15158199999998)\nStarbucks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "42",
+        "answer": "Starbucks",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Starbucks"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "44": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBella Italia(lat:33.83377319959687,long-116.98780989999999)\nEl Taco(lat:34.0772158996043,long-118.15158199999998)\nClearman's Galley(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Bella Italia, El Taco or Clearman's Galley? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBella Italia(lat:33.83377319959687,long-116.98780989999999)\nEl Taco(lat:34.0772158996043,long-118.15158199999998)\nClearman's Galley(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "43",
+        "answer": "Clearman's Galley",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Clearman's Galley"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "45": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nRuth's Chris Steak House(lat:33.83377319959687,long-116.98780989999999)\nSan Gabriel Union Church(lat:34.0772158996043,long-118.15158199999998)\nWells Fargo(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Ruth's Chris Steak House, San Gabriel Union Church or Wells Fargo? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nRuth's Chris Steak House(lat:33.83377319959687,long-116.98780989999999)\nSan Gabriel Union Church(lat:34.0772158996043,long-118.15158199999998)\nWells Fargo(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "44",
+        "answer": "Wells Fargo",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Wells Fargo"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "46": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBarbusa(lat:33.83377319959687,long-116.98780989999999)\nSubway(lat:34.0772158996043,long-118.15158199999998)\nSunland-Tujunga Library(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Barbusa, Subway or Sunland-Tujunga Library? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBarbusa(lat:33.83377319959687,long-116.98780989999999)\nSubway(lat:34.0772158996043,long-118.15158199999998)\nSunland-Tujunga Library(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "45",
+        "answer": "Sunland-Tujunga Library",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Sunland-Tujunga Library"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "47": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nHidden Springs Cafe (closed)(lat:33.83377319959687,long-116.98780989999999)\nMonte Cristo(lat:34.0772158996043,long-118.15158199999998)\nClear Creek Fire Station(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Hidden Springs Cafe (closed), Monte Cristo or Clear Creek Fire Station? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nHidden Springs Cafe (closed)(lat:33.83377319959687,long-116.98780989999999)\nMonte Cristo(lat:34.0772158996043,long-118.15158199999998)\nClear Creek Fire Station(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "46",
+        "answer": "Clear Creek Fire Station",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Clear Creek Fire Station"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "48": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nSaint Anthonys Church and School(lat:33.83377319959687,long-116.98780989999999)\nBaja Fresh(lat:34.0772158996043,long-118.15158199999998)\nJersey Mike's Subs(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Saint Anthonys Church and School, Baja Fresh or Jersey Mike's Subs? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nSaint Anthonys Church and School(lat:33.83377319959687,long-116.98780989999999)\nBaja Fresh(lat:34.0772158996043,long-118.15158199999998)\nJersey Mike's Subs(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "47",
+        "answer": "Jersey Mike's Subs",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Jersey Mike's Subs"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "49": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nShell(lat:33.83377319959687,long-116.98780989999999)\nTaco Bell(lat:34.0772158996043,long-118.15158199999998)\nPizza Hut(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Shell, Taco Bell or Pizza Hut? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nShell(lat:33.83377319959687,long-116.98780989999999)\nTaco Bell(lat:34.0772158996043,long-118.15158199999998)\nPizza Hut(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "48",
+        "answer": "Pizza Hut",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Pizza Hut"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "50": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nChilao(lat:33.83377319959687,long-116.98780989999999)\nBig Tujunga Station(lat:34.0772158996043,long-118.15158199999998)\nSunland-Tujunga Municipal Building(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer to Chilao, Big Tujunga Station or Sunland-Tujunga Municipal Building? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nChilao(lat:33.83377319959687,long-116.98780989999999)\nBig Tujunga Station(lat:34.0772158996043,long-118.15158199999998)\nSunland-Tujunga Municipal Building(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "49",
+        "answer": "Sunland-Tujunga Municipal Building",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Sunland-Tujunga Municipal Building"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "51": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nkingsburg kitchen(lat:33.83377319959687,long-116.98780989999999)\nPasadena First Church of the Nazarene(lat:34.0772158996043,long-118.15158199999998)\nPopeyes(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to kingsburg kitchen, Pasadena First Church of the Nazarene or Popeyes? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nkingsburg kitchen(lat:33.83377319959687,long-116.98780989999999)\nPasadena First Church of the Nazarene(lat:34.0772158996043,long-118.15158199999998)\nPopeyes(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "50",
+        "answer": "Popeyes",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Popeyes"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "52": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nPetrillos Pizza(lat:33.83377319959687,long-116.98780989999999)\nHakata Ramen(lat:34.0772158996043,long-118.15158199999998)\nMission 76(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to Petrillos Pizza, Hakata Ramen or Mission 76? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nPetrillos Pizza(lat:33.83377319959687,long-116.98780989999999)\nHakata Ramen(lat:34.0772158996043,long-118.15158199999998)\nMission 76(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "51",
+        "answer": "Mission 76",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Mission 76"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "53": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nHong Yei(lat:33.83377319959687,long-116.98780989999999)\nFillmore Branch Ventura County Library(lat:34.0772158996043,long-118.15158199999998)\nRite Aid(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to Hong Yei, Fillmore Branch Ventura County Library or Rite Aid? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nHong Yei(lat:33.83377319959687,long-116.98780989999999)\nFillmore Branch Ventura County Library(lat:34.0772158996043,long-118.15158199999998)\nRite Aid(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "52",
+        "answer": "Rite Aid",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Rite Aid"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "54": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nCircle K(lat:33.83377319959687,long-116.98780989999999)\n7-Eleven(lat:34.0772158996043,long-118.15158199999998)\nFire Department(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to Circle K, 7-Eleven or Fire Department? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nCircle K(lat:33.83377319959687,long-116.98780989999999)\n7-Eleven(lat:34.0772158996043,long-118.15158199999998)\nFire Department(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "53",
+        "answer": "Fire Department",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Fire Department"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "55": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nShell(lat:33.83377319959687,long-116.98780989999999)\nFenner Camp(lat:34.0772158996043,long-118.15158199999998)\nRock n' Fish(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Shell, Fenner Camp or Rock n' Fish? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nShell(lat:33.83377319959687,long-116.98780989999999)\nFenner Camp(lat:34.0772158996043,long-118.15158199999998)\nRock n' Fish(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "54",
+        "answer": "Rock n' Fish",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Rock n' Fish"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "56": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBig Wang's(lat:33.83377319959687,long-116.98780989999999)\nCafe Etc.(lat:34.0772158996043,long-118.15158199999998)\nBaja Fresh(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Big Wang's, Cafe Etc. or Baja Fresh? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBig Wang's(lat:33.83377319959687,long-116.98780989999999)\nCafe Etc.(lat:34.0772158996043,long-118.15158199999998)\nBaja Fresh(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "55",
+        "answer": "Baja Fresh",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Baja Fresh"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "57": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nChipotle(lat:33.83377319959687,long-116.98780989999999)\nLuscious Dumplings 潤豐元餃子(lat:34.0772158996043,long-118.15158199999998)\nJerry's Famous Deli(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Chipotle, Luscious Dumplings 潤豐元餃子 or Jerry's Famous Deli? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nChipotle(lat:33.83377319959687,long-116.98780989999999)\nLuscious Dumplings 潤豐元餃子(lat:34.0772158996043,long-118.15158199999998)\nJerry's Famous Deli(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "56",
+        "answer": "Jerry's Famous Deli",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Jerry's Famous Deli"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "58": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBossa Nova(lat:33.83377319959687,long-116.98780989999999)\nGould Mesa Trail Camp(lat:34.0772158996043,long-118.15158199999998)\nCamp Hi-Hill(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Bossa Nova, Gould Mesa Trail Camp or Camp Hi-Hill? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBossa Nova(lat:33.83377319959687,long-116.98780989999999)\nGould Mesa Trail Camp(lat:34.0772158996043,long-118.15158199999998)\nCamp Hi-Hill(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "57",
+        "answer": "Camp Hi-Hill",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Camp Hi-Hill"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "59": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nLa Jolla Presbyterian(lat:33.83377319959687,long-116.98780989999999)\nMormon Rocks(lat:34.0772158996043,long-118.15158199999998)\nDeep Creek Hot Springs(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to La Jolla Presbyterian, Mormon Rocks or Deep Creek Hot Springs? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nLa Jolla Presbyterian(lat:33.83377319959687,long-116.98780989999999)\nMormon Rocks(lat:34.0772158996043,long-118.15158199999998)\nDeep Creek Hot Springs(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "58",
+        "answer": "Deep Creek Hot Springs",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Deep Creek Hot Springs"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "60": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBeverly Hills Public Library(lat:33.83377319959687,long-116.98780989999999)\nEinstein Bros. Bagels(lat:34.0772158996043,long-118.15158199999998)\nThe Wits End(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Beverly Hills Public Library, Einstein Bros. Bagels or The Wits End? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBeverly Hills Public Library(lat:33.83377319959687,long-116.98780989999999)\nEinstein Bros. Bagels(lat:34.0772158996043,long-118.15158199999998)\nThe Wits End(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "59",
+        "answer": "The Wits End",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "The Wits End"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "61": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nThe Thai Grill(lat:33.83377319959687,long-116.98780989999999)\nBackdoor Bakery(lat:34.0772158996043,long-118.15158199999998)\nPizza Hut(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to The Thai Grill, Backdoor Bakery or Pizza Hut? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nThe Thai Grill(lat:33.83377319959687,long-116.98780989999999)\nBackdoor Bakery(lat:34.0772158996043,long-118.15158199999998)\nPizza Hut(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "60",
+        "answer": "Pizza Hut",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Pizza Hut"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "62": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nSubway(lat:33.83377319959687,long-116.98780989999999)\nChiquita's Mexican Food(lat:34.0772158996043,long-118.15158199999998)\nFlicks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to Subway, Chiquita's Mexican Food or Flicks? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nSubway(lat:33.83377319959687,long-116.98780989999999)\nChiquita's Mexican Food(lat:34.0772158996043,long-118.15158199999998)\nFlicks(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "61",
+        "answer": "Flicks",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Flicks"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "63": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nPokéz(lat:33.83377319959687,long-116.98780989999999)\nBrand Family Gravesite(lat:34.0772158996043,long-118.15158199999998)\nAcacia School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Pokéz, Brand Family Gravesite or Acacia School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nPokéz(lat:33.83377319959687,long-116.98780989999999)\nBrand Family Gravesite(lat:34.0772158996043,long-118.15158199999998)\nAcacia School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "62",
+        "answer": "Acacia School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Acacia School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "64": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nJane Addams Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAggeler High School(lat:34.0772158996043,long-118.15158199999998)\nAlamo School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Jane Addams Elementary School, Aggeler High School or Alamo School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nJane Addams Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAggeler High School(lat:34.0772158996043,long-118.15158199999998)\nAlamo School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "63",
+        "answer": "Alamo School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Alamo School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "65": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAlcott Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAldama Elementary School(lat:34.0772158996043,long-118.15158199999998)\nAliso School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Alcott Elementary School, Aldama Elementary School or Aliso School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAlcott Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAldama Elementary School(lat:34.0772158996043,long-118.15158199999998)\nAliso School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "64",
+        "answer": "Aliso School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Aliso School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "66": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAll Saints School(lat:33.83377319959687,long-116.98780989999999)\nAll Souls Catholic School(lat:34.0772158996043,long-118.15158199999998)\nAllen Avenue Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which location is closer to All Saints School, All Souls Catholic School or Allen Avenue Elementary School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAll Saints School(lat:33.83377319959687,long-116.98780989999999)\nAll Souls Catholic School(lat:34.0772158996043,long-118.15158199999998)\nAllen Avenue Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "65",
+        "answer": "Allen Avenue Elementary School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Allen Avenue Elementary School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "67": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nElla B Allen-Ann Daly Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAlpine Elementary School(lat:34.0772158996043,long-118.15158199999998)\nAlta Loma Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Ella B Allen-Ann Daly Elementary School, Alpine Elementary School or Alta Loma Elementary School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nElla B Allen-Ann Daly Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAlpine Elementary School(lat:34.0772158996043,long-118.15158199999998)\nAlta Loma Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "66",
+        "answer": "Alta Loma Elementary School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Alta Loma Elementary School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "68": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAlta School(lat:33.83377319959687,long-116.98780989999999)\nAlvarado Intermediate School(lat:34.0772158996043,long-118.15158199999998)\nAlverno Heights Academy(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Alta School, Alvarado Intermediate School or Alverno Heights Academy? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAlta School(lat:33.83377319959687,long-116.98780989999999)\nAlvarado Intermediate School(lat:34.0772158996043,long-118.15158199999998)\nAlverno Heights Academy(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "67",
+        "answer": "Alverno Heights Academy",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Alverno Heights Academy"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "69": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAlvin Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAlvord Continuation High School(lat:34.0772158996043,long-118.15158199999998)\nAmar School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Alvin Elementary School, Alvord Continuation High School or Amar School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAlvin Elementary School(lat:33.83377319959687,long-116.98780989999999)\nAlvord Continuation High School(lat:34.0772158996043,long-118.15158199999998)\nAmar School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "68",
+        "answer": "Amar School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Amar School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "70": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAmherst School(lat:33.83377319959687,long-116.98780989999999)\nWilliam Anderson Elementary School(lat:34.0772158996043,long-118.15158199999998)\nAnnunciation School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Amherst School, William Anderson Elementary School or Annunciation School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAmherst School(lat:33.83377319959687,long-116.98780989999999)\nWilliam Anderson Elementary School(lat:34.0772158996043,long-118.15158199999998)\nAnnunciation School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "69",
+        "answer": "Annunciation School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Annunciation School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "71": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAnthony School(lat:33.83377319959687,long-116.98780989999999)\nAnza School(lat:34.0772158996043,long-118.15158199999998)\nApperson Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Anthony School, Anza School or Apperson Elementary School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAnthony School(lat:33.83377319959687,long-116.98780989999999)\nAnza School(lat:34.0772158996043,long-118.15158199999998)\nApperson Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "70",
+        "answer": "Apperson Elementary School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Apperson Elementary School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "72": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAragon Avenue Elementary School(lat:33.83377319959687,long-116.98780989999999)\nArcadia Christian School(lat:34.0772158996043,long-118.15158199999998)\nArizona Middle School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is nearer to Aragon Avenue Elementary School, Arcadia Christian School or Arizona Middle School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAragon Avenue Elementary School(lat:33.83377319959687,long-116.98780989999999)\nArcadia Christian School(lat:34.0772158996043,long-118.15158199999998)\nArizona Middle School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "71",
+        "answer": "Arizona Middle School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Arizona Middle School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "73": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nArlington Heights Elementary School(lat:33.83377319959687,long-116.98780989999999)\nArminta Elementary School(lat:34.0772158996043,long-118.15158199999998)\nArroyo School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Arlington Heights Elementary School, Arminta Elementary School or Arroyo School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nArlington Heights Elementary School(lat:33.83377319959687,long-116.98780989999999)\nArminta Elementary School(lat:34.0772158996043,long-118.15158199999998)\nArroyo School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "72",
+        "answer": "Arroyo School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Arroyo School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "74": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nArt Center School(lat:33.83377319959687,long-116.98780989999999)\nArtesia School(lat:34.0772158996043,long-118.15158199999998)\nAscension School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Art Center School, Artesia School or Ascension School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nArt Center School(lat:33.83377319959687,long-116.98780989999999)\nArtesia School(lat:34.0772158996043,long-118.15158199999998)\nAscension School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "73",
+        "answer": "Ascension School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Ascension School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "75": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAscension School(lat:33.83377319959687,long-116.98780989999999)\nAssumption School(lat:34.0772158996043,long-118.15158199999998)\nAsuncion School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which one is closer to Ascension School, Assumption School or Asuncion School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAscension School(lat:33.83377319959687,long-116.98780989999999)\nAssumption School(lat:34.0772158996043,long-118.15158199999998)\nAsuncion School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "74",
+        "answer": "Asuncion School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Asuncion School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "76": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nAvenue School(lat:33.83377319959687,long-116.98780989999999)\nAzusa Pacific University(lat:34.0772158996043,long-118.15158199999998)\nBaker Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which spot is closer to Avenue School, Azusa Pacific University or Baker Elementary School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nAvenue School(lat:33.83377319959687,long-116.98780989999999)\nAzusa Pacific University(lat:34.0772158996043,long-118.15158199999998)\nBaker Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "75",
+        "answer": "Baker Elementary School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Baker Elementary School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "77": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nJenny T Baker Elementary Shcool(lat:33.83377319959687,long-116.98780989999999)\nBakersfield Junior Academy(lat:34.0772158996043,long-118.15158199999998)\nBaldwin Park Christian School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Jenny T Baker Elementary Shcool, Bakersfield Junior Academy or Baldwin Park Christian School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nJenny T Baker Elementary Shcool(lat:33.83377319959687,long-116.98780989999999)\nBakersfield Junior Academy(lat:34.0772158996043,long-118.15158199999998)\nBaldwin Park Christian School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "76",
+        "answer": "Baldwin Park Christian School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Baldwin Park Christian School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "78": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBaldwin School(lat:33.83377319959687,long-116.98780989999999)\nBaldwin Stocker Elementary School(lat:34.0772158996043,long-118.15158199999998)\nCajon Valley Union School District(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Baldwin School, Baldwin Stocker Elementary School or Cajon Valley Union School District? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBaldwin School(lat:33.83377319959687,long-116.98780989999999)\nBaldwin Stocker Elementary School(lat:34.0772158996043,long-118.15158199999998)\nCajon Valley Union School District(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "77",
+        "answer": "Cajon Valley Union School District",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Cajon Valley Union School District"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "79": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBancroft Community School(lat:33.83377319959687,long-116.98780989999999)\nBanning School(lat:34.0772158996043,long-118.15158199999998)\nBaptist Day School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which place is closer to Bancroft Community School, Banning School or Baptist Day School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBancroft Community School(lat:33.83377319959687,long-116.98780989999999)\nBanning School(lat:34.0772158996043,long-118.15158199999998)\nBaptist Day School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "78",
+        "answer": "Baptist Day School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Baptist Day School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "80": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBaptist Day School(lat:33.83377319959687,long-116.98780989999999)\nBaptist Theological Seminary(lat:34.0772158996043,long-118.15158199999998)\nBarbara Webster Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer in distance to Baptist Day School, Baptist Theological Seminary or Barbara Webster Elementary School? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBaptist Day School(lat:33.83377319959687,long-116.98780989999999)\nBaptist Theological Seminary(lat:34.0772158996043,long-118.15158199999998)\nBarbara Webster Elementary School(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "79",
+        "answer": "Barbara Webster Elementary School",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Barbara Webster Elementary School"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    },
+    "81": {
+        "image": null,
+        "context": "Following location are adjacent to each other:\nBarrett School(lat:33.83377319959687,long-116.98780989999999)\nBassett School(lat:34.0772158996043,long-118.15158199999998)\nBellflower Adult Education Center(lat:34.07621689960426,long-118.21601899999999)\n",
+        "question": "Which is closer to Barrett School, Bassett School or Bellflower Adult Education Center? All the location are inside California. In final answer pick only one location. Context: Following location are adjacent to each other:\nBarrett School(lat:33.83377319959687,long-116.98780989999999)\nBassett School(lat:34.0772158996043,long-118.15158199999998)\nBellflower Adult Education Center(lat:34.07621689960426,long-118.21601899999999)\n",
+        "pid": "80",
+        "answer": "Bellflower Adult Education Center",
+        "location": "california",
+        "category": "Geo-entity",
+        "concepts": "Comparison & Closeness",
+        "prefix": "compare-closer",
+        "type": "type_5",
+        "choices": [
+            "Bellflower Adult Education Center"
+        ],
+        "hint": "",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "type_5"
+    }
+}

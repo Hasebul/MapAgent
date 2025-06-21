@@ -1,0 +1,1498 @@
+{
+    "1": {
+        "image_path": "Vdata/ID_1125.PNG",
+        "question": "How many hiking points are there?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1125.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "2": {
+        "image_path": "Vdata/ID_1120.PNG",
+        "question": "How many restaurants or cafe are on the road Cekik - Seririt?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1120.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "3": {
+        "image_path": "Vdata/ID_1002.PNG",
+        "question": "Could you please determine the total number of universities?",
+        "choices": [
+            "Seven",
+            "Nine",
+            "Eight",
+            "Ten"
+        ],
+        "answer": "Ten",
+        "hint": "",
+        "image": "Vdata/ID_1002.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "4": {
+        "image_path": "Vdata/ID_1110.PNG",
+        "question": "How many educational institutes are there in the map?",
+        "choices": [
+            "Five",
+            "Three",
+            "Eight",
+            "None"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_1110.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "5": {
+        "image_path": "Vdata/ID_1101.PNG",
+        "question": "How many churces are visible in the lower half of the map?",
+        "choices": [
+            "Five",
+            "Two",
+            "Four",
+            "Three"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1101.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "6": {
+        "image_path": "Vdata/ID_226.PNG",
+        "question": "Could you please determine the total number of hospitals present?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_226.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "7": {
+        "image_path": "Vdata/ID_1111.PNG",
+        "question": "How many matro stations ase visible?",
+        "choices": [
+            "Five",
+            "Three",
+            "Eight",
+            "None"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1111.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "8": {
+        "image_path": "Vdata/ID_224.PNG",
+        "question": "Could you identify the symbols and textual components linked to schools, colleges, universities, or related institutions in the image? Afterwards, please tally up the total count",
+        "choices": [
+            "Ten",
+            "Nine",
+            "Eight",
+            "Seven"
+        ],
+        "answer": "Seven",
+        "hint": "",
+        "image": "Vdata/ID_224.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "9": {
+        "image_path": "Vdata/ID_1118.PNG",
+        "question": "How many hospitals are there ?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1118.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "10": {
+        "image_path": "Vdata/ID_213.PNG",
+        "question": " how many Park are there?",
+        "choices": [
+            "Nine",
+            "Fourteen",
+            "Fifteen",
+            "Sixteen"
+        ],
+        "answer": "Fourteen",
+        "hint": "",
+        "image": "Vdata/ID_213.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "11": {
+        "image_path": "Vdata/ID_610.PNG",
+        "question": "How many hotels can you count by looking at hotel or residential signs?\"",
+        "choices": [
+            "eight",
+            "Ten",
+            "Nine",
+            "four"
+        ],
+        "answer": "four",
+        "hint": "",
+        "image": "Vdata/ID_610.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "12": {
+        "image_path": "Vdata/ID_221.PNG",
+        "question": "How many symbols and text representing Hospitals can you identify in the image?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_221.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "13": {
+        "image_path": "Vdata/ID_1124.PNG",
+        "question": "How many restaurants are seen in the map?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1124.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "14": {
+        "image_path": "Vdata/ID_1121.PNG",
+        "question": "How many shopping malls are on the right side of Minskaya st?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_1121.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "15": {
+        "image_path": "Vdata/ID_1114.PNG",
+        "question": "How many hotels are there in the left bottom side of the map?",
+        "choices": [
+            "Two",
+            "Three",
+            "Five",
+            "Four"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_1114.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "16": {
+        "image_path": "Vdata/ID_224.PNG",
+        "question": "Could you identify the symbols and textual components linked to Hospitals  in the image? Afterwards, please tally up the total count",
+        "choices": [
+            "Two",
+            "One",
+            "Four",
+            "Five"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_224.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "17": {
+        "image_path": "Vdata/ID_228.PNG",
+        "question": "Could you please determine the total number of hospitals present?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_228.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "18": {
+        "image_path": "Vdata/ID_1127.PNG",
+        "question": "How many beaches are seen in the mp>",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_1127.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "19": {
+        "image_path": "Vdata/ID_1115.PNG",
+        "question": "How many UNESCO related meuseums are seen in the map?",
+        "choices": [
+            "Two",
+            "Three",
+            "Five",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1115.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "20": {
+        "image_path": "Vdata/ID_225.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "choices": [
+            "Seven",
+            "Nine",
+            "Eight",
+            "Ten"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_225.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "21": {
+        "image_path": "Vdata/ID_1112.PNG",
+        "question": "How many castle are there in the image?",
+        "choices": [
+            "Five",
+            "Two",
+            "One",
+            "Three"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1112.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "22": {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing markets can you identify in the image?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_220.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "23": {
+        "image_path": "Vdata/ID_214.PNG",
+        "question": "Based on the symbols and labels, can you identify any Public transport like bus stop,train station etc  in the image? If so, how many are there?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "four"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_214.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "24": {
+        "image_path": "Vdata/ID_218.PNG",
+        "question": " how many Masjid or madrasa are there?",
+        "choices": [
+            "One",
+            "Two",
+            "Five",
+            "Three"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_218.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "25": {
+        "image_path": "Vdata/ID_217.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "choices": [
+            "Two",
+            "Ten",
+            "Five",
+            "Three"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_217.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "26": {
+        "image_path": "Vdata/ID_1107.PNG",
+        "question": "How many churches are there in the left side of the river?",
+        "choices": [
+            "One",
+            "Two",
+            "Six",
+            "Four"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_1107.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "27": {
+        "image_path": "Vdata/ID_215.PNG",
+        "question": " how many School are there?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_215.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "28": {
+        "image_path": "Vdata/ID_1124.PNG",
+        "question": "How many theatres are seen in the map?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1124.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "29": {
+        "image_path": "Vdata/ID_1001.PNG",
+        "question": "Could you please determine the total number of parking lot?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1001.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "30": {
+        "image_path": "Vdata/ID_222.PNG",
+        "question": "How many symbols and text representing Theme Park  can you identify in the image?",
+        "choices": [
+            "Ten",
+            "Nine",
+            "Eight",
+            "Eleven"
+        ],
+        "answer": "Eight",
+        "hint": "",
+        "image": "Vdata/ID_222.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "31": {
+        "image_path": "Vdata/ID_1117.PNG",
+        "question": "How many restaurants are in the Turun Linna caste complex?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_1117.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "32": {
+        "image_path": "Vdata/ID_609.PNG",
+        "question": "Determine the number of Bangladeshi restaurants available.?",
+        "choices": [
+            "eight",
+            "Ten",
+            "Nine",
+            "one"
+        ],
+        "answer": "one",
+        "hint": "",
+        "image": "Vdata/ID_609.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "33": {
+        "image_path": "Vdata/ID_216.PNG",
+        "question": "How many green symbols are present? These symbols can vary.",
+        "choices": [
+            "Two",
+            "Three",
+            "Five",
+            "four"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_216.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "34": {
+        "image_path": "Vdata/ID_605.PNG",
+        "question": " how many Hotels are there?",
+        "choices": [
+            "eight",
+            "Ten",
+            "Nine",
+            "four"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_605.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "35": {
+        "image_path": "Vdata/ID_1132.PNG",
+        "question": "How many hotels are in the complex?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1132.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "36": {
+        "image_path": "Vdata/ID_229.PNG",
+        "question": "Could you please determine the total number of Goverment Office present?",
+        "choices": [
+            "Two",
+            "Six",
+            "Four",
+            "Five"
+        ],
+        "answer": "Six",
+        "hint": "",
+        "image": "Vdata/ID_229.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "37": {
+        "image_path": "Vdata/ID_218.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "choices": [
+            "One",
+            "Six",
+            "Five",
+            "Three"
+        ],
+        "answer": "Six",
+        "hint": "",
+        "image": "Vdata/ID_218.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "38": {
+        "image_path": "Vdata/ID_203.PNG",
+        "question": "How many parks are shown ?",
+        "choices": [
+            "two",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_203.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "39": {
+        "image_path": "Vdata/ID_212.PNG",
+        "question": "Only based on the specific features within the image such as writing indicating a park, can you identify any parks? If so, how many parks are there?",
+        "choices": [
+            "Nine",
+            "Ten",
+            "Fifteen",
+            "Eight"
+        ],
+        "answer": "Eight",
+        "hint": "",
+        "image": "Vdata/ID_212.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "40": {
+        "image_path": "Vdata/ID_1103.PNG",
+        "question": "How many schools or colleges are there in the map?",
+        "choices": [
+            "Five",
+            "Two",
+            "Four",
+            "Three"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_1103.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "41": {
+        "image_path": "Vdata/ID_1104.PNG",
+        "question": "How many pharmacies are shown in the image?",
+        "choices": [
+            "Five",
+            "Two",
+            "Four",
+            "Three"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1104.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "42": {
+        "image_path": "Vdata/ID_1108.PNG",
+        "question": "How many green lands are present in the map?",
+        "choices": [
+            "Seven",
+            "Twelve",
+            "Nine",
+            "Fifteen"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_1108.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "43": {
+        "image_path": "Vdata/ID_213.PNG",
+        "question": "Based on the symbols and labels, can you identify any Historical landmark in the image? If so, how many are there?",
+        "choices": [
+            "Five",
+            "Ten",
+            "Fifteen",
+            "four"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_213.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "44": {
+        "image_path": "Vdata/ID_204.PNG",
+        "question": "I have withdrawn money from Mercantil Bank. Now, how many transit stops are there near me?",
+        "choices": [
+            "Four",
+            "one",
+            "Five",
+            "Two"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_204.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "45": {
+        "image_path": "Vdata/ID_202.PNG",
+        "question": "Count how many FamilyMart locations are there?",
+        "choices": [
+            "four",
+            "Nine",
+            "Seven",
+            "Six"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_202.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "46": {
+        "image_path": "Vdata/ID_212.PNG",
+        "question": "Based on the symbols and labels, can you identify any Park  in the image? If so, how many are there?",
+        "choices": [
+            "Nine",
+            "Ten",
+            "Fifteen",
+            "four"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_212.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "47": {
+        "image_path": "Vdata/ID_223.PNG",
+        "question": "How many symbols and text representing  Bridge ? can you identify in the image?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_223.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "48": {
+        "image_path": "Vdata/ID_218.PNG",
+        "question": " how many Bank are there?",
+        "choices": [
+            "One",
+            "Two",
+            "Six",
+            "Three"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_218.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "49": {
+        "image_path": "Vdata/ID_1123.PNG",
+        "question": "How many stores/malls are on the right side of Cameron St?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_1123.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "50": {
+        "image_path": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Bank in the image? If so, how many are there?",
+        "choices": [
+            "Four",
+            "Six",
+            "Five",
+            "Three"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_219.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "51": {
+        "image_path": "Vdata/ID_1113.PNG",
+        "question": "How many bridges are there on Vltava river?",
+        "choices": [
+            "Five",
+            "Three",
+            "Eight",
+            "Four"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_1113.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "52": {
+        "image_path": "Vdata/ID_225.PNG",
+        "question": "Could you identify the symbols and textual components linked to Park , Historical landmark in the image? Afterwards, please tally up the total count",
+        "choices": [
+            "Seven",
+            "Nine",
+            "Eight",
+            "Ten"
+        ],
+        "answer": "Seven",
+        "hint": "",
+        "image": "Vdata/ID_225.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "53": {
+        "image_path": "Vdata/ID_209.PNG",
+        "question": "Based on the symbols and labels, can you identify any Park  in the image? If so, how many are there?",
+        "choices": [
+            "Seven",
+            "Three",
+            "Two",
+            "Six"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_209.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "54": {
+        "image_path": "Vdata/ID_208.PNG",
+        "question": "Based on the symbols and labels, can you identify any hotels in the image? If so, how many are there?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_208.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "55": {
+        "image_path": "Vdata/ID_423.PNG",
+        "question": "Count the number of hotels?",
+        "choices": [
+            "Two",
+            "Six",
+            "Four",
+            "Five"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_423.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "56": {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "Could you please determine the total number of historical landmark?",
+        "choices": [
+            "Seven",
+            "Nine",
+            "Eight",
+            "Ten"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_415.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "57": {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing stores and market can you identify in the image?",
+        "choices": [
+            "Twelve",
+            "Thirteen",
+            "Fourteen",
+            "Fifteen"
+        ],
+        "answer": "Fifteen",
+        "hint": "",
+        "image": "Vdata/ID_220.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "58": {
+        "image_path": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Shop in the image? If so, how many are there?",
+        "choices": [
+            "One",
+            "Six",
+            "Five",
+            "Three"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_219.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "59": {
+        "image_path": "Vdata/ID_207.PNG",
+        "question": "Presently I am in this hotel called Radisson Blu Water Garden Hotel, Dhaka . I am feeling very sick how many hospitals around me?",
+        "choices": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_207.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "60": {
+        "image_path": "Vdata/ID_1118.PNG",
+        "question": "How many establishments are inside airport complex?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1118.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "61": {
+        "image_path": "Vdata/ID_1122.PNG",
+        "question": "How many restaurants are seen in the map?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1122.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "62": {
+        "image_path": "Vdata/ID_1128.PNG",
+        "question": "How many stores are shown?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1128.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "63": {
+        "image_path": "Vdata/ID_217.PNG",
+        "question": "Are there any Hotels identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "choices": [
+            "Two",
+            "Ten",
+            "Five",
+            "Three"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_217.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "64": {
+        "image_path": "Vdata/ID_1119.PNG",
+        "question": "How many hotels are inside the island?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_1119.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "65": {
+        "image_path": "Vdata/ID_203.PNG",
+        "question": "How many museum are shown ?",
+        "choices": [
+            "Nne",
+            "Four",
+            "Five",
+            "Two"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_203.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "66": {
+        "image_path": "Vdata/ID_1126.PNG",
+        "question": "How many restaurants are seen in the map?",
+        "choices": [
+            "Two",
+            "Three",
+            "Five",
+            "Four"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_1126.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "67": {
+        "image_path": "Vdata/ID_1120.PNG",
+        "question": "How many tourist attarction spots are visual in the image?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1120.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "68": {
+        "image_path": "Vdata/ID_210.PNG",
+        "question": " how many mountains are there?",
+        "choices": [
+            "eight",
+            "Ten",
+            "Nine",
+            "four"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_210.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "69": {
+        "image_path": "Vdata/ID_205.PNG",
+        "question": "I'm in Ventura joyeria .How many restaurants are there near to me ?",
+        "choices": [
+            "Seven",
+            "Four",
+            "one",
+            "Ten"
+        ],
+        "answer": "Seven",
+        "hint": "",
+        "image": "Vdata/ID_205.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "70": {
+        "image_path": "Vdata/ID_227.PNG",
+        "question": "Could you please determine the total number of Museum present?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_227.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "71": {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols and text representing ATM can you identify in the image?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_220.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "72": {
+        "image_path": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Market  in the image? If so, how many are there?",
+        "choices": [
+            "One",
+            "Six",
+            "Five",
+            "Three"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_219.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "73": {
+        "image_path": "Vdata/ID_215.PNG",
+        "question": "Can you identify any mosques or madrasas in the image based on the symbols and labels? If yes, how many of them are present?",
+        "choices": [
+            "Two",
+            "Three",
+            "Five",
+            "four"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_215.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "74": {
+        "image_path": "Vdata/ID_206.PNG",
+        "question": "I live in Nommern, Luxembourg. Can you tell me the total number of grocery stores nearby?",
+        "choices": [
+            "Seven",
+            "Four",
+            "Two",
+            "Six"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_206.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "75": {
+        "image_path": "Vdata/ID_1116.PNG",
+        "question": "How many hotels are in the right half of the map?",
+        "choices": [
+            "Two",
+            "Three",
+            "Five",
+            "Four"
+        ],
+        "answer": "Five",
+        "hint": "",
+        "image": "Vdata/ID_1116.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "76": {
+        "image_path": "Vdata/ID_1109.PNG",
+        "question": "How many hotels have review below 4.5?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1109.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "77": {
+        "image_path": "Vdata/ID_217.PNG",
+        "question": "Based on the symbols and labels, can you identify any Convention center or Community center  in the image? If so, how many are there?",
+        "choices": [
+            "Two",
+            "Ten",
+            "Five",
+            "Three"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_217.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "78": {
+        "image_path": "Vdata/ID_1133.PNG",
+        "question": "How  many meseums are there?",
+        "choices": [
+            "Twelve",
+            "Fourteen",
+            "Eight",
+            "Seventeen"
+        ],
+        "answer": "Fourteen",
+        "hint": "",
+        "image": "Vdata/ID_1133.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "79": {
+        "image_path": "Vdata/ID_1102.PNG",
+        "question": "How many hospitals are there ?",
+        "choices": [
+            "Five",
+            "Two",
+            "Four",
+            "Three"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1102.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "80": {
+        "image_path": "Vdata/ID_1117.PNG",
+        "question": "How many restaurants or clubs are on the bottom side of Linnakatu road?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1117.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "81": {
+        "image_path": "Vdata/ID_1107.PNG",
+        "question": "How many hotels are there in the right side of the river?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Three",
+        "hint": "",
+        "image": "Vdata/ID_1107.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "82": {
+        "image_path": "Vdata/ID_1105.PNG",
+        "question": "How many schools are there in the map?",
+        "choices": [
+            "Five",
+            "Two",
+            "One",
+            "Three"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_1105.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "83": {
+        "image_path": "Vdata/ID_1129.PNG",
+        "question": "How many mosques are seen?",
+        "choices": [
+            "Two",
+            "Three",
+            "One",
+            "Four"
+        ],
+        "answer": "One",
+        "hint": "",
+        "image": "Vdata/ID_1129.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "84": {
+        "image_path": "Vdata/ID_1106.PNG",
+        "question": "How many mosques are there in the k367 line?",
+        "choices": [
+            "Five",
+            "Two",
+            "Six",
+            "Four"
+        ],
+        "answer": "Two",
+        "hint": "",
+        "image": "Vdata/ID_1106.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "85": {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing stores can you identify in the image?",
+        "choices": [
+            "Twelve",
+            "Thirteen",
+            "Fourteen",
+            "Fifteen"
+        ],
+        "answer": "Thirteen",
+        "hint": "",
+        "image": "Vdata/ID_220.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "86": {
+        "image_path": "Vdata/ID_201.PNG",
+        "question": "Count how many 7-Eleven locations are there?",
+        "choices": [
+            "six",
+            "Five",
+            "Seven",
+            "Nine"
+        ],
+        "answer": "Nine",
+        "hint": "",
+        "image": "Vdata/ID_201.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "87": {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "Can you spot any restaurants or coffee shops in the image based on the text, symbols, or labels? If yes, how many are there?\"",
+        "choices": [
+            "Twelve",
+            "Thirteen",
+            "Fourteen",
+            "Fifteen"
+        ],
+        "answer": "Twelve",
+        "hint": "",
+        "image": "Vdata/ID_220.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    },
+    "88": {
+        "image_path": "Vdata/ID_223.PNG",
+        "question": "How many symbols and text representing  Masque or masjid ? can you identify in the image?",
+        "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": "Four",
+        "hint": "",
+        "image": "Vdata/ID_223.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "counting"
+    }
+}

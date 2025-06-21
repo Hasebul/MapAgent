@@ -1,0 +1,1542 @@
+{
+    "1": {
+        "image_path": "Vdata/ID_433.PNG",
+        "question": "i am at সাগর ইলেকট্রিক সার্ভিস সেন্টার .What is the nearest mosque to my location?",
+        "choices": [
+            "Kalumaria Mosque",
+            "Al Ihsan Jame Mosque",
+            "Komlapur Jame Masjid",
+            "Mollikpur mosque"
+        ],
+        "answer": "Al Ihsan Jame Mosque",
+        "hint": "",
+        "image": "Vdata/ID_433.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "2": {
+        "image_path": "Vdata/ID_1105.PNG",
+        "question": "What is the nearest resting house from sparkling Pure Water Factory?",
+        "choices": [
+            "Cole Street Guesthouse",
+            "Comfort Lodge",
+            "Seabird Water Taxi",
+            "Ambi Travelers Lounge"
+        ],
+        "answer": "Comfort Lodge",
+        "hint": "",
+        "image": "Vdata/ID_1105.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "3": {
+        "image_path": "Vdata/ID_579.PNG",
+        "question": "I will be visitng Switzerland from Dhaka on upcoming 27th May. I dont know anything about Switzerland. I am living in mohammadpur, Dhaka. Suggest me the nearest place from where I can buy the plane ticket for switzerland.",
+        "choices": [
+            "Novo Air Ticket office",
+            "US-Bangla Airlines Mohammadpur Outlet",
+            "US bangla Ticket office",
+            "Air Zarin"
+        ],
+        "answer": "US-Bangla Airlines Mohammadpur Outlet",
+        "hint": "",
+        "image": "Vdata/ID_579.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "4": {
+        "image_path": "Vdata/ID_1101.PNG",
+        "question": "Which church is near st johannes?",
+        "choices": [
+            "Gustaf Vasa Church",
+            "Adolf Fredriks Forsamling' \"St Peter's Church\" 'City Church"
+        ],
+        "answer": "Adolf Fredriks Forsamling' \"St Peter's Church\" 'City Church",
+        "hint": "",
+        "image": "Vdata/ID_1101.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "5": {
+        "image_path": "Vdata/ID_1112.PNG",
+        "question": "Which castle is closest to Howth rail station?",
+        "choices": [
+            "Howth Castle",
+            "Mary Castle",
+            "Claremont Castle",
+            "Balscadden House"
+        ],
+        "answer": "Howth Castle",
+        "hint": "",
+        "image": "Vdata/ID_1112.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "6": {
+        "image_path": "Vdata/ID_1121.PNG",
+        "question": "Which shopping mall is closest from the metro station?",
+        "choices": [
+            "Азбука daily",
+            "ТЦ Мини Молл",
+            "Winestyle винный магазин",
+            "Vernyy Верный"
+        ],
+        "answer": "ТЦ Мини Молл",
+        "hint": "",
+        "image": "Vdata/ID_1121.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "7": {
+        "image_path": "Vdata/ID_428.PNG",
+        "question": "What is the closest mosque  to the Dudhal Model School?",
+        "choices": [
+            "Kaya Bazar Jame Mosque",
+            "গোমা বাজার জামে মসজিদ",
+            "আল-কাদরীয়া জামে মসজিদ",
+            "কাঠিপাড়া"
+        ],
+        "answer": "গোমা বাজার জামে মসজিদ",
+        "hint": "",
+        "image": "Vdata/ID_428.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "8": {
+        "image_path": "Vdata/ID_1111.PNG",
+        "question": "Which metro station is near the reataurant domenica?",
+        "choices": [
+            "Tobala L1",
+            "El Golf",
+            "Ambrosia Bistro",
+            "Callao"
+        ],
+        "answer": "Tobala L1",
+        "hint": "",
+        "image": "Vdata/ID_1111.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "9": {
+        "image_path": "Vdata/ID_413.PNG",
+        "question": "I am employed at the James J. Peters Department of Veterans Affairs Medical Center. What are the closest educational institutions near my workplace?",
+        "choices": [
+            "Fordham Preparatory School",
+            "Academy of Mount St. Ursula",
+            "Fordham University",
+            "Monroe College"
+        ],
+        "answer": "Monroe College",
+        "hint": "",
+        "image": "Vdata/ID_413.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "10": {
+        "image_path": "Vdata/ID_432.PNG",
+        "question": "i am at Netaji Subhash Chandra Bose International Airport .What is the nearest hospital to my location?",
+        "choices": [
+            "Bindubasini Nursing Home",
+            "Belur State General Hospital",
+            "ESI Hospital Kamarhati",
+            "Dum Dum Municipal Specialized Hospital and Cancer Research Center"
+        ],
+        "answer": "Dum Dum Municipal Specialized Hospital and Cancer Research Center",
+        "hint": "",
+        "image": "Vdata/ID_432.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "11": {
+        "image_path": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from কংলাক রিয়াং ঝর্না?",
+        "choices": [
+            "Machang Nak Resort Sajek Valley",
+            "Honeymoon Cottage",
+            "Sajek Hill View Resort",
+            "Meghpunji Resort, Sajek"
+        ],
+        "answer": "Meghpunji Resort, Sajek",
+        "hint": "",
+        "image": "Vdata/ID_424.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "12": {
+        "image_path": "Vdata/ID_1120.PNG",
+        "question": "I want to visit the Marines Museum, which is the closest metro station?",
+        "choices": [
+            "Rotterdam",
+            "Blaak",
+            "TLeuvehaven",
+            "Eendrachtsplein"
+        ],
+        "answer": "Blaak",
+        "hint": "",
+        "image": "Vdata/ID_1120.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "13": {
+        "image_path": "Vdata/ID_434.PNG",
+        "question": "I'm at Tawar Mall. Could you tell me which hospital is closest to my location?",
+        "choices": [
+            "Al Hazm",
+            "Al-Ahli Hospital",
+            "AlMahmoud Medical Center",
+            "Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي"
+        ],
+        "answer": "Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي",
+        "hint": "",
+        "image": "Vdata/ID_434.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "14": {
+        "image_path": "Vdata/ID_410.PNG",
+        "question": "I'm currently located at The Old Vic and aiming to reach Big Ben. Which bridge would be the nearest for me to cross the river?",
+        "choices": [
+            "Westminster Bridge",
+            "Hungerford Bridge and Golden Jubilee Bridges",
+            "Waterloo",
+            "Waterloo East"
+        ],
+        "answer": "Westminster Bridge",
+        "hint": "",
+        "image": "Vdata/ID_410.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "15": {
+        "image_path": "Vdata/ID_421.PNG",
+        "question": "I  am presently at Cleopatra's Needle. I need to cross the river to get to Waterloo Campus. What is the nearest bridge to my location?",
+        "choices": [
+            "Hungerford Bridge and Golden Jubilee Bridges",
+            "Waterloo Bridge",
+            "Blackfriars Bridge",
+            "National Theatre"
+        ],
+        "answer": "Hungerford Bridge and Golden Jubilee Bridges",
+        "hint": "",
+        "image": "Vdata/ID_421.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "16": {
+        "image_path": "Vdata/ID_417.PNG",
+        "question": "I am at the  Jean Talon Hospital. What are the closest resturent  near my workplace?",
+        "choices": [
+            "Le Super Qualité",
+            "La"
+        ],
+        "answer": "Le Super Qualité",
+        "hint": "",
+        "image": "Vdata/ID_417.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "17": {
+        "image_path": "Vdata/ID_1106.PNG",
+        "question": "Whats the nearest Mosque from Putra Medical Centre Alor Setar and UTC Kedath?",
+        "choices": [
+            "Masjid Zahir",
+            "Masjid Nagore",
+            "Masjid Al-Irfan",
+            "Mashjid Al-Bukhari"
+        ],
+        "answer": "Masjid Zahir",
+        "hint": "",
+        "image": "Vdata/ID_1106.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "18": {
+        "image_path": "Vdata/ID_1111.PNG",
+        "question": "Which restaurant is closest to Campus to Contador?",
+        "choices": [
+            "La Bifera",
+            "Tacu Tacu Restaurant",
+            "Tea Connection",
+            "Indisa"
+        ],
+        "answer": "Tea Connection",
+        "hint": "",
+        "image": "Vdata/ID_1111.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "19": {
+        "image_path": "Vdata/ID_505.PNG",
+        "question": "I'm currently staying at Hörselberg-Hainich, while my friend is staying at Tüngeda. After we meet up, I want to visit an amusement park nearby. Can you suggest one that's close to us?",
+        "choices": [
+            "Panzerarena",
+            "Baumkronenpfad im Nationalpark Hainich",
+            "Haineck Castle",
+            "Climbing Forest Hainich on Reckenbühl"
+        ],
+        "answer": "Panzerarena",
+        "hint": "",
+        "image": "Vdata/ID_505.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "20": {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting McIntyre Medical Science Building - Lower Entrance. Could you please inform me about the nearby historical landmark?",
+        "choices": [
+            "Circle Stone",
+            "secret pool",
+            "Maison William Caldwell Cottingham",
+            "Poste de cavalerie du Service de police de la Ville de Montréal"
+        ],
+        "answer": "secret pool",
+        "hint": "",
+        "image": "Vdata/ID_415.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "21": {
+        "image_path": "Vdata/ID_431.PNG",
+        "question": "i am at Burjeel Medical City, 28th Street - Mohamed Bin Zayed City - Abu Dhabi - United Arab Emirates .What is the nearest restaurant to my location?",
+        "choices": [
+            "Mado Al Qana Restaurant,CF4V+4CM - Rabdan - المَقطَع - Abu Dhabi - United Arab Emirates",
+            "Oii Restaurant & Cafe, Al Maqta' St - Rabdan - Abu Dhabi - United Arab Emirates",
+            "Jade Restaurant",
+            "Du Roi Cafe & Restaurant"
+        ],
+        "answer": "Jade Restaurant",
+        "hint": "",
+        "image": "Vdata/ID_431.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "22": {
+        "image_path": "Vdata/ID_577.PNG",
+        "question": "I am in Chittagong, Agrabad area. Can you suggest a good bakery near me?",
+        "choices": [
+            "Flavors",
+            "Well Food",
+            "Tasty Treat",
+            "Le Bakehouse"
+        ],
+        "answer": "Flavors",
+        "hint": "",
+        "image": "Vdata/ID_577.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "23": {
+        "image_path": "Vdata/ID_1130.PNG",
+        "question": "I just landed at the airport, where is the closes atm booth?",
+        "choices": [
+            "NBM Bank ATM",
+            "TIA",
+            "Diyana ATM",
+            "Aviation ATM"
+        ],
+        "answer": "NBM Bank ATM",
+        "hint": "",
+        "image": "Vdata/ID_1130.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "24": {
+        "image_path": "Vdata/ID_1123.PNG",
+        "question": "Which shopping mall is closest from the Christ Revealed Worlwide?",
+        "choices": [
+            "74 cameron bushhouse shop 112",
+            "Finches Curtains, Rods & Blinds.",
+            "YoPlug",
+            "Cameron Mall"
+        ],
+        "answer": "YoPlug",
+        "hint": "",
+        "image": "Vdata/ID_1123.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "25": {
+        "image_path": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to the Place Guillaume II?",
+        "choices": [
+            "Luxembourg City History Museum",
+            "Hämmelsmarsch statue la Wil Lofy",
+            "Muerbelsmillen",
+            "Abgeordnetenkammer"
+        ],
+        "answer": "Abgeordnetenkammer",
+        "hint": "",
+        "image": "Vdata/ID_426.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "26": {
+        "image_path": "Vdata/ID_409.PNG",
+        "question": "What is the closest doctor's office to me? I am a student at Mittelschule GTS Ennsleite.",
+        "choices": [
+            "DI Mag. DDDr. Constantin Gegenhuber",
+            "Diaetologie Eberharter",
+            "Ordination Dr. Sabine Hackl",
+            "Parkhotel Styria Steyr"
+        ],
+        "answer": "Ordination Dr. Sabine Hackl",
+        "hint": "",
+        "image": "Vdata/ID_409.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "27": {
+        "image_path": "Vdata/ID_418.PNG",
+        "question": "I am currently at the Baseball Diamond. What is the closest pharmacy to my location?",
+        "choices": [
+            "Paylan Yetvart Pharmaciens",
+            "Pharmacie Arslanian",
+            "Medzy",
+            "PJC Jean Coutu Santé"
+        ],
+        "answer": "PJC Jean Coutu Santé",
+        "hint": "",
+        "image": "Vdata/ID_418.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "28": {
+        "image_path": "Vdata/ID_429.PNG",
+        "question": "What is the closest market to Barishal University?",
+        "choices": [
+            "Kalijira Bazar",
+            "Talukdar Market",
+            "চৌমাথা বাজার",
+            "RANIRHAT, HAZI-MARKET"
+        ],
+        "answer": "চৌমাথা বাজার",
+        "hint": "",
+        "image": "Vdata/ID_429.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "29": {
+        "image_path": "Vdata/ID_1106.PNG",
+        "question": "Find a mosque with some restaurants nearby.",
+        "choices": [
+            "Masjid Zahir",
+            "Masjid Mohammad Iskandar Wan Tempawan",
+            "Masjid Al-Irfan",
+            "Mashjid Al-Bukhari"
+        ],
+        "answer": "Masjid Mohammad Iskandar Wan Tempawan",
+        "hint": "",
+        "image": "Vdata/ID_1106.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "30": {
+        "image_path": "Vdata/ID_578.PNG",
+        "question": "I am searching the best hotel near Ramnagar, Dinajpur. Find me the best one near Ramnagar.",
+        "choices": [
+            "Hotel Shahra",
+            "Hotel Happy Tree",
+            "Uzzal Mansion",
+            "Hotel Grand Noor"
+        ],
+        "answer": "Hotel Happy Tree",
+        "hint": "",
+        "image": "Vdata/ID_578.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "31": {
+        "image_path": "Vdata/ID_416.PNG",
+        "question": "I am currently at Rue Peel Steps. Could you please inform me about the nearest hotel to my location?",
+        "choices": [
+            "Sofitel Montreal Golden Mile",
+            "Delta Hotels by Marriott Montreal",
+            "Hilton Garden Inn Montreal Centre-Ville",
+            "Hotel Omni Mont-Royal"
+        ],
+        "answer": "Hotel Omni Mont-Royal",
+        "hint": "",
+        "image": "Vdata/ID_416.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "32": {
+        "image_path": "Vdata/ID_569.PNG",
+        "question": "I am in Sylhet’s Lamabazar area and looking for a safe and well-maintained playground for my children to play .Can you suggest one nearby?",
+        "choices": [
+            "SPI Play Ground",
+            "Bilpar Play Ground",
+            "Kolapara Playground",
+            "SPI Play Ground-2"
+        ],
+        "answer": "Bilpar Play Ground",
+        "hint": "",
+        "image": "Vdata/ID_569.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "33": {
+        "image_path": "Vdata/ID_404.PNG",
+        "question": "I  am currently a student at American Academy School, and my friend is not feeling well. Can you suggest a nearby hospital for them?",
+        "choices": [
+            "Al Thumama Stadium",
+            "Workers Health Center Mesaimeer - Qatar Red Crescent",
+            "Aman Hospital",
+            "Al Thumama Health Center"
+        ],
+        "answer": "Al Thumama Health Center",
+        "hint": "",
+        "image": "Vdata/ID_404.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "34": {
+        "image_path": "Vdata/ID_1116.PNG",
+        "question": "Which hotel is nearest the A101 super market?",
+        "choices": [
+            "Melrose Viewpoint Hotel",
+            "Beyaz Kale Pansiyon",
+            "Aspawa Hotel",
+            "The Cotton House"
+        ],
+        "answer": "The Cotton House",
+        "hint": "",
+        "image": "Vdata/ID_1116.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "35": {
+        "image_path": "Vdata/ID_430.PNG",
+        "question": "At the Phai Sali (Dai Tan) Intersection bridge, what is the nearest temple to my location?",
+        "choices": [
+            "Wat Pa Siriwattanawisuth",
+            "Wat Ban Khao Hin Kling",
+            "Wat Khok Makham Ngam",
+            "Wat Sa Thale"
+        ],
+        "answer": "Wat Sa Thale",
+        "hint": "",
+        "image": "Vdata/ID_430.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "36": {
+        "image_path": "Vdata/ID_1107.PNG",
+        "question": "I want to visit Bergen Havn in the morning, which nearest Hotel I should stay for convenience?",
+        "choices": [
+            "Radisson Blu Royal Hotel",
+            "Thon Hotel Orion",
+            "Hotel Bergen",
+            "Comfort Hotel Bergen"
+        ],
+        "answer": "Comfort Hotel Bergen",
+        "hint": "",
+        "image": "Vdata/ID_1107.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "37": {
+        "image_path": "Vdata/ID_1114.PNG",
+        "question": "I want to visit Pringle bay beach, which hotel should be nearby for me?",
+        "choices": [
+            "The Crowded House",
+            "Hilton House",
+            "The Mermaids Tail",
+            "Gecko House Accomodation"
+        ],
+        "answer": "The Mermaids Tail",
+        "hint": "",
+        "image": "Vdata/ID_1114.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "38": {
+        "image_path": "Vdata/ID_413.PNG",
+        "question": "I am employed at the Burlington. What are the closest educational institutions near my workplace?",
+        "choices": [
+            "Fordham Preparatory School",
+            "Academy of Mount St. Ursula",
+            "Fordham University",
+            "Bronx Community College"
+        ],
+        "answer": "Fordham University",
+        "hint": "",
+        "image": "Vdata/ID_413.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "39": {
+        "image_path": "Vdata/ID_572.PNG",
+        "question": "I am in Cox’s Bazar, Kolatoli Beach. Can you suggest a tourist spot nearby?",
+        "choices": [
+            "Cox's Bazar Sea Beach",
+            "Sayman point, Kolatoli, Coxsbazar",
+            "Darianagar Sea View Park",
+            "Laboni Point Sea Beach"
+        ],
+        "answer": "Darianagar Sea View Park",
+        "hint": "",
+        "image": "Vdata/ID_572.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "40": {
+        "image_path": "Vdata/ID_1119.PNG",
+        "question": "Which hotel is closest to Witte de Withstraat?",
+        "choices": [
+            "de Boeg",
+            "Leuvehaven",
+            "The Usual Rotterdam",
+            "Museum Boijmans Van Beuningen"
+        ],
+        "answer": "The Usual Rotterdam",
+        "hint": "",
+        "image": "Vdata/ID_1119.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "41": {
+        "image_path": "Vdata/ID_589.PNG",
+        "question": "I’ve recently joined Bangladesh Parjatan Corporation. I’m looking for the best restaurant near me for dinner, which I usually have at 3 AM. Can you suggest a good option?",
+        "choices": [
+            "Mollah hotel & restaurant",
+            "শেখ রেশমার ভাতের হোটেল",
+            "Snigdha Hotel & Restaurant",
+            "Sunmoon Kitchen & Restaurant"
+        ],
+        "answer": "Mollah hotel & restaurant",
+        "hint": "",
+        "image": "Vdata/ID_589.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "42": {
+        "image_path": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to the bridge?",
+        "choices": [
+            "Luxembourg City History Museum",
+            "Nationalmusée um Fëschmaart",
+            "Muerbelsmillen",
+            "Archaeological Crypt"
+        ],
+        "answer": "Archaeological Crypt",
+        "hint": "",
+        "image": "Vdata/ID_426.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "43": {
+        "image_path": "Vdata/ID_434.PNG",
+        "question": "I'm at Al Gharrafa Air-Conditioned Park. Could you tell me which hospital is closest to my location?",
+        "choices": [
+            "Al Hazm",
+            "Al-Ahli Hospital",
+            "AlMahmoud Medical Center",
+            "Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي"
+        ],
+        "answer": "Gharrafat Al Rayyan Health Center \\u200e مركز غرافة الريان الصحي",
+        "hint": "",
+        "image": "Vdata/ID_434.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "44": {
+        "image_path": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from Lushai Heritage Village",
+        "choices": [
+            "Machang Nak Resort Sajek Valley",
+            "Honeymoon Cottage",
+            "Sajek Hill View Resort",
+            "Meghpunji Resort, Sajek"
+        ],
+        "answer": "Honeymoon Cottage",
+        "hint": "",
+        "image": "Vdata/ID_424.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "45": {
+        "image_path": "Vdata/ID_1103.PNG",
+        "question": "Which school is nearest the calle 40 and calle 39?",
+        "choices": [
+            "Unitropico",
+            "SENA",
+            "Yopal Casanare",
+            "Papelaria Yopal"
+        ],
+        "answer": "Unitropico",
+        "hint": "",
+        "image": "Vdata/ID_1103.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "46": {
+        "image_path": "Vdata/ID_1118.PNG",
+        "question": "Which hotel is closest to Juba airport?",
+        "choices": [
+            "Riviera Hotel",
+            "Yam Hotel",
+            "Hotel Panorama Plaza Juba",
+            "Nile Fortune Hotel"
+        ],
+        "answer": "Yam Hotel",
+        "hint": "",
+        "image": "Vdata/ID_1118.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "47": {
+        "image_path": "Vdata/ID_422.PNG",
+        "question": "What is the closest tourist attraction near the river?",
+        "choices": [
+            "Cleopatra's Needle\" 'The National Gallery",
+            "The Courtauld Gallery",
+            "London Transport Museum"
+        ],
+        "answer": "Cleopatra's Needle\" 'The National Gallery",
+        "hint": "",
+        "image": "Vdata/ID_422.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "48": {
+        "image_path": "Vdata/ID_406.PNG",
+        "question": "I am currently at Green Road Government Staff Quarter. and my uncle getting brain stock .what hospital are near to me",
+        "choices": [
+            "BRB Hospitals",
+            "Bangladesh Colorectal and Gastroenterology Centre",
+            "Square Hospital",
+            "Green Life Medical College Hospital"
+        ],
+        "answer": "Green Life Medical College Hospital",
+        "hint": "",
+        "image": "Vdata/ID_406.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "49": {
+        "image_path": "Vdata/ID_408.PNG",
+        "question": "What is the nearest any Museum from Qatar Flagpole ?",
+        "choices": [
+            "Car Museum",
+            "Sheikh Abdulla bin Jassim Al-Thani Palace",
+            "National Museum of Qatar Playgrounds",
+            "National Museum of Qatar"
+        ],
+        "answer": "Car Museum",
+        "hint": "",
+        "image": "Vdata/ID_408.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "50": {
+        "image_path": "Vdata/ID_423.PNG",
+        "question": "What is the nearest hotel to Biam Model School & College Rajshahi?",
+        "choices": [
+            "Parjatan Motel, Rajshahi",
+            "Hotel X Rajshahi",
+            "Grand River View Hotel",
+            "Circuit house Rajshahi"
+        ],
+        "answer": "Grand River View Hotel",
+        "hint": "",
+        "image": "Vdata/ID_423.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "51": {
+        "image_path": "Vdata/ID_418.PNG",
+        "question": "I am currently at the BCentre de transport STM Legendre. What is the closest pharmacy to my location?",
+        "choices": [
+            "Paylan Yetvart Pharmaciens",
+            "Pharmacie Arslanian",
+            "Medzy",
+            "PJC Jean Coutu Santé"
+        ],
+        "answer": "Medzy",
+        "hint": "",
+        "image": "Vdata/ID_418.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "52": {
+        "image_path": "Vdata/ID_1004.PNG",
+        "question": "I'm at New World Beijing Hotel. Could you tell me which tourist attraction is closest to my location?",
+        "choices": [
+            "Beijing tourism hub",
+            "Zhengyang Bridge",
+            "Zhengyangmen",
+            "Wangfujing Pedestrian Street"
+        ],
+        "answer": "Beijing tourism hub",
+        "hint": "",
+        "image": "Vdata/ID_1004.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "53": {
+        "image_path": "Vdata/ID_420.PNG",
+        "question": "\"I am currently at  Bibliothèque Germaine-Guèvremont. What is the closest coffee shop or restaurant to my location?",
+        "choices": [
+            "Cora Breakfast and Lunch",
+            "Taglio di Roma",
+            "Tim Hortons",
+            "McDonald’s"
+        ],
+        "answer": "McDonald’s",
+        "hint": "",
+        "image": "Vdata/ID_420.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "54": {
+        "image_path": "Vdata/ID_407.PNG",
+        "question": " I am in the car, and my current location is Ras Abu Abboud Expressway. I want to go to the airport. Which airport is nearest to me?",
+        "choices": [
+            "Doha International Airport (DIA)",
+            "Hamad International Airport",
+            "VFS Global Visa Application Centres",
+            "The Orchard"
+        ],
+        "answer": "Hamad International Airport",
+        "hint": "",
+        "image": "Vdata/ID_407.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "55": {
+        "image_path": "Vdata/ID_1125.PNG",
+        "question": "Which parks are nearest to the tourists attarctions?",
+        "choices": [
+            "해군회관",
+            "남구실내빙상장.",
+            "오륙도 해맞이공원",
+            "자연이주는 밥상"
+        ],
+        "answer": "오륙도 해맞이공원",
+        "hint": "",
+        "image": "Vdata/ID_1125.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "56": {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting  Mount Royal Park . Could you please inform me about the nearby historical landmark?",
+        "choices": [
+            "Circle Stone",
+            "secret pool",
+            "Maison William Caldwell Cottingham",
+            "Poste de cavalerie du Service de police de la Ville de Montréal"
+        ],
+        "answer": "Circle Stone",
+        "hint": "",
+        "image": "Vdata/ID_415.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "57": {
+        "image_path": "Vdata/ID_409.PNG",
+        "question": "What is the closest hotel to me? I am a student at Mittelschule GTS Ennsleite.",
+        "choices": [
+            "DI Mag. DDDr. Constantin Gegenhuber",
+            "Diaetologie Eberharter",
+            "Ordination Dr. Sabine Hackl",
+            "Parkhotel Styria Steyr"
+        ],
+        "answer": "Ordination Dr. Sabine Hackl",
+        "hint": "",
+        "image": "Vdata/ID_409.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "58": {
+        "image_path": "Vdata/ID_403.PNG",
+        "question": "I live on Al Hikma St. in Doha. Can you recommend the nearest 4-star hotel?",
+        "choices": [
+            "The Royal Riviera Hotel Qatar",
+            "فندق هورايزون مانور",
+            "Best Western Plus Doha",
+            "Shaza Doha"
+        ],
+        "answer": "فندق هورايزون مانور",
+        "hint": "",
+        "image": "Vdata/ID_403.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "59": {
+        "image_path": "Vdata/ID_1114.PNG",
+        "question": "Which restaurant is closest to the green area?",
+        "choices": [
+            "Lemon+Lime Deli",
+            "Hook Line & Srinker",
+            "The Mermaids Tail",
+            "Lynette Morris-Hale"
+        ],
+        "answer": "Hook Line & Srinker",
+        "hint": "",
+        "image": "Vdata/ID_1114.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "60": {
+        "image_path": "Vdata/ID_425.PNG",
+        "question": "Can you inform me about the nearest tourist attraction from my current location? I am a student at La Dante Alighieri Luxembourg.",
+        "choices": [
+            "1Citadel of the Holy Spirit",
+            "Wenzel photopoint",
+            "Fontaine aux colombes",
+            "Vestiges du Fort Verlorenkost"
+        ],
+        "answer": "Fontaine aux colombes",
+        "hint": "",
+        "image": "Vdata/ID_425.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "61": {
+        "image_path": "Vdata/ID_573.PNG",
+        "question": "I am in Bogura, Satmatha area. Where is the nearest bookstore?",
+        "choices": [
+            "বিসমিল্লাহ মেডিকেল বুক হাউস",
+            "Bogura Online Book Shop",
+            "Book Center",
+            "Peace Park"
+        ],
+        "answer": "Bogura Online Book Shop",
+        "hint": "",
+        "image": "Vdata/ID_573.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "62": {
+        "image_path": "Vdata/ID_401.PNG",
+        "question": "\"I stayed at Cortland Village Apartment Homes. Can you recommend the nearest restaurant to my location?\"",
+        "choices": [
+            "Copper River Restaurant & Bar",
+            "BJ's Restaurant & Brewhouse",
+            "Mr. Bento Burger",
+            "Best Buy in Town Landscape Supply"
+        ],
+        "answer": "Mr. Bento Burger",
+        "hint": "",
+        "image": "Vdata/ID_401.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "63": {
+        "image_path": "Vdata/ID_1110.PNG",
+        "question": "Whats the nearest school from Hotel Mokotów?",
+        "choices": [
+            "Przedszkole nr 228",
+            "Przedszkole No. 199",
+            "Przedszkole nr 170",
+            "Jordanowski Park II"
+        ],
+        "answer": "Przedszkole No. 199",
+        "hint": "",
+        "image": "Vdata/ID_1110.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "64": {
+        "image_path": "Vdata/ID_1122.PNG",
+        "question": "Which is the closest shopping mall from Unidad Cultural y Deportiva Azquil and El Polvorin?",
+        "choices": [
+            "Neto Santa Maria 9058",
+            "Ofertas S y H",
+            "Tlapalería Don Chava",
+            "EPOEM"
+        ],
+        "answer": "Neto Santa Maria 9058",
+        "hint": "",
+        "image": "Vdata/ID_1122.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "65": {
+        "image_path": "Vdata/ID_512.PNG",
+        "question": "As a doctor at Kontum Hospital and a Christian, I attend church every noon. Given that I stay near Bệnh Xá Phong Đắk Kia, I am looking for a church that is conveniently located nearby.",
+        "choices": [
+            "TRUNG TÂM HÀNH CHÍNH TỈNH KON TUM",
+            "Nhà Thờ Giáo Xứ Đắk Kia",
+            "CHÙA HOA NGHIÊM",
+            "Nhà Thờ Kon Rơ Bang"
+        ],
+        "answer": "Nhà Thờ Kon Rơ Bang",
+        "hint": "",
+        "image": "Vdata/ID_512.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "66": {
+        "image_path": "Vdata/ID_425.PNG",
+        "question": "Could you please tell me the closest tourist attraction to my current location? I work at Home Services Lux SARL",
+        "choices": [
+            "Fontaine aux colombes",
+            "Wenzel photopoint",
+            "Citadel of the Holy Spirit",
+            "Vestiges du Fort Verlorenkost"
+        ],
+        "answer": "Fontaine aux colombes",
+        "hint": "",
+        "image": "Vdata/ID_425.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "67": {
+        "image_path": "Vdata/ID_430.PNG",
+        "question": "what is the nearest temple to my location?",
+        "choices": [
+            "Wat Pa Siriwattanawisuth",
+            "Wat Ban Khao Hin Kling",
+            "Wat Khok Makham Ngam",
+            "Wat Sa Thale"
+        ],
+        "answer": "Wat Ban Khao Hin Kling",
+        "hint": "",
+        "image": "Vdata/ID_430.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "68": {
+        "image_path": "Vdata/ID_1110.PNG",
+        "question": "Whats the nearest restaurant of Marzanny?",
+        "choices": [
+            "Karachi Restaurant",
+            "Restauracja Locale",
+            "Mountain Cafe",
+            "Bezownia"
+        ],
+        "answer": "Restauracja Locale",
+        "hint": "",
+        "image": "Vdata/ID_1110.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "69": {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting Maison William Caldwell Cottingham. Could you please inform me about the nearby educational institutions?",
+        "choices": [
+            "McGill University - Faculty of Medicine",
+            "McIntyre Medical Science Building - Lower Entrance",
+            "Cimetière Notre-Dame des neiges",
+            "Poste de cavalerie du Service de police de la Ville de Montréal"
+        ],
+        "answer": "McIntyre Medical Science Building - Lower Entrance",
+        "hint": "",
+        "image": "Vdata/ID_415.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "70": {
+        "image_path": "Vdata/ID_1113.PNG",
+        "question": "Which is the closest Hotel from Rudolfinum?",
+        "choices": [
+            "Mala Strana",
+            "The Julius Prague",
+            "Mandarin Oriental",
+            "Escape"
+        ],
+        "answer": "Mandarin Oriental",
+        "hint": "",
+        "image": "Vdata/ID_1113.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "71": {
+        "image_path": "Vdata/ID_576.PNG",
+        "question": "I recently moved to the Uttara area in Dhaka, and I need to find a mosque close to Sector 4 for daily prayers. Can you help me locate the nearest one?",
+        "choices": [
+            "Riazul Jannah Jame Mosjid",
+            "Uttara 1No. Sector Jame Mosque",
+            "RAK Tower Jame Mosque",
+            "Uttara 4 Sector Jame Masjid"
+        ],
+        "answer": "Uttara 4 Sector Jame Masjid",
+        "hint": "",
+        "image": "Vdata/ID_576.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "72": {
+        "image_path": "Vdata/ID_428.PNG",
+        "question": "What is the closest mosque  to the bridge?",
+        "choices": [
+            "Kaya Bazar Jame Mosque",
+            "গোমা বাজার জামে মসজিদ",
+            "আল-কাদরীয়া জামে মসজিদ",
+            "কাঠিপাড়া"
+        ],
+        "answer": "গোমা বাজার জামে মসজিদ",
+        "hint": "",
+        "image": "Vdata/ID_428.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "73": {
+        "image_path": "Vdata/ID_420.PNG",
+        "question": "\"I am currently at  Centre Duvernay. What is the closest coffee shop or restaurant to my location?",
+        "choices": [
+            "Cora Breakfast and Lunch",
+            "Taglio di Roma",
+            "Tutti Frutti déjeuner et diner",
+            "Tim Hortons"
+
+        ],
+        "answer": "Cora Breakfast and Lunch",
+        "hint": "",
+        "image": "Vdata/ID_420.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "74": {
+        "image_path": "Vdata/ID_1131.PNG",
+        "question": "Whats the closes shoipping mall from the hospital?",
+        "choices": [
+            "Gymnase Alice Milliat",
+            "Lidl",
+            "Franpix",
+            "Espace Langevin"
+        ],
+        "answer": "Lidl",
+        "hint": "",
+        "image": "Vdata/ID_1131.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "75": {
+        "image_path": "Vdata/ID_1117.PNG",
+        "question": "Which restaurant or club is near a parking?",
+        "choices": [
+            "Nick's Food Design\" 'Cigges Club",
+            "Juhana Herttuan kellari",
+            "Café Poiju"
+        ],
+        "answer": "Juhana Herttuan kellari",
+        "hint": "",
+        "image": "Vdata/ID_1117.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "76": {
+        "image_path": "Vdata/ID_421.PNG",
+        "question": "I  am presently at Cleopatra's Needle. I need to cross the river to get to Royal Festival Hall. What is the nearest bridge to my location?",
+        "choices": [
+            "Hungerford Bridge and Golden Jubilee Bridges",
+            "Waterloo Bridge",
+            "Blackfriars Bridge",
+            "National Theatre"
+        ],
+        "answer": "Waterloo Bridge",
+        "hint": "",
+        "image": "Vdata/ID_421.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "77": {
+        "image_path": "Vdata/ID_1109.PNG",
+        "question": "Which café is nearest to the Bridge across the river and nirvana inn?",
+        "choices": [
+            "Hotel Seasons",
+            "Brioche Cafe",
+            "Mountain Cafe",
+            "Biriyani House and Thali"
+        ],
+        "answer": "Hotel Seasons",
+        "hint": "",
+        "image": "Vdata/ID_1109.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "78": {
+        "image_path": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from Sajek Valley International Park?",
+        "choices": [
+            "Machang Nak Resort Sajek Valley",
+            "Honeymoon Cottage",
+            "Sajek Hill View Resort",
+            "Meghpunji Resort, Sajek"
+        ],
+        "answer": "Honeymoon Cottage",
+        "hint": "",
+        "image": "Vdata/ID_424.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "79": {
+        "image_path": "Vdata/ID_431.PNG",
+        "question": "i am at Abu Dhabi Golf Club, A - Khalifa City - Abu Dhabi - United Arab Emirates .What is the nearest restaurant to my location?",
+        "choices": [
+            "Mado Al Qana Restaurant,CF4V+4CM - Rabdan - المَقطَع - Abu Dhabi - United Arab Emirates",
+            "Oii Restaurant & Cafe, Al Maqta' St - Rabdan - Abu Dhabi - United Arab Emirates",
+            "Jade Restaurant",
+            "Du Roi Cafe & Restaurant"
+        ],
+        "answer": "Du Roi Cafe & Restaurant",
+        "hint": "",
+        "image": "Vdata/ID_431.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "80": {
+        "image_path": "Vdata/ID_401.PNG",
+        "question": "\"I stayed at SpringHill Suites by Marriott Portland Hillsboro. Can you recommend the nearest restaurant to my location?\"",
+        "choices": [
+            "Copper River Restaurant & Bar' \"BJ's Restaurant & Brewhouse\" 'Mr. Bento Burger",
+            "Best Buy in Town Landscape Supply"
+        ],
+        "answer": "Copper River Restaurant & Bar' \"BJ's Restaurant & Brewhouse\" 'Mr. Bento Burger",
+        "hint": "",
+        "image": "Vdata/ID_401.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "81": {
+        "image_path": "Vdata/ID_1108.PNG",
+        "question": "Whats the nearest Metro station from the river?",
+        "choices": [
+            "Oktogon",
+            "Opera",
+            "Kossuth",
+            "Szabadság tér"
+        ],
+        "answer": "Kossuth",
+        "hint": "",
+        "image": "Vdata/ID_1108.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "82": {
+        "image_path": "Vdata/ID_405.PNG",
+        "question": "\"I am currently employed at Al Hiba Pharmacy, and it's evening. I would like to go for a cup of tea. Can you recommend the nearest restaurant to my workplace?",
+        "choices": [
+            "Bab Al Mandi Restaurant",
+            "مطعم هل الدار",
+            "Tea Time Karthiyath",
+            "Grand Hypermarket"
+        ],
+        "answer": "Tea Time Karthiyath",
+        "hint": "",
+        "image": "Vdata/ID_405.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "83": {
+        "image_path": "Vdata/ID_402.PNG",
+        "question": " \"I'm a student at McMenamins Kennedy School and I'm looking for the nearest park. Any suggestions?\"",
+        "choices": [
+            "Irving Park",
+            "Wilshire Park",
+            "Rose City Golf Course",
+            "Luuwit View Park"
+        ],
+        "answer": "Wilshire Park",
+        "hint": "",
+        "image": "Vdata/ID_402.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "84": {
+        "image_path": "Vdata/ID_1126.PNG",
+        "question": "I willl be visiting Piscine Miami, which hotel should I stay in?",
+        "choices": [
+            "THALASSO HOTEL & Spa",
+            "Four Seasons Hotel Casablanca",
+            "Plage Lalla Meryem",
+            "Casablanca"
+        ],
+        "answer": "THALASSO HOTEL & Spa",
+        "hint": "",
+        "image": "Vdata/ID_1126.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "85": {
+        "image_path": "Vdata/ID_1115.PNG",
+        "question": "Which meuseum is closest to a tourist attraction and a theatre?",
+        "choices": [
+            "Beaux-Arts Mons",
+            "Belfry of Mons",
+            "Salle Saint-Georges",
+            "Musée du Doudou"
+        ],
+        "answer": "Salle Saint-Georges",
+        "hint": "",
+        "image": "Vdata/ID_1115.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "86": {
+        "image_path": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to theNeumünster Abbey?",
+        "choices": [
+            "Luxembourg City History Museum",
+            "Nationalmusée um Fëschmaart",
+            "Hämmelsmarsch statue la Wil Lofy",
+            "Muerbelsmillen"
+        ],
+        "answer": "Luxembourg City History Museum",
+        "hint": "",
+        "image": "Vdata/ID_426.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "87": {
+        "image_path": "Vdata/ID_1004.PNG",
+        "question": "I'm at Imperial Ancestral Temple. Could you tell me which tourist attraction is closest to my location?",
+        "choices": [
+            "Beijing tourism hub",
+            "Zhengyang Bridge",
+            "Zhengyangmen",
+            "Duanmen"
+        ],
+        "answer": "Duanmen",
+        "hint": "",
+        "image": "Vdata/ID_1004.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "88": {
+        "image_path": "Vdata/ID_412.PNG",
+        "question": "I reside in Jaipur. What are the nearest educational institutions to my location?",
+        "choices": [
+            "Adamas University",
+            "Delhi World Public School - Barasat",
+            "Barasat College",
+            "Brainware University"
+        ],
+        "answer": "Brainware University",
+        "hint": "",
+        "image": "Vdata/ID_412.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "89": {
+        "image_path": "Vdata/ID_1102.PNG",
+        "question": "Which restaurant is nearest Fodklinikken Herning hospital and Uhrskov Vinhandel?",
+        "choices": [
+            "Møllegrillen Herning",
+            "Brasseriet",
+            "FællesBo",
+            "Herning Kirke"
+        ],
+        "answer": "Møllegrillen Herning",
+        "hint": "",
+        "image": "Vdata/ID_1102.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "90": {
+        "image_path": "Vdata/ID_411.PNG",
+        "question": "My current location is Patuli Jheel Park.What are the nearest hospital from my current location?",
+        "choices": [
+            "Ruby General Hospital",
+            "Narayana Hospital - RN Tagore Hospital, Mukundapur",
+            "Narayana Hospital, Chunavati",
+            "Peerless Hospital"
+        ],
+        "answer": "Peerless Hospital",
+        "hint": "",
+        "image": "Vdata/ID_411.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    },
+    "91": {
+        "image_path": "Vdata/ID_433.PNG",
+        "question": "i am at KHORKHORI COMPLAIN CENTER.What is the nearest mosque to my location?",
+        "choices": [
+            "Kalumaria Mosque",
+            "Al Ihsan Jame Mosque",
+            "Komlapur Jame Masjid",
+            "Mollikpur mosque"
+        ],
+        "answer": "Kalumaria Mosque",
+        "hint": "",
+        "image": "Vdata/ID_433.PNG",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "nearby"
+    }
+}

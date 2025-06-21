@@ -1,0 +1,1154 @@
+{
+    "1": {
+        "context": "Information of <b>Athens</b>:\n- Location: Athens, Greece(37.9838, 23.7275).\n\nInformation of <b>Thessaloniki</b>:\n- Location: Thessaloniki, Greece(40.6401, 22.9444).\n\nInformation of <b>Crete</b>:\n- Location: Crete, Greece(35.2401, 24.8093).\n\nInformation of <b>Corfu</b>:\n- Location: Corfu, Greece(39.6243, 19.9217).\n\nInformation of <b>Rhodes</b>:\n- Location: Rhodes, Greece(36.4341, 28.2176).\n\n",
+        "question": "Which pair of places is farthest from each other in Greece?",
+        "choices": [
+            "Athens and Thessaloniki",
+            "Athens and Crete",
+            "Thessaloniki and Corfu",
+            "Athens and Rhodes"
+        ],
+        "answer": "Athens and Rhodes",
+        "hint": "",
+        "image": "Information of <b>Athens</b>:\n- Location: Athens, Greece(37.9838, 23.7275).\n\nInformation of <b>Thessaloniki</b>:\n- Location: Thessaloniki, Greece(40.6401, 22.9444).\n\nInformation of <b>Crete</b>:\n- Location: Crete, Greece(35.2401, 24.8093).\n\nInformation of <b>Corfu</b>:\n- Location: Corfu, Greece(39.6243, 19.9217).\n\nInformation of <b>Rhodes</b>:\n- Location: Rhodes, Greece(36.4341, 28.2176).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "589"
+    },
+    "2": {
+        "context": "Information of <b>Pantheon</b>:\n- Location: Piazza della Rotonda, 00186 Roma RM, Italy(41.8986, 12.4769).\n\nInformation of <b>Gran Caffè La Caffettiera</b>:\n- Location: P.za di Pietra, 65, 00186 Roma RM, Italy(41.9001, 12.4799).\n\nInformation of <b>Gran Caffè Rione VIII</b>:\n- Location: Via di S. Maria del Pianto, 59, 00186 Roma RM, Italy(41.8935, 12.4762).\n\nInformation of <b>Roscioli Caffè Pasticceria</b>:\n- Location: Piazza Benedetto Cairoli, 16, 00186 Roma RM, Italy(41.8941, 12.4744).\n\nInformation of <b>Manfrè Borse e Caffè</b>:\n- Location: Via dei Barbieri, 15, 00186 Roma RM, Italy(41.8953, 12.4752).\n\nInformation of <b>Trevi Fountain</b>:\n- Location: Piazza di Trevi, 00187 Roma RM, Italy(41.9009, 12.4833).\n\n",
+        "question": "Which coffee shop is situated between the Pantheon and the Trevi Fountain?",
+        "choices": [
+            "Gran Caffè La Caffettiera",
+            "Gran Caffè Rione VIII",
+            "Roscioli Caffè Pasticceria",
+            "Manfrè Borse e Caffè"
+        ],
+        "answer": "Gran Caffè La Caffettiera",
+        "hint": "",
+        "image": "Information of <b>Pantheon</b>:\n- Location: Piazza della Rotonda, 00186 Roma RM, Italy(41.8986, 12.4769).\n\nInformation of <b>Gran Caffè La Caffettiera</b>:\n- Location: P.za di Pietra, 65, 00186 Roma RM, Italy(41.9001, 12.4799).\n\nInformation of <b>Gran Caffè Rione VIII</b>:\n- Location: Via di S. Maria del Pianto, 59, 00186 Roma RM, Italy(41.8935, 12.4762).\n\nInformation of <b>Roscioli Caffè Pasticceria</b>:\n- Location: Piazza Benedetto Cairoli, 16, 00186 Roma RM, Italy(41.8941, 12.4744).\n\nInformation of <b>Manfrè Borse e Caffè</b>:\n- Location: Via dei Barbieri, 15, 00186 Roma RM, Italy(41.8953, 12.4752).\n\nInformation of <b>Trevi Fountain</b>:\n- Location: Piazza di Trevi, 00187 Roma RM, Italy(41.9009, 12.4833).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "518"
+    },
+    "3": {
+        "context": "Information of <b>Asador Etxebarri</b>:\n- Location: San Juan Plaza, 1, 48291 Axpe, Bizkaia, Spain.\n- Open: Monday: Closed, Tuesday: 1:00 – 2:30 PM, Wednesday: 1:00 – 2:30 PM, Thursday: 1:00 – 2:30 PM, Friday: 1:00 – 2:30 PM, Saturday: 1:00 – 2:30 PM, Sunday: 1:00 – 2:30 PM.\n- Rating: 4.4. (1585 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "question": "Is Asador Etxebarri open on Sunday?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>Asador Etxebarri</b>:\n- Location: San Juan Plaza, 1, 48291 Axpe, Bizkaia, Spain.\n- Open: Monday: Closed, Tuesday: 1:00 – 2:30 PM, Wednesday: 1:00 – 2:30 PM, Thursday: 1:00 – 2:30 PM, Friday: 1:00 – 2:30 PM, Saturday: 1:00 – 2:30 PM, Sunday: 1:00 – 2:30 PM.\n- Rating: 4.4. (1585 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "396"
+    },
+    "4": {
+        "context": "Information of <b>Tokyo National Museum</b>:\n- Location: 13-9 Uenokōen, Taito City, Tokyo 110-8712, Japan.\n- Open: Monday: Closed, Tuesday: 9:30 AM – 5:00 PM, Wednesday: 9:30 AM – 5:00 PM, Thursday: 9:30 AM – 5:00 PM, Friday: 9:30 AM – 8:00 PM, Saturday: 9:30 AM – 8:00 PM, Sunday: 9:30 AM – 5:00 PM.\n\nInformation of <b>Asakusa</b>:\n- Location: Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Sensō-ji</b>:\n- Location: 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Shabutatsu</b>:\n- Location: 4-chōme-18-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>BLACK PAPA</b>:\n- Location: 4-chōme-18-7 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Daikoku-ya</b>:\n- Location: 4-chōme-39-2 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Chakoru</b>:\n- Location: 4-chōme-14-6 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Dinner.\n\nInformation of <b>Hosoi</b>:\n- Location: 4-chōme-39-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Delivery Available.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nTravel Time from Tokyo National Museum to BLACK PAPA by car is 9 mins (2.4 km).\nTravel Time from BLACK PAPA to Sensō-ji by car is 7 mins (1.5 km).\nNearby Restaurants of Asakusa are (sorted by distance in ascending order):\n1. <b>Shabutatsu</b>\n   - Address: 4-chōme-18-9 Asakusa, Taito City.\n2. <b>BLACK PAPA</b>\n   - Address: 4-chōme-18-7 Asakusa, Taito City.\n3. <b>Daikoku-ya</b>\n   - Address: 4-chōme-39-2 Asakusa, Taito City.\n4. <b>Chakoru</b>\n   - Address: 4-chōme-14-6 Asakusa, Taito City.\n5. <b>Hosoi</b>\n   - Address: 4-chōme-39-9 Asakusa, Taito City.\n\n\n",
+        "question": "Is BLACK PAPA reservable?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>Tokyo National Museum</b>:\n- Location: 13-9 Uenokōen, Taito City, Tokyo 110-8712, Japan.\n- Open: Monday: Closed, Tuesday: 9:30 AM – 5:00 PM, Wednesday: 9:30 AM – 5:00 PM, Thursday: 9:30 AM – 5:00 PM, Friday: 9:30 AM – 8:00 PM, Saturday: 9:30 AM – 8:00 PM, Sunday: 9:30 AM – 5:00 PM.\n\nInformation of <b>Asakusa</b>:\n- Location: Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Sensō-ji</b>:\n- Location: 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Shabutatsu</b>:\n- Location: 4-chōme-18-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>BLACK PAPA</b>:\n- Location: 4-chōme-18-7 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Daikoku-ya</b>:\n- Location: 4-chōme-39-2 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Chakoru</b>:\n- Location: 4-chōme-14-6 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Dine In Available.\n- Reservable.\n- Serves Dinner.\n\nInformation of <b>Hosoi</b>:\n- Location: 4-chōme-39-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Delivery Available.\n- Dine In Available.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n\nTravel Time from Tokyo National Museum to BLACK PAPA by car is 9 mins (2.4 km).\nTravel Time from BLACK PAPA to Sensō-ji by car is 7 mins (1.5 km).\nNearby Restaurants of Asakusa are (sorted by distance in ascending order):\n1. <b>Shabutatsu</b>\n   - Address: 4-chōme-18-9 Asakusa, Taito City.\n2. <b>BLACK PAPA</b>\n   - Address: 4-chōme-18-7 Asakusa, Taito City.\n3. <b>Daikoku-ya</b>\n   - Address: 4-chōme-39-2 Asakusa, Taito City.\n4. <b>Chakoru</b>\n   - Address: 4-chōme-14-6 Asakusa, Taito City.\n5. <b>Hosoi</b>\n   - Address: 4-chōme-39-9 Asakusa, Taito City.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "380"
+    },
+    "5": {
+        "context": "Information of <b>Tashichho Dzong</b>:\n- Location: Tashichho Dzong, Thimphu 11001, Bhutan(27.4901, 89.6347).\n\nInformation of <b>National Library & Archives Of Bhutan</b>:\n- Location: PO Box 185, Pedzoe Lam, Thimphu, Bhutan(27.4833, 89.6326).\n\nInformation of <b>Buddha Dordenma Statue སྟོན་པ་རྡོར་གདན་མ།</b>:\n- Location: Kuenselphodrang, Thimphu, Bhutan(27.4435, 89.6453).\n\nInformation of <b>Royal Takin Preserve</b>:\n- Location: FJJ6+PH3, Bhutan(27.4818, 89.6114).\n\nInformation of <b>Changangkha Lhakhang ལྕང་སྒང་ཁ་ལྷ་ཁང་།</b>:\n- Location: FJFH+988, Changangkha Lhakhang Footpath, Thimphu, Bhutan(27.4734, 89.6283).\n\n",
+        "question": "Which landmark is located directly West of the Tashichho Dzong in Thimphu, Bhutan?",
+        "choices": [
+            "National Library of Bhutan",
+            "Buddha Dordenma",
+            "Royal Takin Preserve",
+            "Changangkha Lhakhang"
+        ],
+        "answer": "Royal Takin Preserve",
+        "hint": "",
+        "image": "Information of <b>Tashichho Dzong</b>:\n- Location: Tashichho Dzong, Thimphu 11001, Bhutan(27.4901, 89.6347).\n\nInformation of <b>National Library & Archives Of Bhutan</b>:\n- Location: PO Box 185, Pedzoe Lam, Thimphu, Bhutan(27.4833, 89.6326).\n\nInformation of <b>Buddha Dordenma Statue སྟོན་པ་རྡོར་གདན་མ།</b>:\n- Location: Kuenselphodrang, Thimphu, Bhutan(27.4435, 89.6453).\n\nInformation of <b>Royal Takin Preserve</b>:\n- Location: FJJ6+PH3, Bhutan(27.4818, 89.6114).\n\nInformation of <b>Changangkha Lhakhang ལྕང་སྒང་ཁ་ལྷ་ཁང་།</b>:\n- Location: FJFH+988, Changangkha Lhakhang Footpath, Thimphu, Bhutan(27.4734, 89.6283).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "572"
+    },
+    "6": {
+        "context": "Information of <b>Hortobágyi National Park</b>:\n- Location: Hungary(47.5225, 21.0916).\n\nInformation of <b>Debrecen</b>:\n- Location: Debrecen, Hungary(47.5289, 21.6254).\n\nInformation of <b>Buda Castle</b>:\n- Location: Budapest, Szent György tér, 1014 Hungary(47.4962, 19.0396).\n\nInformation of <b>Fisherman's Bastion</b>:\n- Location: Budapest, 1014 Hungary(47.5022, 19.0348).\n\nInformation of <b>Lake Balaton</b>:\n- Location: Lake Balaton, Hungary(46.8303, 17.7340).\n\nInformation of <b>Tihanyi-félsziget</b>:\n- Location: Tihany, Tihanyi-félsziget, 8237 Hungary(46.9167, 17.8833).\n\nInformation of <b>Széchenyi Thermal Bath</b>:\n- Location: Budapest, Állatkerti krt. 9-11, 1146 Hungary(47.5187, 19.0824).\n\nInformation of <b>Heroes' Square</b>:\n- Location: Budapest, Hősök tere, 1146 Hungary(47.5149, 19.0779).\n\n",
+        "question": "Which pair of places is closest to each other in Hungary?",
+        "choices": [
+            "Hortobágy National Park and Debrecen",
+            "Buda Castle and Fisherman's Bastion in Budapest",
+            "Lake Balaton and Tihanyi-félsziget",
+            "Széchenyi Thermal Bath and Heroes' Square in Budapest"
+        ],
+        "answer": "Széchenyi Thermal Bath and Heroes' Square in Budapest",
+        "hint": "",
+        "image": "Information of <b>Hortobágyi National Park</b>:\n- Location: Hungary(47.5225, 21.0916).\n\nInformation of <b>Debrecen</b>:\n- Location: Debrecen, Hungary(47.5289, 21.6254).\n\nInformation of <b>Buda Castle</b>:\n- Location: Budapest, Szent György tér, 1014 Hungary(47.4962, 19.0396).\n\nInformation of <b>Fisherman's Bastion</b>:\n- Location: Budapest, 1014 Hungary(47.5022, 19.0348).\n\nInformation of <b>Lake Balaton</b>:\n- Location: Lake Balaton, Hungary(46.8303, 17.7340).\n\nInformation of <b>Tihanyi-félsziget</b>:\n- Location: Tihany, Tihanyi-félsziget, 8237 Hungary(46.9167, 17.8833).\n\nInformation of <b>Széchenyi Thermal Bath</b>:\n- Location: Budapest, Állatkerti krt. 9-11, 1146 Hungary(47.5187, 19.0824).\n\nInformation of <b>Heroes' Square</b>:\n- Location: Budapest, Hősök tere, 1146 Hungary(47.5149, 19.0779).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "567"
+    },
+    "7": {
+        "context": "Information of <b>The Angel of Independence</b>:\n- Location: Av. P.º de la Reforma, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico(19.4270, -99.1677).\n\nInformation of <b>Chichén Itzá</b>:\n- Location: 97751 Yucatan, Mexico(20.6843, -88.5678).\n\n",
+        "question": "What is the straight-line distance between the Angel of Independence in Mexico City and the Chichen Itza ruins in Mexico?",
+        "choices": [
+            "989.45 km",
+            "1278.67 km",
+            "1010.34 km",
+            "1115.76 km"
+        ],
+        "answer": "1115.76 km",
+        "hint": "",
+        "image": "Information of <b>The Angel of Independence</b>:\n- Location: Av. P.º de la Reforma, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico(19.4270, -99.1677).\n\nInformation of <b>Chichén Itzá</b>:\n- Location: 97751 Yucatan, Mexico(20.6843, -88.5678).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "576"
+    },
+    "8": {
+        "context": "Information of <b>Obelisco</b>:\n- Location: Av. 9 de Julio s/n, C1043 Cdad. Autónoma de Buenos Aires, Argentina(-34.6037, -58.3816).\n\nInformation of <b>Casa Rosada</b>:\n- Location: Balcarce 78, C1064 Cdad. Autónoma de Buenos Aires, Argentina(-34.6081, -58.3703).\n\n",
+        "question": "What is the straight-line distance between the Obelisco and the Casa Rosada in Buenos Aires?",
+        "choices": [
+            "0.76 km",
+            "2.15 km",
+            "1.19 km",
+            "1.14 km"
+        ],
+        "answer": "1.14 km",
+        "hint": "",
+        "image": "Information of <b>Obelisco</b>:\n- Location: Av. 9 de Julio s/n, C1043 Cdad. Autónoma de Buenos Aires, Argentina(-34.6037, -58.3816).\n\nInformation of <b>Casa Rosada</b>:\n- Location: Balcarce 78, C1064 Cdad. Autónoma de Buenos Aires, Argentina(-34.6081, -58.3703).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "522"
+    },
+    "9": {
+        "context": "Information of <b>Charles Bridge</b>:\n- Location: Karlův most, 110 00 Praha 1, Czechia(50.0865, 14.4114).\n\nInformation of <b>Old Town Square</b>:\n- Location: Staroměstské nám., 110 00 Praha 1-Staré Město, Czechia(50.0876, 14.4212).\n\n",
+        "question": "What is the direction and straight-line distance from Charles Bridge to Old Town Square?",
+        "choices": [
+            "North, 0.6 km",
+            "East, 0.71 km",
+            "North, 1.6 km",
+            "South, 2.1 km"
+        ],
+        "answer": "East, 0.71 km",
+        "hint": "",
+        "image": "Information of <b>Charles Bridge</b>:\n- Location: Karlův most, 110 00 Praha 1, Czechia(50.0865, 14.4114).\n\nInformation of <b>Old Town Square</b>:\n- Location: Staroměstské nám., 110 00 Praha 1-Staré Město, Czechia(50.0876, 14.4212).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "586"
+    },
+    "10": {
+        "context": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Rating: 4.1. (43 ratings).\n- Price Level: Expensive.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "question": "What's the rating of The Blue Door Bistro?",
+        "choices": [
+            "3.6",
+            "3.9",
+            "4.1",
+            "4.4"
+        ],
+        "answer": "4.1",
+        "hint": "",
+        "image": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Rating: 4.1. (43 ratings).\n- Price Level: Expensive.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "382"
+    },
+    "11": {
+        "context": "Information of <b>Belém Tower</b>:\n- Location: Av. Brasília, 1400-038 Lisboa, Portugal(38.6916, -9.2160).\n\nInformation of <b>Sanctuary of Our Lady of Fátima</b>:\n- Location: Cova da Iria, 2495 Fátima, Portugal(39.6313, -8.6732).\n\n",
+        "question": "What is the straight-line distance between the Belem Tower in Lisbon and the Sanctuary of Our Lady of Fátima in Fátima, Portugal?",
+        "choices": [
+            "156.12 km",
+            "78.16 km",
+            "114.49 km",
+            "87.26 km"
+        ],
+        "answer": "114.49 km",
+        "hint": "",
+        "image": "Information of <b>Belém Tower</b>:\n- Location: Av. Brasília, 1400-038 Lisboa, Portugal(38.6916, -9.2160).\n\nInformation of <b>Sanctuary of Our Lady of Fátima</b>:\n- Location: Cova da Iria, 2495 Fátima, Portugal(39.6313, -8.6732).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "577"
+    },
+    "12": {
+        "context": "Information of <b>Viking Ship Museum</b>:\n- Location: Huk Aveny 35, 0287 Oslo, Norway(59.9049, 10.6844).\n\nInformation of <b>Oslo Central Station</b>:\n- Location: Jernbanetorget 1, 0154 Oslo, Norway(59.9111, 10.7525).\n\n",
+        "question": "What is the direction of the Viking Ship Museum from Oslo Central Station?",
+        "choices": [
+            "West",
+            "East",
+            "North",
+            "South"
+        ],
+        "answer": "West",
+        "hint": "",
+        "image": "Information of <b>Viking Ship Museum</b>:\n- Location: Huk Aveny 35, 0287 Oslo, Norway(59.9049, 10.6844).\n\nInformation of <b>Oslo Central Station</b>:\n- Location: Jernbanetorget 1, 0154 Oslo, Norway(59.9111, 10.7525).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "578"
+    },
+    "13": {
+        "context": "Information of <b>Petronas Twin Towers</b>:\n- Location: Lower Ground (Concourse) Level, Menara Berkembar Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia(3.1575, 101.7116).\n\nInformation of <b>KLCC Park</b>:\n- Location: City Centre, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia(3.1556, 101.7148).\n\nInformation of <b>George Town</b>:\n- Location: George Town, Penang, Malaysia(5.4141, 100.3285).\n\nInformation of <b>Kek Lok Si Temple</b>:\n- Location: Jln Balik Pulau, 11500 Ayer Itam, Pulau Pinang, Malaysia(5.3996, 100.2736).\n\nInformation of <b>Taman Negara National Park</b>:\n- Location: 27000 Kuala Tahan, Pahang, Malaysia(4.3851, 102.4004).\n\nInformation of <b>Orang Asli Village Kemensah</b>:\n- Location: 68000, Selangor, Malaysia(3.2261, 101.7775).\n\nInformation of <b>Mount Kinabalu</b>:\n- Location: Mount Kinabalu, Ranau, Sabah, Malaysia(6.0753, 116.5588).\n\nInformation of <b>Poring Hot Spring</b>:\n- Location: 89300 Ranau, Sabah, Malaysia(6.0457, 116.7034).\n\n",
+        "question": "Which pair of places is closest to each other in Malaysia?",
+        "choices": [
+            "Petronas Twin Towers and KLCC Park in Kuala Lumpur",
+            "George Town and Kek Lok Si Temple in Penang",
+            "Taman Negara National Park and Orang Asli Village",
+            "Mount Kinabalu and Poring Hot Springs in Sabah"
+        ],
+        "answer": "Petronas Twin Towers and KLCC Park in Kuala Lumpur",
+        "hint": "",
+        "image": "Information of <b>Petronas Twin Towers</b>:\n- Location: Lower Ground (Concourse) Level, Menara Berkembar Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia(3.1575, 101.7116).\n\nInformation of <b>KLCC Park</b>:\n- Location: City Centre, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia(3.1556, 101.7148).\n\nInformation of <b>George Town</b>:\n- Location: George Town, Penang, Malaysia(5.4141, 100.3285).\n\nInformation of <b>Kek Lok Si Temple</b>:\n- Location: Jln Balik Pulau, 11500 Ayer Itam, Pulau Pinang, Malaysia(5.3996, 100.2736).\n\nInformation of <b>Taman Negara National Park</b>:\n- Location: 27000 Kuala Tahan, Pahang, Malaysia(4.3851, 102.4004).\n\nInformation of <b>Orang Asli Village Kemensah</b>:\n- Location: 68000, Selangor, Malaysia(3.2261, 101.7775).\n\nInformation of <b>Mount Kinabalu</b>:\n- Location: Mount Kinabalu, Ranau, Sabah, Malaysia(6.0753, 116.5588).\n\nInformation of <b>Poring Hot Spring</b>:\n- Location: 89300 Ranau, Sabah, Malaysia(6.0457, 116.7034).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "566"
+    },
+    "14": {
+        "context": "Information of <b>Marina Bay Sands Singapore</b>:\n- Location: 10 Bayfront Ave, Singapore 018956(1.2838, 103.8591).\n\nInformation of <b>Sentosa</b>:\n- Location: Sentosa, Singapore(1.2494, 103.8303).\n\n",
+        "question": "What is the straight-line distance between Marina Bay Sands and Sentosa Island in Singapore?",
+        "choices": [
+            "5.32 km",
+            "3.99 km",
+            "4.59 km",
+            "4.99 km"
+        ],
+        "answer": "4.99 km",
+        "hint": "",
+        "image": "Information of <b>Marina Bay Sands Singapore</b>:\n- Location: 10 Bayfront Ave, Singapore 018956(1.2838, 103.8591).\n\nInformation of <b>Sentosa</b>:\n- Location: Sentosa, Singapore(1.2494, 103.8303).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "539"
+    },
+    "15": {
+        "context": "Information of <b>Café De Tacuba</b>:\n- Location: C. de Tacuba 28, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico(19.4359, -99.1376).\n\nInformation of <b>Palacio de Bellas Artes</b>:\n- Location: Av. Juarez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico(19.4352, -99.1412).\n\nInformation of <b>Café del Centro</b>:\n- Location: Donceles 96b, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, Mexico(19.4359, -99.1328).\n\nInformation of <b>Café Entre Palmas</b>:\n- Location: Calle Palma Nte. 506-Local 3, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico(19.4372, -99.1348).\n\nInformation of <b>Café La Pagoda</b>:\n- Location: Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico(19.4347, -99.1396).\n\nInformation of <b>Café Xanah</b>:\n- Location: Belisario Domínguez 49, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico(19.4379, -99.1364).\n\n",
+        "question": "Which coffee shop is situated between Café de Tacuba and Palacio de Bellas Artes?",
+        "choices": [
+            "Café del Centro, Donceles 96b, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, Mexico",
+            "Café Entre Palmas, Calle Palma Nte. 506-Local 3, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+            "Café La Pagoda, Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+            "Café Xanah, Belisario Domínguez 49, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico"
+        ],
+        "answer": "Café La Pagoda, Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+        "hint": "",
+        "image": "Information of <b>Café De Tacuba</b>:\n- Location: C. de Tacuba 28, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico(19.4359, -99.1376).\n\nInformation of <b>Palacio de Bellas Artes</b>:\n- Location: Av. Juarez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico(19.4352, -99.1412).\n\nInformation of <b>Café del Centro</b>:\n- Location: Donceles 96b, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, Mexico(19.4359, -99.1328).\n\nInformation of <b>Café Entre Palmas</b>:\n- Location: Calle Palma Nte. 506-Local 3, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico(19.4372, -99.1348).\n\nInformation of <b>Café La Pagoda</b>:\n- Location: Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico(19.4347, -99.1396).\n\nInformation of <b>Café Xanah</b>:\n- Location: Belisario Domínguez 49, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico(19.4379, -99.1364).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "519"
+    },
+    "16": {
+        "context": "Information of <b>Atomium</b>:\n- Location: Pl. de l'Atomium 1, 1020 Bruxelles, Belgium(50.8949, 4.3416).\n\nInformation of <b>Brussels Airport</b>:\n- Location: Leopoldlaan, 1930 Zaventem, Belgium(50.9002, 4.4859).\n\n",
+        "question": "What is the direction and straight-line distance from the Atomium to Brussels Airport?",
+        "choices": [
+            "North, 20.54 kilometers",
+            "East, 10.14 kilometers",
+            "East, 14.14 kilometers",
+            "North, 12.67 kilometers"
+        ],
+        "answer": "East, 10.14 kilometers",
+        "hint": "",
+        "image": "Information of <b>Atomium</b>:\n- Location: Pl. de l'Atomium 1, 1020 Bruxelles, Belgium(50.8949, 4.3416).\n\nInformation of <b>Brussels Airport</b>:\n- Location: Leopoldlaan, 1930 Zaventem, Belgium(50.9002, 4.4859).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "584"
+    },
+    "17": {
+        "context": "Information of <b>National Gallery of Zimbabwe</b>:\n- Location: 20 Julius Nyerere Way, Park Ln, Harare, Zimbabwe(-17.8249, 31.0490).\n\nInformation of <b>Robert Gabriel Mugabe International Airport</b>:\n- Location: Airport Rd, Harare, Zimbabwe(-17.9186, 31.0989).\n\n",
+        "question": "What is the direction and straight-line distance from the National Gallery of Zimbabwe to Robert Gabriel Mugabe International Airport?",
+        "choices": [
+            "South, 13.45 kilometers",
+            "East, 13.56 kilometers",
+            "South, 11.68 kilometers",
+            "East, 5.69 kilometers"
+        ],
+        "answer": "South, 11.68 kilometers",
+        "hint": "",
+        "image": "Information of <b>National Gallery of Zimbabwe</b>:\n- Location: 20 Julius Nyerere Way, Park Ln, Harare, Zimbabwe(-17.8249, 31.0490).\n\nInformation of <b>Robert Gabriel Mugabe International Airport</b>:\n- Location: Airport Rd, Harare, Zimbabwe(-17.9186, 31.0989).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "583"
+    },
+    "18": {
+        "context": "POIs for query \"Restaurants in Dhanmondi\" are:\n1. Deck 13 - Navana GH Heights, House 67 Satmasjid Road, Dhaka 1209, Bangladesh\n2. Alfresco Dhanmondi - Rangs Nasim Square, H.No 275/D (Old), 46 kha (new), 2nd Floor, Road No 16, Dhaka 1209, Bangladesh\n3. Sultan's Dine, Dhanmondi Branch - 146/G (Old), 59, Green Akshay Plaza, 1st Floor, New Satmasjid Road, Dhaka 1209, Bangladesh\n4. Xinxian Restaurant - House no. 7, Road no. 8, Dhanmondi, Dhaka 1205, Bangladesh\n5. Sugar & Spice - House- 40, Road- 27, Dhanmondi, Dhaka 1205, Bangladesh\n6. Sabroso live - House 45 Road No 16, Dhaka 1209, Bangladesh\n7. Pinewood Cafe n' Restaurant - House no: 19, Rd No 12, Dhaka 1209, Bangladesh\n8. Chillox Dhanmondi - Level - 3, AMM Center, 56/A Rd 3A, Dhaka 1209, Bangladesh\n9. Four Seasons Restaurant - new, 27, House No. 59 A, Road No. 16, Old Satmasjid Road, Dhaka 1209, Bangladesh\n10. Bella Italia - Dhanmondi - Dhanmondi ADC Empire Plaza, (1st Floor), Plot 91, Road 12/A, Satmasjid Road, Opposite Pizza Hut, Dhanmondi, Dhaka 1209, Bangladesh\n11. Handi | Dhanmondi - 9/A , Rupayan Z.R Plaza, Level - 2 Road No. New 46, Satmasjid Road, Dhaka 1209, Bangladesh\n12. Madchef Dhanmondi - House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh\n13. Royal Buffet ~ Dhanmondi - House#8/A, Road#4, Royal Palaza (5th Floor), Mirpur Rd, Dhaka 1205, Bangladesh\n14. Garlic 'n Ginger ~ Dhanmondi - 7th floor, House: 54, 10/A Satmasjid Road, Dhaka 1209, Bangladesh\n15. Arabian Nights Restaurant - Shimanto Shambhar - Shimanto Shambhar, Dhanmondi shimanto square shopping mall, 1205, Bangladesh\n16. Cilantro - 49 Satmasjid Road, Dhaka 1209, Bangladesh\n17. Boomers Café - Anam Rangs Plaza, (3rd Floor House No:61, Rd No:6/A, Dhaka 1209, Bangladesh\n18. Yum Cha District - Level 5, Hs 42 & 43, 9/A Satmasjid Road, Dhaka 1209, Bangladesh\n19. Rustic Eatery - House no, 36 Road No. 9A, Dhaka 1209, Bangladesh\n20. Pinewood: Cafe + Kitchen Dhanmondi, Road-6 - 4 Road No 6, Dhaka 1205, Bangladesh\n",
+        "question": "I am looking for a restaurant in Dhanmondi named Madchef. Give me the full address.",
+        "choices": [
+            "House#8/A, Road#4, Royal Palaza (5th Floor), Mirpur Rd, Dhaka 1205, Bangladesh",
+            "House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh",
+            "9/A , Rupayan Z.R Plaza, Level - 2 Road No. New 46, Satmasjid Road, Dhaka 1209, Bangladesh",
+            "Dhanmondi ADC Empire Plaza, (1st Floor), Plot 91, Road 12/A, Satmasjid Road, Opposite Pizza Hut, Dhanmondi, Dhaka 1209, Bangladesh"
+        ],
+        "answer": "House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh",
+        "hint": "",
+        "image": "POIs for query \"Restaurants in Dhanmondi\" are:\n1. Deck 13 - Navana GH Heights, House 67 Satmasjid Road, Dhaka 1209, Bangladesh\n2. Alfresco Dhanmondi - Rangs Nasim Square, H.No 275/D (Old), 46 kha (new), 2nd Floor, Road No 16, Dhaka 1209, Bangladesh\n3. Sultan's Dine, Dhanmondi Branch - 146/G (Old), 59, Green Akshay Plaza, 1st Floor, New Satmasjid Road, Dhaka 1209, Bangladesh\n4. Xinxian Restaurant - House no. 7, Road no. 8, Dhanmondi, Dhaka 1205, Bangladesh\n5. Sugar & Spice - House- 40, Road- 27, Dhanmondi, Dhaka 1205, Bangladesh\n6. Sabroso live - House 45 Road No 16, Dhaka 1209, Bangladesh\n7. Pinewood Cafe n' Restaurant - House no: 19, Rd No 12, Dhaka 1209, Bangladesh\n8. Chillox Dhanmondi - Level - 3, AMM Center, 56/A Rd 3A, Dhaka 1209, Bangladesh\n9. Four Seasons Restaurant - new, 27, House No. 59 A, Road No. 16, Old Satmasjid Road, Dhaka 1209, Bangladesh\n10. Bella Italia - Dhanmondi - Dhanmondi ADC Empire Plaza, (1st Floor), Plot 91, Road 12/A, Satmasjid Road, Opposite Pizza Hut, Dhanmondi, Dhaka 1209, Bangladesh\n11. Handi | Dhanmondi - 9/A , Rupayan Z.R Plaza, Level - 2 Road No. New 46, Satmasjid Road, Dhaka 1209, Bangladesh\n12. Madchef Dhanmondi - House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh\n13. Royal Buffet ~ Dhanmondi - House#8/A, Road#4, Royal Palaza (5th Floor), Mirpur Rd, Dhaka 1205, Bangladesh\n14. Garlic 'n Ginger ~ Dhanmondi - 7th floor, House: 54, 10/A Satmasjid Road, Dhaka 1209, Bangladesh\n15. Arabian Nights Restaurant - Shimanto Shambhar - Shimanto Shambhar, Dhanmondi shimanto square shopping mall, 1205, Bangladesh\n16. Cilantro - 49 Satmasjid Road, Dhaka 1209, Bangladesh\n17. Boomers Café - Anam Rangs Plaza, (3rd Floor House No:61, Rd No:6/A, Dhaka 1209, Bangladesh\n18. Yum Cha District - Level 5, Hs 42 & 43, 9/A Satmasjid Road, Dhaka 1209, Bangladesh\n19. Rustic Eatery - House no, 36 Road No. 9A, Dhaka 1209, Bangladesh\n20. Pinewood: Cafe + Kitchen Dhanmondi, Road-6 - 4 Road No 6, Dhaka 1205, Bangladesh\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "255"
+    },
+    "19": {
+        "context": "Information of <b>Starbucks</b>:\n- Location: Calle de la Princesa, 40, Centro, 28008 Madrid, Spain.\n- Rating: 4. (1232 ratings).\n- Price Level: Moderate.\n- Serves Breakfast.\n- Serves Lunch.\n- Serves Dinner.\n- Takeout Available.\n\n",
+        "question": "Is takeout available at the Starbucks on Calle de la Princesa, 40, Centro?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>Starbucks</b>:\n- Location: Calle de la Princesa, 40, Centro, 28008 Madrid, Spain.\n- Rating: 4. (1232 ratings).\n- Price Level: Moderate.\n- Serves Breakfast.\n- Serves Lunch.\n- Serves Dinner.\n- Takeout Available.\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "412"
+    },
+    "20": {
+        "context": "Information of <b>İstanbul</b>:\n- Location: İstanbul, Türkiye.\n\nInformation of <b>Hagia Sophia Grand Mosque</b>:\n- Location: Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/İstanbul, Türkiye.\n- Open: Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours.\n\nInformation of <b>The Blue Mosque</b>:\n- Location: Binbirdirek, At Meydanı Cd No:10, 34122 Fatih/İstanbul, Türkiye.\n\nInformation of <b>Grand Bazaar</b>:\n- Location: Beyazıt, 34126 Fatih/İstanbul, Türkiye.\n- Open: Monday: 8:30 AM – 7:00 PM, Tuesday: 8:30 AM – 7:00 PM, Wednesday: 8:30 AM – 7:00 PM, Thursday: 8:30 AM – 7:00 PM, Friday: 8:30 AM – 7:00 PM, Saturday: 8:30 AM – 7:00 PM, Sunday: Closed.\n\nTravel Time from Hagia Sophia Grand Mosque to The Blue Mosque by public transport is 4 mins (0.3 km).\nTravel Time from Hagia Sophia Grand Mosque to Grand Bazaar by public transport is 14 mins (1.2 km).\nTravel Time from The Blue Mosque to Hagia Sophia Grand Mosque by public transport is 4 mins (0.3 km).\nTravel Time from The Blue Mosque to Grand Bazaar by public transport is 13 mins (1.1 km).\nTravel Time from Grand Bazaar to Hagia Sophia Grand Mosque by public transport is 13 mins (1.2 km).\nTravel Time from Grand Bazaar to The Blue Mosque by public transport is 12 mins (1.1 km).\n",
+        "question": "Is the Grand Bazaar open at 6:00 PM Tuesday?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>İstanbul</b>:\n- Location: İstanbul, Türkiye.\n\nInformation of <b>Hagia Sophia Grand Mosque</b>:\n- Location: Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/İstanbul, Türkiye.\n- Open: Monday: Open 24 hours, Tuesday: Open 24 hours, Wednesday: Open 24 hours, Thursday: Open 24 hours, Friday: Open 24 hours, Saturday: Open 24 hours, Sunday: Open 24 hours.\n\nInformation of <b>The Blue Mosque</b>:\n- Location: Binbirdirek, At Meydanı Cd No:10, 34122 Fatih/İstanbul, Türkiye.\n\nInformation of <b>Grand Bazaar</b>:\n- Location: Beyazıt, 34126 Fatih/İstanbul, Türkiye.\n- Open: Monday: 8:30 AM – 7:00 PM, Tuesday: 8:30 AM – 7:00 PM, Wednesday: 8:30 AM – 7:00 PM, Thursday: 8:30 AM – 7:00 PM, Friday: 8:30 AM – 7:00 PM, Saturday: 8:30 AM – 7:00 PM, Sunday: Closed.\n\nTravel Time from Hagia Sophia Grand Mosque to The Blue Mosque by public transport is 4 mins (0.3 km).\nTravel Time from Hagia Sophia Grand Mosque to Grand Bazaar by public transport is 14 mins (1.2 km).\nTravel Time from The Blue Mosque to Hagia Sophia Grand Mosque by public transport is 4 mins (0.3 km).\nTravel Time from The Blue Mosque to Grand Bazaar by public transport is 13 mins (1.1 km).\nTravel Time from Grand Bazaar to Hagia Sophia Grand Mosque by public transport is 13 mins (1.2 km).\nTravel Time from Grand Bazaar to The Blue Mosque by public transport is 12 mins (1.1 km).\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "387"
+    },
+    "21": {
+        "context": "Information of <b>Tokyo National Museum</b>:\n- Location: 13-9 Uenokōen, Taito City, Tokyo 110-8712, Japan.\n- Open: Monday: Closed, Tuesday: 9:30 AM – 5:00 PM, Wednesday: 9:30 AM – 5:00 PM, Thursday: 9:30 AM – 5:00 PM, Friday: 9:30 AM – 8:00 PM, Saturday: 9:30 AM – 8:00 PM, Sunday: 9:30 AM – 5:00 PM.\n\nInformation of <b>Asakusa</b>:\n- Location: Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Sensō-ji</b>:\n- Location: 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Shabutatsu</b>:\n- Location: 4-chōme-18-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>BLACK PAPA</b>:\n- Location: 4-chōme-18-7 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Daikoku-ya</b>:\n- Location: 4-chōme-39-2 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Chakoru</b>:\n- Location: 4-chōme-14-6 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Dinner.\n\nInformation of <b>Hosoi</b>:\n- Location: 4-chōme-39-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nTravel Time from Tokyo National Museum to BLACK PAPA by car is 9 mins (2.4 km).\nTravel Time from BLACK PAPA to Sensō-ji by car is 7 mins (1.5 km).\nNearby Restaurants of Asakusa are (sorted by distance in ascending order):\n1. <b>Shabutatsu</b>\n   - Address: 4-chōme-18-9 Asakusa, Taito City.\n2. <b>BLACK PAPA</b>\n   - Address: 4-chōme-18-7 Asakusa, Taito City.\n3. <b>Daikoku-ya</b>\n   - Address: 4-chōme-39-2 Asakusa, Taito City.\n4. <b>Chakoru</b>\n   - Address: 4-chōme-14-6 Asakusa, Taito City.\n5. <b>Hosoi</b>\n   - Address: 4-chōme-39-9 Asakusa, Taito City.\n\n\n",
+        "question": "Does Chakoru serves lunch?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "No",
+        "hint": "",
+        "image": "Information of <b>Tokyo National Museum</b>:\n- Location: 13-9 Uenokōen, Taito City, Tokyo 110-8712, Japan.\n- Open: Monday: Closed, Tuesday: 9:30 AM – 5:00 PM, Wednesday: 9:30 AM – 5:00 PM, Thursday: 9:30 AM – 5:00 PM, Friday: 9:30 AM – 8:00 PM, Saturday: 9:30 AM – 8:00 PM, Sunday: 9:30 AM – 5:00 PM.\n\nInformation of <b>Asakusa</b>:\n- Location: Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Sensō-ji</b>:\n- Location: 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Shabutatsu</b>:\n- Location: 4-chōme-18-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>BLACK PAPA</b>:\n- Location: 4-chōme-18-7 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Daikoku-ya</b>:\n- Location: 4-chōme-39-2 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Chakoru</b>:\n- Location: 4-chōme-14-6 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Dinner.\n\nInformation of <b>Hosoi</b>:\n- Location: 4-chōme-39-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nTravel Time from Tokyo National Museum to BLACK PAPA by car is 9 mins (2.4 km).\nTravel Time from BLACK PAPA to Sensō-ji by car is 7 mins (1.5 km).\nNearby Restaurants of Asakusa are (sorted by distance in ascending order):\n1. <b>Shabutatsu</b>\n   - Address: 4-chōme-18-9 Asakusa, Taito City.\n2. <b>BLACK PAPA</b>\n   - Address: 4-chōme-18-7 Asakusa, Taito City.\n3. <b>Daikoku-ya</b>\n   - Address: 4-chōme-39-2 Asakusa, Taito City.\n4. <b>Chakoru</b>\n   - Address: 4-chōme-14-6 Asakusa, Taito City.\n5. <b>Hosoi</b>\n   - Address: 4-chōme-39-9 Asakusa, Taito City.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "379"
+    },
+    "22": {
+        "context": "Information of <b>Central Park</b>:\n- Location: 00630 Helsinki, Finland(60.2242, 24.9185).\n\nInformation of <b>The National Museum of Finland</b>:\n- Location: Mannerheimintie 34, 00100 Helsinki, Finland(60.1749, 24.9320).\n\nInformation of <b>Kallio church</b>:\n- Location: Itäinen Papinkatu 2, 00530 Helsinki, Finland(60.1842, 24.9493).\n\nInformation of <b>Helsinki Olympic Stadium</b>:\n- Location: Paavo Nurmen tie 1, 00250 Helsinki, Finland(60.1872, 24.9268).\n\nInformation of <b>Linnanmäki</b>:\n- Location: Tivolikuja 1, 00510 Helsinki, Finland(60.1883, 24.9404).\n\nInformation of <b>Helsinki Cathedral</b>:\n- Location: Unioninkatu 29, 00170 Helsinki, Finland(60.1704, 24.9521).\n\nInformation of <b>Esplanadi</b>:\n- Location: Pohjoisesplanadi, 00130 Helsinki, Finland(60.1675, 24.9476).\n\n",
+        "question": " Which landmark is located directly West of Esplanadi Park in Helsinki?",
+        "choices": [
+            "The National Museum of Finland",
+            "Kallio Church",
+            "Helsinki Cathedral",
+            "Linnanmäki Amusement Park"
+        ],
+        "answer": "The National Museum of Finland",
+        "hint": "",
+        "image": "Information of <b>Central Park</b>:\n- Location: 00630 Helsinki, Finland(60.2242, 24.9185).\n\nInformation of <b>The National Museum of Finland</b>:\n- Location: Mannerheimintie 34, 00100 Helsinki, Finland(60.1749, 24.9320).\n\nInformation of <b>Kallio church</b>:\n- Location: Itäinen Papinkatu 2, 00530 Helsinki, Finland(60.1842, 24.9493).\n\nInformation of <b>Helsinki Olympic Stadium</b>:\n- Location: Paavo Nurmen tie 1, 00250 Helsinki, Finland(60.1872, 24.9268).\n\nInformation of <b>Linnanmäki</b>:\n- Location: Tivolikuja 1, 00510 Helsinki, Finland(60.1883, 24.9404).\n\nInformation of <b>Helsinki Cathedral</b>:\n- Location: Unioninkatu 29, 00170 Helsinki, Finland(60.1704, 24.9521).\n\nInformation of <b>Esplanadi</b>:\n- Location: Pohjoisesplanadi, 00130 Helsinki, Finland(60.1675, 24.9476).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "568"
+    },
+    "23": {
+        "context": "Information of <b>Warsaw</b>:\n- Location: Warsaw, Poland(52.2297, 21.0122).\n\nInformation of <b>Kraków</b>:\n- Location: Kraków, Poland(50.0647, 19.9450).\n\nInformation of <b>Gdańsk</b>:\n- Location: Gdańsk, Poland(54.3520, 18.6466).\n\nInformation of <b>Wrocław</b>:\n- Location: Wrocław, Poland(51.1093, 17.0386).\n\n",
+        "question": "Which pair of places is farthest from each other in Poland?",
+        "choices": [
+            "Warsaw and Kraków : 251.98 km",
+            "Warsaw and Gdańsk : 283.54 km",
+            "Gdańsk and Wrocław : 376.45 km",
+            "Kraków and Wrocław"
+        ],
+        "answer": "Gdańsk and Wrocław : 376.45 km",
+        "hint": "",
+        "image": "Information of <b>Warsaw</b>:\n- Location: Warsaw, Poland(52.2297, 21.0122).\n\nInformation of <b>Kraków</b>:\n- Location: Kraków, Poland(50.0647, 19.9450).\n\nInformation of <b>Gdańsk</b>:\n- Location: Gdańsk, Poland(54.3520, 18.6466).\n\nInformation of <b>Wrocław</b>:\n- Location: Wrocław, Poland(51.1093, 17.0386).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "590"
+    },
+    "24": {
+        "context": "Information of <b>Central Park</b>:\n- Location: New York, NY, USA(40.7826, -73.9656).\n\nInformation of <b>Solomon R. Guggenheim Museum</b>:\n- Location: 1071 5th Ave, New York, NY 10128, USA(40.7830, -73.9590).\n\nInformation of <b>Times Square</b>:\n- Location: Manhattan, NY 10036, USA(40.7580, -73.9855).\n\nInformation of <b>The Metropolitan Museum of Art</b>:\n- Location: 1000 5th Ave, New York, NY 10028, USA(40.7794, -73.9632).\n\nInformation of <b>Rockefeller Center</b>:\n- Location: 45 Rockefeller Plaza, New York, NY 10111, USA(40.7587, -73.9787).\n\nInformation of <b>American Museum of Natural History</b>:\n- Location: 200 Central Park W, New York, NY 10024, USA(40.7813, -73.9740).\n\nInformation of <b>Upper West Side</b>:\n- Location: Upper West Side, New York, NY, USA(40.7870, -73.9754).\n\nInformation of <b>Columbia University</b>:\n- Location: 116th and Broadway, New York, NY 10027, USA(40.8075, -73.9626).\n\n",
+        "question": "Which landmark is located directly north of Central Park in New York City?",
+        "choices": [
+            "The Guggenheim Museum",
+            "Times Square",
+            "Columbia University",
+            "Rockefeller Center"
+        ],
+        "answer": "Columbia University",
+        "hint": "",
+        "image": "Information of <b>Central Park</b>:\n- Location: New York, NY, USA(40.7826, -73.9656).\n\nInformation of <b>Solomon R. Guggenheim Museum</b>:\n- Location: 1071 5th Ave, New York, NY 10128, USA(40.7830, -73.9590).\n\nInformation of <b>Times Square</b>:\n- Location: Manhattan, NY 10036, USA(40.7580, -73.9855).\n\nInformation of <b>The Metropolitan Museum of Art</b>:\n- Location: 1000 5th Ave, New York, NY 10028, USA(40.7794, -73.9632).\n\nInformation of <b>Rockefeller Center</b>:\n- Location: 45 Rockefeller Plaza, New York, NY 10111, USA(40.7587, -73.9787).\n\nInformation of <b>American Museum of Natural History</b>:\n- Location: 200 Central Park W, New York, NY 10024, USA(40.7813, -73.9740).\n\nInformation of <b>Upper West Side</b>:\n- Location: Upper West Side, New York, NY, USA(40.7870, -73.9754).\n\nInformation of <b>Columbia University</b>:\n- Location: 116th and Broadway, New York, NY 10027, USA(40.8075, -73.9626).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "506"
+    },
+    "25": {
+        "context": "Information of <b>Victoria Falls</b>:\n- Location: Victoria Falls, Zimbabwe(-17.9316, 25.8302).\n\nInformation of <b>Harare</b>:\n- Location: Harare, Zimbabwe(-17.8263, 31.0504).\n\n",
+        "question": "What is the direction of Victoria Falls from Harare?",
+        "choices": [
+            "East",
+            "West",
+            "North",
+            "South"
+        ],
+        "answer": "West",
+        "hint": "",
+        "image": "Information of <b>Victoria Falls</b>:\n- Location: Victoria Falls, Zimbabwe(-17.9316, 25.8302).\n\nInformation of <b>Harare</b>:\n- Location: Harare, Zimbabwe(-17.8263, 31.0504).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "556"
+    },
+    "26": {
+        "context": "Information of <b>Asador Etxebarri</b>:\n- Location: San Juan Plaza, 1, 48291 Axpe, Bizkaia, Spain.\n- Open: Monday: Closed, Tuesday: 1:00 – 2:30 PM, Wednesday: 1:00 – 2:30 PM, Thursday: 1:00 – 2:30 PM, Friday: 1:00 – 2:30 PM, Saturday: 1:00 – 2:30 PM, Sunday: 1:00 – 2:30 PM.\n- Rating: 4.4. (1585 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "question": "Is Asador Etxebarri open on Monday?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "No",
+        "hint": "",
+        "image": "Information of <b>Asador Etxebarri</b>:\n- Location: San Juan Plaza, 1, 48291 Axpe, Bizkaia, Spain.\n- Open: Monday: Closed, Tuesday: 1:00 – 2:30 PM, Wednesday: 1:00 – 2:30 PM, Thursday: 1:00 – 2:30 PM, Friday: 1:00 – 2:30 PM, Saturday: 1:00 – 2:30 PM, Sunday: 1:00 – 2:30 PM.\n- Rating: 4.4. (1585 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "397"
+    },
+    "27": {
+        "context": "Information of <b>Budapest</b>:\n- Location: Budapest, Hungary(47.4979, 19.0402).\n\nInformation of <b>Debrecen</b>:\n- Location: Debrecen, Hungary(47.5289, 21.6254).\n\nInformation of <b>Pécs</b>:\n- Location: Pécs, Hungary(46.0727, 18.2323).\n\nInformation of <b>Szeged</b>:\n- Location: Szeged, Hungary(46.2530, 20.1414).\n\n",
+        "question": "Which pair of places is farthest from each other in Hungary?",
+        "choices": [
+            "Budapest and Debrecen",
+            "Budapest and Szeged",
+            "Budapest and Pécs",
+            "Debrecen and Szeged"
+        ],
+        "answer": "Budapest and Debrecen",
+        "hint": "",
+        "image": "Information of <b>Budapest</b>:\n- Location: Budapest, Hungary(47.4979, 19.0402).\n\nInformation of <b>Debrecen</b>:\n- Location: Debrecen, Hungary(47.5289, 21.6254).\n\nInformation of <b>Pécs</b>:\n- Location: Pécs, Hungary(46.0727, 18.2323).\n\nInformation of <b>Szeged</b>:\n- Location: Szeged, Hungary(46.2530, 20.1414).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "592"
+    },
+    "28": {
+        "context": "Information of <b>Blarney Castle & Gardens</b>:\n- Location: Blarney, Cork, Ireland(51.9291, -8.5709).\n\nInformation of <b>Cork</b>:\n- Location: Cork, Ireland(51.8985, -8.4756).\n\n",
+        "question": "What is the direction of the Blarney Castle from Cork City?",
+        "choices": [
+            "East",
+            "West",
+            "North",
+            "South"
+        ],
+        "answer": "West",
+        "hint": "",
+        "image": "Information of <b>Blarney Castle & Gardens</b>:\n- Location: Blarney, Cork, Ireland(51.9291, -8.5709).\n\nInformation of <b>Cork</b>:\n- Location: Cork, Ireland(51.8985, -8.4756).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "579"
+    },
+    "29": {
+        "context": "Information of <b>Vasa Museum</b>:\n- Location: Galärvarvsvägen 14, 115 21 Stockholm, Sweden(59.3280, 18.0914).\n\nInformation of <b>Stockholm Central Station</b>:\n- Location: Centralplan 15, 111 20 Stockholm, Sweden(59.3301, 18.0582).\n\n",
+        "question": "What is the direction of the Vasa Museum from Stockholm Central Station?",
+        "choices": [
+            "North",
+            "East",
+            "West",
+            "South"
+        ],
+        "answer": "East",
+        "hint": "",
+        "image": "Information of <b>Vasa Museum</b>:\n- Location: Galärvarvsvägen 14, 115 21 Stockholm, Sweden(59.3280, 18.0914).\n\nInformation of <b>Stockholm Central Station</b>:\n- Location: Centralplan 15, 111 20 Stockholm, Sweden(59.3301, 18.0582).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "555"
+    },
+    "30": {
+        "context": "Information of <b>Nyhavn</b>:\n- Location: Nyhavn, Indre By, Denmark(55.6798, 12.5913).\n\nInformation of <b>Copenhagen Central Station</b>:\n- Location: Copenhagen, Denmark(55.6728, 12.5649).\n\n",
+        "question": "What is the direction of the Nyhavn Harbor from Copenhagen Central Station?",
+        "choices": [
+            "East",
+            "West",
+            "North",
+            "South"
+        ],
+        "answer": "East",
+        "hint": "",
+        "image": "Information of <b>Nyhavn</b>:\n- Location: Nyhavn, Indre By, Denmark(55.6798, 12.5913).\n\nInformation of <b>Copenhagen Central Station</b>:\n- Location: Copenhagen, Denmark(55.6728, 12.5649).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "581"
+    },
+    "31": {
+        "context": "Information of <b>Eiffel Tower</b>:\n- Location: Av. Gustave Eiffel, 75007 Paris, France(48.8584, 2.2945).\n\nInformation of <b>Mont Saint-Michel</b>:\n- Location: 50170 Mont Saint-Michel, France(48.6361, -1.5115).\n\n",
+        "question": "What is the straight-line distance between the Eiffel Tower in Paris, France, and the Mont Saint-Michel in Normandy, France?",
+        "choices": [
+            "230 km",
+            "250 km",
+            "280 km",
+            "310 km"
+        ],
+        "answer": "280 km",
+        "hint": "",
+        "image": "Information of <b>Eiffel Tower</b>:\n- Location: Av. Gustave Eiffel, 75007 Paris, France(48.8584, 2.2945).\n\nInformation of <b>Mont Saint-Michel</b>:\n- Location: 50170 Mont Saint-Michel, France(48.6361, -1.5115).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "537"
+    },
+    "32": {
+        "context": "Information of <b>Gateway Of India Mumbai</b>:\n- Location: Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India(18.9220, 72.8347).\n\nInformation of <b>Chhatrapati Shivaji Maharaj Terminus</b>:\n- Location: Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001, India(18.9398, 72.8354).\n\n",
+        "question": "What is the direction of the Gateway of India from the Chhatrapati Shivaji Maharaj Terminus?",
+        "choices": [
+            "North",
+            "East",
+            "South",
+            "West"
+        ],
+        "answer": "South",
+        "hint": "",
+        "image": "Information of <b>Gateway Of India Mumbai</b>:\n- Location: Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India(18.9220, 72.8347).\n\nInformation of <b>Chhatrapati Shivaji Maharaj Terminus</b>:\n- Location: Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001, India(18.9398, 72.8354).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "520"
+    },
+    "33": {
+        "context": "Information of <b>Cotton Tree</b>:\n- Location: 32 Walpole St, Freetown, Sierra Leone(8.4872, -13.2356).\n\nInformation of <b>Tiwai Island Wildlife Sanctuary</b>:\n- Location: Sierra Leone(7.5441, -11.3488).\n\n",
+        "question": "What is the straight-line distance between the Cotton Tree in Freetown and the Tiwai Island Wildlife Sanctuary in Sierra Leone?",
+        "choices": [
+            "272.72 km",
+            "232.72 km",
+            "372.72 km",
+            "122.72 km"
+        ],
+        "answer": "232.72 km",
+        "hint": "",
+        "image": "Information of <b>Cotton Tree</b>:\n- Location: 32 Walpole St, Freetown, Sierra Leone(8.4872, -13.2356).\n\nInformation of <b>Tiwai Island Wildlife Sanctuary</b>:\n- Location: Sierra Leone(7.5441, -11.3488).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "575"
+    },
+    "34": {
+        "context": "Information of <b>Wawel Royal Castle</b>:\n- Location: Wawel 4, 31-003 Kraków, Poland(50.0541, 19.9356).\n\nInformation of <b>Malbork Castle</b>:\n- Location: Starościńska 1, 82-200 Malbork, Poland(54.0398, 19.0280).\n\n",
+        "question": "What is the straight-line distance between Wawel Castle in Kraków and the Malbork Castle in Poland?",
+        "choices": [
+            "447.50 km",
+            "551.35 km",
+            "335.14 km",
+            "123.67 km"
+        ],
+        "answer": "447.50 km",
+        "hint": "",
+        "image": "Information of <b>Wawel Royal Castle</b>:\n- Location: Wawel 4, 31-003 Kraków, Poland(50.0541, 19.9356).\n\nInformation of <b>Malbork Castle</b>:\n- Location: Starościńska 1, 82-200 Malbork, Poland(54.0398, 19.0280).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "564"
+    },
+    "35": {
+        "context": "Information of <b>Juba International Airport</b>:\n- Location: Juba, South Sudan(4.8663, 31.6019).\n\nInformation of <b>Nyakuron cultural centre</b>:\n- Location: RHVP+J53, Mboro St, Juba, South Sudan(4.8440, 31.5854).\n\n",
+        "question": "What is the direction of Juba International Airport from Nyakuron cultural centre?",
+        "choices": [
+            "East",
+            "West",
+            "North",
+            "South"
+        ],
+        "answer": "North",
+        "hint": "",
+        "image": "Information of <b>Juba International Airport</b>:\n- Location: Juba, South Sudan(4.8663, 31.6019).\n\nInformation of <b>Nyakuron cultural centre</b>:\n- Location: RHVP+J53, Mboro St, Juba, South Sudan(4.8440, 31.5854).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "582"
+    },
+    "36": {
+        "context": "Information of <b>Monserrate</b>:\n- Location: Monserrate, Santa Fe, Bogota, Colombia(4.6057, -74.0555).\n\nInformation of <b>San Felipe de Barajas Fort</b>:\n- Location: Cielo mar, La Boquilla, Cartagena, Cartagena Province, Bolivar, Colombia(10.4225, -75.5393).\n\n",
+        "question": "What is the straight-line distance between Monserrate in Bogotá and San Felipe de Barajas Fort in Cartagena?",
+        "choices": [
+            "667.14 km",
+            "767.34 km",
+            "545.21 km",
+            "369.45 km"
+        ],
+        "answer": "667.14 km",
+        "hint": "",
+        "image": "Information of <b>Monserrate</b>:\n- Location: Monserrate, Santa Fe, Bogota, Colombia(4.6057, -74.0555).\n\nInformation of <b>San Felipe de Barajas Fort</b>:\n- Location: Cielo mar, La Boquilla, Cartagena, Cartagena Province, Bolivar, Colombia(10.4225, -75.5393).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "574"
+    },
+    "37": {
+        "context": "Information of <b>Prague Castle</b>:\n- Location: 119 08 Prague 1, Czechia(50.0911, 14.4016).\n\nInformation of <b>Václav Havel Airport Prague</b>:\n- Location: Aviatická, 161 00 Praha 6, Czechia(50.1018, 14.2632).\n\n",
+        "question": "What is the direction and straight-line distance from Prague Castle to Václav Havel Airport?",
+        "choices": [
+            "East, 14.45 kilometers",
+            "South, 11.12 kilometers",
+            "East, 15.69 kilometers",
+            "West, 9.94 kilometers"
+        ],
+        "answer": "West, 9.94 kilometers",
+        "hint": "",
+        "image": "Information of <b>Prague Castle</b>:\n- Location: 119 08 Prague 1, Czechia(50.0911, 14.4016).\n\nInformation of <b>Václav Havel Airport Prague</b>:\n- Location: Aviatická, 161 00 Praha 6, Czechia(50.1018, 14.2632).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "585"
+    },
+    "38": {
+        "context": "Information of <b>Plaza de Bolívar</b>:\n- Location: Cra. 7 #11-10, La Candelaria, Bogotá, Colombia(4.5981, -74.0760).\n\nInformation of <b>Gold Museum</b>:\n- Location: Cra. 6 #15-88, Santa Fé, Bogotá, Cundinamarca, Colombia(4.6019, -74.0720).\n\nInformation of <b>Walls of Cartagena</b>:\n- Location: Cl. de la Serrezuela, San Diego, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colombia(10.4296, -75.5449).\n\nInformation of <b>San Felipe de Barajas Fort</b>:\n- Location: Cielo mar, La Boquilla, Cartagena, Cartagena Province, Bolivar, Colombia(10.4225, -75.5393).\n\nInformation of <b>Parque Arví</b>:\n- Location: Via a Piedras Blancas, Medellín, Antioquia, Colombia(6.2804, -75.5027).\n\nInformation of <b>Jardín Botánico de Medellín</b>:\n- Location: Cl. 73 #51d-14, Aranjuez, Medellín, Aranjuez, Medellín, Antioquia, Colombia(6.2705, -75.5636).\n\nInformation of <b>Salento</b>:\n- Location: Salento, Quindio, Colombia(4.6374, -75.5703).\n\nInformation of <b>Cocora Valley Trail</b>:\n- Location: Salento, Quindio, Colombia(4.6380, -75.4866).\n\n",
+        "question": "Which pair of places is closest to each other in Colombia?",
+        "choices": [
+            "Plaza de Bolívar and Gold Museum (Museo del Oro) in Bogotá",
+            "Walls of Cartagena and San Felipe de Barajas Castle",
+            "Parque Arví and Medellín's Botanical Garden",
+            "Salento and Cocora Valley Trail"
+        ],
+        "answer": "Plaza de Bolívar and Gold Museum (Museo del Oro) in Bogotá",
+        "hint": "",
+        "image": "Information of <b>Plaza de Bolívar</b>:\n- Location: Cra. 7 #11-10, La Candelaria, Bogotá, Colombia(4.5981, -74.0760).\n\nInformation of <b>Gold Museum</b>:\n- Location: Cra. 6 #15-88, Santa Fé, Bogotá, Cundinamarca, Colombia(4.6019, -74.0720).\n\nInformation of <b>Walls of Cartagena</b>:\n- Location: Cl. de la Serrezuela, San Diego, Cartagena de Indias, Provincia de Cartagena, Bolívar, Colombia(10.4296, -75.5449).\n\nInformation of <b>San Felipe de Barajas Fort</b>:\n- Location: Cielo mar, La Boquilla, Cartagena, Cartagena Province, Bolivar, Colombia(10.4225, -75.5393).\n\nInformation of <b>Parque Arví</b>:\n- Location: Via a Piedras Blancas, Medellín, Antioquia, Colombia(6.2804, -75.5027).\n\nInformation of <b>Jardín Botánico de Medellín</b>:\n- Location: Cl. 73 #51d-14, Aranjuez, Medellín, Aranjuez, Medellín, Antioquia, Colombia(6.2705, -75.5636).\n\nInformation of <b>Salento</b>:\n- Location: Salento, Quindio, Colombia(4.6374, -75.5703).\n\nInformation of <b>Cocora Valley Trail</b>:\n- Location: Salento, Quindio, Colombia(4.6380, -75.4866).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "524"
+    },
+    "39": {
+        "context": "Information of <b>Eleven Madison Park</b>:\n- Location: 11 Madison Ave, New York, NY 10010, USA.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:00 – 11:00 PM, Friday: 5:00 – 11:00 PM, Saturday: 12:00 – 2:00 PM, 5:00 – 11:00 PM, Sunday: 12:00 – 2:00 PM, 5:00 – 11:00 PM.\n- Rating: 4.4. (2804 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "question": "How many users rated Eleven Madison Park?",
+        "choices": [
+            "2804",
+            "10010",
+            "11",
+            "1200"
+        ],
+        "answer": "2804",
+        "hint": "",
+        "image": "Information of <b>Eleven Madison Park</b>:\n- Location: 11 Madison Ave, New York, NY 10010, USA.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:00 – 11:00 PM, Friday: 5:00 – 11:00 PM, Saturday: 12:00 – 2:00 PM, 5:00 – 11:00 PM, Sunday: 12:00 – 2:00 PM, 5:00 – 11:00 PM.\n- Rating: 4.4. (2804 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "395"
+    },
+    "40": {
+        "context": "Information of <b>Nusr-Et Steakhouse Las Vegas</b>:\n- Location: 3786 S Las Vegas Blvd, Las Vegas, NV 89109, USA.\n- Rating: 4.1. (642 ratings).\n- Reviews: \n   1. Leona Adams (Rating: 5): My husband and I have always wanted to come to this restaurant, today we got to do just that. Jason was our server and was so kind and gave us wonderful suggestions. He was amazing  Food was so very good.  Best burger ever. We also got the baklava and the  cheesecake neither disappointed. Loved the entire experience.\n   2. Natalie Jones (Rating: 5): I really believe more people should be checking this place out for the great value three course lunch offer they have.\nWe went in and had the aforementioned lunch and could find no fault in the quality and portions. Absolutely perfect for the price paid.\nAtmosphere was the only let down in this striking venue, due to it being somewhat empty. I genuinely don't understand with Strip prices being on the high side why more people aren't taking up this offer.\nThe meat sushi is a must try and I would return just to have that alone!\n   3. Monica Saenz (Rating: 5): I have now been to this amazing restaurant a few times due to the convenient location. I KEEP coming back for the amazing people!! The manager Mark W. Is so very welcoming and makes you feel right at home! He is outgoing and pays attention to the small details! He is constantly working the floor and taking care of his customers. The bar staff Erik and Q go above and beyond to take care of all of the clients at the bar! The kitchen staff is outstanding! Chef Mike has the best food I have ever tried! He runs the kitchen so well and the food is always amazing and delicious you will not be disappointed!!  Some of his kitchen staff including Johnny, Isaiah and Joel are always welcoming and go the extra mile to make your dining experience even better  this is now where I tell all of my out of town friends to visit! If you haven't been it's a must do!! You won't be disappointed at all!\n   4. _Adams_ 46 (Rating: 5): The food was amazing! Loved the wagyu burger flavor and juiciness! 🤩 Jason was our server and treated us like Kings. Atmosphere was wonderful. The service is top notch and we were so pleasantly impressed with everything!\n   5. Afroz Khan. (Rating: 5): A dining experience like no other! Exquisite flavors, impeccable presentation, and top-notch service. Every dish was a work of art, perfectly balancing taste and creativity. A must-visit for those who appreciate culinary excellence and luxurious ambiance.\n - Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Takeout Available.\n- Wheelchair Accessible Entrance.\n\n",
+        "question": "Is the entrance of Nusr-Et Steakhouse wheelchair accessible?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>Nusr-Et Steakhouse Las Vegas</b>:\n- Location: 3786 S Las Vegas Blvd, Las Vegas, NV 89109, USA.\n- Rating: 4.1. (642 ratings).\n- Reviews: \n   1. Leona Adams (Rating: 5): My husband and I have always wanted to come to this restaurant, today we got to do just that. Jason was our server and was so kind and gave us wonderful suggestions. He was amazing  Food was so very good.  Best burger ever. We also got the baklava and the  cheesecake neither disappointed. Loved the entire experience.\n   2. Natalie Jones (Rating: 5): I really believe more people should be checking this place out for the great value three course lunch offer they have.\nWe went in and had the aforementioned lunch and could find no fault in the quality and portions. Absolutely perfect for the price paid.\nAtmosphere was the only let down in this striking venue, due to it being somewhat empty. I genuinely don't understand with Strip prices being on the high side why more people aren't taking up this offer.\nThe meat sushi is a must try and I would return just to have that alone!\n   3. Monica Saenz (Rating: 5): I have now been to this amazing restaurant a few times due to the convenient location. I KEEP coming back for the amazing people!! The manager Mark W. Is so very welcoming and makes you feel right at home! He is outgoing and pays attention to the small details! He is constantly working the floor and taking care of his customers. The bar staff Erik and Q go above and beyond to take care of all of the clients at the bar! The kitchen staff is outstanding! Chef Mike has the best food I have ever tried! He runs the kitchen so well and the food is always amazing and delicious you will not be disappointed!!  Some of his kitchen staff including Johnny, Isaiah and Joel are always welcoming and go the extra mile to make your dining experience even better  this is now where I tell all of my out of town friends to visit! If you haven't been it's a must do!! You won't be disappointed at all!\n   4. _Adams_ 46 (Rating: 5): The food was amazing! Loved the wagyu burger flavor and juiciness! 🤩 Jason was our server and treated us like Kings. Atmosphere was wonderful. The service is top notch and we were so pleasantly impressed with everything!\n   5. Afroz Khan. (Rating: 5): A dining experience like no other! Exquisite flavors, impeccable presentation, and top-notch service. Every dish was a work of art, perfectly balancing taste and creativity. A must-visit for those who appreciate culinary excellence and luxurious ambiance.\n - Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Takeout Available.\n- Wheelchair Accessible Entrance.\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "391"
+    },
+    "41": {
+        "context": "Information of <b>Lake Geneva</b>:\n- Location: Lake Geneva(46.4414, 6.5295).\n\nInformation of <b>Matterhorn</b>:\n- Location: Matterhorn(45.9766, 7.6585).\n\n",
+        "question": "What is the straight-line distance between the Matterhorn in Zermatt and Lake Geneva in Switzerland?",
+        "choices": [
+            "139 km",
+            "125 km",
+            "80 km",
+            "101 km"
+        ],
+        "answer": "101 km",
+        "hint": "",
+        "image": "Information of <b>Lake Geneva</b>:\n- Location: Lake Geneva(46.4414, 6.5295).\n\nInformation of <b>Matterhorn</b>:\n- Location: Matterhorn(45.9766, 7.6585).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "536"
+    },
+    "42": {
+        "context": "Information of <b>Victoria Falls</b>:\n- Location: Victoria Falls, Zimbabwe(-17.9316, 25.8302).\n\nInformation of <b>Hwange National Park</b>:\n- Location: Zimbabwe(-19.1241, 26.5926).\n\n",
+        "question": "What is the direction and straight-line distance from Victoria Falls to Hwange National Park?",
+        "choices": [
+            "East, 113.67 km",
+            "North, 145.34 km",
+            "South, 155.06 km",
+            "North, 134.04 km"
+        ],
+        "answer": "South, 155.06 km",
+        "hint": "",
+        "image": "Information of <b>Victoria Falls</b>:\n- Location: Victoria Falls, Zimbabwe(-17.9316, 25.8302).\n\nInformation of <b>Hwange National Park</b>:\n- Location: Zimbabwe(-19.1241, 26.5926).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "587"
+    },
+    "43": {
+        "context": "Information of <b>Christ the Redeemer</b>:\n- Location: Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, 22261, Brazil(-22.9519, -43.2105).\n\nInformation of <b>Amazon Rainforest</b>:\n- Location: Amazon Rainforest - Codajás, State of Amazonas, 69450-000, Brazil(-3.4653, -62.2159).\n\n",
+        "question": "What is the straight-line distance between the Christ the Redeemer statue in Rio de Janeiro and the Amazon Rainforest near Manaus, Brazil?",
+        "choices": [
+            "2300 km",
+            "2786 km",
+            "2979 km",
+            "3203 km"
+        ],
+        "answer": "2979 km",
+        "hint": "",
+        "image": "Information of <b>Christ the Redeemer</b>:\n- Location: Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, 22261, Brazil(-22.9519, -43.2105).\n\nInformation of <b>Amazon Rainforest</b>:\n- Location: Amazon Rainforest - Codajás, State of Amazonas, 69450-000, Brazil(-3.4653, -62.2159).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "523"
+    },
+    "44": {
+        "context": "Information of <b>The Little Mermaid</b>:\n- Location: Langelinie, 2100 København Ø, Denmark(55.6929, 12.5993).\n\nInformation of <b>Copenhagen Central Station</b>:\n- Location: Copenhagen, Denmark(55.6728, 12.5649).\n\n",
+        "question": "What is the direction of the Little Mermaid statue from Copenhagen Central Station?",
+        "choices": [
+            "East",
+            "West",
+            "North",
+            "South"
+        ],
+        "answer": "North",
+        "hint": "",
+        "image": "Information of <b>The Little Mermaid</b>:\n- Location: Langelinie, 2100 København Ø, Denmark(55.6929, 12.5993).\n\nInformation of <b>Copenhagen Central Station</b>:\n- Location: Copenhagen, Denmark(55.6728, 12.5649).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "557"
+    },
+    "45": {
+        "context": "Information of <b>Atomium</b>:\n- Location: Pl. de l'Atomium 1, 1020 Bruxelles, Belgium(50.8949, 4.3416).\n\nInformation of <b>Belfry of Bruges</b>:\n- Location: Markt 7, 8000 Brugge, Belgium(51.2081, 3.2248).\n\n",
+        "question": "What is the straight-line distance between the Atomium in Brussels and the Belfry of Bruges?",
+        "choices": [
+            "72.27 km",
+            "99.13 km",
+            "61.67 km",
+            "85.48 km"
+        ],
+        "answer": "85.48 km",
+        "hint": "",
+        "image": "Information of <b>Atomium</b>:\n- Location: Pl. de l'Atomium 1, 1020 Bruxelles, Belgium(50.8949, 4.3416).\n\nInformation of <b>Belfry of Bruges</b>:\n- Location: Markt 7, 8000 Brugge, Belgium(51.2081, 3.2248).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "565"
+    },
+    "46": {
+        "context": "Information of <b>Kuala Lumpur</b>:\n- Location: Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia(3.1499, 101.6945).\n\nInformation of <b>George Town</b>:\n- Location: George Town, Penang, Malaysia(5.4141, 100.3285).\n\nInformation of <b>Johor Bahru</b>:\n- Location: Johor Bahru, Johor, Malaysia(1.4799, 103.7643).\n\nInformation of <b>Kota Kinabalu</b>:\n- Location: Kota Kinabalu, Sabah, Malaysia(5.9844, 116.0773).\n\n",
+        "question": "Which pair of places is farthest from each other in Malaysia?",
+        "choices": [
+            "Kuala Lumpur and George Town",
+            "Kuala Lumpur and Johor Bahru",
+            "Kuala Lumpur and Kota Kinabalu",
+            "George Town and Kota Kinabalu"
+        ],
+        "answer": "George Town and Kota Kinabalu",
+        "hint": "",
+        "image": "Information of <b>Kuala Lumpur</b>:\n- Location: Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia(3.1499, 101.6945).\n\nInformation of <b>George Town</b>:\n- Location: George Town, Penang, Malaysia(5.4141, 100.3285).\n\nInformation of <b>Johor Bahru</b>:\n- Location: Johor Bahru, Johor, Malaysia(1.4799, 103.7643).\n\nInformation of <b>Kota Kinabalu</b>:\n- Location: Kota Kinabalu, Sabah, Malaysia(5.9844, 116.0773).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "591"
+    },
+    "47": {
+        "context": "Information of <b>Saint Stephen's Green</b>:\n- Location: St Stephen's Green, Dublin, Ireland(53.3370, -6.2600).\n\nInformation of <b>Trinity College Dublin</b>:\n- Location: College Green, Dublin 2, Ireland(53.3438, -6.2546).\n\nInformation of <b>National Gallery of Ireland</b>:\n- Location: Merrion Square W, Dublin 2, D02 K303, Ireland(53.3409, -6.2523).\n\nInformation of <b>Dublin Castle</b>:\n- Location: Dame St, Dublin 2, Co. Dublin, Ireland(53.3429, -6.2674).\n\nInformation of <b>Guinness Storehouse</b>:\n- Location: St. James's Gate, The Liberties, Dublin 8, D08 VF8H, Ireland(53.3418, -6.2867).\n\n",
+        "question": "Which landmark is located directly East of St. Stephen's Green in Dublin?",
+        "choices": [
+            "Trinity College Dublin",
+            "The National Gallery of Ireland",
+            "Dublin Castle",
+            "The Guinness Storehouse"
+        ],
+        "answer": "The National Gallery of Ireland",
+        "hint": "",
+        "image": "Information of <b>Saint Stephen's Green</b>:\n- Location: St Stephen's Green, Dublin, Ireland(53.3370, -6.2600).\n\nInformation of <b>Trinity College Dublin</b>:\n- Location: College Green, Dublin 2, Ireland(53.3438, -6.2546).\n\nInformation of <b>National Gallery of Ireland</b>:\n- Location: Merrion Square W, Dublin 2, D02 K303, Ireland(53.3409, -6.2523).\n\nInformation of <b>Dublin Castle</b>:\n- Location: Dame St, Dublin 2, Co. Dublin, Ireland(53.3429, -6.2674).\n\nInformation of <b>Guinness Storehouse</b>:\n- Location: St. James's Gate, The Liberties, Dublin 8, D08 VF8H, Ireland(53.3418, -6.2867).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "569"
+    },
+    "48": {
+        "context": "Information of <b>The Great Pyramid of Giza</b>:\n- Location: Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate 3512201, Egypt.\n- Open: Monday: 8:00 AM – 4:30 PM, Tuesday: 8:00 AM – 4:30 PM, Wednesday: 8:00 AM – 4:30 PM, Thursday: 8:00 AM – 4:30 PM, Friday: 8:00 AM – 4:30 PM, Saturday: 8:00 AM – 4:30 PM, Sunday: 8:00 AM – 4:30 PM.\n- Rating: 4.6. (26907 ratings).\n\n",
+        "question": "Can I visit The Great Pyramid of Giza at 5:00 PM Saturday?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "No",
+        "hint": "",
+        "image": "Information of <b>The Great Pyramid of Giza</b>:\n- Location: Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate 3512201, Egypt.\n- Open: Monday: 8:00 AM – 4:30 PM, Tuesday: 8:00 AM – 4:30 PM, Wednesday: 8:00 AM – 4:30 PM, Thursday: 8:00 AM – 4:30 PM, Friday: 8:00 AM – 4:30 PM, Saturday: 8:00 AM – 4:30 PM, Sunday: 8:00 AM – 4:30 PM.\n- Rating: 4.6. (26907 ratings).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "393"
+    },
+    "49": {
+        "context": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Rating: 4.1. (43 ratings).\n- Price Level: Expensive.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "question": "What's the price level of Museum Tavern?",
+        "choices": [
+            "Inexpensive",
+            "Moderate",
+            "Expensive",
+            "Very Expensive"
+        ],
+        "answer": "Moderate",
+        "hint": "",
+        "image": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Rating: 4.1. (43 ratings).\n- Price Level: Expensive.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "383"
+    },
+    "50": {
+        "context": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Rating: 4.1. (43 ratings).\n- Price Level: Expensive.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "question": "Is The Pizzeria open at 3:00 PM on Monday?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Rating: 4.1. (43 ratings).\n- Price Level: Expensive.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "384"
+    },
+    "51": {
+        "context": "Information of <b>Stockholm</b>:\n- Location: Stockholm, Sweden(59.3361, 18.0843).\n\nInformation of <b>Gothenburg</b>:\n- Location: Gothenburg, Sweden(57.7089, 11.9746).\n\nInformation of <b>Malmö</b>:\n- Location: Malmö, Sweden(55.6050, 13.0038).\n\nInformation of <b>Kiruna</b>:\n- Location: Kiruna, Sweden(67.8558, 20.2253).\n\n",
+        "question": "Which pair of places is farthest from each other in Sweden?",
+        "choices": [
+            "Stockholm and Gothenburg",
+            "Stockholm and Malmö",
+            "Stockholm and Kiruna",
+            "Gothenburg and Malmö"
+        ],
+        "answer": "Stockholm and Kiruna",
+        "hint": "",
+        "image": "Information of <b>Stockholm</b>:\n- Location: Stockholm, Sweden(59.3361, 18.0843).\n\nInformation of <b>Gothenburg</b>:\n- Location: Gothenburg, Sweden(57.7089, 11.9746).\n\nInformation of <b>Malmö</b>:\n- Location: Malmö, Sweden(55.6050, 13.0038).\n\nInformation of <b>Kiruna</b>:\n- Location: Kiruna, Sweden(67.8558, 20.2253).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "593"
+    },
+    "52": {
+        "context": "Information of <b>Juba</b>:\n- Location: Juba, South Sudan(4.8539, 31.5825).\n\nInformation of <b>Wau</b>:\n- Location: Wau, South Sudan(7.7092, 27.9835).\n\nInformation of <b>Malakal</b>:\n- Location: Malakal, South Sudan(9.5280, 31.6682).\n\nInformation of <b>Bor</b>:\n- Location: Bor, South Sudan(6.2133, 31.5655).\n\n",
+        "question": "Which pair of places is farthest from each other in South Sudan?",
+        "choices": [
+            "Juba and Wau",
+            "Juba and Malakal",
+            "Juba and Bor",
+            "Wau and Malakal"
+        ],
+        "answer": "Juba and Malakal",
+        "hint": "",
+        "image": "Information of <b>Juba</b>:\n- Location: Juba, South Sudan(4.8539, 31.5825).\n\nInformation of <b>Wau</b>:\n- Location: Wau, South Sudan(7.7092, 27.9835).\n\nInformation of <b>Malakal</b>:\n- Location: Malakal, South Sudan(9.5280, 31.6682).\n\nInformation of <b>Bor</b>:\n- Location: Bor, South Sudan(6.2133, 31.5655).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "588"
+    },
+    "53": {
+        "context": "Information of <b>Sydney Opera House</b>:\n- Location: Bennelong Point, Sydney NSW 2000, Australia(-33.8568, 151.2153).\n\nInformation of <b>Bondi Beach</b>:\n- Location: Bondi Beach, NSW 2026, Australia(-33.8915, 151.2767).\n\n",
+        "question": "What is the straight-line distance between the Sydney Opera House and Bondi Beach?",
+        "choices": [
+            "5.86 km",
+            "6.86 km",
+            "7.86 km",
+            "8.86 km"
+        ],
+        "answer": "6.86 km",
+        "hint": "",
+        "image": "Information of <b>Sydney Opera House</b>:\n- Location: Bennelong Point, Sydney NSW 2000, Australia(-33.8568, 151.2153).\n\nInformation of <b>Bondi Beach</b>:\n- Location: Bondi Beach, NSW 2026, Australia(-33.8915, 151.2767).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "507"
+    },
+    "54": {
+        "context": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n- Reservable.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Price Level: Expensive.\n- Reservable.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "question": "What's the price level of the Museum Tavern?",
+        "choices": [
+            "Inexpensive",
+            "Moderate",
+            "Expensive",
+            "Very expensive"
+        ],
+        "answer": "Moderate",
+        "hint": "",
+        "image": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n- Reservable.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Price Level: Expensive.\n- Reservable.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "389"
+    },
+    "55": {
+        "context": "Information of <b>Maclear's Beacon</b>:\n- Location: Maclear's Beacon, Table Mountain (Nature Reserve), Cape Town, South Africa(-33.9668, 18.4256).\n\nInformation of <b>Nelson Mandela Square</b>:\n- Location: 5th St, Sandown, Sandton, 2031, South Africa(-26.1074, 28.0548).\n\n",
+        "question": "What is the straight-line distance between Table Mountain in Cape Town and Nelson Mandela Square in Johannesburg?",
+        "choices": [
+            "1345.132 km",
+            "1125.12 km",
+            "1272.68 km",
+            "1400.65 km"
+        ],
+        "answer": "1272.68 km",
+        "hint": "",
+        "image": "Information of <b>Maclear's Beacon</b>:\n- Location: Maclear's Beacon, Table Mountain (Nature Reserve), Cape Town, South Africa(-33.9668, 18.4256).\n\nInformation of <b>Nelson Mandela Square</b>:\n- Location: 5th St, Sandown, Sandton, 2031, South Africa(-26.1074, 28.0548).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "573"
+    },
+    "56": {
+        "context": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n- Reservable.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Price Level: Expensive.\n- Reservable.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "question": "Is The Blue Door Bistro reservable?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>The British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n\nInformation of <b>The Great Court Restaurant at the British Museum</b>:\n- Location: Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 11:30 AM – 5:00 PM, Tuesday: 11:30 AM – 5:00 PM, Wednesday: 11:30 AM – 5:00 PM, Thursday: 11:30 AM – 5:00 PM, Friday: 11:30 AM – 5:00 PM, Saturday: 11:30 AM – 5:00 PM, Sunday: 11:30 AM – 5:00 PM.\n- Rating: 3.6. (373 ratings).\n- Price Level: Moderate.\n- Reservable.\n\nInformation of <b>The Pizzeria</b>:\n- Location: The British Museum, Great Russell St, London WC1B 3DG, UK.\n- Open: Monday: 12:00 – 4:00 PM, Tuesday: 12:00 – 4:00 PM, Wednesday: 12:00 – 4:00 PM, Thursday: 12:00 – 4:00 PM, Friday: 11:00 AM – 4:00 PM, Saturday: 11:00 AM – 4:00 PM, Sunday: 11:00 AM – 4:00 PM.\n- Rating: 3.7. (406 ratings).\n- Price Level: Moderate.\n\nInformation of <b>The Blue Door Bistro</b>:\n- Location: 15 Montague St, London WC1B 5BJ, UK.\n- Open: Monday: 5:30 – 10:00 PM, Tuesday: 5:30 – 10:00 PM, Wednesday: 5:30 – 10:00 PM, Thursday: 5:30 – 10:00 PM, Friday: 12:30 – 10:00 PM, Saturday: 12:30 – 10:00 PM, Sunday: 1:00 – 9:30 PM.\n- Price Level: Expensive.\n- Reservable.\n\nInformation of <b>Starbucks Coffee</b>:\n- Location: 51 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 6:30 AM – 8:00 PM, Tuesday: 6:30 AM – 8:00 PM, Wednesday: 6:30 AM – 8:00 PM, Thursday: 6:30 AM – 8:00 PM, Friday: 6:30 AM – 9:00 PM, Saturday: 7:00 AM – 8:00 PM, Sunday: 7:30 AM – 8:00 PM.\n- Rating: 3.9. (880 ratings).\n- Price Level: Moderate.\n\nInformation of <b>Museum Tavern</b>:\n- Location: 49 Great Russell St, London WC1B 3BA, UK.\n- Open: Monday: 11:00 AM – 11:00 PM, Tuesday: 11:00 AM – 11:00 PM, Wednesday: 11:00 AM – 11:00 PM, Thursday: 11:00 AM – 11:00 PM, Friday: 11:00 AM – 12:00 AM, Saturday: 11:00 AM – 12:00 AM, Sunday: 11:00 AM – 10:30 PM.\n- Rating: 4.4. (2321 ratings).\n- Price Level: Moderate.\n\nNearby Restaurants of The British Museum are (sorted by distance in ascending order):\n1. <b>The Great Court Restaurant at the British Museum</b>\n   - Address: Great Russell Street, London.\n2. <b>The Pizzeria</b>\n   - Address: The British Museum, Great Russell Street, London.\n3. <b>The Blue Door Bistro</b>\n   - Address: 15 Montague Street, London.\n4. <b>Starbucks Coffee</b>\n   - Address: 51 Great Russell Street, London.\n5. <b>Museum Tavern</b>\n   - Address: 49 Great Russell Street, London.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "388"
+    },
+    "57": {
+        "context": "Information of <b>Acropolis of Athens</b>:\n- Location: Athens 105 58, Greece(37.9715, 23.7257).\n\nInformation of <b>Parthenon</b>:\n- Location: Athens 105 58, Greece(37.9715, 23.7267).\n\nInformation of <b>Temple of Olympian Zeus</b>:\n- Location: Athens 105 57, Greece(37.9693, 23.7331).\n\nInformation of <b>National Archaeological Museum</b>:\n- Location: 28is Oktovriou 44, Athina 106 82, Greece(37.9890, 23.7328).\n\nInformation of <b>Mount Lycabettus</b>:\n- Location: Mount Lycabettus, Athens 114 71, Greece(37.9818, 23.7431).\n\n",
+        "question": "Which landmark is located directly North of the Acropolis in Athens?",
+        "choices": [
+            "Parthenon",
+            "Temple of Olympian Zeus",
+            "National Archaeological Museum",
+            "Mount Lycabettus"
+        ],
+        "answer": "National Archaeological Museum",
+        "hint": "",
+        "image": "Information of <b>Acropolis of Athens</b>:\n- Location: Athens 105 58, Greece(37.9715, 23.7257).\n\nInformation of <b>Parthenon</b>:\n- Location: Athens 105 58, Greece(37.9715, 23.7267).\n\nInformation of <b>Temple of Olympian Zeus</b>:\n- Location: Athens 105 57, Greece(37.9693, 23.7331).\n\nInformation of <b>National Archaeological Museum</b>:\n- Location: 28is Oktovriou 44, Athina 106 82, Greece(37.9890, 23.7328).\n\nInformation of <b>Mount Lycabettus</b>:\n- Location: Mount Lycabettus, Athens 114 71, Greece(37.9818, 23.7431).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "571"
+    },
+    "58": {
+        "context": "Information of <b>Tokyo National Museum</b>:\n- Location: 13-9 Uenokōen, Taito City, Tokyo 110-8712, Japan.\n- Open: Monday: Closed, Tuesday: 9:30 AM – 5:00 PM, Wednesday: 9:30 AM – 5:00 PM, Thursday: 9:30 AM – 5:00 PM, Friday: 9:30 AM – 8:00 PM, Saturday: 9:30 AM – 8:00 PM, Sunday: 9:30 AM – 5:00 PM.\n\nInformation of <b>Asakusa</b>:\n- Location: Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Sensō-ji</b>:\n- Location: 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Shabutatsu</b>:\n- Location: 4-chōme-18-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>BLACK PAPA</b>:\n- Location: 4-chōme-18-7 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Daikoku-ya</b>:\n- Location: 4-chōme-39-2 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Chakoru</b>:\n- Location: 4-chōme-14-6 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Dinner.\n\nInformation of <b>Hosoi</b>:\n- Location: 4-chōme-39-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nTravel Time from Tokyo National Museum to BLACK PAPA by car is 9 mins (2.4 km).\nTravel Time from BLACK PAPA to Sensō-ji by car is 7 mins (1.5 km).\nNearby Restaurants of Asakusa are (sorted by distance in ascending order):\n1. <b>Shabutatsu</b>\n   - Address: 4-chōme-18-9 Asakusa, Taito City.\n2. <b>BLACK PAPA</b>\n   - Address: 4-chōme-18-7 Asakusa, Taito City.\n3. <b>Daikoku-ya</b>\n   - Address: 4-chōme-39-2 Asakusa, Taito City.\n4. <b>Chakoru</b>\n   - Address: 4-chōme-14-6 Asakusa, Taito City.\n5. <b>Hosoi</b>\n   - Address: 4-chōme-39-9 Asakusa, Taito City.\n\n\n",
+        "question": "Does Daikoku-ya serve Dinner?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>Tokyo National Museum</b>:\n- Location: 13-9 Uenokōen, Taito City, Tokyo 110-8712, Japan.\n- Open: Monday: Closed, Tuesday: 9:30 AM – 5:00 PM, Wednesday: 9:30 AM – 5:00 PM, Thursday: 9:30 AM – 5:00 PM, Friday: 9:30 AM – 8:00 PM, Saturday: 9:30 AM – 8:00 PM, Sunday: 9:30 AM – 5:00 PM.\n\nInformation of <b>Asakusa</b>:\n- Location: Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Sensō-ji</b>:\n- Location: 2-chōme-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan.\n\nInformation of <b>Shabutatsu</b>:\n- Location: 4-chōme-18-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>BLACK PAPA</b>:\n- Location: 4-chōme-18-7 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Daikoku-ya</b>:\n- Location: 4-chōme-39-2 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nInformation of <b>Chakoru</b>:\n- Location: 4-chōme-14-6 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Dinner.\n\nInformation of <b>Hosoi</b>:\n- Location: 4-chōme-39-9 Asakusa, Taito City, Tokyo 111-0032, Japan.\n- Serves Lunch.\n- Serves Dinner.\n\nTravel Time from Tokyo National Museum to BLACK PAPA by car is 9 mins (2.4 km).\nTravel Time from BLACK PAPA to Sensō-ji by car is 7 mins (1.5 km).\nNearby Restaurants of Asakusa are (sorted by distance in ascending order):\n1. <b>Shabutatsu</b>\n   - Address: 4-chōme-18-9 Asakusa, Taito City.\n2. <b>BLACK PAPA</b>\n   - Address: 4-chōme-18-7 Asakusa, Taito City.\n3. <b>Daikoku-ya</b>\n   - Address: 4-chōme-39-2 Asakusa, Taito City.\n4. <b>Chakoru</b>\n   - Address: 4-chōme-14-6 Asakusa, Taito City.\n5. <b>Hosoi</b>\n   - Address: 4-chōme-39-9 Asakusa, Taito City.\n\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "378"
+    },
+    "59": {
+        "context": "Information of <b>The Great Pyramid of Giza</b>:\n- Location: Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate 3512201, Egypt(29.9792, 31.1342).\n\nInformation of <b>Karnak</b>:\n- Location: Karnak, Luxor, Luxor Governorate, Egypt(25.7188, 32.6573).\n\n",
+        "question": "What is the direction of the Great Pyramid of Giza from the Karnak Temple?",
+        "choices": [
+            "North",
+            "East",
+            "South",
+            "West"
+        ],
+        "answer": "South",
+        "hint": "",
+        "image": "Information of <b>The Great Pyramid of Giza</b>:\n- Location: Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate 3512201, Egypt(29.9792, 31.1342).\n\nInformation of <b>Karnak</b>:\n- Location: Karnak, Luxor, Luxor Governorate, Egypt(25.7188, 32.6573).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "505"
+    },
+    "60": {
+        "context": "Information of <b>The Royal Palace</b>:\n- Location: Slottsplassen 1, 0010 Oslo, Norway(59.9171, 10.7276).\n\nInformation of <b>Oslo Opera House</b>:\n- Location: Kirsten Flagstads Plass 1, 0150 Oslo, Norway(59.9075, 10.7531).\n\nInformation of <b>Akershus Fortress</b>:\n- Location: 0150 Oslo, Norway(59.9076, 10.7371).\n\nInformation of <b>The Vigeland Park</b>:\n- Location: Nobels gate 32, 0268 Oslo, Norway(59.9270, 10.7009).\n\nInformation of <b>Nobel Peace Center</b>:\n- Location: Brynjulf Bulls plass 1, 0250 Oslo, Norway(59.9116, 10.7305).\n\n",
+        "question": "Which landmark is located directly West of the Royal Palace in Oslo?",
+        "choices": [
+            "Oslo Opera House",
+            "Akershus Fortress",
+            "Vigeland Park",
+            "The Nobel Peace Center"
+        ],
+        "answer": "Vigeland Park",
+        "hint": "",
+        "image": "Information of <b>The Royal Palace</b>:\n- Location: Slottsplassen 1, 0010 Oslo, Norway(59.9171, 10.7276).\n\nInformation of <b>Oslo Opera House</b>:\n- Location: Kirsten Flagstads Plass 1, 0150 Oslo, Norway(59.9075, 10.7531).\n\nInformation of <b>Akershus Fortress</b>:\n- Location: 0150 Oslo, Norway(59.9076, 10.7371).\n\nInformation of <b>The Vigeland Park</b>:\n- Location: Nobels gate 32, 0268 Oslo, Norway(59.9270, 10.7009).\n\nInformation of <b>Nobel Peace Center</b>:\n- Location: Brynjulf Bulls plass 1, 0250 Oslo, Norway(59.9116, 10.7305).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "570"
+    },
+    "61": {
+        "context": "Information of <b>Asador Etxebarri</b>:\n- Location: San Juan Plaza, 1, 48291 Axpe, Bizkaia, Spain.\n- Open: Monday: Closed, Tuesday: 1:00 – 2:30 PM, Wednesday: 1:00 – 2:30 PM, Thursday: 1:00 – 2:30 PM, Friday: 1:00 – 2:30 PM, Saturday: 1:00 – 2:30 PM, Sunday: 1:00 – 2:30 PM.\n- Rating: 4.4. (1585 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "question": "Does Asador Etxebarri serve dinner?",
+        "choices": [
+            "Yes",
+            "No",
+            "",
+            ""
+        ],
+        "answer": "Yes",
+        "hint": "",
+        "image": "Information of <b>Asador Etxebarri</b>:\n- Location: San Juan Plaza, 1, 48291 Axpe, Bizkaia, Spain.\n- Open: Monday: Closed, Tuesday: 1:00 – 2:30 PM, Wednesday: 1:00 – 2:30 PM, Thursday: 1:00 – 2:30 PM, Friday: 1:00 – 2:30 PM, Saturday: 1:00 – 2:30 PM, Sunday: 1:00 – 2:30 PM.\n- Rating: 4.4. (1585 ratings).\n- Price Level: Very Expensive.\n- Reservable.\n- Serves Lunch.\n- Serves Dinner.\n- Wheelchair Accessible Entrance.\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "398"
+    },
+    "62": {
+        "context": "Information of <b>Seurasaari Open-Air Museum</b>:\n- Location: Seurasaari, 00250 Helsinki, Finland(60.1856, 24.8846).\n\nInformation of <b>Helsinki Central Station</b>:\n- Location: Kaivokatu 1, 00100 Helsinki, Finland(60.1719, 24.9414).\n\n",
+        "question": "What is the direction of the Seurasaari Open-Air Museum from Helsinki Central Station?",
+        "choices": [
+            "East",
+            "West",
+            "North",
+            "South"
+        ],
+        "answer": "West",
+        "hint": "",
+        "image": "Information of <b>Seurasaari Open-Air Museum</b>:\n- Location: Seurasaari, 00250 Helsinki, Finland(60.1856, 24.8846).\n\nInformation of <b>Helsinki Central Station</b>:\n- Location: Kaivokatu 1, 00100 Helsinki, Finland(60.1719, 24.9414).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "580"
+    },
+    "63": {
+        "context": "Information of <b>Union Buildings</b>:\n- Location: Government Ave, Pretoria, 0002, South Africa(-25.7402, 28.2120).\n\nInformation of <b>Freedom Park Heritage Site & Museum</b>:\n- Location: koch st &, 7th Ave, Salvokop, Pretoria, 0002, South Africa(-25.7661, 28.1880).\n\nInformation of <b>Pretoria National Botanical Gardens</b>:\n- Location: 2 Cussonia Ave, Brummeria, Pretoria, 0184, South Africa(-25.7395, 28.2733).\n\nInformation of <b>Church Square</b>:\n- Location: Church Square, Pretoria Central, Pretoria, 0001, South Africa(-25.7458, 28.1880).\n\nInformation of <b>National Zoological Gardens</b>:\n- Location: 232 Boom St, Daspoort 319-Jr, Pretoria, 0001, South Africa(-25.7385, 28.1890).\n\n",
+        "question": "Which landmark is located directly south of the Union Buildings in Pretoria, South Africa?",
+        "choices": [
+            "Freedom Park",
+            "Pretoria Botanical Gardens",
+            "Church Square",
+            "National Zoological Gardens"
+        ],
+        "answer": "Freedom Park",
+        "hint": "",
+        "image": "Information of <b>Union Buildings</b>:\n- Location: Government Ave, Pretoria, 0002, South Africa(-25.7402, 28.2120).\n\nInformation of <b>Freedom Park Heritage Site & Museum</b>:\n- Location: koch st &, 7th Ave, Salvokop, Pretoria, 0002, South Africa(-25.7661, 28.1880).\n\nInformation of <b>Pretoria National Botanical Gardens</b>:\n- Location: 2 Cussonia Ave, Brummeria, Pretoria, 0184, South Africa(-25.7395, 28.2733).\n\nInformation of <b>Church Square</b>:\n- Location: Church Square, Pretoria Central, Pretoria, 0001, South Africa(-25.7458, 28.1880).\n\nInformation of <b>National Zoological Gardens</b>:\n- Location: 232 Boom St, Daspoort 319-Jr, Pretoria, 0001, South Africa(-25.7385, 28.1890).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "521"
+    },
+    "64": {
+        "context": "Information of <b>University of Coimbra</b>:\n- Location: 3004-531 Coimbra, Portugal(40.2076, -8.4261).\n\nInformation of <b>Belém Tower</b>:\n- Location: Av. Brasília, 1400-038 Lisboa, Portugal(38.6916, -9.2160).\n\n",
+        "question": "What is the straight-line distance between the Belém Tower in Lisbon and the University of Coimbra in Coimbra, Portugal?",
+        "choices": [
+            "180 km",
+            "150 km",
+            "205 km",
+            "235 km"
+        ],
+        "answer": "180 km",
+        "hint": "",
+        "image": "Information of <b>University of Coimbra</b>:\n- Location: 3004-531 Coimbra, Portugal(40.2076, -8.4261).\n\nInformation of <b>Belém Tower</b>:\n- Location: Av. Brasília, 1400-038 Lisboa, Portugal(38.6916, -9.2160).\n\n",
+        "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
+        "solution": "To find the answer, You have to choose one option from the MCQ",
+        "split": "test",
+        "classification": "poi",
+        "id": "538"
+    }
+}

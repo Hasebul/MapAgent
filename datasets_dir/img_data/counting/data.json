@@ -1,0 +1,706 @@
+[
+    {
+        "image": "Vdata/ID_1125.PNG",
+        "question": "How many hiking points are there? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "0",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1120.PNG",
+        "question": "How many restaurants or café are on the road Cekik - Seririt? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "1",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1002.PNG",
+        "question": "Could you please determine the total number of universities? Options: (A) Seven (B) Nine (C) Eight (D) Ten",
+        "pid": "2",
+        "answer": "D",
+        "answer_text": "Ten",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1110.PNG",
+        "question": "How many educational institutes are there in the map? Options: (A) Five (B) Three (C) Eight (D) None",
+        "pid": "3",
+        "answer": "A",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1101.PNG",
+        "question": "How many churces are visible in the lower half of the map? Options: (A) Five (B) Two (C) Four (D) Three",
+        "pid": "4",
+        "answer": "D",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_226.PNG",
+        "question": "Could you please determine the total number of hospitals present? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "5",
+        "answer": "C",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1111.PNG",
+        "question": "How many matro stations ase visible? Options: (A) Five (B) Three (C) Eight (D) None",
+        "pid": "6",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_224.PNG",
+        "question": "Could you identify the symbols and textual components linked to schools, colleges, universities, or related institutions in the image? Afterwards, please tally up the total count Options: (A) Ten (B) Nine (C) Eight (D) Seven",
+        "pid": "7",
+        "answer": "D",
+        "answer_text": "Seven",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1118.PNG",
+        "question": "How many hospitals are there ? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "8",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_213.PNG",
+        "question": " how many Park are there? Options: (A) Nine (B) Fourteen (C) Fifteen (D) Sixteen",
+        "pid": "9",
+        "answer": "B",
+        "answer_text": "Fourteen",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_610.PNG",
+        "question": "How many hotels can you count by looking at hotel or residential signs?\" Options: (A) eight (B) Ten (C) Nine (D) four",
+        "pid": "10",
+        "answer": "D",
+        "answer_text": "four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_221.PNG",
+        "question": "How many symbols and text representing Hospitals can you identify in the image? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "11",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1124.PNG",
+        "question": "How many restaurants are seen in the map? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "12",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1121.PNG",
+        "question": "How many shopping malls are on the right side of Minskaya st? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "13",
+        "answer": "D",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1114.PNG",
+        "question": "How many hotels are there in the left bottom side of the map? Options: (A) Two (B) Three (C) Five (D) Four",
+        "pid": "14",
+        "answer": "D",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_224.PNG",
+        "question": "Could you identify the symbols and textual components linked to Hospitals  in the image? Afterwards, please tally up the total count Options: (A) Two (B) One (C) Four (D) Five",
+        "pid": "15",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_228.PNG",
+        "question": "Could you please determine the total number of hospitals present? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "16",
+        "answer": "C",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1127.PNG",
+        "question": "How many beaches are seen in the mp> Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "17",
+        "answer": "C",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1115.PNG",
+        "question": "How many UNESCO related meuseums are seen in the map? Options: (A) Two (B) Three (C) Five (D) Four",
+        "pid": "18",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_225.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there? Options: (A) Seven (B) Nine (C) Eight (D) Ten",
+        "pid": "19",
+        "answer": "B",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1112.PNG",
+        "question": "How many castle are there in the image? Options: (A) Five (B) Two (C) One (D) Three",
+        "pid": "20",
+        "answer": "B",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing markets can you identify in the image? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "21",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_214.PNG",
+        "question": "Based on the symbols and labels, can you identify any Public transport like bus stop,train station etc  in the image? If so, how many are there? Options: (A) Two (B) Three (C) One (D) four",
+        "pid": "22",
+        "answer": "C",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_218.PNG",
+        "question": " how many Masjid or madrasa are there? Options: (A) One (B) Two (C) Five (D) Three",
+        "pid": "23",
+        "answer": "C",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_217.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there? Options: (A) Two (B) Ten (C) Five (D) Three",
+        "pid": "24",
+        "answer": "C",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1107.PNG",
+        "question": "How many churches are there in the left side of the river? Options: (A) One (B) Two (C) Six (D) Four",
+        "pid": "25",
+        "answer": "A",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_215.PNG",
+        "question": " how many School are there? Options: (A) Two (B) Three (C) One (D) four",
+        "pid": "26",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1124.PNG",
+        "question": "How many theatres are seen in the map? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "27",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1001.PNG",
+        "question": "Could you please determine the total number of parking lot? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "28",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_222.PNG",
+        "question": "How many symbols and text representing Theme Park  can you identify in the image? Options: (A) Ten (B) Nine (C) Eight (D) Eleven",
+        "pid": "29",
+        "answer": "C",
+        "answer_text": "Eight",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1117.PNG",
+        "question": "How many restaurants are in the Turun Linna caste complex? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "30",
+        "answer": "C",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_609.PNG",
+        "question": "Determine the number of Bangladeshi restaurants available.? Options: (A) eight (B) Ten (C) Nine (D) one",
+        "pid": "31",
+        "answer": "D",
+        "answer_text": "one",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_216.PNG",
+        "question": "How many green symbols are present? These symbols can vary. Options: (A) Two (B) Three (C) Five (D) four",
+        "pid": "32",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_605.PNG",
+        "question": " how many Hotels are there? Options: (A) eight (B) Ten (C) Nine (D) four",
+        "pid": "33",
+        "answer": "C",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1132.PNG",
+        "question": "How many hotels are in the complex? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "34",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_229.PNG",
+        "question": "Could you please determine the total number of Goverment Office present? Options: (A) Two (B) Six (C) Four (D) Five",
+        "pid": "35",
+        "answer": "B",
+        "answer_text": "Six",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_218.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there? Options: (A) One (B) Six (C) Five (D) Three",
+        "pid": "36",
+        "answer": "B",
+        "answer_text": "Six",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_203.PNG",
+        "question": "How many parks are shown ? Options: (A) two (B) Four (C) Five (D) Six",
+        "pid": "37",
+        "answer": "C",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_212.PNG",
+        "question": "Only based on the specific features within the image such as writing indicating a park, can you identify any parks? If so, how many parks are there? Options: (A) Nine (B) Ten (C) Fifteen (D) Eight",
+        "pid": "38",
+        "answer": "D",
+        "answer_text": "Eight",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1103.PNG",
+        "question": "How many schools or colleges are there in the map? Options: (A) Five (B) Two (C) Four (D) Three",
+        "pid": "39",
+        "answer": "A",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1104.PNG",
+        "question": "How many pharmacies are shown in the image? Options: (A) Five (B) Two (C) Four (D) Three",
+        "pid": "40",
+        "answer": "D",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1108.PNG",
+        "question": "How many green lands are present in the map? Options: (A) Seven (B) Twelve (C) Nine (D) Fifteen",
+        "pid": "41",
+        "answer": "C",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_213.PNG",
+        "question": "Based on the symbols and labels, can you identify any Historical landmark in the image? If so, how many are there? Options: (A) Five (B) Ten (C) Fifteen (D) four",
+        "pid": "42",
+        "answer": "A",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_204.PNG",
+        "question": "I have withdrawn money from Mercantil Bank. Now, how many transit stops are there near me? Options: (A) Four (B) one (C) Five (D) Two",
+        "pid": "43",
+        "answer": "A",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_202.PNG",
+        "question": "Count how many FamilyMart locations are there? Options: (A) four (B) Nine (C) Seven (D) Six",
+        "pid": "44",
+        "answer": "B",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_212.PNG",
+        "question": "Based on the symbols and labels, can you identify any Park  in the image? If so, how many are there? Options: (A) Nine (B) Ten (C) Fifteen (D) four",
+        "pid": "45",
+        "answer": "A",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_223.PNG",
+        "question": "How many symbols and text representing  Bridge ? can you identify in the image? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "46",
+        "answer": "C",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_218.PNG",
+        "question": " how many Bank are there? Options: (A) One (B) Two (C) Six (D) Three",
+        "pid": "47",
+        "answer": "D",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1123.PNG",
+        "question": "How many stores/malls are on the right side of Cameron St? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "48",
+        "answer": "C",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Bank in the image? If so, how many are there? Options: (A) Four (B) Six (C) Five (D) Three",
+        "pid": "49",
+        "answer": "A",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1113.PNG",
+        "question": "How many bridges are there on Vltava river? Options: (A) Five (B) Three (C) Eight (D) Four",
+        "pid": "50",
+        "answer": "A",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_225.PNG",
+        "question": "Could you identify the symbols and textual components linked to Park , Historical landmark in the image? Afterwards, please tally up the total count Options: (A) Seven (B) Nine (C) Eight (D) Ten",
+        "pid": "51",
+        "answer": "A",
+        "answer_text": "Seven",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_209.PNG",
+        "question": "Based on the symbols and labels, can you identify any Park  in the image? If so, how many are there? Options: (A) Seven (B) Three (C) Two (D) Six",
+        "pid": "52",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_208.PNG",
+        "question": "Based on the symbols and labels, can you identify any hotels in the image? If so, how many are there? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "53",
+        "answer": "C",
+        "answer_text": "Four",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_423.PNG",
+        "question": "Count the number of hotels? Options: (A) Two (B) Six (C) Four (D) Five",
+        "pid": "54",
+        "answer": "D",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_415.PNG",
+        "question": "Could you please determine the total number of historical landmark? Options: (A) Seven (B) Nine (C) Eight (D) Ten",
+        "pid": "55",
+        "answer": "B",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing stores and market can you identify in the image? Options: (A) Twelve (B) Thirteen (C) Fourteen (D) Fifteen",
+        "pid": "56",
+        "answer": "D",
+        "answer_text": "Fifteen",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Shop in the image? If so, how many are there? Options: (A) One (B) Six (C) Five (D) Three",
+        "pid": "57",
+        "answer": "D",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_207.PNG",
+        "question": "Presently I am in this hotel called Radisson Blu Water Garden Hotel, Dhaka . I am feeling very sick how many hospitals around me? Options: (A) Three (B) Four (C) Five (D) Six",
+        "pid": "58",
+        "answer": "A",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1118.PNG",
+        "question": "How many establishments are inside airport complex? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "59",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1122.PNG",
+        "question": "How many restaurants are seen in the map? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "60",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1128.PNG",
+        "question": "How many stores are shown? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "61",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_217.PNG",
+        "question": "Are there any Hotels identifiable in the image through text, symbols, or labels? If so, how many are there? Options: (A) Two (B) Ten (C) Five (D) Three",
+        "pid": "62",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1119.PNG",
+        "question": "How many hotels are inside the island? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "63",
+        "answer": "C",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_203.PNG",
+        "question": "How many museum are shown ? Options: (A) Nne (B) Four (C) Five (D) Two",
+        "pid": "64",
+        "answer": "D",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1126.PNG",
+        "question": "How many restaurants are seen in the map? Options: (A) Two (B) Three (C) Five (D) Four",
+        "pid": "65",
+        "answer": "C",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1120.PNG",
+        "question": "How many tourist attarction spots are visual in the image? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "66",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_210.PNG",
+        "question": " how many mountains are there? Options: (A) eight (B) Ten (C) Nine (D) four",
+        "pid": "67",
+        "answer": "C",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_205.PNG",
+        "question": "I'm in Ventura joyeria .How many restaurants are there near to me ? Options: (A) Seven (B) Four (C) one (D) Ten",
+        "pid": "68",
+        "answer": "A",
+        "answer_text": "Seven",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_227.PNG",
+        "question": "Could you please determine the total number of Museum present? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "69",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_220.PNG",
+        "question": "How many symbols and text representing ATM can you identify in the image? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "70",
+        "answer": "B",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Market  in the image? If so, how many are there? Options: (A) One (B) Six (C) Five (D) Three",
+        "pid": "71",
+        "answer": "D",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_215.PNG",
+        "question": "Can you identify any mosques or madrasas in the image based on the symbols and labels? If yes, how many of them are present? Options: (A) Two (B) Three (C) Five (D) four",
+        "pid": "72",
+        "answer": "C",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_206.PNG",
+        "question": "I live in Nommern, Luxembourg. Can you tell me the total number of grocery stores nearby? Options: (A) Seven (B) Four (C) Two (D) Six",
+        "pid": "73",
+        "answer": "C",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1116.PNG",
+        "question": "How many hotels are in the right half of the map? Options: (A) Two (B) Three (C) Five (D) Four",
+        "pid": "74",
+        "answer": "C",
+        "answer_text": "Five",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1109.PNG",
+        "question": "How many hotels have review below 4.5? Options: (A) One (B) Two (C) Three (D) Four",
+        "pid": "75",
+        "answer": "C",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_217.PNG",
+        "question": "Based on the symbols and labels, can you identify any Convention center or Community center  in the image? If so, how many are there? Options: (A) Two (B) Ten (C) Five (D) Three",
+        "pid": "76",
+        "answer": "D",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1133.PNG",
+        "question": "How  many meseums are there? Options: (A) Twelve (B) Fourteen (C) Eight (D) Seventeen",
+        "pid": "77",
+        "answer": "B",
+        "answer_text": "Fourteen",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1102.PNG",
+        "question": "How many hospitals are there ? Options: (A) Five (B) Two (C) Four (D) Three",
+        "pid": "78",
+        "answer": "B",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1117.PNG",
+        "question": "How many restaurants or clubs are on the bottom side of Linnakatu road? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "79",
+        "answer": "A",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1107.PNG",
+        "question": "How many hotels are there in the right side of the river? Options: (A) One (B) Two (C) Three (D) Four",
+        "pid": "80",
+        "answer": "C",
+        "answer_text": "Three",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1105.PNG",
+        "question": "How many schools are there in the map? Options: (A) Five (B) Two (C) One (D) Three",
+        "pid": "81",
+        "answer": "C",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1129.PNG",
+        "question": "How many mosques are seen? Options: (A) Two (B) Three (C) One (D) Four",
+        "pid": "82",
+        "answer": "C",
+        "answer_text": "One",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_1106.PNG",
+        "question": "How many mosques are there in the k367 line? Options: (A) Five (B) Two (C) Six (D) Four",
+        "pid": "83",
+        "answer": "B",
+        "answer_text": "Two",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing stores can you identify in the image? Options: (A) Twelve (B) Thirteen (C) Fourteen (D) Fifteen",
+        "pid": "84",
+        "answer": "B",
+        "answer_text": "Thirteen",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_201.PNG",
+        "question": "Count how many 7-Eleven locations are there? Options: (A) six (B) Five (C) Seven (D) Nine",
+        "pid": "85",
+        "answer": "D",
+        "answer_text": "Nine",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_220.PNG",
+        "question": "Can you spot any restaurants or coffee shops in the image based on the text, symbols, or labels? If yes, how many are there?\" Options: (A) Twelve (B) Thirteen (C) Fourteen (D) Fifteen",
+        "pid": "86",
+        "answer": "A",
+        "answer_text": "Twelve",
+        "category": "counting"
+    },
+    {
+        "image": "Vdata/ID_223.PNG",
+        "question": "How many symbols and text representing  Masque or masjid ? can you identify in the image? Options: (A) Two (B) Three (C) Four (D) Five",
+        "pid": "87",
+        "answer": "C",
+        "answer_text": "Four",
+        "category": "counting"
+    }
+]

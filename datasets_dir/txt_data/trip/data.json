@@ -1,0 +1,538 @@
+[
+    {
+        "image": null,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will drive my car. A.Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (35 mins) B.Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman (37 mins) C.Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral (48 mins) D.Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman (33 mins)",
+        "pid": "0",
+        "answer": "A",
+        "answer_text": "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (35 mins)",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at the Sydney Harbour YHA in Sydney. I want to visit the Sydney Opera House for 1 hour, Bondi Beach for 2 hours, the Royal Botanic Garden for 1.5 hours, and the Sydney Tower for 1 hour. I have 5 hours available. I will leave my hostel at 9 am. How many places can I visit? I will use public transport. A.One B.Two C.Three D.Four",
+        "pid": "1",
+        "answer": "C",
+        "answer_text": "Three",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Selina Porto in Porto, Portugal. I want to visit the Dom Luís I Bridge for 1 hour, Livraria Lello for 1.5 hours, Porto Cathedral for 1 hour, and the Bolsa Palace for 2 hours. I have 6.5 hours available. I will leave my hostel at 9 am. What’s the maximum number of places I can visit? I will travel by car. A.One B.Two C.Three D.Four",
+        "pid": "2",
+        "answer": "D",
+        "answer_text": "Four",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Rydges Wellington. From my location, I will go to my university \"Victoria University of Wellington\"by bicycle and return on foot. How much time will the entire journey take? A.32 mins B.33 mins C.35 mins D.36 mins",
+        "pid": "3",
+        "answer": "C",
+        "answer_text": "35 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Schedule my day to visit the maximum possible places. I will walk between places. A.Leave Hostal El Grial at 8 am. -> Visit Mercado Central de San Pedro (8:19 am - 9:19 am) -> Visit Qorikancha (9:35 am - 11:05 am) -> Visit Cusco Cathedral (11:15 am - 12:45 pm) -> Visit Saqsaywaman (12:59 pm - 2:29 pm) B.Leave Hostal El Grial at 8 am. -> Visit Cusco Cathedral (8:07 am - 9:37 am) -> Visit Qorikancha (9:46 am - 10:46 am) -> Visit Mercado Central de San Pedro (11:04 am - 12:04 pm) -> Visit Saqsaywaman (12:29 pm - 1:59 pm) C.Leave Hostal El Grial at 8 am. -> Visit Saqsaywaman  (8:07 am - 9:47 am) -> Visit Qorikancha (9:56 am - 10:56 am) -> Visit Mercado Central de San Pedro (11:04 am - 12:04 am) -> Visit Cusco Cathedral (12:29 pm - 1:59 pm) D.Leave Hostal El Grial at 8 am. -> Visit Qorikancha  (8:07 am - 9:37 am) -> Visit Cusco Cathedral (9:46 am - 10:46 am) -> Visit Saqsaywaman (11:04 am - 12:04 am) -> Visit  Mercado Central de San Pedro(12:29 pm - 1:59 pm)",
+        "pid": "4",
+        "answer": "B",
+        "answer_text": "Leave Hostal El Grial at 8 am. -> Visit Cusco Cathedral (8:07 am - 9:37 am) -> Visit Qorikancha (9:46 am - 10:46 am) -> Visit Mercado Central de San Pedro (11:04 am - 12:04 pm) -> Visit Saqsaywaman (12:29 pm - 1:59 pm)",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at The Rimrock Resort Hotel. If I spend 3 hours at Lake Louise, and 3 hours at Moraine Lake, starting at 9:00 AM, what time will I finish at Moraine Lake? I will travel by my car. A.3:36 PM B.2:06 PM C.3:06 PM D.4:06 PM",
+        "pid": "5",
+        "answer": "D",
+        "answer_text": "4:06 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. How many places can I visit? I will walk between places. A.One B.Two C.Three D.Four",
+        "pid": "6",
+        "answer": "D",
+        "answer_text": "Four",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "How long will it take by car to travel from Miami International Airport to Hialeah Hospital and then to Doral Legacy Park? A.20 mins B.38 mins C.48 mins D.27 mins",
+        "pid": "7",
+        "answer": "B",
+        "answer_text": "38 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at  Hotel Saltel. How much time will it take if I go to Science City - Kolkata from my location by car and then to the Nil Ratan Sircar Medical College and Hospital by the same car? A.20 mins B.22 mins C.24 mins D.26 mins",
+        "pid": "8",
+        "answer": "C",
+        "answer_text": "24 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "Tomorrow, I plan to visit the Royal Botanic Garden Sydney to spend 2 hours with friends, The Rocks (for a quick shopping stop, which will take 30 minutes), and Bondi Beach (to enjoy the beach and relax, which will take 1 hour). I intend to visit these places in the following order: The Rocks first, followed by Bondi Beach, and then the Royal Botanic Garden Sydney. My home is located in Surry Hills, Sydney NSW 2010, Australia. Considering this itinerary, what is the latest possible time I can leave home to still depart from the Royal Botanic Garden Sydney before it closes? I will use my car. A.2:23 PM B.2:37 PM C.1:23 PM D.1:37 PM",
+        "pid": "9",
+        "answer": "D",
+        "answer_text": "1:37 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Atlantis, The Palm in Dubai. I want to visit the Burj Khalifa for 1.5 hours, the Dubai Mall for 2 hours, the Palm Jumeirah Boardwalk for 1.5 hours, and the Museum of the Future for 1 hour. I have 7 hours available. I will leave my hotel at 10 am. How many places can I visit? I will travel by car. A.None B.Two C.Three D.All",
+        "pid": "10",
+        "answer": "D",
+        "answer_text": "All",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will walk between places. A.Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman (37 mins) B.Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral (48 mins) C.Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman (52 mins) D.Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (49 mins)",
+        "pid": "11",
+        "answer": "D",
+        "answer_text": "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (49 mins)",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently at Planetshakers Church Melbourne City Campus. I want to drive to Carrot Tattoo Studio and then to Melbourne Lifestyle Apartments - Docklands Accommodation. How long will this take? A.18 mins B.19 mins C.20 mins D.21 mins",
+        "pid": "12",
+        "answer": "B",
+        "answer_text": "19 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "In Rome, I plan to visit the Colosseum for 2 hours in the morning, spend 1.5 hours at the Roman Forum, and finish with a 1-hour visit to the Pantheon. What time should I start to finish by 2:00 PM or earlier? A.8.39 am B.11.08 am C.8.39 pm D.10.09 am",
+        "pid": "13",
+        "answer": "A",
+        "answer_text": "8.39 am",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I plan to visit the Christ the Redeemer at 12:00 PM and spend 2 hours there. Afterward, I want to visit the Escadaria Selarón for 1 hour. If I want to spend 1.5 hours at Museu do Amanhã, what is the latest time I should leave the Escadaria Selarón to ensure I have enough time to visit Museu do Amanhã before it closes? A.3:25 PM B.4:14 PM C.4:16 PM D.4:44 PM",
+        "pid": "14",
+        "answer": "B",
+        "answer_text": "4:14 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "How much time will it take by car If I go from Indira Road to Sultan's Dine and then to LABAID Specialized Hospital? A.20 mins B.25 mins C.29 mins D.19 mins",
+        "pid": "15",
+        "answer": "C",
+        "answer_text": "29 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I'm at Luxembourg Airport right now. I drove to Kockelscheuer Ice Rink by car, took a train to Kallektuffquell, and then drove back to the airport by car. How long did it take? A.\\n1 hours 19 mins B.\\n1 hours 20 mins C.\\n1hours 10 mins D.1hours 18 mins",
+        "pid": "16",
+        "answer": "A",
+        "answer_text": "\\n1 hours 19 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Hotel Saltel. How much time will it take if I go to Science City - Kolkata from my location on foot, then to the Nil Ratan Sircar Medical College and Hospital by car, and then return to my current location on foot? A.1 hour 4 mins B.2 hour 13 mins C.1 hour 13 mins D.2 hour 14 mins",
+        "pid": "17",
+        "answer": "B",
+        "answer_text": "2 hour 13 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I have a tight schedule in Rome. I plan to visit the Colosseum at 10:00 AM for 1.5 hours. Afterward, I’ll head to the Trevi Fountain, where I’ll spend 45 minutes. I have a guided tour of the Vatican Museum scheduled for 3:00 PM, and it will last 2 hours. How much free time do I have for lunch before heading to the Vatican Museum? I will travel by public transport. A.2 hour 28 minutes B.1 hour 18 minutes C.2 hour 18 minutes D.1 hour 58 minutes",
+        "pid": "18",
+        "answer": "D",
+        "answer_text": "1 hour 58 minutes",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to  Kelburn Park, followed by a trip to Victoria University of Wellington, and finally return to my current location. All the travel will be done using my own car. How much time will the entire journey take? A.11 mins B.10 mins C.12 mins D.9 mins",
+        "pid": "19",
+        "answer": "B",
+        "answer_text": "10 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at The Bowery House in New York. I want to visit the Statue of Liberty for 1.5 hours, Central Park for 2.5 hours, and the Empire State Building for 1 hour. I have 6 hours available. I will leave my hostel at 7 am. What's the maximum number of places I can visit? I will public transport to travel. A.None B.One C.Two D.Three",
+        "pid": "20",
+        "answer": "C",
+        "answer_text": "Two",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Khaosan Tokyo Origami in Asakusa, Tokyo. I want to visit the Sensō-ji Temple for 1 hour, Shibuya Crossing for 1.5 hours, Ueno Park for 2 hours, and the Tokyo Skytree for 1.5 hours. I have 3.5 hours available. I will leave my hostel at 7 am. How many places can I visit? I will walk between places. A.One B.Two C.Three D.Four",
+        "pid": "21",
+        "answer": "A",
+        "answer_text": "One",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Che Lagarto Hostel in Rio de Janeiro. I want to visit Christ the Redeemer for 2 hours, Ipanema Beach for 1.5 hours, Copacabana Beach for 1.5 hours, and the  Escadaria Selarón for 1 hour. I have 6 hours available. I will leave my hostel at 7 am. What’s the maximum number of places I can visit using my bicycle? A.One B.Two C.Three D.Four",
+        "pid": "22",
+        "answer": "C",
+        "answer_text": "Three",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I'm at Mabashi Park and drove to Nakano ZERO, then to Ochiai Park. What's the total distance for the entire journey by car? A.5.6 km B.5.4 km C.4.6 km D.4.6 km",
+        "pid": "23",
+        "answer": "A",
+        "answer_text": "5.6 km",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "On a Monday afternoon, I want to spend 2 hours at The Metropolitan Museum of Art, followed by a coffee break at Starbucks and a 1-hour walk in Central Park. How long is the walk from Starbucks to Central Park? A.2 minutes B.4 minutes C.6 minutes D.8 minutes",
+        "pid": "24",
+        "answer": "B",
+        "answer_text": "4 minutes",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I have a full day to explore Sydney and want to visit the Sydney Opera House for a 1-hour tour, spend 2 hours at Bondi Beach, and end with a 1-hour walk in the Royal Botanic Garden Sydney. If I start my day at 9 AM, what is the best itinerary to follow using public transport to finish my journey as early as possible? A.Sydney Opera House -> Bondi Beach -> Royal Botanic Garden Sydney B.Bondi Beach -> Sydney Opera House -> Royal Botanic Garden Sydney C.Royal Botanic Garden Sydney -> Bondi Beach -> Sydney Opera House D.Bondi Beach -> Royal Botanic Garden Sydney -> Sydney Opera House",
+        "pid": "25",
+        "answer": "A",
+        "answer_text": "Sydney Opera House -> Bondi Beach -> Royal Botanic Garden Sydney",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to Victoria University of Wellington by bicycle, then walk to Lady Norwood Rose Garden, and finally return to my starting point by taxi. How much time will the entire journey take? A.24 mins B.34 mins C.44 mins D.14 mins",
+        "pid": "26",
+        "answer": "B",
+        "answer_text": "34 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to Kelburn Park, then to Victoria University of Wellington, and finally return to my starting point. All the travel will be done on foot. How much time will the entire journey take? A.30 mins B.32 mins C.28 mins D.38 mins",
+        "pid": "27",
+        "answer": "D",
+        "answer_text": "38 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at St Christopher's Inn in Barcelona. I want to visit the Sagrada Família for 2 hours, Park Güell for 1.5 hours, Casa Batlló for 1 hour, and La Rambla for 1.5 hours. I have 5 hours available. I will leave my hostel at 10 am. What’s the maximum number of places I can visit? I will walk between places. A.One B.Two C.Three D.Four",
+        "pid": "28",
+        "answer": "B",
+        "answer_text": "Two",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I have a morning to explore Istanbul and want to visit the Hagia Sophia for 1.5 hours, then spend 1 hour at the Blue Mosque, and finish with a 45-minute visit to the Grand Bazaar. When should I visit Hagia Sophia so that I can visit Grand Bazaar at 1.00 pm? I will use public transport. A.10.13 B.10.23 C.10.33 D.11.23",
+        "pid": "29",
+        "answer": "A",
+        "answer_text": "10.13",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Hotel Saltel. From my current location, I plan to go to Science City first on foot. Then, I'll take a taxi to the Nil Ratan Sircar Medical College and Hospital. After that, I'll take a train to the lake. Next, I need some grocery products, so I'll go to Nagerbazar by taxi. Finally, I'll return to my current location by car. How much time will this take? A.2 hour 13 mins B.2 hour 14 mins C.1 hour 13 mins D.3 hour 15 mins",
+        "pid": "30",
+        "answer": "A",
+        "answer_text": "2 hour 13 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I live in Indira Road. At tomorrow 2 pm I will leave my house. I need to go to Military Museum to visit with friends for 2 hours and Multiplan Center to buy a keyboard (which will take 20 minutes) and Sonali Bank, BUET to receive my check book (which will take 30 minutes). In which order I should visit the places so that I reach there on time and come back home as early as possible. I will use public transport. A.Home -> Military Museum -> Multiplan Center -> Sonali Bank -> Home B.Home -> Multiplan Center -> Sonali Bank -> Military Museum -> Home C.Home -> Sonali Bank -> Multiplan Center -> Military Museum -> Home D.Home -> Military Museum -> Sonali Bank -> Multiplan Center -> Home",
+        "pid": "31",
+        "answer": "B",
+        "answer_text": "Home -> Multiplan Center -> Sonali Bank -> Military Museum -> Home",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I live on Indira Road. I need to go to LABAID Specialized hospital. I will stay there for half an hour. But I also need to go to Sultan's Dine. I will have my dinner there, which will take approximately an hour. If I leave home at 8:30 pm, where should I go first? LABAID or Sultan's Dine. I will go by car. A.Sultan's Dine B.LABAID Specialized Hospital C. D.",
+        "pid": "32",
+        "answer": "A",
+        "answer_text": "Sultan's Dine",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Hotel Saltel. From my current location, I plan to go to Science City first on foot. Then, I'll take a taxi to the hospital. After that, I'll take a train to the lake. Next, I need some grocery products, so I'll go to Nagerbazar by taxi. Finally, I'll return to my current location by public transport. How much time will this take? A.3 hour 44 mins B.3 hour 43 mins C.2 hour 44 mins D.2 hour 43 mins",
+        "pid": "33",
+        "answer": "D",
+        "answer_text": "2 hour 43 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "If I’m walking from The Great Hall Balcony Cafe to Central Park, how much time should I allocate for the walk? A.3 minutes B.5 minutes C.6 minutes D.10 minutes",
+        "pid": "34",
+        "answer": "C",
+        "answer_text": "6 minutes",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at The Rimrock Resort Hotel. If I want to visit Banff National Park, Lake Louise, and Moraine Lake in one day, spending 3 hours at each location, in which order I should visit this places to minimize travel time by car? A.The Rimrock Resort Hotel -> Moraine Lake -> Banff National Park -> Lake Louise B.The Rimrock Resort Hotel -> Lake Louise -> Moraine Lake -> Banff National Park C.The Rimrock Resort Hotel -> Lake Louise -> Banff National Park -> Moraine Lake D.The Rimrock Resort Hotel -> Banff National Park -> Lake Louise -> Moraine Lake",
+        "pid": "35",
+        "answer": "D",
+        "answer_text": "The Rimrock Resort Hotel -> Banff National Park -> Lake Louise -> Moraine Lake",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "In Tokyo, I want to visit the Tokyo National Museum for 2 hours, have lunch at a restaurant in Asakusa named \"BLACK PAPA\" for 1 hour, and then spend 1 hour at Senso-ji Temple. If I drive, what time should I start my day to finish by 3 PM? A.11.00 AM B.10.44 AM C.11.44 AM D.11.11 AM",
+        "pid": "36",
+        "answer": "B",
+        "answer_text": "10.44 AM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": " I am at Rydges Wellington. I will drive to Victoria University of Wellington by car from my current location, then cycle to Kelburn Park, and finally return to my starting point by car. How much time will the entire journey take? A.10 mins B.16 mins C.26 mins D.17 mins",
+        "pid": "37",
+        "answer": "A",
+        "answer_text": "10 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "If I arrive at Banff at 9:00 AM and spend 2 hours exploring the town, followed by a drive to Lake Louise, what's the maximum time I can spend at Lake Louise before needing to leave at 3:00 PM for Moraine Lake to catch a sunset at 6:00 PM? A.2 hours 12 minutes B.3 hours 2 minutes C.3 hours 12 minutes D.3 hours 22 minutes",
+        "pid": "38",
+        "answer": "D",
+        "answer_text": "3 hours 22 minutes",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I live in  Indira Road. Tomorrow, I plan to visit the Bangabandhu Military Museum to spend 2 hours with friends, then Multiplan Center to purchase a keyboard (which will take 20 minutes), and Sonali Bank PLC, BUET Branch, to receive my checkbook (which will take 30 minutes). I intend to visit these places in the following order: Multiplan Center first, followed by Sonali Bank, and then the Military Museum. Considering this itinerary, what is the latest possible time I can leave home so that I can still depart from the Military Museum before it closes? I will use public transport. A.2:55 PM B.3:00 PM C.3:04 PM D.3:14 PM",
+        "pid": "39",
+        "answer": "C",
+        "answer_text": "3:04 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at the Sydney Harbour YHA in Sydney. I want to visit the Sydney Opera House for 1 hour, Bondi Beach for 2 hours, the Royal Botanic Garden for 1.5 hours, and the Sydney Tower for 1 hour. I have 5 hours available. I will leave my hostel at 9 am. Can I visit the places in this order:  Bondi Beach ->  Royal Botanic Garden -> Sydney Opera House ->  Sydney Tower ? I will use public transport. A.Yes B.No C. D.",
+        "pid": "40",
+        "answer": "B",
+        "answer_text": "No",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Stayokay Hostel in Amsterdam. I want to visit the Rijksmuseum for 2 hours, Vondelpark for 1 hour, the Anne Frank House for 1.5 hours, and the Van Gogh Museum for 1.5 hours. I have 6.5 hours available. I will leave my hostel at 9 am. How many places can I visit? I will use my bicycle. A.One B.Two C.Three D.Four",
+        "pid": "41",
+        "answer": "D",
+        "answer_text": "Four",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am spending a day in Medellín and staying at The Charlee Hotel. I will leave my hotel at 9:00 AM and plan to visit three key attractions: the Plaza Botero (2 hours),  Lleras Park (1.5 hours), and the Museum of Antioquia (1 hours). Schedule my day if I plan to visit these place in this order: First Lleras Park, then Plaza Botero, then Museum of Antioquia and finally come back to hotel. I will use public transport. A.Leave hotel at 9:00 AM -> Visit Lleras Park (9:20 AM - 10:42 AM) -> Visit Plaza Botero (11:50 AM - 12:40 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 2:10 PM B.Leave hotel at 9:00 AM -> Visit Lleras Park (10:00 AM - 11:32 AM) -> Visit Plaza Botero (12:00 PM - 1:00 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 3:00 PM C.Leave hotel at 9:00 AM -> Visit Lleras Park (9:02 AM - 10:32 AM) -> Visit Plaza Botero (11:15 AM - 1:15 PM) -> Visit Museum of Antioquia (1:16 PM - 2:16 PM) -> Come back to Hotel at 2:49 PM D.Leave hotel at 9:00 AM -> Visit Lleras Park (9:02 AM - 10:32 AM) -> Visit Plaza Botero (10:59 AM - 12:59 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 2:33 PM",
+        "pid": "42",
+        "answer": "D",
+        "answer_text": "Leave hotel at 9:00 AM -> Visit Lleras Park (9:02 AM - 10:32 AM) -> Visit Plaza Botero (10:59 AM - 12:59 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 2:33 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I arrived in Singapore at 10:00 AM and want to spend my afternoon exploring three popular spots: Gardens by the Bay (1.5 hours), then Marina Bay Sands (1 hour), and finally Sentosa Island. I need to catch a flight departing from Changi Airport. I need to be there at 8:00 PM. What’s the latest time I can leave Sentosa Island to make my flight? I will travel by car. A.7:23 PM B.7:18 PM C.7:28 PM D.7:38 PM",
+        "pid": "43",
+        "answer": "D",
+        "answer_text": "7:38 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I live at Indira Road. If I leave home at 8 pm, will I be able to reach sultan's dine and take dinner (which takes approximately 1 hour) before it closes? I will use my car. A.Yes B.No C. D.",
+        "pid": "44",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "Currently it's 4:15 pm. I am at Mabashi Park right now and have started driving to Nakano ZERO. After that, what time will I reach Ochiai Park?\" A.4.30 pm B.4.35 pm C.4.40 pm D.4.45 pm",
+        "pid": "45",
+        "answer": "B",
+        "answer_text": "4.35 pm",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am planning a visit to Paris and want to maximize my time. If I spend 2 hours at the Louvre Museum in the morning, 1 hour at the Notre-Dame Cathedral around noon, and 1 hour at the Eiffel Tower in the afternoon, how much time should I allocate for travel between these places using public transport? A.32 mins B.20 mins C.12 mins D.30 mins",
+        "pid": "46",
+        "answer": "A",
+        "answer_text": "32 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I plan to visit the Museo Nacional de Bellas Artes at 11:00 AM and spend 2 hours there. After that, I want to have lunch at a nearby café \"Café La Biela\" for 1 hour and then visit the Cementerio de la Recoleta. If I want to spend 1.5 hours exploring the cemetery, what is the latest time I should leave the café to ensure I have enough time to visit the Cementerio de la Recoleta before it closes? I will walk from one place to other. A.3:28 PM B.2:02 PM C.4:02 PM D.4:28 PM",
+        "pid": "47",
+        "answer": "A",
+        "answer_text": "3:28 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I want to visit Central Park and grab coffee at Petrie Court Café beforehand. If I leave Central Park at 9:00 AM on Sunday, what time can I visit Petrie Court Café? A.11:00 AM B.10:30 AM C.12:00 PM D.10:00 AM",
+        "pid": "48",
+        "answer": "A",
+        "answer_text": "11:00 AM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "My home is in Santragachi. I walked to Unsani High School and returned by car. How long did it take? A.52 mins B.40 mins C.45 mins D.57 mins",
+        "pid": "49",
+        "answer": "D",
+        "answer_text": "57 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at the Sydney Harbour YHA in Sydney. I want to visit the Sydney Opera House for 1 hour, Bondi Beach for 2 hours, the Royal Botanic Garden for 1.5 hours, and the Sydney Tower for 1 hour. I have 7 hours available. I will leave my hostel at 9 am. How many places can I visit? I will use public transport. A.One B.Two C.Three D.Four",
+        "pid": "50",
+        "answer": "D",
+        "answer_text": "Four",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will drive my car. A.Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha B.Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman C.Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral D.Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman",
+        "pid": "51",
+        "answer": "A",
+        "answer_text": "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I plan to start my day in Amsterdam at 9:00 AM by visiting the Van Gogh Museum for 2 hours. Afterward, I plan to have lunch at Café Loetje for 1 hour and then take a canal cruise that departs at 2:00 PM, lasting 1 hour and 30 minutes. After the cruise, I want to visit the Anne Frank House, which takes 45 minutes, before heading back to my hotel, Hotel Estheréa, by 6:00 PM. What’s the latest time I can leave the Anne Frank House to ensure I’m back at my hotel by 6:00 PM? I will travel by my car. A.5:05PM B.5:35 PM C.5:30 PM D.5:55 PM",
+        "pid": "52",
+        "answer": "D",
+        "answer_text": "5:55 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "Today is Monday. I have an afternoon free in New York and plan to visit The Metropolitan Museum of Art for 3 hours, followed by a 30-minute coffee break at a nearby cafe, and then spend 1 hour in Central Park (New York, NY, USA). Plan a schedule to ensure I have enough time for everything. I will walk between places. A.(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.02PM - 6.32PM) Have coffee at The Great Hall Balcony Cafe -> (6.38PM - 7.38PM) Spend time in Central Park. B.(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.08PM - 6.38PM) Have coffee at  Central Park cafe -> (6.42PM - 7.42PM) Spend time in Central Park. C.(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.05PM - 6.35PM) Have coffee at Starbucks  -> (6.39PM - 7.39PM) Spend time in Central Park. D.(2.00PM - 5.00PM) Visit The Metropolitan Museum of Art -> (5.09PM - 5.39PM) Have coffee at Matto Espresso -> (5.47PM - 6.47PM) Spend time in Central Park.",
+        "pid": "53",
+        "answer": "C",
+        "answer_text": "(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.05PM - 6.35PM) Have coffee at Starbucks  -> (6.39PM - 7.39PM) Spend time in Central Park.",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I plan to visit the Table Mountain Aerial Cableway at 12:00 PM and spend 2 hours there. After that, I want to visit Kirstenbosch National Botanical Garden and spend at least 1.5 hours there. If I want to spend 1 hour at The Two Oceans Aquarium, what is the latest time I should leave Kirstenbosch National Botanical Garden to ensure I have enough time to visit the Two Oceans Aquarium before it closes? I will use my car to travel. A.4:24 PM B.3:53 PM C.4:16 PM D.4:44 PM",
+        "pid": "54",
+        "answer": "D",
+        "answer_text": "4:44 PM",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at the Hampton Inn & Suites Ft. Lauderdale/Miramar, and I want to go to Memorial Hospital  first, then Flamingo Gardens . How much time will it take to travel by car from my location? A.32 min B.33 min C.31 min D.34 min",
+        "pid": "55",
+        "answer": "A",
+        "answer_text": "32 min",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "In Barcelona, I want to visit the Sagrada Família for 2 hours, then spend 1 hour at Park Güell, and finish with a 1.5-hour visit to La Rambla. In which order I should visit the places by car to minimize the travel time? A.Sagrada Família -> Park Güell -> La Rambla B.Park Güell -> La Rambla -> Sagrada Família C.La Rambla -> Sagrada Família -> Park Güell D. Park Güell -> Sagrada Família -> La Rambla",
+        "pid": "56",
+        "answer": "D",
+        "answer_text": " Park Güell -> Sagrada Família -> La Rambla",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "If I visit the Notre-Dame Basilica for 1 hour in the morning, spend 1.5 hours at the Montreal Museum of Fine Arts around noon, and 1 hour at Mount Royal Park in the afternoon, how much time should I allocate for traveling between these locations using public transport? A.42 mins B.46 mins C.50 mins D.52 mins",
+        "pid": "57",
+        "answer": "D",
+        "answer_text": "52 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Hotel Saltel. From my current location, I plan to drive myself to Science City first. Then, I'll take a taxi to the Nil Ratan Sircar Medical College and Hospital. After that, I'll drive to the City Centre Salt Lake. Next, I need some grocery products, so I'll go to Nagerbazar by taxi. Finally, I'll return to my current location by car. How much time will this take?\n\n A.99 mins  B.98 mins C.95 mins D.100 mins",
+        "pid": "58",
+        "answer": "A",
+        "answer_text": "99 mins ",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I plan to spend a day in London visiting The British Museum for 2 hours, then take a 1.5-hour tour of the Tower of London, and finally enjoy a 45-minute ride on the lastminute.com London Eye. How should I schedule my day to ensure I can fit everything in, considering public transport times A.(2.00PM - 4.00PM) Visit The British Museum -> Reach Tower of London at 4.13PM -> (4.13 - 5.43PM) Visit the Tower of London -> Reach lastminute.com London Eye at 6.15PM -> (6.15PM - 7.00PM) Enjoy ride on the lastminute.com London Eye. B.(1.00PM - 3.00PM) Visit The British Museum -> Reach Tower of London at 3.13PM -> (3.13 - 4.43PM) Visit the Tower of London -> Reach lastminute.com London Eye at 5.11PM -> (5.11PM - 5.56PM) Enjoy ride on the lastminute.com London Eye. C.(2.00PM - 4.00PM) Visit The British Museum -> Reach Tower of London at 4.33PM -> (4.33 - 6.03PM) Visit the Tower of London -> Reach lastminute.com London Eye at 6.31PM -> (6.31PM - 7.16PM) Enjoy ride on the lastminute.com London Eye. D.(1.00PM - 3.00PM) Visit The British Museum -> Reach Tower of London at 3.33PM -> (3.33 - 5.03PM) Visit the Tower of London -> Reach lastminute.com London Eye at 5.31PM -> (5.31PM - 6.16PM) Enjoy ride on the lastminute.com London Eye.",
+        "pid": "59",
+        "answer": "D",
+        "answer_text": "(1.00PM - 3.00PM) Visit The British Museum -> Reach Tower of London at 3.33PM -> (3.33 - 5.03PM) Visit the Tower of London -> Reach lastminute.com London Eye at 5.31PM -> (5.31PM - 6.16PM) Enjoy ride on the lastminute.com London Eye.",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Khaosan Tokyo Origami in Asakusa, Tokyo. I want to visit the Sensō-ji Temple for 1 hour, Shibuya Crossing for 1.5 hours, Ueno Park for 2 hours, and the Tokyo Skytree for 1.5 hours. I have 5.5 hours available. I will leave my hostel at 7 am. How many places can I visit? I will walk between places. A.One B.Two C.Three D.Four",
+        "pid": "60",
+        "answer": "B",
+        "answer_text": "Two",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "In Bangkok, I want to visit the Grand Palace for 2 hours, followed by a 1.5-hour visit to Wat Arun, and finally spend 1 hour at Chatuchak Weekend Market. If I start my journey at 1.00 pm by car, when will I finish my journey? A.6.11 pm B.5.11 pm C.1.55 pm D.6.41 pm",
+        "pid": "61",
+        "answer": "A",
+        "answer_text": "6.11 pm",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will first go to Victoria University of Wellington, then to Lady Norwood Rose Garden, and finally return to my starting point. All the travel will be done on foot. How much time will the entire journey take? A.51 mins B.55 mins C.56 mins D.45 mins",
+        "pid": "62",
+        "answer": "B",
+        "answer_text": "55 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am at Rydges Wellington. Starting from my current location, I will go to Victoria University of Wellington by bicycle, walk to Lady Norwood Rose Garden, and return to my starting point by train. How much time will the entire journey take? A.40 mins B.42 mins C.44 mins D.46 mins",
+        "pid": "63",
+        "answer": "A",
+        "answer_text": "40 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently at Oakwood Premier Melbourne. I want to drive to Marvel Stadium and then to Melbourne Central. How long will this take? A.10 mins B.20 mins C.15 mins D.16 mins",
+        "pid": "64",
+        "answer": "D",
+        "answer_text": "16 mins",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at King Kong Hostel in Rotterdam. I want to visit the Kijk-Kubus Museum-house for 1 hour, the Erasmusbrug for 1 hour, the Museum Boijmans Van Beuningen for 1.5 hours, and the Market Hall for 1.5 hours. I have 6 hours available. I will leave my hostel at 9 am. What’s the maximum number of places I can visit? I will between places. A.None B.Two C.Three D.Four",
+        "pid": "65",
+        "answer": "D",
+        "answer_text": "Four",
+        "category": "trip"
+    },
+    {
+        "image": null,
+        "question": "I am currently staying at Hostel El Grial in Cusco, Peru. I want to visit Sacsayhuamán for 1.5 hours, Qorikancha Temple for 1 hour, the Cusco Cathedral for 1.5 hours, and the Mercado Central de San Pedro for 1 hour. I have 6 hours available. I will leave my hostel at 8 am. Give the most optimized order to visit these places. I will walk between places. A.Mercado Central de San Pedro -> Qorikancha -> Cusco Cathedral -> Saqsaywaman B.Saqsaywaman -> Qorikancha -> Mercado Central de San Pedro -> Visit Cusco Cathedral C.Cusco Cathedral -> Qorikancha -> Mercado Central de San Pedro -> Saqsaywaman D.Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha",
+        "pid": "66",
+        "answer": "D",
+        "answer_text": "Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha",
+        "category": "trip"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "image": null,
+        "question": "Which pair of places is farthest from each other in Greece? A.Athens and Thessaloniki B.Athens and Crete C.Thessaloniki and Corfu D.Athens and Rhodes",
+        "pid": "0",
+        "answer": "D",
+        "answer_text": "Athens and Rhodes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which coffee shop is situated between the Pantheon and the Trevi Fountain? A.Gran Caffè La Caffettiera B.Gran Caffè Rione VIII C.Roscioli Caffè Pasticceria D.Manfrè Borse e Caffè",
+        "pid": "1",
+        "answer": "A",
+        "answer_text": "Gran Caffè La Caffettiera",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is Asador Etxebarri open on Sunday? A.Yes B.No C. D.",
+        "pid": "2",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is BLACK PAPA reservable? A.Yes B.No C. D.",
+        "pid": "3",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which landmark is located directly West of the Tashichho Dzong in Thimphu, Bhutan? A.National Library of Bhutan B.Buddha Dordenma C.Royal Takin Preserve D.Changangkha Lhakhang",
+        "pid": "4",
+        "answer": "C",
+        "answer_text": "Royal Takin Preserve",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is closest to each other in Hungary? A.Hortobágy National Park and Debrecen B.Buda Castle and Fisherman's Bastion in Budapest C.Lake Balaton and Tihanyi-félsziget D.Széchenyi Thermal Bath and Heroes' Square in Budapest",
+        "pid": "5",
+        "answer": "D",
+        "answer_text": "Széchenyi Thermal Bath and Heroes' Square in Budapest",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Angel of Independence in Mexico City and the Chichen Itza ruins in Mexico? A.989.45 km B.1278.67 km C.1010.34 km D.1115.76 km",
+        "pid": "6",
+        "answer": "D",
+        "answer_text": "1115.76 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Obelisco and the Casa Rosada in Buenos Aires? A.0.76 km B.2.15 km C.1.19 km D.1.14 km",
+        "pid": "7",
+        "answer": "D",
+        "answer_text": "1.14 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction and straight-line distance from Charles Bridge to Old Town Square? A.North, 0.6 km B.East, 0.71 km C.North, 1.6 km D.South, 2.1 km",
+        "pid": "8",
+        "answer": "B",
+        "answer_text": "East, 0.71 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What's the rating of The Blue Door Bistro? A.3.6 B.3.9 C.4.1 D.4.4",
+        "pid": "9",
+        "answer": "C",
+        "answer_text": "4.1",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Belem Tower in Lisbon and the Sanctuary of Our Lady of Fátima in Fátima, Portugal? A.156.12 km B.78.16 km C.114.49 km D.87.26 km",
+        "pid": "10",
+        "answer": "C",
+        "answer_text": "114.49 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Viking Ship Museum from Oslo Central Station? A.West B.East C.North D.South",
+        "pid": "11",
+        "answer": "A",
+        "answer_text": "West",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is closest to each other in Malaysia? A.Petronas Twin Towers and KLCC Park in Kuala Lumpur B.George Town and Kek Lok Si Temple in Penang C.Taman Negara National Park and Orang Asli Village D.Mount Kinabalu and Poring Hot Springs in Sabah",
+        "pid": "12",
+        "answer": "A",
+        "answer_text": "Petronas Twin Towers and KLCC Park in Kuala Lumpur",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between Marina Bay Sands and Sentosa Island in Singapore? A.5.32 km B.3.99 km C.4.59 km D.4.99 km",
+        "pid": "13",
+        "answer": "D",
+        "answer_text": "4.99 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which coffee shop is situated between Café de Tacuba and Palacio de Bellas Artes? A.Café del Centro, Donceles 96b, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06020 Ciudad de México, CDMX, Mexico B.Café Entre Palmas, Calle Palma Nte. 506-Local 3, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico C.Café La Pagoda, Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico D.Café Xanah, Belisario Domínguez 49, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico",
+        "pid": "14",
+        "answer": "C",
+        "answer_text": "Café La Pagoda, Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction and straight-line distance from the Atomium to Brussels Airport? A.North, 20.54 kilometers B.East, 10.14 kilometers C.East, 14.14 kilometers D.North, 12.67 kilometers",
+        "pid": "15",
+        "answer": "B",
+        "answer_text": "East, 10.14 kilometers",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction and straight-line distance from the National Gallery of Zimbabwe to Robert Gabriel Mugabe International Airport? A.South, 13.45 kilometers B.East, 13.56 kilometers C.South, 11.68 kilometers D.East, 5.69 kilometers",
+        "pid": "16",
+        "answer": "C",
+        "answer_text": "South, 11.68 kilometers",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "I am looking for a restaurant in Dhanmondi named Madchef. Give me the full address. A.House#8/A, Road#4, Royal Palaza (5th Floor), Mirpur Rd, Dhaka 1205, Bangladesh B.House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh C.9/A , Rupayan Z.R Plaza, Level - 2 Road No. New 46, Satmasjid Road, Dhaka 1209, Bangladesh D.Dhanmondi ADC Empire Plaza, (1st Floor), Plot 91, Road 12/A, Satmasjid Road, Opposite Pizza Hut, Dhanmondi, Dhaka 1209, Bangladesh",
+        "pid": "17",
+        "answer": "B",
+        "answer_text": "House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is takeout available at the Starbucks on Calle de la Princesa, 40, Centro? A.Yes B.No C. D.",
+        "pid": "18",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is the Grand Bazaar open at 6:00 PM Tuesday? A.Yes B.No C. D.",
+        "pid": "19",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Does Chakoru serves lunch? A.Yes B.No C. D.",
+        "pid": "20",
+        "answer": "B",
+        "answer_text": "No",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": " Which landmark is located directly West of Esplanadi Park in Helsinki? A.The National Museum of Finland B.Kallio Church C.Helsinki Cathedral D.Linnanmäki Amusement Park",
+        "pid": "21",
+        "answer": "A",
+        "answer_text": "The National Museum of Finland",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is farthest from each other in Poland? A.Warsaw and Kraków : 251.98 km B.Warsaw and Gdańsk : 283.54 km C.Gdańsk and Wrocław : 376.45 km D.Kraków and Wrocław",
+        "pid": "22",
+        "answer": "C",
+        "answer_text": "Gdańsk and Wrocław : 376.45 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which landmark is located directly north of Central Park in New York City? A.The Guggenheim Museum B.Times Square C.Columbia University D.Rockefeller Center",
+        "pid": "23",
+        "answer": "C",
+        "answer_text": "Columbia University",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of Victoria Falls from Harare? A.East B.West C.North D.South",
+        "pid": "24",
+        "answer": "B",
+        "answer_text": "West",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is Asador Etxebarri open on Monday? A.Yes B.No C. D.",
+        "pid": "25",
+        "answer": "B",
+        "answer_text": "No",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is farthest from each other in Hungary? A.Budapest and Debrecen B.Budapest and Szeged C.Budapest and Pécs D.Debrecen and Szeged",
+        "pid": "26",
+        "answer": "A",
+        "answer_text": "Budapest and Debrecen",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Blarney Castle from Cork City? A.East B.West C.North D.South",
+        "pid": "27",
+        "answer": "B",
+        "answer_text": "West",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Vasa Museum from Stockholm Central Station? A.North B.East C.West D.South",
+        "pid": "28",
+        "answer": "B",
+        "answer_text": "East",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Nyhavn Harbor from Copenhagen Central Station? A.East B.West C.North D.South",
+        "pid": "29",
+        "answer": "A",
+        "answer_text": "East",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Eiffel Tower in Paris, France, and the Mont Saint-Michel in Normandy, France? A.230 km B.250 km C.280 km D.310 km",
+        "pid": "30",
+        "answer": "C",
+        "answer_text": "280 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Gateway of India from the Chhatrapati Shivaji Maharaj Terminus? A.North B.East C.South D.West",
+        "pid": "31",
+        "answer": "C",
+        "answer_text": "South",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Cotton Tree in Freetown and the Tiwai Island Wildlife Sanctuary in Sierra Leone? A.272.72 km B.232.72 km C.372.72 km D.122.72 km",
+        "pid": "32",
+        "answer": "B",
+        "answer_text": "232.72 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between Wawel Castle in Kraków and the Malbork Castle in Poland? A.447.50 km B.551.35 km C.335.14 km D.123.67 km",
+        "pid": "33",
+        "answer": "A",
+        "answer_text": "447.50 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of Juba International Airport from Nyakuron cultural centre? A.East B.West C.North D.South",
+        "pid": "34",
+        "answer": "C",
+        "answer_text": "North",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between Monserrate in Bogotá and San Felipe de Barajas Fort in Cartagena? A.667.14 km B.767.34 km C.545.21 km D.369.45 km",
+        "pid": "35",
+        "answer": "A",
+        "answer_text": "667.14 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction and straight-line distance from Prague Castle to Václav Havel Airport? A.East, 14.45 kilometers B.South, 11.12 kilometers C.East, 15.69 kilometers D.West, 9.94 kilometers",
+        "pid": "36",
+        "answer": "D",
+        "answer_text": "West, 9.94 kilometers",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is closest to each other in Colombia? A.Plaza de Bolívar and Gold Museum (Museo del Oro) in Bogotá B.Walls of Cartagena and San Felipe de Barajas Castle C.Parque Arví and Medellín's Botanical Garden D.Salento and Cocora Valley Trail",
+        "pid": "37",
+        "answer": "A",
+        "answer_text": "Plaza de Bolívar and Gold Museum (Museo del Oro) in Bogotá",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "How many users rated Eleven Madison Park? A.2804 B.10010 C.11 D.1200",
+        "pid": "38",
+        "answer": "A",
+        "answer_text": "2804",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is the entrance of Nusr-Et Steakhouse wheelchair accessible? A.Yes B.No C. D.",
+        "pid": "39",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Matterhorn in Zermatt and Lake Geneva in Switzerland? A.139 km B.125 km C.80 km D.101 km",
+        "pid": "40",
+        "answer": "D",
+        "answer_text": "101 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction and straight-line distance from Victoria Falls to Hwange National Park? A.East, 113.67 km B.North, 145.34 km C.South, 155.06 km D.North, 134.04 km",
+        "pid": "41",
+        "answer": "C",
+        "answer_text": "South, 155.06 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Christ the Redeemer statue in Rio de Janeiro and the Amazon Rainforest near Manaus, Brazil? A.2300 km B.2786 km C.2979 km D.3203 km",
+        "pid": "42",
+        "answer": "C",
+        "answer_text": "2979 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Little Mermaid statue from Copenhagen Central Station? A.East B.West C.North D.South",
+        "pid": "43",
+        "answer": "C",
+        "answer_text": "North",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Atomium in Brussels and the Belfry of Bruges? A.72.27 km B.99.13 km C.61.67 km D.85.48 km",
+        "pid": "44",
+        "answer": "D",
+        "answer_text": "85.48 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is farthest from each other in Malaysia? A.Kuala Lumpur and George Town B.Kuala Lumpur and Johor Bahru C.Kuala Lumpur and Kota Kinabalu D.George Town and Kota Kinabalu",
+        "pid": "45",
+        "answer": "D",
+        "answer_text": "George Town and Kota Kinabalu",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which landmark is located directly East of St. Stephen's Green in Dublin? A.Trinity College Dublin B.The National Gallery of Ireland C.Dublin Castle D.The Guinness Storehouse",
+        "pid": "46",
+        "answer": "B",
+        "answer_text": "The National Gallery of Ireland",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Can I visit The Great Pyramid of Giza at 5:00 PM Saturday? A.Yes B.No C. D.",
+        "pid": "47",
+        "answer": "B",
+        "answer_text": "No",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What's the price level of Museum Tavern? A.Inexpensive B.Moderate C.Expensive D.Very Expensive",
+        "pid": "48",
+        "answer": "B",
+        "answer_text": "Moderate",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is The Pizzeria open at 3:00 PM on Monday? A.Yes B.No C. D.",
+        "pid": "49",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is farthest from each other in Sweden? A.Stockholm and Gothenburg B.Stockholm and Malmö C.Stockholm and Kiruna D.Gothenburg and Malmö",
+        "pid": "50",
+        "answer": "C",
+        "answer_text": "Stockholm and Kiruna",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which pair of places is farthest from each other in South Sudan? A.Juba and Wau B.Juba and Malakal C.Juba and Bor D.Wau and Malakal",
+        "pid": "51",
+        "answer": "B",
+        "answer_text": "Juba and Malakal",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Sydney Opera House and Bondi Beach? A.5.86 km B.6.86 km C.7.86 km D.8.86 km",
+        "pid": "52",
+        "answer": "B",
+        "answer_text": "6.86 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What's the price level of the Museum Tavern? A.Inexpensive B.Moderate C.Expensive D.Very expensive",
+        "pid": "53",
+        "answer": "B",
+        "answer_text": "Moderate",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between Table Mountain in Cape Town and Nelson Mandela Square in Johannesburg? A.1345.132 km B.1125.12 km C.1272.68 km D.1400.65 km",
+        "pid": "54",
+        "answer": "C",
+        "answer_text": "1272.68 km",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Is The Blue Door Bistro reservable? A.Yes B.No C. D.",
+        "pid": "55",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which landmark is located directly North of the Acropolis in Athens? A.Parthenon B.Temple of Olympian Zeus C.National Archaeological Museum D.Mount Lycabettus",
+        "pid": "56",
+        "answer": "C",
+        "answer_text": "National Archaeological Museum",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Does Daikoku-ya serve Dinner? A.Yes B.No C. D.",
+        "pid": "57",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Great Pyramid of Giza from the Karnak Temple? A.North B.East C.South D.West",
+        "pid": "58",
+        "answer": "C",
+        "answer_text": "South",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which landmark is located directly West of the Royal Palace in Oslo? A.Oslo Opera House B.Akershus Fortress C.Vigeland Park D.The Nobel Peace Center",
+        "pid": "59",
+        "answer": "C",
+        "answer_text": "Vigeland Park",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Does Asador Etxebarri serve dinner? A.Yes B.No C. D.",
+        "pid": "60",
+        "answer": "A",
+        "answer_text": "Yes",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the direction of the Seurasaari Open-Air Museum from Helsinki Central Station? A.East B.West C.North D.South",
+        "pid": "61",
+        "answer": "B",
+        "answer_text": "West",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "Which landmark is located directly south of the Union Buildings in Pretoria, South Africa? A.Freedom Park B.Pretoria Botanical Gardens C.Church Square D.National Zoological Gardens",
+        "pid": "62",
+        "answer": "A",
+        "answer_text": "Freedom Park",
+        "category": "poi"
+    },
+    {
+        "image": null,
+        "question": "What is the straight-line distance between the Belém Tower in Lisbon and the University of Coimbra in Coimbra, Portugal? A.180 km B.150 km C.205 km D.235 km",
+        "pid": "63",
+        "answer": "A",
+        "answer_text": "180 km",
+        "category": "poi"
+    }
+]

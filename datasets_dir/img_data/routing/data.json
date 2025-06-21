@@ -1,0 +1,642 @@
+[
+    {
+        "image": "Vdata/ID_1116.PNG",
+        "question": "Which road to take to go from Denizli Pamukkale İzci Evi to Melrose Viewpoint Hotel? Options: (A) Yörük Sk (B) Mehmetçik Sk (C) Pala Sk (D) Kadıoğlu Cd",
+        "pid": "0",
+        "answer": "A",
+        "answer_text": "Yörük Sk",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_725.PNG",
+        "question": "I am at now Bramha Karmali Waterfall.Show me the car route with the most scenic views to get to the Anjunem lake? Options: (A) Take Bramha Karmali-Shelphem Rd and Nagargaon Rd to SH 1 in Massorde\\n SH 1 to Karapur, Gowandiwada,ake Hathkhamba-Goa Rd to NH 748AA in Pariye,Budho Pigmy Agent onto NH 748AA (B) Take Bramha Karmali-Shelphem Rd and Nagargaon Rd to SH 1 in Massorde,Querim VP (C) How far is the public library from Central Park? if take the path Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem,Bramha Karmali-Shelphem Rd,Shree Datta Mandir,koparde to nagargoan road,Hedode ,edode Titha,Thane,hri Saibaba Temple onto NH 748AA,Jamblikade (D) Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem, Shree Datta Mandir , Nagargaon Rd,Valpoi-Honda Rd/Valpoi–Birondem–Advoi–Pissurlem-Honda Rd, SH 1,village panchayat morlem, sattari onto NH 748AA,Hotel Shreyug Chinese Fast food & Restaurant",
+        "pid": "1",
+        "answer": "C",
+        "answer_text": "How far is the public library from Central Park? if take the path Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem,Bramha Karmali-Shelphem Rd,Shree Datta Mandir,koparde to nagargoan road,Hedode ,edode Titha,Thane,hri Saibaba Temple onto NH 748AA,Jamblikade",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_724.PNG",
+        "question": "I am at Point Cambridge Lodge. Can you calculate the distance  to the nearest park that takes the least time and shortest distance to reach and also avoid traffic? Options: (A) 400m (B) 450m (C) 390m (D) 550m",
+        "pid": "2",
+        "answer": "D",
+        "answer_text": "550m",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_721.PNG",
+        "question": "Which bridge would you take to minimize travel time from Point  Astoria Park  to Point  Randall's Island Urban Farm  shown on the map? Options: (A) Hell Gate Bridge (B) Robert F. Kennedy Bridge' \"Ward's Island Bridge\" \"Randall's Island Urban Farm (C)  (D) ",
+        "pid": "3",
+        "answer": "A",
+        "answer_text": "Hell Gate Bridge",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_718.PNG",
+        "question": "What is the shortest distance between Hong Lim Market & Food Centre and Aurealis Serviced Residence,singapore? Options: (A) Hokien St to New Bridge RdHavelock Rd, Upper Pickering St and Church St to Marina View\\n Marina View Link (B) St to New Bridge Rd,New Bridge Rd,Take Maxwell Rd and Cecil St to Collyer Quay\\nMarina Blvd to Marina View,Marina View Link (C) Hokien St to New Bridge Rd,Havelock Rd and Upper Pickering St to South Bridge Rd,St. Take Eu Tong Sen St, Upper Pickering St and Church St to Marina View, Marina View Link (D) Hokien St to New Bridge Rd,Cross St, Havelock Rd, Upper Pickering St, South Bridge Rd and Upper Cross St to Temple St, Temple St. Take South Bridge Rd and Kreta Ayer Rd to Eu Tong Sen St,Eu Tong Sen St. Take Upper Pickering St and Church St to Marina View,Marina View Link",
+        "pid": "4",
+        "answer": "A",
+        "answer_text": "Hokien St to New Bridge RdHavelock Rd, Upper Pickering St and Church St to Marina View\\n Marina View Link",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1105.PNG",
+        "question": "How to get to Sierra Leone Grammer School from Seabird Water Taxi after having lunch at Cole Street Guesthouse? Options: (A) Seabird Water Taxi\\nHead northwest on High Broad St toward Andrews St\\nTurn left onto Andrews St\\nContinue onto Andrew St\\nTurn right onto Macaulay St\\nSierra Leone Grammar School\\nHead northeast on Macaulay St\\nTurn left at the 1st cross street toward Cole St\\nTurn left at the 2nd cross street onto Cole St\\nCole Street Guesthouse (B) Seabird Water Taxi\\nHead northwest on High Broad St toward Andrews St\\nTurn left onto Andrews St\\nContinue onto Andrew St\\nTurn right onto Macaulay St\\nSierra Leone Grammar School (C) Seabird Water Taxi\\nHead northwest on High Broad St toward Andrews St\\nTurn left onto Macaulay St\\nSierra Leone Grammar School\\nHead northeast on Macaulay St\\nTurn left at the 1st cross street toward Cole St\\nTurn left at the 2nd cross street onto Cole St\\nCole Street Guesthouse (D) Seabird Water Taxi\\nHead northwest on High Broad St toward Andrews St\\nTurn right toward Cole St\\nTurn left at the 1st cross street onto Cole St\\nCole Street Guesthouse\\nHead northeast on Cole St toward Damba Rd\\nTurn right at the 1st cross street toward Macaulay St\\nTurn right at the 2nd cross street onto Macaulay St\\nSierra Leone Grammar School",
+        "pid": "5",
+        "answer": "D",
+        "answer_text": "Seabird Water Taxi\\nHead northwest on High Broad St toward Andrews St\\nTurn right toward Cole St\\nTurn left at the 1st cross street onto Cole St\\nCole Street Guesthouse\\nHead northeast on Cole St toward Damba Rd\\nTurn right at the 1st cross street toward Macaulay St\\nTurn right at the 2nd cross street onto Macaulay St\\nSierra Leone Grammar School",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_727.PNG",
+        "question": "Navigate me to the nearest hospital  located near Dr. Muhammad Shahidullah Hall, Dhaka, Bangladesh? Options: (A) Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani (B) Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani (C) Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani (D) Mayor Mohammad Hanif Flyover to A H M Kamruzzaman Sharani",
+        "pid": "6",
+        "answer": "B",
+        "answer_text": "Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_707.PNG",
+        "question": "Identify three landmarks that are located between Point Vieux-Port de Montréal and Point Montreal Courthouse Options: (A) MTELUS (B) Museum of Illusions Montréal (C) Notre-Dame-de-Bon-Secours Chapel (D) Le Vieux Montréal,",
+        "pid": "7",
+        "answer": "C",
+        "answer_text": "Notre-Dame-de-Bon-Secours Chapel",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_592.PNG",
+        "question": "I'm staying at Hotel Nandini and heading to Dhanmondi Abahani Field to meet my friend for a game. I usually get my treatment at Square Hospital and plan to check my blood pressure after playing. Can you suggest a suitable hospital for this? Options: (A) Square Hospital (B) Kacchi Bhai - Dhanmondi (C) Bangladesh Medical College Hospital (D) IBN Sina Specialized Hospital",
+        "pid": "8",
+        "answer": "C",
+        "answer_text": "Bangladesh Medical College Hospital",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_725.PNG",
+        "question": "How far is the Anjunem lake from Bramha Karmali Waterfall if I take the following route: Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem, continue on Bramha Karmali-Shelphem Rd past Shree Datta Mandir (on the left), then take Koparde to Nagargoan Road, Hedode, Edode Titha, Thane, Shri Saibaba Temple onto NH 748AA, and finally Jamblikade? Options: (A) 2 km (B) 17km (C) 25km (D) 38km",
+        "pid": "9",
+        "answer": "A",
+        "answer_text": "2 km",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_506.PNG",
+        "question": "I am currently located at Srinagarindra the Princess Mother School in Lopburi, Thailand. My next destination is Wat Ban Mai Thung Setthi in Phetchabun. Along the way, I would like to make a stop at a temple to pray. Could you please suggest one that is conveniently situated? Options: (A) Wat Sap Somboon (B) Wat Nong Suang Phromchan (C) Wat Khok Hin (D) Wat Noen Bot",
+        "pid": "10",
+        "answer": "C",
+        "answer_text": "Wat Khok Hin",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_597.PNG",
+        "question": "I’m driving from Bogura to Dinajpur to meet my friend. I need to refuel my car towards the starting of the journey. Can you suggest a suitable filling station along the way? Options: (A) Fire Service and Civil Defense Ghoraghat (B) Navana CNG Filling Station (C) Elite Filling Station (D) M/S Bimimoy Petroleum",
+        "pid": "11",
+        "answer": "B",
+        "answer_text": "Navana CNG Filling Station",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_503.PNG",
+        "question": "I'm driving along Garden Road. Right now, I have a list of things to do: buy perfume, get a phone, watch a movie, grab a bite to eat, and pick up some clothes. I'm looking for a place where I can tick off all these tasks at once because I don't want to keep parking the car multiple times. Options: (A) The Raymond Shop (B) Perfume World (C) Apple Gadgets (D) Bashundhara City Shopping Complex",
+        "pid": "12",
+        "answer": "D",
+        "answer_text": "Bashundhara City Shopping Complex",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_703.PNG",
+        "question": "Which direction should I travel from Downing St, London, UK, to reach the Institute of Contemporary Arts, The Mall, St. James's, London SW1Y 5AH, United Kingdom? Options: (A) Head east on Downing St toward K Quinn St\\nRestricted usage road,Whitehall/A3212,Slight left to stay on Whitehall/A3212,\\nAt the roundabout, take the 1st exit onto The Mall, (B) Downing St toward K Quinn St,Restricted usage road, Whitehall/A3212,Great Scotland Yard,Northumberland Ave, Northumberland St,Strand/A4,Continue to follow A4,At the roundabout, exit onto The Mall (C) Head east on Downing St toward K Quinn St\\n Restricted usage road,Whitehall/A3212,Horse Guards Rd (D) ",
+        "pid": "13",
+        "answer": "C",
+        "answer_text": "Head east on Downing St toward K Quinn St\\n Restricted usage road,Whitehall/A3212,Horse Guards Rd",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_710.PNG",
+        "question": "What is the shortest route from point  Barishal to point Dhaka ,Bangladesh? Options: (A) Barisal Bypass toward BM College Rd,Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka,Kamal Ataturk Ave/Kemal Ataturk Ave. Take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd (B) Barisal Bypass toward BM College Rd\\n Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Moghbazar Rd/Shaheed Captain Monsur Ali Sharani in Dhaka\\n\\n Moghbazar Rd. Take Hatir Jheel Link Rd, Bir Uttam Mir Shawkat Sarak, Gulshan Ave and Gulshan North Ave to United Hospital Emergency Rd (C) Barisal Bypass toward BM College Rd\\n Barisal Highway/Faridpur-Barisal Highway/N8. Take Dhaka - Madaripur Hwy, Dhaka-Mawa-Bhanga Expy and Progoti Sarani - Debogram Rd/Purbachal Expy/N301 to Joar Shahara Bazar Rd/Shimul Bari Rd in Dhaka (D) Barisal Bypass toward BM College Rd\\n\\nDhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Dhaka Division. Exit from Dhaka - Madaripur Hwy/Dhaka - Mawa Hwy/Dhaka-Mawa-Bhanga Expy/Padma Brg Rd/ঢাকা- মাওয়া হাইওয়ে/AH1/N8\\n\\nDhaka - Madaripur Hwy/Dhaka - Mawa Hwy/Dhaka-Mawa-Bhanga Expy/ঢাকা- মাওয়া হাইওয়ে/AH1/N8 from Sreenagar - Dohar Hwy/Zinzira - Keraniganj - Nawabganj - Dohar - Srinagar Rd/R820 and Dharmasur-Sonakanda Rd\\n\\nDhaka - Mawa Hwy/Dhaka-Mawa-Bhanga Expy/ঢাকা- মাওয়া হাইওয়ে/AH1/N8. Take Dhaka - Demra Hwy/R110, Dhaka - Sylhet Hwy/AH1/N2, Dhaka City Bypass/N105 and Progoti Sarani - Debogram Rd/Purbachal Expy/N301 to Joar Shahara Bazar Rd/Shimul Bari Rd in Dhaka",
+        "pid": "14",
+        "answer": "A",
+        "answer_text": "Barisal Bypass toward BM College Rd,Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka,Kamal Ataturk Ave/Kemal Ataturk Ave. Take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_591.PNG",
+        "question": "I’ve just dropped off my friend at Dhaka International Airport. Now, I'm heading back home near the Mohammadpur bus stand in Dhaka by Uber. On the way, I'd like to withdraw some money from a government bank's ATM booth after Kurmitola. Can you suggest a suitable one? Options: (A) Sonali Bank Limited | ATM Booth (B) Trust Bank Limited | ATM Booth (C) BRAC Bank Limited | ATM Booth (D) Mutual Trust Bank Limited | ATM Booth",
+        "pid": "15",
+        "answer": "A",
+        "answer_text": "Sonali Bank Limited | ATM Booth",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_728.PNG",
+        "question": "Navigate me to the nearest Shopping mall located near Blackwattle Bay Park,Sydney,Australia? Options: (A) Cook St toward Ricketts Ave,Glebe Point Rd,Wigram Rd,Minogue Cres,The Crescent,Nelson St,Dalgal Wy,Partial restricted usage road (B) Glebe Point Rd and Hereford St to Minogue Cres in Forest Lodge,Minogue Cres to Annandale,Dalgal Wy in Forest Lodge (C) Glebe Point Rd and Wigram Rd to Minogue Cres in Forest Lodge,Minogue Cres (D) Glebe Point Rd to Bridge Rd,Bridge Rd, Minogue Cres and The Crescent to Nelson St in Annandale,Wy in Forest Lodge",
+        "pid": "16",
+        "answer": "A",
+        "answer_text": "Cook St toward Ricketts Ave,Glebe Point Rd,Wigram Rd,Minogue Cres,The Crescent,Nelson St,Dalgal Wy,Partial restricted usage road",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1112.PNG",
+        "question": "On what side does St mary's church fall on the route from Howth Market to TMG Co Options: (A) Right (B) Left (C) None (D) Not found",
+        "pid": "17",
+        "answer": "B",
+        "answer_text": "Left",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1101.PNG",
+        "question": "How to get to St Johannes kyrkogård from Crafoord Place Hostel via city church? Options: (A) Crafoord Place Hostel\\nTurn left onto Tegnérgatan\\nTurn right onto Upplandsgatan\\nTurn left onto Tegnérlunden\\nTurn right onto Tegnérgatan\\nTurn left onto Holländargatan\\nTurn left onto Rådmansgatan\\n\\nGast Cafe\\nHead southwest on Rådmansgatan toward Drottninggatan\\nTurn left at the 3rd cross street onto Upplandsgatan\\nTurn left onto Tegnérlunden\\nTurn right onto Tegnérgatan\\nTurn right onto Döbelnsgatan\\n\\nSt Johannes kyrkogård (B) Crafoord Place Hostel\\nTurn left onto Tegnérgatan\\nTurn right onto Upplandsgatan\\nTurn left onto Tegnérlunden\\nTurn right onto Tegnérgatan\\nTurn left onto Holländargatan\\nTurn left onto Rådmansgatan\\n\\nCity Church\\nHead southwest on Rådmansgatan toward Drottninggatan\\nTurn left at the 3rd cross street onto Upplandsgatan\\nTurn left onto Tegnérlunden\\nTurn right onto Tegnérgatan\\nTurn right onto Döbelnsgatan\\n\\nSt Johannes kyrkogård (C) Crafoord Place Hostel\\nFollow Hälsobrunnsgatan and Torsgränd to Torsgatan\\nContinue on Torsgatan to Norrmalm\\nTake Barnhusgatan to Adolf Fredriks kyrkogata\\n\\nCity Church\\nHead northeast on Adolf Fredriks kyrkogata toward Holländargatan\\nTurn left onto Sveavägen\\nTurn right onto Tegnérgatan\\nTurn right onto Döbelnsgatan\\nKeep left to stay on Döbelnsgatan\\n\\nSt Johannes kyrkogård (D) Crafoord Place Hostel\\nFollow Hälsobrunnsgatan and Torsgränd to Torsgatan\\nContinue on Torsgatan to Norrmalm\\nTake Barnhusgatan to Adolf Fredriks kyrkogata\\n\\nCity Church\\nTurn left onto Tegnérgatan\\nTurn right onto Upplandsgatan\\nTurn left onto Tegnérlunden\\nTurn right onto Tegnérgatan\\nTurn left onto Holländargatan\\nTurn left onto Rådmansgatan\\n\\nSt Johannes kyrkogård",
+        "pid": "18",
+        "answer": "C",
+        "answer_text": "Crafoord Place Hostel\\nFollow Hälsobrunnsgatan and Torsgränd to Torsgatan\\nContinue on Torsgatan to Norrmalm\\nTake Barnhusgatan to Adolf Fredriks kyrkogata\\n\\nCity Church\\nHead northeast on Adolf Fredriks kyrkogata toward Holländargatan\\nTurn left onto Sveavägen\\nTurn right onto Tegnérgatan\\nTurn right onto Döbelnsgatan\\nKeep left to stay on Döbelnsgatan\\n\\nSt Johannes kyrkogård",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_727.PNG",
+        "question": "How far is the nearest hospital from Dr. Fazle Rabbi Hall Gate, Office building, Dr. Fazle Rabbi Hall, 4 Bakshi Bazar Road, Dhaka, Bangladesh if I take the following route: Zahir Raihan Rd,Secretariate Rd,Shandhani Unit Rd ? Options: (A) 400m (B) 410m (C) 350m (D) 405m",
+        "pid": "19",
+        "answer": "C",
+        "answer_text": "350m",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_501.PNG",
+        "question": "I am currently driving through New Elephant Road, and soon, I will be heading towards Laboratory Road for work. Which store should I go to buy clothes for my clothes for my convenience? Options: (A) Sharmans Carpet (B) Vibrant (C) Southeast Bank Limited (D) Gold Star Fabrics & Tailors",
+        "pid": "20",
+        "answer": "B",
+        "answer_text": "Vibrant",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1110.PNG",
+        "question": "Which restaurents is seen on the way through Woloska? Options: (A) Karachi Restaurant (B) Bezownia (C) Restauracja Locale (D) Prosto z pieca",
+        "pid": "21",
+        "answer": "D",
+        "answer_text": "Prosto z pieca",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_711.PNG",
+        "question": "What is the shortest route from point  ปราสาทตึกอีกา(โคกตึก) Khok Duea, Phaisali District, Nakhon Sawan 60220, Thailand to point น้ำตกซับสมบูรณ์ GQQH+R2R, Wang Khoi, Phaisali District, Nakhon Sawan 60220, Thailand? Options: (A) ทางหลวงชนบท,ทางหลวงชนบท to ตำบล นาขอม,Route 3004 to ตำบล วังข่อย (B) ทางหลวงชนบท,ทางหลวงชนบท, ตำบล นาขอม, ทางหลวงชนบท,Route 3004 to ตำบล วังข่อย (C) Route 11,Route 3004 to ตำบล วังข่อย (D) ทางหลวงชนบท,ทางหลวงชนบท, Route 3004 and นว.4105 to ตำบล วังข่อย",
+        "pid": "22",
+        "answer": "D",
+        "answer_text": "ทางหลวงชนบท,ทางหลวงชนบท, Route 3004 and นว.4105 to ตำบล วังข่อย",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_726.PNG",
+        "question": "Navigate me to the nearest golf course located near Spy Ninjas HQ Options: (A) W Sahara Ave (B) W Sahara Ave, S Durango Dr and S Rampart Blvd (C) W Sahara Ave to S Rainbow Blvd in Spring Valley,W Charleston Blvd to S Durango Dr in Las Vegas,S Durango Dr, Alta Dr and S Rampart Blvd (D) W Sahara Ave,S Durango Dr",
+        "pid": "23",
+        "answer": "D",
+        "answer_text": "W Sahara Ave,S Durango Dr",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_727.PNG",
+        "question": "How far is the nearest hospital from Dr. Muhammad Shahidullah Hall, Dhaka, Bangladesh if I take the following route: Head south on Nazimuddin Rd/Suhrawardi Uddan Rd, continue on Nazimuddin Rd/Suhrawardi Uddan Rd, and then take A H M Kamruzzaman Sharani? Options: (A) 400m (B) 410m (C) 450m (D) 405m",
+        "pid": "24",
+        "answer": "C",
+        "answer_text": "450m",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_708.PNG",
+        "question": "If traveling at a constant speed of 5.4 km/h, how long will it take to travel from Point Doha International Airport, Bandara Internasional Hamad, Qatar Air Traffic Control, MB l.p, Doha to Point The Pearl Island, Doha if the distance is 19.4 km? Options: (A) 12 Minutesv (B) 72 Minutesv (C) 82 Minutesv (D) 99 Minutesv",
+        "pid": "25",
+        "answer": "D",
+        "answer_text": "99 Minutesv",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_594.PNG",
+        "question": "I live in Shyamoli and need to get my kidney checked on the way to my office at ICT Tower, Dhaka. Can you suggest a suitable place for this? Options: (A) Ibn Sina Medical College Hospital (B) National Institute of Kidney Diseases & Urology (NIKDU) (C) National Institute of CardioVascular Diseases (NICVD) (D) Shaheed Suhrawardy Medical College and Hospital",
+        "pid": "26",
+        "answer": "B",
+        "answer_text": "National Institute of Kidney Diseases & Urology (NIKDU)",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_701.PNG",
+        "question": "What is the shortest route from point  Lulu Hypermarket to point Safari Mall, Al khawla st, Abu Hamour, Doha ? Options: (A) Lulu Hypermarket - D-ring Road\\nD Ring Rd, Doha\\n\\n\\nContinue to Jaber Bin Hayyan St\\n1 min (160 m)\\n\\n\\nDrive from D Ring Rd, Al Muntazah St/Rawdat Al Khail St and Industrial Area Rd to Al Rayyan Municipality\\n11 min (7 km)\\n\\n\\nTake \\u202bWadi Al Fesseela St\\u202c\\u200e to your destination\\n2 min (650 m)\\nSafari Mall\\nAl khawla st, Abu Hamour, Doha (B) Lulu Hypermarket - D-ring Road\\nD Ring Rd, Doha\\n\\n\\ue5cc\\nTake Ahmed Bin Hanbal St and Al Ahnaf Bin Qais St to Oqba Bin Nafie St\\n5 min (4 km)\\n\\n\\ue5cc\\nDrive from E Ring Rd, Industrial Area Rd and \\u202bAl Muntazah St\\u202c\\u200e to Al Rayyan Municipality\\n8 min (8 km)\\n\\n\\ue5cc\\nTake \\u202bWadi Al Fesseela St\\u202c\\u200e to your destination\\n2 min (650 m)\\nSafari Mall\\nAl khawla st, Abu Hamour, Doha (C) Lulu Hypermarket - D-ring Road\\nD Ring Rd, Doha\\n\\n\\ue5cc\\nTake Ahmed Bin Hanbal St and Al Ahnaf Bin Qais St to Oqba Bin Nafie St\\n5 min (4 km)\\n\\n\\ue5cc\\nDrive from E Ring Rd, Industrial Area Rd and \\u202bAl Muntazah St\\u202c\\u200e to Al Rayyan Municipality\\n8 min (8 km)\\n\\n\\ue5cc\\nTake \\u202bWadi Al Fesseela St\\u202c\\u200e to your destination\\n2 min (650 m)\\nSafari Mall\\nAl khawla st, Abu Hamour, Doha (D) ",
+        "pid": "27",
+        "answer": "A",
+        "answer_text": "Lulu Hypermarket - D-ring Road\\nD Ring Rd, Doha\\n\\n\\nContinue to Jaber Bin Hayyan St\\n1 min (160 m)\\n\\n\\nDrive from D Ring Rd, Al Muntazah St/Rawdat Al Khail St and Industrial Area Rd to Al Rayyan Municipality\\n11 min (7 km)\\n\\n\\nTake \\u202bWadi Al Fesseela St\\u202c\\u200e to your destination\\n2 min (650 m)\\nSafari Mall\\nAl khawla st, Abu Hamour, Doha",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_719.PNG",
+        "question": "Which Golf Clubis located at the intersection of Springfield  and Houdaille Quarry? Options: (A) Brooklake Country Club (B) Baltusrol Golf Club (C) East Orange Golf Course (D) Reeves-Reed Arboretum",
+        "pid": "28",
+        "answer": "B",
+        "answer_text": "Baltusrol Golf Club",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_510.PNG",
+        "question": "I'm currently attending classes at Ormiston Beachcroft Academy. After class, I'll be heading to my hotel, the London Marriott Hotel Maida Vale. Meanwhile, I plan to visit St Mark's Church on Hamilton Terrace for prayer. Afterward, I'll need to visit a pharmacy. Can you suggest a suitable one? Options: (A) St Johns Wood Pharmacy (B) Holmes Pharmacy (C) Vista Pharmacy Maida Vale (D) Kilburn Park Pharmacy",
+        "pid": "29",
+        "answer": "C",
+        "answer_text": "Vista Pharmacy Maida Vale",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1106.PNG",
+        "question": "Which mosque is in the route from UTC Kedah to Taman Dalima? Options: (A) Masjid Zahir (B) Masjid Nagore (C) Masjid Al-Irfan (D) Mashjid Al-Bukhari",
+        "pid": "30",
+        "answer": "C",
+        "answer_text": "Masjid Al-Irfan",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_595.PNG",
+        "question": "My house is in Shyamoli, Dhaka. I regularly take my daughter to her school in Shekhertek 12. Before heading back home, I'd like to play at a playground in a park, have some snacks, and enjoy watching palm trees. Can you suggest a suitable park for this? Options: (A) Jannatbag Park (B) Jannatbag Childrens (C) Garden and Eidgah (D) Shymoli Park",
+        "pid": "31",
+        "answer": "C",
+        "answer_text": "Garden and Eidgah",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1111.PNG",
+        "question": "Which restaurent is on the left side of the route from Metro El Golf to Metro Tobalaca L1? Options: (A) Boki Restaurant (B) Tacu Tacu Restaurant (C) Ambrosia Bistro (D) Restaurant Dominica",
+        "pid": "32",
+        "answer": "A",
+        "answer_text": "Boki Restaurant",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_713.PNG",
+        "question": "Which Park is located at the intersection of Bentwinds Country Club  and Ting Park,North California,USA? Options: (A) Juniper Level Botanic Garden (B) Centennial Park (C) Bass Lake Park (D) Lake Benson Park",
+        "pid": "33",
+        "answer": "C",
+        "answer_text": "Bass Lake Park",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_511.PNG",
+        "question": "I'm currently at OVO Arena Wembley and I'm planning to head to Housejobber next. While en route, I'd like to grab dinner. I have a craving for buffalo meat. Could you recommend a restaurant where I can indulge in some buffalo dishes for dinner? Options: (A) La Regina Wembley (B) El Bandido (C) Fatburger & Buffalo's (D) Las Iguanas - London - Wembley",
+        "pid": "34",
+        "answer": "C",
+        "answer_text": "Fatburger & Buffalo's",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_586.PNG",
+        "question": "I am going to meet my friend at Dinajpur by my car. I need to find a patrol pump after crossing the bogura. Please find one for me. Options: (A) Mohasthan Filling station (B) M/S uttoron filling station (C) Rubel LPG auto gas station (D) M.S Bimimoy Patrolium",
+        "pid": "35",
+        "answer": "A",
+        "answer_text": "Mohasthan Filling station",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_710.PNG",
+        "question": "I am currently in Barishal, Bangladesh. What is the estimated distanse to Dhaka by car if I take the following route: Barisal Bypass toward BM College Rd, Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy, and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka, then Kamal Ataturk Ave/Kemal Ataturk Ave, and finally take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd? Options: (A) 183km (B) 173km (C) 162km (D) 192km",
+        "pid": "36",
+        "answer": "A",
+        "answer_text": "183km",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_722.PNG",
+        "question": "I am at Mint Street Park, 14 Weller St, London SE1 1QU, United Kingdom . Give me driving directions from my location to the Millennium Bridge, Thames Embankment, London EC4V 3QH, United Kingdom . Can you avoid Hevy traffic ? Options: (A) Head southwest on Weller St toward Trundle St,o Lant St\\nSouthwark Bridge Rd/A300,Thrale St,Sumner St,Emerson St, Park St (B) Head southwest on Weller St toward Trundle St, Lant St,Southwark Bridge Rd/A300,Southwark St/A3200, Great Guildford St, Park St (C) Head southwest on Weller St toward Trundle St,Trundle St, Lant St,Southwark Bridge Rd/A300,Thrale St, Sumner St,Emerson St, Park St (D) Toulmin St and Great Suffolk St to Borough High St/A3,Borough High St/A3,Park St to Southwark St/A3200,Thrale St and Southwark Bridge Rd/A300 to Sumner St,Sumner St. Drive to Park St",
+        "pid": "37",
+        "answer": "A",
+        "answer_text": "Head southwest on Weller St toward Trundle St,o Lant St\\nSouthwark Bridge Rd/A300,Thrale St,Sumner St,Emerson St, Park St",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_723.PNG",
+        "question": "I am currently at the Golden Nugget Las Vegas Hotel & Casino, located at 129 E Fremont St, Las Vegas, NV 89101, United States. What is the estimated walking time to the Discovery Children's Museum if I take the following route: Head northwest on Fremont St/Fremont Street Experience toward N 1st St, then take N 1st St, E Ogden Ave, S City Pkwy, Grand Central Pkwy, West Carson Avenue, and Promenade Pl? Options: (A) 18minutes (B) 19minutes (C) 20minutes (D) 21minutes",
+        "pid": "38",
+        "answer": "B",
+        "answer_text": "19minutes",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_588.PNG",
+        "question": "I'm currently at Business Bay Metro Station, and it's 11 PM. I had lunch at Feras Al Diyafa Sweets at 3 PM, and I'm planning to head to Bulgari Resort Dubai at 8 PM. I usually have dinner around 10 PM. Can you recommend a suitable restaurant for dinner? Options: (A) Atmosphere Burj Khalifa (B) Wingstop Baysquare (C) Feras Al Diyafa Sweetsحلويات فراس (D) Mara Lounge Restaurant",
+        "pid": "39",
+        "answer": "D",
+        "answer_text": "Mara Lounge Restaurant",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_502.PNG",
+        "question": "I am now driving through haji abdul high road and my friend is standing at the moneshwer road. He likes to eat at bakery now which restaurant or bakery shop is better to meet us? Options: (A) Anondo Bakery (B) Haque Bakery And Sweets (C) Bashmoti Kacchi (D) Olympia Bakery & Confectionery",
+        "pid": "40",
+        "answer": "A",
+        "answer_text": "Anondo Bakery",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_716.PNG",
+        "question": "Which Tourist attraction is located at the intersection of Desert al qudra  and Warrior break,Dubai? Options: (A) Crescent Moon Lake (B) Love Lake - Al Qudra (C) محطة طقس سيح السلم Seeh Al Salam Peace Weather Station (D) Rest zone",
+        "pid": "41",
+        "answer": "B",
+        "answer_text": "Love Lake - Al Qudra",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_724.PNG",
+        "question": "I am at Point Cambridge Lodge. Can you calculate the distance  to the nearest restaurant that takes the least time and shortest distance to reach and also avoid traffic? Options: (A) 400m (B) 450m (C) 390m (D) 550m",
+        "pid": "42",
+        "answer": "B",
+        "answer_text": "450m",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_715.PNG",
+        "question": "I am beside the Goa Chitra Museum. Which beach is located nearby? Options: (A) Majorda Beach (B) Arossim Beach (C) Varca Beach (D) Betalbatim Beach",
+        "pid": "43",
+        "answer": "C",
+        "answer_text": "Varca Beach",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_714.PNG",
+        "question": "Which landmarkis located at the intersection of Aeródromo de La Mancha  and Villacañas,Spain? Options: (A) Silo Birding La Mancha (B) Hito de la costera (C) Molino de Enmedio Villacañas (D) Silos de la Atalaya",
+        "pid": "44",
+        "answer": "C",
+        "answer_text": "Molino de Enmedio Villacañas",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1102.PNG",
+        "question": "Which is the shortest route to go to FællesBo from Bravo Touyrs? Options: (A) Via Bethaniagade (B) Via Herninglund (C) Via Bredgade (D) Via Møllegade",
+        "pid": "45",
+        "answer": "A",
+        "answer_text": "Via Bethaniagade",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_590.PNG",
+        "question": "I'm heading to Hazrat Shahjalal International Airport from Mohammadpur Bus Stand, Dhaka. I need to buy some groceries and would prefer to pick them up towards the end of my route. Can you suggest a suitable shop? Options: (A) Ma Departmental Store (B) Jaman grocery (C) Bashundhara Grocery Mart (D) Shwapno (Gulshan-2) groceries",
+        "pid": "46",
+        "answer": "B",
+        "answer_text": "Jaman grocery",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_727.PNG",
+        "question": "Navigate me to the nearest hospital  located near Dr. Fazle Rabbi Hall Gate, Office building, Dr. Fazle Rabbi Hall, 4 Bakshi Bazar Road, Dhaka, Bangladesh? Options: (A) Bakshi Bazar Road toward Zahir Raihan Rd,Shahid Minar Rd Shandhani Unit Rd (B) Bakshi Bazar Road toward Zahir Raihan Rd,Dhaka Medical College Bldg St,Restricted usage road (C) Zahir Raihan Rd,Secretariate Rd,Shandhani Unit Rd (D) Head north on Bakshi Bazar Road,Hussaini Dalan Rd to Nazimuddin Rd,Zahir Raihan Rd to Dhaka Medical College Bldg St,Dhaka Medical College Bldg St",
+        "pid": "47",
+        "answer": "B",
+        "answer_text": "Bakshi Bazar Road toward Zahir Raihan Rd,Dhaka Medical College Bldg St,Restricted usage road",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_729.PNG",
+        "question": "How far is the Gharrafat Al Rayyan Health Center on Al Maszhabiliya St, Ar-Rayyan, Qatar, from Al Bidda Park in Doha, Qatar if I take the following route:\n\nHead northeast toward Al Corniche.\nDrive from Al Bidda/Majlis Al Taawon St, Khalifa St, and Doha Expressway to Al Rayyan Municipality.\nFollow Al Shamal Rd to Al Gharrafa Service Rd in Ar-Rayyan.\nTake Al Maszhabiliya St to Faisal Bin Muhammad Bin Thani.\nContinue on Faisal Bin Muhammad Bin Thani. Options: (A) 4 km (B) 2km (C) 3km (D) 4km",
+        "pid": "48",
+        "answer": "A",
+        "answer_text": "4 km",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_724.PNG",
+        "question": "I am at Point Cambridge Lodge. Can you navigate me to the nearest restaurant that takes the least time and shortest distance to reach and also avoid traffic? Options: (A) .Head southwest on Merchant St,Cambridge St,Liberty St,Gladstone St (B) Head northeast on Merchant St toward Harrow Rd,Harrow Rd,Harrow Ln,Trafalgar St, Liberty St,Liberty St (C) Merchant St ,Harrow Rd,Harrow Rd,Liberty St,Gladstone St (D) Cambridge St to Trafalgar St,Trafalgar St,Harrow Rd,Liberty St,Gladstone St. , Trafalgar St",
+        "pid": "49",
+        "answer": "C",
+        "answer_text": "Merchant St ,Harrow Rd,Harrow Rd,Liberty St,Gladstone St",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1107.PNG",
+        "question": "Which route to take to go from Comfort Hotel to Svane Kjokkenet Bergen? Options: (A) Beffen Route accross river (B) C. Sundts gate (C) Stolegaten (D) Route 577",
+        "pid": "50",
+        "answer": "A",
+        "answer_text": "Beffen Route accross river",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_582.PNG",
+        "question": "I  am going to New market from Klayanpur bus stand now. On the path way I want to visit a Brac Bank Branch for depositing some money. Suggest me a Brack bank on tha path way. Options: (A) Brac Bank Limited Shymoli Branch (B) Brac Bank Satmasjid Road (C) Brac Bank Atm Booth Mirpur Road (D) Brac Bank head Office",
+        "pid": "51",
+        "answer": "A",
+        "answer_text": "Brac Bank Limited Shymoli Branch",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_592.PNG",
+        "question": "I'm staying at Hotel Nandini and heading to Dhanmondi Abahani Field to meet my friend for a game. I usually get my treatment at Square Hospital and plan to check my blood pressure when I return to the hotel. Can you suggest a suitable hospital for this? Options: (A) Square Hospital (B) Kacchi Bhai - Dhanmondi (C) Bangladesh Medical College Hospital (D) IBN Sina Specialized Hospital",
+        "pid": "52",
+        "answer": "A",
+        "answer_text": "Square Hospital",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_564.PNG",
+        "question": "I’m traveling from Feni to Noakhali and interested in local markets. Are there any markets along the way where I can stop and buy fresh produce or local goods? Options: (A) Mridher Hat (B) Danamiar Bazar (C) Noakhali Super Market (D) Senbag Bazar",
+        "pid": "53",
+        "answer": "C",
+        "answer_text": "Noakhali Super Market",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_725.PNG",
+        "question": "How long will it take to get from Bramha Karmali Waterfall to Anjunem Lake  by car  if I take the following route: Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem, continue on Bramha Karmali-Shelphem Rd past Shree Datta Mandir (on the left), then take Koparde to Nagargoan Road, Hedode, Edode Titha, Thane, Shri Saibaba Temple onto NH 748AA, and finally Jamblikade? Options: (A) 1h (B) 30m (C) 10m (D) 5m",
+        "pid": "54",
+        "answer": "B",
+        "answer_text": "30m",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_567.PNG",
+        "question": "I am driving from Comilla to Mymensingh and need to pick up some medication. Is there a pharmacy along the way where I can stop? Options: (A) রয়েল ফার্মা (Royal Pharma) (B) Sotota Medical Hall (C) Maa Medicine Point (D) Madinah Pharmacy",
+        "pid": "55",
+        "answer": "D",
+        "answer_text": "Madinah Pharmacy",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_702.PNG",
+        "question": "What is the distance between New Century Restaurant, 398 Ferrier St Unit 108, Markham, ON L3R 2Z5, and Billa Appliances, 330 Steelcase Rd E, Markham, ON L3R 1G3, Canada if I go through the route:\nSteeles Ave E/Regional Rd 95 ,Esna Park Dr to Steelcase Rd E ,Steelcase Rd E  Options: (A) 8km (B) 1km (C) 6km (D) 5km",
+        "pid": "56",
+        "answer": "A",
+        "answer_text": "8km",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_709.PNG",
+        "question": " Which route would you take to minimize travel time from Point Motijheel to Point Bashundhara City Shopping Complex, Bangladesh during rush hour, considering major traffic areas shown on the map? Options: (A) Bir Uttam Samsul Alam Sarak/VIP Rd,Minto Rd, Kazi Nazrul Islam Ave,Kazi Nazrul Islam Ave,Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance (B) Bir Uttam Samsul Alam Sarak/VIP Rd,Bir Uttam Samsul Alam Sarak, Shahbagh Rd and New Elephant Rd to Green Rd,Green Rd. (C) Bir Muktijhoddha Abdus Salam Sarak/Freedon Fighter Abdus Salam Rd toward Commissioner Ln,Moghbazar Rd/Shaheed Captain Monsur Ali Sharani and Mouchak Mogbazar Flyover,Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance (D) Bir Muktijhoddha Abdus Salam Sarak/Freedon Fighter Abdus Salam Rd toward Commissioner Ln,Bir Uttam Samsul Alam Road, Outer Circular Rd and New Eskaton Road to Minto Rd,At the roundabout, take the 2nd exit and stay on Minto Rd,Mouchak Mogbazar Flyover,Take Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance",
+        "pid": "57",
+        "answer": "A",
+        "answer_text": "Bir Uttam Samsul Alam Sarak/VIP Rd,Minto Rd, Kazi Nazrul Islam Ave,Kazi Nazrul Islam Ave,Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_584.PNG",
+        "question": "I will visit my office ICT tower, Agargaon Dhaka from Adabor 10. I will go via Shymoli by Rickshaw. Before attending offiice I want to visit an eye hospital to test my eye sights. Please suggest me an eye hospital. Options: (A) National Institute of Opthalmology & Hospital (NIOH) (B) Aki Nahar Eye Hospital (C) Ispahani Islamia Eye Institute and Hospital (D) OCUNOVA EYE HOSPITAL Ltd.",
+        "pid": "58",
+        "answer": "A",
+        "answer_text": "National Institute of Opthalmology & Hospital (NIOH)",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_704.PNG",
+        "question": "Which direction should I travel from Tsumagoi Prince Hotel, to reachNukuisawa Sakura Park, JAPAN? Options: (A) 草津町 前口,浅間・白根・志賀さわやか街道/国道292号 to 長野原町 長野原,上信自動車道/八ッ場バイパス/国道145号 in 林 from 県道376号\\n, 上信自動車道/八ッ場バイパス/国道145号 to 川原畑. Take the exit toward Kawarayu from 上信自動車道/八ッ場バイパス/国道145号 (B) 浅間・白根・志賀さわやか街道 to 国道144号/国道406号 in 芦生田,国道406号 and 国道145号 to 長野原町 川原畑. Take the exit toward Kawarayu from 国道145号 (C) Continue to 草津町 前口, 浅間・白根・志賀さわやか街道/国道292号 and 国道145号 to 長野原町 川原畑. Take the exit toward Kawarayu from 国道145号 (D) Take 浅間・白根・志賀さわやか街道 to 国道144号/国道406号,国道406号 and 国道145号 to 長野原町 川原畑. Take the exit toward Kawarayu from 国道145号",
+        "pid": "59",
+        "answer": "D",
+        "answer_text": "Take 浅間・白根・志賀さわやか街道 to 国道144号/国道406号,国道406号 and 国道145号 to 長野原町 川原畑. Take the exit toward Kawarayu from 国道145号",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1115.PNG",
+        "question": "Which museum is seen on the way from Museum du doudou and Theatre Royal Mons? Options: (A) Beaux-Arts Mons (B) Belfry of Mons (C) Salle Saint-Georges (D) Decorative Arts Museum",
+        "pid": "60",
+        "answer": "B",
+        "answer_text": "Belfry of Mons",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_721.PNG",
+        "question": "Which bridge would you take to minimize travel time from Point Randall’s Island Athletic Field #83  to Point Carnegie Hill Veterinarians  shown on the map? Options: (A) Hell Gate Bridge (B) Robert F. Kennedy Bridge (C) Ward's Island Bridge (D) Randall's Island Urban Farm",
+        "pid": "61",
+        "answer": "C",
+        "answer_text": "Ward's Island Bridge",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_714.PNG",
+        "question": "Which Mesuem is located at the intersection of ACCESO AL PARQUE EÓLICO ROMERAL  and Punto geodésico Los Bolos,Spain? Options: (A) Silo Birding La Mancha (B) El Calaminar (C) Molino de Enmedio Villacañas (D) Silos de la Atalaya",
+        "pid": "62",
+        "answer": "D",
+        "answer_text": "Silos de la Atalaya",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_730.PNG",
+        "question": "How far is Rajpur Sonarpur in West Bengal, India, from Narayana Hospital, Chunavati, Andul Rd, Howrah, West Bengal, if I take the following route:\n\nContinue on Andul Rd (42 m, 13 sec).\nFollow Andul Rd and NH 12 to Alipore Rd in Alipore, Kolkata (32 min, 11.3 km).\nContinue on Alipore Rd to Barhans (32 min, 9.5 km).\nContinue straight past Union Bank ATM-Garia onto Garia Main Rd/Netaji Subhash Chandra Bose Rd (7 min, 2.1 km).\nPass by Jharna Ghee And Honey on the right. Options: (A) 23 km (B) 2km (C) 1km (D) 6km",
+        "pid": "63",
+        "answer": "A",
+        "answer_text": "23 km",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_566.PNG",
+        "question": "I’m on a road trip from Rajshahi to Khulna. Are there any popular local eateries on roadside restaurants along the way where I can stop for a traditional meal? Options: (A) Shajjad Hotel & Restora (B) Momotaj Modern Agro Ltd (C) Good VAI Good vai (D) Hafiz",
+        "pid": "64",
+        "answer": "A",
+        "answer_text": "Shajjad Hotel & Restora",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_593.PNG",
+        "question": "I’m an undergraduate student at BAF Shaheen College Dhaka and currently at Shaheed Suhrawardy Medical College and Hospital. I’ll be heading to my campus at 4 PM, and we’re planning to visit a museum as close as possible to the campus. Can you suggest a suitable one? Options: (A) Liberation War Museum (B) Bangabandhu Military Museum (C) Sainik Club Cinema Hall (D) Bangladesh Air Force Museum",
+        "pid": "65",
+        "answer": "D",
+        "answer_text": "Bangladesh Air Force Museum",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_717.PNG",
+        "question": "If you are currently at Point X, which direction should you travel to reach Point Y? Options: (A) Gurusaday Dutta Rd,Gurusaday Dutta Rd. Take Acharya Jagdish Chandra Bose Rd to Elliot Rd in Taltala, Elliot Rd to Esplanade,Muzaffar Ahmed St/Ripon St to Camac St,Park Center Bldg Wadhwana,Shakespeare Sarani Rd. Take Queens Way, Indira Gandhi Sarani, Pranabananda Sarani, Hospital Rd, ... and Belvedere Rd to Nawab Masjid Rd in Alipore,Nawab Masjid Rd (B) Gurusaday Dutta Rd,Syed Amir Ali Ave, Circus Ave and Debendra Lal Khan Rd to Baker Rd/Biplabi Kanai Bhattacharya Sarani in Alipore Police Line,Baker Rd/Biplabi Kanai Bhattacharya Sarani,Judges Court Rd, Pass by Survey Bldg ,Nawab Masjid Rd (C) Gurusaday Dutta Rd,Ashutosh Chowdary Ave/Gariahat Rd/Old Ballygunge Rd to Garcha Rd in Ballygunge Place\\nGarcha Rd,Hazra Rd to Alipore,Nawab Masjid Rd (D) Gurusaday Dutta Rd,Syed Amir Ali Ave, Circus Ave and Debendra Lal Khan Rd to Baker Rd/Biplabi Kanai Bhattacharya Sarani in Alipore Police Line,Baker Rd/Biplabi Kanai Bhattacharya Sarani,Judges Court Rd,Survey Bldg",
+        "pid": "66",
+        "answer": "D",
+        "answer_text": "Gurusaday Dutta Rd,Syed Amir Ali Ave, Circus Ave and Debendra Lal Khan Rd to Baker Rd/Biplabi Kanai Bhattacharya Sarani in Alipore Police Line,Baker Rd/Biplabi Kanai Bhattacharya Sarani,Judges Court Rd,Survey Bldg",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_595.PNG",
+        "question": "My house is in Shyamoli, Dhaka. I regularly take my daughter to her school in Shekhertek 12. Before heading back home, she wants to visit a park to play. Can you suggest a suitable park for this? Options: (A) Jannatbag Park (B) Jannatbag Childrens (C) Garden and Eidgah (D) Shymoli Park",
+        "pid": "67",
+        "answer": "D",
+        "answer_text": "Shymoli Park",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_596.PNG",
+        "question": "We'll visit my cousin's house in Halshohor, Chittagong, this Sunday, then go to Chittagong Port with family. I also need to check my health at Islami Bank Hospital and refill my car's CNG. Can you suggest a good gas station nearby? Options: (A) Nimtola Petrol Pump (B) Standard Auto Service (Fokirhat Petrol Pump) (C) Salim & Sons CNG Filling Station (D) Xpeed CNG Station",
+        "pid": "68",
+        "answer": "D",
+        "answer_text": "Xpeed CNG Station",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_723.PNG",
+        "question": "Now i am at Golden Nugget Las Vegas Hotel & Casino, 129 E Fremont St, Las Vegas, NV 89101, United States.What is the estimated walking time to the Discovery Children's  museum if I take the pedestrian path? Options: (A) Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N 1st St,E Ogden Ave,S Grand Central Pkwy,Robin Leach Ln,Promenade Pl (B) Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N Main St,W Bonneville Ave,Promenade Pl (C) Head south toward S Casino Center Blvd,S Casino Center Blvd,E Clark Ave,Transit Station St,E Bonneville Ave (D) Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N 1st St,E Ogden Ave,S City Pkwy,Grand Central Pkwy,West Carson Avenue,Promenade Pl",
+        "pid": "69",
+        "answer": "D",
+        "answer_text": "Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N 1st St,E Ogden Ave,S City Pkwy,Grand Central Pkwy,West Carson Avenue,Promenade Pl",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_712.PNG",
+        "question": "Which Park is located at the intersection of Business complex \"Mir\"  and Novokosino,moscow? Options: (A) Ol'ginskiy Lesopark\" 'Fabrichnyy Prud (B) Терлецкий парк (C) Park Kuskovo (D) ",
+        "pid": "70",
+        "answer": "B",
+        "answer_text": "Терлецкий парк",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_710.PNG",
+        "question": "I am currently in Barishal, Bangladesh. What is the estimated travel time to Dhaka by car if I take the following route: Barisal Bypass toward BM College Rd, Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy, and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka, then Kamal Ataturk Ave/Kemal Ataturk Ave, and finally take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd? Options: (A) 3 hr 42 min (B) 3 hr 52 min (C) 3 hr 32 min (D) 3 hr 12 min",
+        "pid": "71",
+        "answer": "B",
+        "answer_text": "3 hr 52 min",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_721.PNG",
+        "question": "Which bridge would you take to minimize travel time from Point  Astoria Park Running Track to Point  Wards Island Park  shown on the map? Options: (A) Hell Gate Bridge (B) Robert F. Kennedy Bridge' \"Ward's Island Bridge\" \"Randall's Island Urban Farm (C)  (D) ",
+        "pid": "72",
+        "answer": "B",
+        "answer_text": "Robert F. Kennedy Bridge' \"Ward's Island Bridge\" \"Randall's Island Urban Farm",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_594.PNG",
+        "question": "I live in Shyamoli and need to get my heart checked on the way to my office at ICT Tower, Dhaka. Can you suggest a suitable place for this? Options: (A) Ibn Sina Medical College Hospital (B) National Institute of Kidney Diseases & Urology (NIKDU) (C) National Institute of CardioVascular Diseases (NICVD) (D) Shaheed Suhrawardy Medical College and Hospital",
+        "pid": "73",
+        "answer": "C",
+        "answer_text": "National Institute of CardioVascular Diseases (NICVD)",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_728.PNG",
+        "question": "How far is thenearest Shopping mall from Blackwattle Bay Park,Sydney,Australia? if I take the following route shortest route i.e the route is: Cook St toward Ricketts Ave,Glebe Point Rd,Wigram Rd,Minogue Cres,The Crescent,Nelson St,Dalgal Wy,Partial restricted usage road Options: (A) 2 km (B) 3km (C) 5km (D) 1km",
+        "pid": "74",
+        "answer": "D",
+        "answer_text": "1km",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_705.PNG",
+        "question": " Calculate the total distance of the route from Point Dhaka to Point Rajshahi via Points Tongi  and Natore Options: (A) 250km (B) 249km (C) 247km (D) 248km",
+        "pid": "75",
+        "answer": "B",
+        "answer_text": "249km",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_1127.PNG",
+        "question": "Which restaurant can be found on the way from Hellenic Maritime Meseum to Beach Freatida? Options: (A) Pisina (B) Imerovigli (C) To Grigoro (D) korwnaki piraeus",
+        "pid": "76",
+        "answer": "A",
+        "answer_text": "Pisina",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_508.PNG",
+        "question": "I'm currently at The Cartoon Museum and later I plan to go to Dominion Theatre to watch a movie. My friend is waiting for me at ISKCON London Radha-Krishna Temple, and they also want to buy some clothes. Can you recommend a shop suitable for they? Options: (A) Next (B) Rathbone Square (C) Primark (D) UNIQLO",
+        "pid": "77",
+        "answer": "C",
+        "answer_text": "Primark",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_597.PNG",
+        "question": "I’m driving from Bogura to Dinajpur to meet my friend. I need to refuel my car towards the end of the journey. Can you suggest a suitable filling station along the way? Options: (A) Fire Service and Civil Defense Ghoraghat (B) Navana CNG Filling Station (C) Elite Filling Station (D) M/S Bimimoy Petroleum",
+        "pid": "78",
+        "answer": "C",
+        "answer_text": "Elite Filling Station",
+        "category": "routing"
+    },
+    {
+        "image": "Vdata/ID_724.PNG",
+        "question": "I am at Point Cambridge Lodge. Can you navigate me to the nearest park that takes the least time and shortest distance to reach and also avoid traffic? Options: (A) Merchant St, Cambridge St,Holt St (B) Merchant St ,Cambridge St,Cavendish St,Cavendish St turns left and becomes Aubrey St,Merton St,Trafalgar St (C) Merchant St ,Harrow Rd,Harrow Rd,Trafalgar St (D) Head southwest on Merchant St,Cambridge St,Holt St,Cavendish St,Cavendish St , Aubrey St,Merton St,Trafalgar St",
+        "pid": "79",
+        "answer": "A",
+        "answer_text": "Merchant St, Cambridge St,Holt St",
+        "category": "routing"
+    }
+]

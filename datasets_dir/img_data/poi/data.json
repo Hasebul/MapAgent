@@ -1,0 +1,970 @@
+[
+    {
+        "image": "Vdata/ID_308.PNG",
+        "question": "Is there a restaurants depicted in the image? If so, what is the name of this restaurants? Options: (A) ABBA Arena (B) Barbican Centre (C) City Spice - Voted Best Indian Restaurant Brick Lane (D) Whitechapel Gallery",
+        "pid": "0",
+        "answer": "C",
+        "answer_text": "City Spice - Voted Best Indian Restaurant Brick Lane",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1113.PNG",
+        "question": "Which hotel is on the left side of ht Vltava river? Options: (A) Narondni trida (B) The Julius Prague (C) Mandarin Oriental (D) Prazsky hrad",
+        "pid": "1",
+        "answer": "C",
+        "answer_text": "Mandarin Oriental",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_321.PNG",
+        "question": "Is there a fueling or Gas  station near any restaurant? If so, what is the name of this fueling or gas  station? Options: (A) ADNOC Service Station | Shahama (B) ADNOC Service Station (C) Carrefour (D) Ramsa",
+        "pid": "2",
+        "answer": "B",
+        "answer_text": "ADNOC Service Station",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_568.PNG",
+        "question": "I’m planning a wedding and currently in the Dhanmondi area of Dhaka. Can you suggest a beautiful and well-equipped wedding venue  that can accommodate a large number of guests? Options: (A) Gulshan Shooting Club (Convention Hall) (B) Ananda Bhaban Community Center (C) Celebrity Convention Center (D) s Convention Center\"",
+        "pid": "3",
+        "answer": "A",
+        "answer_text": "Gulshan Shooting Club (Convention Hall)",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_622.PNG",
+        "question": "Which ATM has four-star rating? Options: (A) Cecil by Pearl Continental Hotels & Resorts (B) Murree Hotels Murree (C) Kings Hotel Murre (D) TANVEER HOTEL",
+        "pid": "4",
+        "answer": "B",
+        "answer_text": "Murree Hotels Murree",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_314.PNG",
+        "question": "What is the neighboring Mount to the Northern Country Club Akagi Golf ? Options: (A) Mount Akagi (B) Mount Haruna (C) 赤城山パノラマ展望台 (D) Akagi south Senbonzakura",
+        "pid": "5",
+        "answer": "A",
+        "answer_text": "Mount Akagi",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_306.PNG",
+        "question": "Is there any  Park marked with symbol on a map which start with \"L\" of USA? Options: (A) Fernhill Wetlands (B) Hillsboro Airport (C) Legacy Knoll Neighborhood Park (D) Pacific University Forest Grove Campus",
+        "pid": "6",
+        "answer": "C",
+        "answer_text": "Legacy Knoll Neighborhood Park",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_313.PNG",
+        "question": "What is the neighboring Marina to the River? Options: (A) Jack The Ripper Museum (B) Tobacco Dock Ltd (C) Brunel Museum (D) St",
+        "pid": "7",
+        "answer": "D",
+        "answer_text": "St",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1109.PNG",
+        "question": "Whats the name of the 3.7 star rating hotel? Options: (A) Hotel Gakyidiana (B) Pema Yangsel Hotel (C) Paro Penlop Dawa Penjor (D) Pelri Cottages",
+        "pid": "8",
+        "answer": "D",
+        "answer_text": "Pelri Cottages",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_321.PNG",
+        "question": "Is there a Hospitalnear any fueling or Gas  station? If so, what is the name of this Hospital? Options: (A) Al Bahia Healthcare Center مركز الباهية الصحي (B) Zahrat Lebnan - Al Shahama (C) NMC Royal Medical Center - Shahama (D) LMC",
+        "pid": "9",
+        "answer": "A",
+        "answer_text": "Al Bahia Healthcare Center مركز الباهية الصحي",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_621.PNG",
+        "question": "Which ATM has a one-star rating? Options: (A) HBL ATM (B) National Bank Atm (C) NBP ATM (D) HBL Bank & ATM",
+        "pid": "10",
+        "answer": "A",
+        "answer_text": "HBL ATM",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_308.PNG",
+        "question": "Does the image portray a Library? If so, what is the name of this library? Options: (A) Camden Market (B) The British Library (C) FOLD (D) London Library",
+        "pid": "11",
+        "answer": "B",
+        "answer_text": "The British Library",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_583.PNG",
+        "question": "I'm currently watching a movie at Sainik Club Cinema Hall, which ends at 11:05 PM. Afterward, I'll have dinner before heading home. My favorite food is roasted meat dishes from the Middle East. Can you suggest a good restaurant? Options: (A) The Garden Kitchen at Sheraton Dhaka (B) Tempt-Asia Restaurant (C) Kasundi Restaurant (D) Star Kabab & Restaurant",
+        "pid": "12",
+        "answer": "D",
+        "answer_text": "Star Kabab & Restaurant",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_563.PNG",
+        "question": "I am planning to have dinner with friends in the Sonadanga area of Khulna. We love Chinese food. Can you recommend a popular Chinese restaurant in this area? Options: (A) Dhaba 2 Khulna. (B) Tugh lifee (C) গাজী রেস্তোরাঁ (D) Hungry Foodies",
+        "pid": "13",
+        "answer": "A",
+        "answer_text": "Dhaba 2 Khulna.",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_609.PNG",
+        "question": "Hungry at 12:55 PM, but I'll eat at 2 PM. Any suggestions for top-rated restaurants? Also, I'm a fan of Indian cuisine. Options: (A) Indian restaurant (B) NOZOMI Riyadh (C) The View Restaurant (D) Bangladesh Restaurant",
+        "pid": "14",
+        "answer": "A",
+        "answer_text": "Indian restaurant",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_319.PNG",
+        "question": "Is there a mosque, marked with a symbol? If there is, what is the name of the mosque? Options: (A) Shadwell falcons (B) Al Sahabah (C) طوي المره (D) Al",
+        "pid": "15",
+        "answer": "B",
+        "answer_text": "Al Sahabah",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_602.PNG",
+        "question": "Provide me with a list of restaurants with a Exact rating of 4.7 ? Options: (A) Sushi Hinominami (B) Cafe Restaurant Brasserie Koo (C) cafe & restaurant ａ２４ (D) Le vent",
+        "pid": "16",
+        "answer": "C",
+        "answer_text": "cafe & restaurant ａ２４",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1105.PNG",
+        "question": "Whats the name of the building near Macaulay St and the Green area? Options: (A) Cole Street Guesthouse (B) Comfort Lodge (C) Seabird Water Taxi (D) Sierra Leone Grammar School",
+        "pid": "17",
+        "answer": "D",
+        "answer_text": "Sierra Leone Grammar School",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_561.PNG",
+        "question": "I’m planning a trip to Rangpur. Can you recommend a good hotel where I can stay two or three days in station bazar area, Rangpur. Options: (A) SKY LAWN Hotel & Restaurant (B) লিটল রংপুর ইন (C) Sky View Hotel (D) Grand Palace Hotel",
+        "pid": "18",
+        "answer": "D",
+        "answer_text": "Grand Palace Hotel",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_507.PNG",
+        "question": "I work at H.O.PERSIEHL WANFRIED GmbH & Co. KG and I'm staying at Ferienwohnung Bedroo - Am historischen Hafen Wanfried. My work ends at 4 pm today, and I'm considering having coffee for evening. Could you recommend a restaurant? Options: (A) Hafengaststätte Zur Schlagd (B) Bäckerei Wolf oHG (C) Christinchen (D) Pizzeria Gina",
+        "pid": "19",
+        "answer": "C",
+        "answer_text": "Christinchen",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_598.PNG",
+        "question": "I am going to see the new born baby of my friend at Square Hospital from Agargaon. From the path way I want to buy some baby dressess. Suggest me a baby shop.  Options: (A) Kids and Moms (B) Faviana Fashion (C) Baby Club (D) Mom & Baby Shop",
+        "pid": "20",
+        "answer": "D",
+        "answer_text": "Mom & Baby Shop",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_604.PNG",
+        "question": "I'm at Baridhara K Block, feeling unwell, and need some medicine. What is a nearby pharmacy with a good rating that is open? Options: (A) United hospital pharmacy (B) Prescription Aid Pharmacy (C) Vatara (D) Tamanna Pharmacy",
+        "pid": "21",
+        "answer": "A",
+        "answer_text": "United hospital pharmacy",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1108.PNG",
+        "question": "Whats the largest park shown in the map? Options: (A) Klauzál tér (B) Fiumei úti sírkert (C) Menza Étterem és Kávéház (D) Szabadság tér",
+        "pid": "22",
+        "answer": "D",
+        "answer_text": "Szabadság tér",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1102.PNG",
+        "question": "What is the name of the wine store? Options: (A) Uhrskov Vinhadel (B) Bravo (C) FællesBo (D) Herning Kirke",
+        "pid": "23",
+        "answer": "A",
+        "answer_text": "Uhrskov Vinhadel",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_625.PNG",
+        "question": "I want to book a hotel named \"Nagarkot Trekkers Inn Homestay\" on Booking.com. How much will it cost for one nigh in BDT? Options: (A) 2686 (B) 2868 (C) 2688 (D) 2886",
+        "pid": "24",
+        "answer": "B",
+        "answer_text": "2868",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_319.PNG",
+        "question": "Is there a historical landmark, marked with a symbol, located near any mosque? If there is, what is the name of the landmark? Options: (A) Shadwell falcons (B) Kameluschi (C) طوي المره (D) Al",
+        "pid": "25",
+        "answer": "A",
+        "answer_text": "Shadwell falcons",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_606.PNG",
+        "question": "I work at BNS Center, and I need to arrange accommodation for a client for one night. My budget is between 2000-2500 BDT. Could you recommend a suitable hotel  or house? Options: (A) Hotel Royal Blue Residence (B) Taz Garden House (C) Western Planet Hotel (D) Hotel Milina Ltd & Shirasagi Restaurant Uttara",
+        "pid": "26",
+        "answer": "B",
+        "answer_text": "Taz Garden House",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_323.PNG",
+        "question": "Is there a Monument that is identified with a symbol? If so, what is the name of the Monument ? Options: (A) Newport Centre (B) Liberty Science Center (C) Empty Sky Memorial (D) Barclays Center",
+        "pid": "27",
+        "answer": "C",
+        "answer_text": "Empty Sky Memorial",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_618.PNG",
+        "question": "What type of airport is Salem Airport? Options: (A) Major Hub Airports (B) domestic airport (C) Regional Airports: (D) Local Airports:",
+        "pid": "28",
+        "answer": "B",
+        "answer_text": "domestic airport",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_302.PNG",
+        "question": "Is there  any historical landmarks marked with a star symbol on the tourist map of Rome? Options: (A) Monumento naturale Caldara di Manziana (B) Casacocò (C) Orsini-Odescalchi Castle (D) Bosco Macchia Grande",
+        "pid": "29",
+        "answer": "C",
+        "answer_text": "Orsini-Odescalchi Castle",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_580.PNG",
+        "question": "I will be visitng Switzerland from Dhaka on upcoming 27th May. I have bought the ticket in turkish airlines. During the transit time at Istambul I want to test the best food in Istambul Airport. Suggest me the best restaurant Options: (A) Slim Chickens (B) Saltbae Burger Istambul Airport (C) Turkish Cuisine (D) Food Court GIA",
+        "pid": "30",
+        "answer": "B",
+        "answer_text": "Saltbae Burger Istambul Airport",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_603.PNG",
+        "question": "I am currently at Exposition Park, and I'm interested in visiting a museum at 8 am . What is  the highest-rated museum nearby? Options: (A) USC Fisher Museum of Art (B) Figueroa Philly Cheese Steak (C) Natural History Museum of Los Angeles County (D) Hancock Memorial Museum",
+        "pid": "31",
+        "answer": "D",
+        "answer_text": "Hancock Memorial Museum",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_616.PNG",
+        "question": "Where is Narayana Hospital, Chunavati, located in Kolkata? Options: (A) East Bengal (B) South Bengal (C) NorthBengal (D) West Bengal",
+        "pid": "32",
+        "answer": "D",
+        "answer_text": "West Bengal",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_612.PNG",
+        "question": "What is the most attractive, highly rated, and most reviewed tourist attraction in this picture? Options: (A) Museum of Islamic Art (B) Doha Skyline Viewpoint (C) سوق واقف للفنون (D) The Pearl Monument",
+        "pid": "33",
+        "answer": "A",
+        "answer_text": "Museum of Islamic Art",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_603.PNG",
+        "question": "I am currently at Exposition Park, and I'm interested in visiting a museum. What is  the highest-rated museum nearby? Options: (A) USC Fisher Museum of Art (B) Figueroa Philly Cheese Steak (C) Natural History Museum of Los Angeles County (D) Hancock Memorial Museum",
+        "pid": "34",
+        "answer": "C",
+        "answer_text": "Natural History Museum of Los Angeles County",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_623.PNG",
+        "question": "Can I bring my dog to Jigme Dorji National Park? Options: (A) Dogs allowed (B) Dogs not welcome (C) Dogs welcome (D) pets allowed",
+        "pid": "35",
+        "answer": "A",
+        "answer_text": "Dogs allowed",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_608.PNG",
+        "question": "What are the opening hours of Kingdom Center Sky Bridge? Options: (A) 9am (B) 10pm (C) 12am (D) 12pm",
+        "pid": "36",
+        "answer": "D",
+        "answer_text": "12pm",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_622.PNG",
+        "question": "Which ATM has a three-and-a-half-star rating? Options: (A) Cecil by Pearl Continental Hotels & Resorts (B) Murree Hotels Murree (C) Kings Hotel Murre (D) TANVEER HOTEL",
+        "pid": "37",
+        "answer": "D",
+        "answer_text": "TANVEER HOTEL",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_626.PNG",
+        "question": "Which restaurant provides free breakfast? Options: (A) Gothic Rave Bar (B) Xoxo Lounge and Bar (C) Hotel Country Villa (D) Triple-Double Lounge & Bar",
+        "pid": "38",
+        "answer": "C",
+        "answer_text": "Hotel Country Villa",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_316.PNG",
+        "question": "Is there an amusement park marked with a symbol? If so, what is its name? Options: (A) Kotakitenmangu (B) Karuizawa Toy Kingdom (C) 森のログハウスMokki (D) 北軽井沢ネイチャーフィールドCentral Camp",
+        "pid": "39",
+        "answer": "B",
+        "answer_text": "Karuizawa Toy Kingdom",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_609.PNG",
+        "question": "It's 12:55 PM, and I'm hungry, planning to eat at 2 PM. What is the well-rated restaurant? Options: (A) Indian restaurant (B) NOZOMI Riyadh (C) The View Restaurant (D) Bangladesh Restaurant",
+        "pid": "40",
+        "answer": "B",
+        "answer_text": "NOZOMI Riyadh",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_619.PNG",
+        "question": "What are the last two digits of the unjab University Examination Centre at Quaid-e-Azam Campus phone number? Options: (A) 66 (B) 55 (C) 92 (D) 99",
+        "pid": "41",
+        "answer": "D",
+        "answer_text": "99",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_309.PNG",
+        "question": "What Museum is located just north of Beverly Hills? Options: (A) Greystone Mansion & Gardens: The Doheny Estate (B) Crypto.com Arena (C) Museum of Tolerance (D) Los Angeles County Museum of Art",
+        "pid": "42",
+        "answer": "C",
+        "answer_text": "Museum of Tolerance",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_620.PNG",
+        "question": "Which restaurant is located at shop number 660 in the market? Options: (A) Muhammad Ali BBQ Family Restaurant (B) Salman’s Home kitchen (C) Zaiqa Restaurant and baryani house (D) Tabrezian restaurant",
+        "pid": "43",
+        "answer": "D",
+        "answer_text": "Tabrezian restaurant",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_630.PNG",
+        "question": "Which tourist attractions offer a water park with rides? Options: (A) Sangrela Natural Water Park and Hotel (B) Toli Peer (C) Nergola Waterfall نڑگولہ آبشار راولاکوٹ (D) New Sozo Adventure Park Murree Pakistan",
+        "pid": "44",
+        "answer": "D",
+        "answer_text": "New Sozo Adventure Park Murree Pakistan",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_321.PNG",
+        "question": "Is there a restaurant  near any fueling or Gas  station? If so, what is the name of this restaurant ? Options: (A) Nine Star (B) Zahrat Lebnan - Al Shahama (C) Spartan Cafe (D) Ramsa",
+        "pid": "45",
+        "answer": "D",
+        "answer_text": "Ramsa",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_614.PNG",
+        "question": "What's the current temperature in Celsius in Abha, Saudi Arabia? Options: (A) 40°C (B) 10°C (C) 20°C (D) 22°C",
+        "pid": "46",
+        "answer": "C",
+        "answer_text": "20°C",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_611.PNG",
+        "question": "What is the highest-rated five-star hotel? Options: (A) Century Hotel Doha (B) Fraser Suites Doha (C) DoubleTree by Hilton Doha - Old Town (D) Shaza Doha",
+        "pid": "47",
+        "answer": "B",
+        "answer_text": "Fraser Suites Doha",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1109.PNG",
+        "question": "Which hotel has the maximum number of reviews shown in the map? Options: (A) Hotel Khamsum (B) Pema Yangsel Hotel (C) Paro Penlop Dawa Penjor (D) Pelri Cottages",
+        "pid": "48",
+        "answer": "A",
+        "answer_text": "Hotel Khamsum",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_312.PNG",
+        "question": "Is there  any historical landmarks marked with a star symbol ? Options: (A) London bridge (B) tower bridge (C) Monument to the Great Fire of London (D) Tower of London",
+        "pid": "49",
+        "answer": "C",
+        "answer_text": "Monument to the Great Fire of London",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1101.PNG",
+        "question": "Which cemetaty is the image? Options: (A) Gustaf Vasa Church (B) Radmansgatan (C) St Johannes (D) Crafoord Place",
+        "pid": "50",
+        "answer": "C",
+        "answer_text": "St Johannes",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_313.PNG",
+        "question": "What is the neighboring Museume to the River? Options: (A) Jack The Ripper Museum (B) Tobacco Dock Ltd (C) Brunel Museum (D) St",
+        "pid": "51",
+        "answer": "C",
+        "answer_text": "Brunel Museum",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_306.PNG",
+        "question": "Is there any Airport  marked with symbol on a map which start with \"L\" of USA? Options: (A) Fernhill Wetlands (B) Hillsboro Airport (C) Forest Hills Golf Course (D) Pacific University Forest Grove Campus",
+        "pid": "52",
+        "answer": "B",
+        "answer_text": "Hillsboro Airport",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_630.PNG",
+        "question": "Which tourist attractions have the highest reviews? Options: (A) Sangrela Natural Water Park and Hotel (B) Toli Peer (C) Nergola Waterfall نڑگولہ آبشار راولاکوٹ (D) New Sozo Adventure Park Murree Pakistan",
+        "pid": "53",
+        "answer": "B",
+        "answer_text": "Toli Peer",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_621.PNG",
+        "question": "which ATM is now closed? Options: (A) HBL ATM (B) National Bank Atm (C) NBP ATM (D) HBL Bank & ATM",
+        "pid": "54",
+        "answer": "B",
+        "answer_text": "National Bank Atm",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_601.PNG",
+        "question": "Recommend a park or garden that is in close proximity to a well-known landmark. Options: (A) Paradise Park (B) Maharaja jawahar Singh park (C) Shahjahan Garden (D) Taj Garden",
+        "pid": "55",
+        "answer": "C",
+        "answer_text": "Shahjahan Garden",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_306.PNG",
+        "question": "Is there  any Costco store  marked with symbol on a map  of USA? Options: (A) Fernhill Wetlands (B) Hillsboro Airport (C) Costco Wholesale (D) Pacific University Forest Grove Campus",
+        "pid": "56",
+        "answer": "C",
+        "answer_text": "Costco Wholesale",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_571.PNG",
+        "question": "I’m planning a trip to Cox’s Bazar and I want to stay at a beach resort that offers activities like surfing and beach volleyball. Can you suggest a top-rated resort? Options: (A) Sayeman Beach Resort (B) Shahjadi resort (C) Neeshorgo Hotel & Resort Ltd. (D) Sonadia Campfire Resort",
+        "pid": "57",
+        "answer": "A",
+        "answer_text": "Sayeman Beach Resort",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_575.PNG",
+        "question": "I am in Rajshahi’s New Market area and looking for a cozy coffee shop where I can spend a few hours working on my laptop. Any recommendations? Options: (A) Take Way Cafe (B) The Hideout Cafe (C) Hungry Heroes (D) The Corridor Cafe",
+        "pid": "58",
+        "answer": "D",
+        "answer_text": "The Corridor Cafe",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_607.PNG",
+        "question": "At 12:14 am, I'm seeking a tourist spot with good ratings where I can pray as a Muslim and enjoy exploring. What's the best-rated place? Options: (A) Gulshan Lake Park (B) Khan Mohammad Mridha Masjid (C) Gulshan Central Masjid (D) Chawkbazar Shahi Jame Masjid",
+        "pid": "59",
+        "answer": "C",
+        "answer_text": "Gulshan Central Masjid",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_618.PNG",
+        "question": "What are the last two digits of the Salem Airport phone number? Options: (A) 60 (B) 50 (C) 65 (D) 80",
+        "pid": "60",
+        "answer": "A",
+        "answer_text": "60",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_624.PNG",
+        "question": "How long does Nagarkot Waterfall remain open on monday? Options: (A) Open 24 hours (B) Open 14 hours (C) Open 42hours (D) Open 4 hours",
+        "pid": "61",
+        "answer": "A",
+        "answer_text": "Open 24 hours",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_615.PNG",
+        "question": "What is the 'Soudah 360° Viewpoint' like? Options: (A) Tourist attraction (B) Landmark (C) park (D) Hospital",
+        "pid": "62",
+        "answer": "A",
+        "answer_text": "Tourist attraction",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_602.PNG",
+        "question": "What are the hours of operation for Sushi Atsumi(? Options: (A) Currently open, closing at 9 PM (B) Currently open, closing at 8 PM (C) Currently close, opening at 9 PM. (D) Currently open, closing at 6 PM.",
+        "pid": "63",
+        "answer": "A",
+        "answer_text": "Currently open, closing at 9 PM",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_507.PNG",
+        "question": "I work at H.O.PERSIEHL WANFRIED GmbH & Co. KG and I'm staying at Ferienwohnung Bedroo - Am historischen Hafen Wanfried. My work ends at 4 pm today, and I'm considering having pizza for dinner. Could you recommend a restaurant? Options: (A) Hafengaststätte Zur Schlagd (B) Bäckerei Wolf oHG (C) Christinchen (D) Pizzeria Gina",
+        "pid": "64",
+        "answer": "D",
+        "answer_text": "Pizzeria Gina",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_562.PNG",
+        "question": "I’m in Gazipur Tongi area and I need to know where the  hospital is in case of an emergency. Can you provide me with some options? Options: (A) Bangladesh Institute of Health Science Hospital, Tongi, Gazipur (B) International Medical College & Hospital (C) Asia General Hospital (D) Dhaka Imperial Hospital",
+        "pid": "65",
+        "answer": "B",
+        "answer_text": "International Medical College & Hospital",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_602.PNG",
+        "question": "What is the rating of Sushi Atsumi? Options: (A) 5 (B) 5 (C) 6 (D) 8",
+        "pid": "66",
+        "answer": "D",
+        "answer_text": "8",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_629.PNG",
+        "question": "I need to withdraw money from an ATM or Bank. Which ones are open right now? Options: (A) HBL (B) Meezan Bank - Rawalakot Branch (C) Askari Bank (D) MCB",
+        "pid": "67",
+        "answer": "C",
+        "answer_text": "Askari Bank",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_318.PNG",
+        "question": "What is the name of the Cultural landmark in this picture? Options: (A) s Play Museum\"  (B) \n  (C)   (D) ",
+        "pid": "68",
+        "answer": "D",
+        "answer_text": "",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_306.PNG",
+        "question": "Is there any Hotel or Lodge marked with symbol on a map of USA? Options: (A) McMenamins Grand Lodge (B) Hillsboro Airport (C) Forest Hills Golf Course (D) Pacific University Forest Grove Campus",
+        "pid": "69",
+        "answer": "A",
+        "answer_text": "McMenamins Grand Lodge",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1113.PNG",
+        "question": "At what park Petřínská rozhledna is situated? Options: (A) Mala Strana (B) Kinského zahrada (C) Petřínské sady (D) Lumbeho zahrada",
+        "pid": "70",
+        "answer": "C",
+        "answer_text": "Petřínské sady",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_320.PNG",
+        "question": "What is the name of the Theme park located on Yas Island? Options: (A) Ferrari World Yas Island, Abu Dhabi (B) AlBahya Park (C) Emirates Park (D) Um AlBasatin Farm",
+        "pid": "71",
+        "answer": "A",
+        "answer_text": "Ferrari World Yas Island, Abu Dhabi",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_611.PNG",
+        "question": "What is the highest-rated five-star hotel? Options: (A) Century Hotel Doha (B) فندق هورايزون مانور (C) Golden Ocean Hotel (D) Plaza Inn Hotel",
+        "pid": "72",
+        "answer": "A",
+        "answer_text": "Century Hotel Doha",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_320.PNG",
+        "question": "Is there a zoo, marked with a symbol? If there is, what is the name of the zoo? Options: (A) Ferrari World Yas Island, Abu Dhabi (B) AlBahya Park (C) Emirates Park (D) Um",
+        "pid": "73",
+        "answer": "C",
+        "answer_text": "Emirates Park",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1104.PNG",
+        "question": "Whats the name of the medical center ? Options: (A) صيدلية المقطم (B) مركز الحمد الطبى (C) صيدلية الدكتورعادل كريم (D) مدرسة د/ابوذر الكودة",
+        "pid": "74",
+        "answer": "B",
+        "answer_text": "مركز الحمد الطبى",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_322.PNG",
+        "question": "Is there a Movie theater that is identified with a symbol? If so, what is the name of the Movie theater ? Options: (A) Kanheri Caves (B) Gaimukh Jetty (C) Korakendra Dome 2 (D) Maxus",
+        "pid": "75",
+        "answer": "D",
+        "answer_text": "Maxus",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_622.PNG",
+        "question": "Which ATM has a four-star rating and is the most reviewed by others? Options: (A) Cecil by Pearl Continental Hotels & Resorts (B) Murree Hotels Murree (C) Kings Hotel Murre (D) TANVEER HOTEL",
+        "pid": "76",
+        "answer": "B",
+        "answer_text": "Murree Hotels Murree",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1003.PNG",
+        "question": "Is there a Cultural landmark marked with a symbol? If so, what is the name of the Cultural landmark? Options: (A) Summer Palace (B) Shi Qi Kong Qiao (C) Peking University (D) 北京大学邱德拔体育馆",
+        "pid": "77",
+        "answer": "A",
+        "answer_text": "Summer Palace",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_574.PNG",
+        "question": "I’ve recently moved to Narayanganj’s Chashara area and I want to find a good gym that has modern equipment and fitness classes. Any suggestions? Options: (A) s Gym Narayanganj\"  (B) \n  (C)   (D) ",
+        "pid": "78",
+        "answer": "C",
+        "answer_text": " ",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_318.PNG",
+        "question": "What is the name of the park  in this picture? Options: (A) s Play Museum\"  (B) \n  (C)   (D) ",
+        "pid": "79",
+        "answer": "C",
+        "answer_text": " ",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_320.PNG",
+        "question": "Is there a beach that is identified with a symbol? If so, what is the name of the beach? Options: (A) Ferrari World Yas Island, Abu Dhabi (B) Bin Safwan (C) Emirates (D) Um",
+        "pid": "80",
+        "answer": "B",
+        "answer_text": "Bin Safwan",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_625.PNG",
+        "question": "I want to book a hotel named \"Nagarkot Trekkers Inn Homestay\" on Booking.com. How much will it cost for two nigh in BDT? Options: (A) 2686 (B) 2868 (C) 5736 (D) 5673",
+        "pid": "81",
+        "answer": "C",
+        "answer_text": "5736",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_324.PNG",
+        "question": "Is there a Art center that is identified with a symbol? If so, what is the name of the Art center? Options: (A) Avant Gardner (B) Elsewhere (C) Urban Jungle (D) Knockdown Center",
+        "pid": "82",
+        "answer": "D",
+        "answer_text": "Knockdown Center",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_320.PNG",
+        "question": "Is there a Campground, marked with a symbol? If there is, what is the name of the Campground? Options: (A) Ferrari World Yas Island, Abu Dhabi (B) AlBahya Park (C) Emirates Park (D) Um",
+        "pid": "83",
+        "answer": "D",
+        "answer_text": "Um",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_322.PNG",
+        "question": "Is there a Event venue that is identified with a symbol? If so, what is the name of the Event venue ? Options: (A) Kanheri Caves (B) Gaimukh Jetty (C) Korakendra Dome 2 (D) Maxus",
+        "pid": "84",
+        "answer": "C",
+        "answer_text": "Korakendra Dome 2",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_317.PNG",
+        "question": "What is the name of the historical landmark in this picture? Options: (A) Freizeitpark Behamberg (B) Bürstmayrsiedlung (C) Museum Arbeitswelt Steyr (D) Schloss Lamberg Events",
+        "pid": "85",
+        "answer": "D",
+        "answer_text": "Schloss Lamberg Events",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1114.PNG",
+        "question": "What is the name of the river? Options: (A) Buffels River (B) Pringle River (C) Amazon River (D) Casper River",
+        "pid": "86",
+        "answer": "A",
+        "answer_text": "Buffels River",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_610.PNG",
+        "question": "Which 2-star hotel tends to receive the most reviews from users? Options: (A) Tropics Hotel and Hostel (B) Aqua Hotel (C) Collins Avenue Hostel (D) Courtyard by Marriott Miami Beach South Beach",
+        "pid": "87",
+        "answer": "B",
+        "answer_text": "Aqua Hotel",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_619.PNG",
+        "question": "When does the Punjab University Examination Centre at Quaid-e-Azam Campus open? Options: (A) 8am (B) 7pm (C) 7am (D) 8pm",
+        "pid": "88",
+        "answer": "C",
+        "answer_text": "7am",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_570.PNG",
+        "question": "I’m in Narayanganj’s Siddhirganj area, known for its textile industry. Can you guide me to a shop where I can purchase high-quality fabrics and traditional clothing? Options: (A) DHAKA TEXTILE MILLS (B) Moon Knitwear & Composite Dyeing (C) Narayanganj Garments (D) S.M. TEXTILE",
+        "pid": "89",
+        "answer": "C",
+        "answer_text": "Narayanganj Garments",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_324.PNG",
+        "question": "Is there a Live music venue that is identified with a symbol? If so, what is the name of the Live music venue? Options: (A) Avant Gardner (B) Elsewhere (C) Urban Jungle (D) Knockdown Center",
+        "pid": "90",
+        "answer": "B",
+        "answer_text": "Elsewhere",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_303.PNG",
+        "question": "Is there  any hospitals marked with a red cross symbol on a map of London? Options: (A) Four (B) Whipps Cross University Hospital (C) Ibne sina hospital (D) s Own Junkyard\"",
+        "pid": "91",
+        "answer": "B",
+        "answer_text": "Whipps Cross University Hospital",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_323.PNG",
+        "question": "Is there a Arena that is identified with a symbol? If so, what is the name of the Arena? Options: (A) Newport Centre (B) Liberty Science Center (C) Empty Sky Memorial (D) Barclays Center",
+        "pid": "92",
+        "answer": "D",
+        "answer_text": "Barclays Center",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_319.PNG",
+        "question": "Is there a Tourist attraction, marked with a symbol? If there is, what is the name of the Tourist attraction? Options: (A) Shadwell falcons (B) Kameluschi (C) طوي المره (D) Al",
+        "pid": "93",
+        "answer": "B",
+        "answer_text": "Kameluschi",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_602.PNG",
+        "question": "Does Cafe Restaurant Brasserie Koo offer delivery ? Options: (A) Yes Delivery (B) No delivery (C) Some times Delivery (D) Cafe & Resturent",
+        "pid": "94",
+        "answer": "B",
+        "answer_text": "No delivery",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_620.PNG",
+        "question": "Which restaurants offer delivery without requiring a contract? Options: (A) Muhammad Ali BBQ Family Restaurant (B) Tabrezian restaurant (C) Zaiqa Restaurant and baryani house (D) Salman’s Home kitchen",
+        "pid": "95",
+        "answer": "B",
+        "answer_text": "Tabrezian restaurant",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_317.PNG",
+        "question": "What is the name of the historical museum depicted in this picture? Options: (A) Freizeitpark Behamberg (B) Bürstmayrsiedlung (C) Museum Arbeitswelt Steyr (D) Schloss Lamberg Events",
+        "pid": "96",
+        "answer": "C",
+        "answer_text": "Museum Arbeitswelt Steyr",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_605.PNG",
+        "question": "I am currently at Uttara Sector 3 Playground. What is the highest-rated 3-star hotel nearby? Options: (A) Hotel Heaven Inn Ltd. (B) Garden Residents Uttara - Lake View (C) HOTEL BLUE BIRD/হোটেল ব্লু-বার্ড (D) সি শেল রেসিডেন্স / Sea Shell Residence",
+        "pid": "97",
+        "answer": "D",
+        "answer_text": "সি শেল রেসিডেন্স / Sea Shell Residence",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_560.PNG",
+        "question": "I am a student living in Comilla’s Kandirpar area. I need a quiet place to study and I’m looking for a library on this way. Can you help me find one? Options: (A) বীর মুক্তিযোদ্ধা মাষ্টার তৈয়ব\\n আলী স্মৃতি গ্রন্থাগার (B) ভক্তি বিনদ ঠাকুর লাইব্রেরি,\\n ত্রিবেণী ভবণ (C) Birchandra Gana-Pathagar\\n O Nogor Milonayaton (D) বসন্ত সৃতি পাঠাগার",
+        "pid": "98",
+        "answer": "A",
+        "answer_text": "বীর মুক্তিযোদ্ধা মাষ্টার তৈয়ব\\n আলী স্মৃতি গ্রন্থাগার",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_306.PNG",
+        "question": "Is there any University marked with symbol on a map of USA? Options: (A) Fernhill Wetlands (B) Hillsboro Airport (C) Forest Hills Golf Course (D) Pacific University Forest Grove Campus",
+        "pid": "99",
+        "answer": "D",
+        "answer_text": "Pacific University Forest Grove Campus",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_622.PNG",
+        "question": "How many reviews have been given for Murree Hotels and Murree restaurants? Options: (A) Cecil by Pearl Continental Hotels & Resorts (B) 8151 (C) 8153 (D) 8152",
+        "pid": "100",
+        "answer": "C",
+        "answer_text": "8153",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_605.PNG",
+        "question": "I am currently at Uttara Sector 3 Playground. What is the most budget-friendly 3-star hotel nearby? Options: (A) Hotel Heaven Inn Ltd. (B) Garden Residents Uttara - Lake View (C) HOTEL BLUE BIRD/হোটেল ব্লু-বার্ড (D) সি শেল রেসিডেন্স / Sea Shell Residence",
+        "pid": "101",
+        "answer": "B",
+        "answer_text": "Garden Residents Uttara - Lake View",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_312.PNG",
+        "question": "What is the neighboring bridge to the Tower of London? Options: (A) London bridge (B) tower bridge (C) London Tunnel (D) Tower of London",
+        "pid": "102",
+        "answer": "B",
+        "answer_text": "tower bridge",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_315.PNG",
+        "question": "Is there any Mountain marked with symbol on a map of USA? Options: (A) 見晴台 (B) Asama O-taki (Asama Great Falls) (C) Kanbara (D) Asamakakushiyama",
+        "pid": "103",
+        "answer": "D",
+        "answer_text": "Asamakakushiyama",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_304.PNG",
+        "question": "Based on the map, are there any Park located near the Great Barrier Reef marked with a green symbol? Options: (A) Pallon Beach (B) Mission Beach (C) Granadilla (D) Mount Mackay National Park",
+        "pid": "104",
+        "answer": "D",
+        "answer_text": "Mount Mackay National Park",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_604.PNG",
+        "question": "I'm at JBS Grand Sultan, feeling unwell, and need some medicine. What is a nearby pharmacy with a good rating that is open? Options: (A) United hospital pharmacy (B) Prescription Aid Pharmacy (C) Vatara (D) Tamanna Pharmacy",
+        "pid": "105",
+        "answer": "D",
+        "answer_text": "Tamanna Pharmacy",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1108.PNG",
+        "question": "Which restaurant is located between Andrássy út and Király u.? Options: (A) Hungarikum Bisztró (B) Gozsdu Court (C) Menza Étterem és Kávéház (D) Mazel Tov",
+        "pid": "106",
+        "answer": "C",
+        "answer_text": "Menza Étterem és Kávéház",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_617.PNG",
+        "question": "What type of institution is the Indian Institute of Management Calcutta? Options: (A) Management Institute (B) Business school (C) Private school (D) public  school",
+        "pid": "107",
+        "answer": "B",
+        "answer_text": "Business school",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_306.PNG",
+        "question": "Is there Golf Feild marked with green symbol on a map of USA? Options: (A) Fernhill Wetlands (B) Hillsboro Airport (C) Forest Hills Golf Course (D) Pacific University Forest Grove Campus",
+        "pid": "108",
+        "answer": "C",
+        "answer_text": "Forest Hills Golf Course",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_313.PNG",
+        "question": "Is there  any historical landmarks marked with a star symbol ? Options: (A) Jack The Ripper Museum (B) Tobacco Dock (C) Brunel Museum (D) St",
+        "pid": "109",
+        "answer": "B",
+        "answer_text": "Tobacco Dock",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_301.PNG",
+        "question": "Is there any Hospital marked with a star symbol on the tourist map of Rome? Options: (A) San Filippo Neri Hospital (B) Villa Valente (C) Hotel Relais Castrum Boccea (D) Amore - Boutique Roma d",
+        "pid": "110",
+        "answer": "A",
+        "answer_text": "San Filippo Neri Hospital",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_317.PNG",
+        "question": "What is the name of the park located near of  Wanzenöd? Options: (A) Freizeitpark Behamberg (B) Bürstmayrsiedlung (C) Egisachen (D) Schloss Lamberg Events",
+        "pid": "111",
+        "answer": "A",
+        "answer_text": "Freizeitpark Behamberg",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_626.PNG",
+        "question": "Which hotel is rated three stars? Options: (A) Gothic Rave Bar (B) Xoxo Lounge and Bar (C) Hotel Country Villa (D) Triple-Double Lounge & Bar",
+        "pid": "112",
+        "answer": "C",
+        "answer_text": "Hotel Country Villa",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_319.PNG",
+        "question": "Is there an Heritage museum marked with a symbol? If so, what is its name? Options: (A) Shadwell falcons (B) Kameluschi (C) طوي المره (D) Al",
+        "pid": "113",
+        "answer": "D",
+        "answer_text": "Al",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_1003.PNG",
+        "question": "Is there a university marked with a symbol? If so, what is the name of the university? Options: (A) Summer Palace (B) Shi Qi Kong Qiao (C) Peking University (D) 北京大学邱德拔体育馆",
+        "pid": "114",
+        "answer": "C",
+        "answer_text": "Peking University",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_608.PNG",
+        "question": "What are the opening hours of I ️Riyadh? Options: (A) 9am (B) Any time (C) 12am (D) 12pm",
+        "pid": "115",
+        "answer": "B",
+        "answer_text": "Any time",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_613.PNG",
+        "question": "What is the highest-rated Buddhist temple? Options: (A) Khomling Lhakhang (B) Gangyoe Community Temple (C) Moenlham Chenmo Pavilionསྨོན་ལམ་ཆེན་མོ་ཐང་། (D) Damche Lhakhang",
+        "pid": "116",
+        "answer": "B",
+        "answer_text": "Gangyoe Community Temple",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_603.PNG",
+        "question": "I am currently at Exposition Park, and I'm interested in visiting a museum. What is  the highest-rated and nearest museum ? Options: (A) USC Fisher Museum of Art (B) Figueroa Philly Cheese Steak (C) Natural History Museum of Los Angeles County (D) Hancock Memorial Museum",
+        "pid": "117",
+        "answer": "C",
+        "answer_text": "Natural History Museum of Los Angeles County",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_308.PNG",
+        "question": "Is there a Stadium depicted in the image? If so, what is the name of this Stadium? Options: (A) British Stadium (B) Victoria Park (C) City Spice - Voted Best Indian Restaurant Brick Lane (D) London Stadium",
+        "pid": "118",
+        "answer": "D",
+        "answer_text": "London Stadium",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_581.PNG",
+        "question": "I want to book the chipest hotel in Geneva near the ITU office. Suggest me the cheapest one. Options: (A) City Hostel Geneva (B) Hotel Mon Repos (C) Hotel Eden Geneve (D) Ibis Centres Geneva nations",
+        "pid": "119",
+        "answer": "A",
+        "answer_text": "City Hostel Geneva",
+        "category": "poi"
+    },
+    {
+        "image": "Vdata/ID_602.PNG",
+        "question": "Does Sushi Atsumi  offer delivery? Options: (A) No delivery (B) Yes Delivery (C) Some times Delivery (D) Cafe & Resturent",
+        "pid": "120",
+        "answer": "A",
+        "answer_text": "No delivery",
+        "category": "poi"
+    }
+]
