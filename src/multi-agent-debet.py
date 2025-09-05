@@ -13,7 +13,7 @@ from openai import AzureOpenAI
 # Initialize the Azure OpenAI client
 client = AzureOpenAI(
     azure_endpoint="https://qcri-llm-rag-3.openai.azure.com/",
-    api_key="DWz82Nv5Z7PJ35pcguMe4ofN6AlwCajliIKYfx9ap5mV1ynYvOOaJQQJ99BBACfhMk5XJ3w3AAABACOG3dIc",
+    api_key="",
     api_version="2024-05-01-preview",
     azure_deployment="gpt-35-turbo",
 )

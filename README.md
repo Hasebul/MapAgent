@@ -175,7 +175,7 @@ python run.py \
 If you find **MapAgent** useful for your research and applications, please kindly cite using this BibTeX:
 
 ```latex
-@article{lu2023chameleon,
+@article{mapagent,
   title={MapAgent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration},
   author={Hasan, Md Hasebul and Dihan, Mahir Labib and Ali, Mohammed Eunus and Parvez, Md Rizwan},
   journal={EMNLP 2025},
