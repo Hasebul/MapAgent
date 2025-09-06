@@ -1,12 +1,6 @@
 # MapAgent
 
 
-
-## 💥 News 💥
-
-- **[2025.05.19]** We submit our paper at [EMNLP 2025](https://2025.emnlp.org/). 
-
-
 ## About MapAgent
 
 **MapAgent** is ahierarchical multi-agent plug-and-play framework with customized toolsets and

@@ -478,67 +478,6 @@ def run_conversation(query):
 
     return messages
 
-    # Handle function calls
-    # if response_message.tool_calls:
-    #     with ThreadPoolExecutor(max_workers=5) as executor:
-    #             for tool_call in response_message.tool_calls:
-    #                 function_name = tool_call.function.name
-    #                 function_args = json.loads(tool_call.function.arguments)
-    #                 print(f"Function call: {function_name}")
-    #                 print(f"Function arguments: {function_args}")
-    #
-    #                 if function_name == "nearby_places":
-    #                     function_response = nearby_places(
-    #                         query=function_args.get("query"),
-    #                         location=function_args.get("location"),
-    #                         # region=function_args.get("region"),
-    #                         type=function_args.get("type")
-    #                     )
-    #
-    #                 elif function_name == "directions":
-    #                     function_response = directions(
-    #                         origin=function_args.get("origin"),
-    #                         destination=function_args.get("destination"),
-    #                         mode=function_args.get("mode"),
-    #                         waypoints=function_args.get("waypoints"),
-    #                         alternatives=function_args.get("alternatives")
-    #                     )
-    #
-    #                 elif function_name == "trip":
-    #                     function_response = trip(
-    #                         current_location=function_args.get("current_location"),
-    #                         visiting_places=function_args.get("visiting_places"),
-    #                         travel_mode=function_args.get("travel_mode"),
-    #                     )
-    #
-    #                 elif function_name == "get_place_info":
-    #                     function_response = get_place_info(
-    #                         location_address=function_args.get("location_address")
-    #                     )
-    #
-    #                 else:
-    #                     function_response = json.dumps({"error": "Unknown function"})
-    #
-    #                 # print(function_response)
-    #                 messages.append({
-    #                     "tool_call_id": tool_call.id,
-    #                     "role": "tool",
-    #                     "name": function_name,
-    #                     "content": function_response,
-    #                 })
-    # else:
-    #     print("No tool calls were made by the model.")
-    #
-    #     # Second API call: Get the final response from the model
-    # # final_response = client.chat.completions.create(
-    # #     model=deployment_name,
-    # #     messages=messages,
-    # # )
-    #
-    # # return final_response.choices[0].message.content
-    # return function_response
-
-
 if __name__ == "__main__":
     # print(run_conversation("I'm currently in Vancouver, BC, Canada and interested in outdoor activities. What is the nearest park or nature reserve in this area ?"))
     # print(get_place_info("Dhaka"))
