@@ -97,7 +97,6 @@ def get_place_info(location_address):
             'address': address,
             'rating': rating,
             'types': types,
-            'serves_beer': "YES" if place.get('serves_beer', False) else "NO",
             "serves_breakfast": "YES" if place.get("serves_breakfast", False) else "NO",
             "serves_brunch": "YES" if place.get("serves_brunch", False) else "NO",
             "serves_dinner": "YES" if place.get("serves_dinner", False) else "NO",
