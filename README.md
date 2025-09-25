@@ -172,7 +172,7 @@ If you find **MapAgent** useful for your research and applications, please kindl
 @article{mapagent,
   title={MapAgent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration},
   author={anonymous},
-  journal={EMNLP 2025},
+  journal={...},
   year={2025}
 }
 ```
