@@ -1,4 +1,4 @@
-# MapAgent
+# MapAgent (Accepted Findings of EACL 2026)
 
 
 ## About MapAgent
@@ -169,10 +169,12 @@ python run.py \
 If you find **MapAgent** useful for your research and applications, please kindly cite using this BibTeX:
 
 ```latex
-@article{mapagent,
-  title={MapAgent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration},
-  author={anonymous},
-  journal={...},
-  year={2025}
+@inproceedings{
+hasan2026mapagent,
+title={MapAgent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration},
+author={Md Hasebul Hasan and Mahir Labib Dihan and Tanzima Hashem and Mohammed Eunus Ali and Md Rizwan Parvez},
+booktitle={19th Conference of the European Chapter of the Association for Computational Linguistics},
+year={2026},
+url={https://openreview.net/forum?id=MJPWd96rrv}
 }
 ```
