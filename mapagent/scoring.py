@@ -1,15 +1,22 @@
 """Answer extraction, scoring and result aggregation.
 
-Scoring
--------
-* Multiple-choice questions (MapEval-API/Textual/Visual): the prediction is correct iff the selected option
-  (or "Unanswerable") is exactly the gold option, after whitespace/case normalisation.
-* Open-ended questions (MapQA): correct iff the extracted answer equals the gold answer after normalisation,
-  contains it as a whole phrase, or - when the gold answer is a quantity such as "21694.66 meters" - is within
-  a relative tolerance of it (5% by default) after unit conversion.
+Scoring protocol
+----------------
+Similarity is fuzzywuzzy's ``fuzz.ratio`` (difflib implementation) on case- and whitespace-normalised text, divided
+by 100. A prediction is correct when:
 
-``legacy_fuzzy=True`` reproduces the scorer of the original release (fuzzy string similarity >= 30%). That scorer
-accepts about half of the *wrong* MapEval options as correct, so use it only to compare with older numbers.
+* Multiple choice (MapEval-API/Textual/Visual): the prediction is resolved to an option - the option it equals,
+  otherwise the single most similar option if the similarity is at least ``fuzzy_threshold`` (0.9 by default;
+  "Unanswerable" counts as an option) - and that option is the gold option. Because the prediction is matched to its
+  *closest* option, a wrong option that is 90% similar to the gold one ("1 hour 3 mins" vs "1 hour 5 mins") is never
+  accepted.
+* Open-ended (MapQA): the extracted answer equals the gold answer after normalisation, contains it as a whole phrase,
+  or is at least ``fuzzy_threshold`` similar to it with the same numbers; quantities such as "21694.66 meters" are
+  compared numerically (5% relative tolerance after unit conversion).
+
+Predictions that cannot be parsed and questions that failed count as wrong. ``legacy_fuzzy=True`` reproduces the
+scorer of the first release (commit a82eedc: ``fuzz.ratio >= 30`` against the gold text), which accepts about half
+of the wrong MapEval options; use it only to compare with older numbers.
 """
 
 from __future__ import annotations
@@ -23,7 +30,8 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 OPTION_LETTERS = "ABCDEFGH"
 UNANSWERABLE = "Unanswerable"
 LEGACY_FALLBACK_PREDICTION = "Not able to answer the question"
-LEGACY_FUZZY_THRESHOLD = 30
+LEGACY_FUZZY_THRESHOLD = 30  # percent, as in the first release
+DEFAULT_FUZZY_THRESHOLD = 0.9
 DEFAULT_NUMERIC_TOLERANCE = 0.05
 
 # ----------------------------------------------------------------------------- formatting
@@ -154,9 +162,36 @@ def _parse_quantity(text: str, full: bool = False) -> Optional[Tuple[float, Opti
     return number, (_UNIT_FACTORS[unit] if unit else None)
 
 
-def _score_open(prediction: str, gold: str, tolerance: float) -> bool:
+def similarity(a: Any, b: Any) -> float:
+    """fuzzywuzzy ``fuzz.ratio(a, b) / 100`` on normalised text (1.0 for identical strings)."""
+    a, b = normalize_text(a), normalize_text(b)
+    if a == b:
+        return 1.0
+    if not a or not b:
+        return 0.0
+    return int(round(100 * SequenceMatcher(None, a, b).ratio())) / 100.0
+
+
+def match_option(prediction: Optional[str], choices: Sequence[str], threshold: float = DEFAULT_FUZZY_THRESHOLD) -> Optional[str]:
+    """The option a prediction refers to: an exact (normalised) match, otherwise the single most similar option
+    if its similarity is at least ``threshold``. "Unanswerable" is treated as an extra option."""
+    if prediction is None:
+        return None
+    options = [str(c) for c in choices if str(c).strip()] + [UNANSWERABLE]
+    target = normalize_text(prediction)
+    for option in options:
+        if normalize_text(option) == target:
+            return option
+    scored = sorted(((similarity(prediction, option), index) for index, option in enumerate(options)), reverse=True)
+    best, index = scored[0]
+    if best < threshold or (len(scored) > 1 and scored[1][0] == best):  # too far, or ambiguous
+        return None
+    return options[index]
+
+
+def _score_open(prediction: str, gold: str, tolerance: float, fuzzy_threshold: float) -> bool:
     gold_quantity = _parse_quantity(gold, full=True)
-    if gold_quantity is not None:
+    if gold_quantity is not None:  # numbers are never fuzzily matched
         predicted = _parse_quantity(prediction)
         if predicted is None:
             return False
@@ -171,7 +206,10 @@ def _score_open(prediction: str, gold: str, tolerance: float) -> bool:
         return False
     if gold_norm == pred_norm:
         return True
-    return re.search(rf"(?<!\w){re.escape(gold_norm)}(?!\w)", pred_norm) is not None
+    if re.search(rf"(?<!\w){re.escape(gold_norm)}(?!\w)", pred_norm):
+        return True
+    same_numbers = re.findall(r"\d+", gold_norm) == re.findall(r"\d+", pred_norm)
+    return same_numbers and similarity(gold_norm, pred_norm) >= fuzzy_threshold
 
 
 def legacy_fuzzy_equal(prediction: Optional[str], gold: Any, threshold: int = LEGACY_FUZZY_THRESHOLD) -> bool:
@@ -190,9 +228,12 @@ def score_prediction(
     gold: Any,
     *,
     open_ended: bool,
+    choices: Optional[Sequence[str]] = None,
+    fuzzy_threshold: float = DEFAULT_FUZZY_THRESHOLD,
     legacy_fuzzy: bool = False,
     numeric_tolerance: float = DEFAULT_NUMERIC_TOLERANCE,
 ) -> bool:
+    """Apply the scoring protocol described in the module docstring."""
     if gold is None:
         return False
     if legacy_fuzzy:
@@ -200,8 +241,11 @@ def score_prediction(
     if prediction is None:
         return False
     if open_ended:
-        return _score_open(str(prediction), str(gold), numeric_tolerance)
-    return normalize_text(prediction) == normalize_text(gold)
+        return _score_open(str(prediction), str(gold), numeric_tolerance, fuzzy_threshold)
+    if choices:
+        option = match_option(prediction, choices, fuzzy_threshold)
+        return option is not None and normalize_text(option) == normalize_text(gold)
+    return normalize_text(prediction) == normalize_text(gold) or similarity(prediction, gold) >= fuzzy_threshold
 
 
 # ----------------------------------------------------------------------------- result files
@@ -239,21 +283,37 @@ def summarize(
     *,
     task_order: Optional[Sequence[str]] = None,
     display_names: Optional[Dict[str, str]] = None,
+    expected: Optional[Dict[str, Sequence[str]]] = None,
+    fuzzy_threshold: float = DEFAULT_FUZZY_THRESHOLD,
     legacy_fuzzy: bool = False,
     numeric_tolerance: float = DEFAULT_NUMERIC_TOLERANCE,
 ) -> Dict[str, Any]:
-    """Accuracy per task, overall (micro) and macro accuracy, and average cost per query."""
+    """Accuracy per task, overall (micro-averaged over questions) and macro accuracy, and average cost per query.
+
+    ``expected`` maps each task to the question IDs the run was supposed to answer (``manifest.json``); questions
+    without a record are counted as wrong, so the denominator is always the full question set.
+    """
     display_names = display_names or {}
     buckets: "OrderedDict[str, Dict[str, Any]]" = OrderedDict()
+
+    def bucket_for(task: str) -> Dict[str, Any]:
+        return buckets.setdefault(
+            task, {"n": 0, "correct": 0, "errors": 0, "missing": 0, "time_sec": 0.0, **{f: 0 for f in _COST_FIELDS}}
+        )
+
+    seen = set()
     for record in records:
         task = record.get("task") or "all"
-        bucket = buckets.setdefault(task, {"n": 0, "correct": 0, "errors": 0, "time_sec": 0.0, **{f: 0 for f in _COST_FIELDS}})
+        seen.add((task, str(record.get("pid"))))
+        bucket = bucket_for(task)
         bucket["n"] += 1
         bucket["correct"] += int(
             score_prediction(
                 record.get("prediction"),
                 record.get("gold"),
                 open_ended=bool(record.get("open_ended")),
+                choices=record.get("choices"),
+                fuzzy_threshold=fuzzy_threshold,
                 legacy_fuzzy=legacy_fuzzy,
                 numeric_tolerance=numeric_tolerance,
             )
@@ -263,6 +323,12 @@ def summarize(
         usage = record.get("usage") or {}
         for field_name in _COST_FIELDS:
             bucket[field_name] += int(usage.get(field_name) or 0)
+    for task, pids in (expected or {}).items():
+        for pid in pids:
+            if (task, str(pid)) not in seen:
+                bucket = bucket_for(task)
+                bucket["n"] += 1
+                bucket["missing"] += 1
 
     order = [t for t in (task_order or []) if t in buckets] + sorted(t for t in buckets if t not in (task_order or []))
     tasks = OrderedDict()
@@ -275,11 +341,13 @@ def summarize(
             "correct": bucket["correct"],
             "accuracy": 100.0 * bucket["correct"] / n if n else 0.0,
             "errors": bucket["errors"],
+            "missing": bucket["missing"],
         }
     total = sum(b["n"] for b in buckets.values())
+    answered = total - sum(b["missing"] for b in buckets.values())
     correct = sum(b["correct"] for b in buckets.values())
     cost = {
-        f"avg_{name}": (sum(b[name] for b in buckets.values()) / total if total else 0.0)
+        f"avg_{name}": (sum(b[name] for b in buckets.values()) / answered if answered else 0.0)
         for name in (*_COST_FIELDS, "time_sec")
     }
     return {
@@ -289,8 +357,13 @@ def summarize(
         "overall_accuracy": 100.0 * correct / total if total else 0.0,
         "macro_accuracy": (sum(t["accuracy"] for t in tasks.values()) / len(tasks)) if tasks else 0.0,
         "errors": sum(b["errors"] for b in buckets.values()),
+        "missing": sum(b["missing"] for b in buckets.values()),
         "cost": cost,
-        "scoring": "legacy_fuzzy" if legacy_fuzzy else "strict",
+        "scoring": (
+            f"legacy fuzzy (ratio >= {LEGACY_FUZZY_THRESHOLD / 100:.2f}, first release)"
+            if legacy_fuzzy
+            else f"option match, fuzzy threshold {fuzzy_threshold:.2f}"
+        ),
     }
 
 
@@ -307,7 +380,7 @@ def format_summary(summary: Dict[str, Any]) -> str:
         "| " + " | ".join(["Correct / N"] + counts) + " |",
         "",
         f"Macro accuracy: {summary['macro_accuracy']:.2f}%  |  scoring: {summary['scoring']}  |  "
-        f"examples with errors: {summary['errors']}",
+        f"questions with errors: {summary['errors']}  |  missing (counted as wrong): {summary.get('missing', 0)}",
     ]
     cost = summary["cost"]
     lines.append(

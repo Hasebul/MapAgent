@@ -176,3 +176,27 @@ def test_fatal_errors_abort_the_run(tmp_path):
     with pytest.raises(SystemExit, match="Aborting"):
         run.main(["--benchmark", "mapeval_api", "--tasks", "nearby", "--limit", "1", "--output_dir", str(tmp_path)],
                  llm=llm, maps=MapsClient(usage=llm.usage, gmaps_client=DeniedMaps()))
+
+
+def test_run_provenance_manifest_and_missing_questions(tmp_path, capsys):
+    _run(tmp_path, "--benchmark", "mapeval_api", "--tasks", "poi", "--limit", "3")
+    run_dir = next((tmp_path / "mapeval_api").iterdir())
+    config = json.loads((run_dir / "config.json").read_text())
+    assert set(config["models"]) == {"planner", "visual_place_recognizer", "map_agent", "sequencer",
+                                     "solution_generator", "answer_generator"}
+    assert "git_revision" in config and config["endpoint"] and config["provider"] == "openai"
+    assert not str(config["arguments"]["datasets_root"]).startswith("/")  # no user paths in shared files
+    manifest = json.loads((run_dir / "manifest.json").read_text())
+    assert manifest["questions"]["poi"] == ["1", "2", "3"]
+    assert manifest["selection"]["poi"]["split"] == "all"
+
+    # drop one result: evaluate.py still divides by the 3 questions of the manifest
+    results = run_dir / "poi.jsonl"
+    lines = results.read_text().splitlines()
+    results.write_text("\n".join(lines[:2]) + "\n")
+    out = tmp_path / "eval.json"
+    assert evaluate.main([str(run_dir), "--output", str(out)]) == 0
+    summary = json.loads(out.read_text())[str(run_dir)]
+    assert summary["n"] == 3 and summary["missing"] == 1
+    assert evaluate.main([str(run_dir), "--ignore_missing", "--output", str(out)]) == 0
+    assert json.loads(out.read_text())[str(run_dir)]["n"] == 2

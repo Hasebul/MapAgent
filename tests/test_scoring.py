@@ -128,3 +128,47 @@ def test_summarize():
     assert summary["overall_accuracy"] == pytest.approx(50.0)
     assert summary["macro_accuracy"] == pytest.approx(50.0)
     assert summary["cost"]["avg_llm_calls"] == pytest.approx(3.0)
+
+
+def test_fuzzy_threshold_is_point_nine_and_never_accepts_a_closer_wrong_option():
+    from mapagent.scoring import DEFAULT_FUZZY_THRESHOLD, match_option, similarity
+
+    assert DEFAULT_FUZZY_THRESHOLD == 0.9
+    choices = ["1 hour 3 mins", "1 hour 5 mins", "1 hour 7 mins"]
+    assert similarity("1 hour 3 mins", "1 hour 5 mins") >= 0.9  # a naive fuzzy scorer would accept it
+    assert not score_prediction("1 hour 3 mins", "1 hour 5 mins", open_ended=False, choices=choices)
+    assert score_prediction("1 hour 5 mins", "1 hour 5 mins", open_ended=False, choices=choices)
+    # free-text predictions are matched to their closest option
+    places = ["Kelburn Park", "Kelburn Parkway", "Te Papa"]
+    assert match_option("Kelburn Prk", places) == "Kelburn Park"
+    assert score_prediction("Kelburn Prk", "Kelburn Park", open_ended=False, choices=places)
+    assert match_option("Te Papa museum and gallery", places) is None  # below 0.9
+    assert match_option("Unanswerable.", places) == UNANSWERABLE
+    # ties are ambiguous
+    assert match_option("AB", ["AC", "AD"], threshold=0.5) is None
+    # without the option list, plain fuzzy matching at 0.9
+    assert score_prediction("Howth Castle.", "Howth Castle", open_ended=False)
+    assert not score_prediction("Mary Castle", "Howth Castle", open_ended=False)
+    assert not score_prediction("1 hour 3 mins", "1 hour 5 mins", open_ended=False, fuzzy_threshold=0.95)
+
+
+@pytest.mark.parametrize(
+    "prediction, gold, expected",
+    [
+        ("Kernvile Cowork", "Kernville Cowork", True),  # spelling variant, similarity 0.97
+        ("Building 12", "Building 13", False),  # different numbers are never fuzzily matched
+        ("1200 meters", "1300 meters", False),  # quantities are compared numerically
+        ("Scout Coffee", "Kernville Cowork", False),
+    ],
+)
+def test_open_ended_fuzzy(prediction, gold, expected):
+    assert score_prediction(prediction, gold, open_ended=True) is expected
+
+
+def test_missing_questions_count_as_wrong():
+    records = [{"task": "poi", "pid": "1", "prediction": "A", "gold": "A", "choices": ["A", "B"]}]
+    summary = summarize(records, expected={"poi": ["1", "2"], "trip": ["5"]})
+    assert summary["n"] == 3 and summary["correct"] == 1 and summary["missing"] == 2
+    assert summary["tasks"]["poi"]["accuracy"] == pytest.approx(50.0)
+    assert summary["tasks"]["trip"]["accuracy"] == 0.0
+    assert summary["overall_accuracy"] == pytest.approx(100 / 3)

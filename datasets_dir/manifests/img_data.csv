@@ -1,0 +1,401 @@
+task,pid,category,answer,num_options,splits,evaluated,note,question_sha1
+poi,1,poi,City Spice - Voted Best Indian Restaurant Brick Lane,4,minitest,yes,,989dd88b27bf
+poi,2,poi,Mandarin Oriental,4,minitest,yes,,1e4120a40cbb
+poi,3,poi,ADNOC Service Station,4,minitest|test,yes,,193a0be3a2cf
+poi,4,poi,Gulshan Shooting Club (Convention Hall),4,minitest|test,yes,,341bde496272
+poi,5,poi,Murree Hotels Murree,4,minitest,yes,,47162fe04604
+poi,6,poi,Mount Akagi,4,minitest,yes,,36f3f8281066
+poi,7,poi,Legacy Knoll Neighborhood Park,4,minitest,yes,,be7e9d82403e
+poi,8,poi,St,4,minitest,yes,,5c3f31e143e8
+poi,9,poi,Pelri Cottages,4,minitest,yes,,3a8cf72db665
+poi,10,poi,Al Bahia Healthcare Center مركز الباهية الصحي,4,minitest|test,yes,,585dbbce95b5
+poi,11,poi,HBL ATM,4,minitest,yes,,58f8e6a4dec7
+poi,12,poi,The British Library,4,minitest,yes,,387555bb4cdf
+poi,13,poi,Star Kabab & Restaurant,4,minitest,yes,,a681b76c047f
+poi,14,poi,Dhaba 2 Khulna.,4,minitest,yes,,90bf290590b0
+poi,15,poi,Indian restaurant,4,minitest,yes,,56703a607e80
+poi,16,poi,Al Sahabah,4,minitest,yes,,3d1226113782
+poi,17,poi,cafe & restaurant ａ２４,4,minitest,yes,,cb038ac08d69
+poi,18,poi,Sierra Leone Grammar School,4,minitest,yes,,f166299456d6
+poi,19,poi,Grand Palace Hotel,4,minitest|test,yes,,00a2296519a3
+poi,20,poi,Christinchen,4,minitest|test,yes,,fa0a6c378c84
+poi,21,poi,Mom & Baby Shop,4,minitest|test,yes,,055b1eab09b9
+poi,22,poi,United hospital pharmacy,4,minitest|test,yes,,e557ea1866ea
+poi,23,poi,Szabadság tér,4,minitest|test,yes,,6ec65763704c
+poi,24,poi,Uhrskov Vinhadel,4,minitest,yes,,0321f99868c2
+poi,25,poi,2868,4,minitest,yes,,d3907ca7025e
+poi,26,poi,Shadwell falcons,4,minitest,yes,,1edd475d6620
+poi,27,poi,Taz Garden House,4,minitest,yes,,9a7f471262bf
+poi,28,poi,Empty Sky Memorial,4,minitest,yes,,3b7572a6ba85
+poi,29,poi,domestic airport,4,minitest,yes,,d50366594fc6
+poi,30,poi,Orsini-Odescalchi Castle,4,minitest,yes,,6f2d95aad582
+poi,31,poi,Saltbae Burger Istambul Airport,4,minitest,yes,,e355d3c993e9
+poi,32,poi,Hancock Memorial Museum,4,minitest,yes,,9068d05c70a4
+poi,33,poi,West Bengal,4,minitest,yes,,41be8fcc12df
+poi,34,poi,Museum of Islamic Art,4,minitest,yes,,1cb84baf89c5
+poi,35,poi,Natural History Museum of Los Angeles County,4,minitest,yes,,4d2ce57fd565
+poi,36,poi,Dogs allowed,4,minitest,yes,,b236e21b562b
+poi,37,poi,12pm,4,minitest,yes,,318b465fdb81
+poi,38,poi,TANVEER HOTEL,4,minitest,yes,,1cc8fca6cd7e
+poi,39,poi,Hotel Country Villa,4,minitest,yes,,e97f7f5d77b3
+poi,40,poi,Karuizawa Toy Kingdom,4,minitest,yes,,a8855ea3a9c2
+poi,41,poi,NOZOMI Riyadh,4,minitest,yes,,ab712dbdf34d
+poi,42,poi,99,4,minitest,yes,,d64b70535541
+poi,43,poi,Museum of Tolerance,4,minitest|test,yes,,1149c5320331
+poi,44,poi,Tabrezian restaurant,4,minitest,yes,,fcb99090e4d7
+poi,45,poi,New Sozo Adventure Park Murree Pakistan,4,minitest,yes,,349b43176df0
+poi,46,poi,Ramsa,4,minitest,yes,,86452e91bc7a
+poi,47,poi,20°C,4,minitest,yes,,ef10e72e2c72
+poi,48,poi,Fraser Suites Doha,4,minitest,yes,,425c434f838d
+poi,49,poi,Hotel Khamsum,4,minitest,yes,,f95cb3ab1807
+poi,50,poi,Monument to the Great Fire of London,4,minitest|test,yes,,7675169b0912
+poi,51,poi,St Johannes,4,minitest,yes,,141d9301648d
+poi,52,poi,Brunel Museum,4,minitest,yes,,5c450bccee9c
+poi,53,poi,Hillsboro Airport,4,minitest,yes,,e33c53f3d887
+poi,54,poi,Toli Peer,4,minitest,yes,,43e41135e91b
+poi,55,poi,National Bank Atm,4,minitest,yes,,2cb88bf7bdc4
+poi,56,poi,Shahjahan Garden,4,minitest|test,yes,,6575f33ccd12
+poi,57,poi,Costco Wholesale,4,minitest,yes,,7739928532a2
+poi,58,poi,Sayeman Beach Resort,4,minitest,yes,,ea98ede8377f
+poi,59,poi,The Corridor Cafe,4,minitest,yes,,47c4f8c6f584
+poi,60,poi,Gulshan Central Masjid,4,minitest,yes,,a1e93f12e9a6
+poi,61,poi,60,4,minitest,yes,,7ed4b1ea3b9f
+poi,62,poi,Open 24 hours,4,minitest,yes,,c3d9cc7dafe7
+poi,63,poi,Tourist attraction,4,minitest,yes,,756cf9e1c1cb
+poi,64,poi,"Currently open, closing at 9 PM",4,minitest,yes,,5fafb1a78f53
+poi,65,poi,Pizzeria Gina,4,minitest,yes,,d56e9c8a939f
+poi,66,poi,International Medical College & Hospital,4,minitest|test,yes,,e81adcd9fbf7
+poi,67,poi,8,4,minitest|test,yes,,fe02abf43a75
+poi,68,poi,Askari Bank,4,minitest,yes,,79eefcd7f841
+poi,69,poi,Alserkal Avenue,4,minitest|test,yes,,7c6883ce69e2
+poi,70,poi,McMenamins Grand Lodge,4,minitest,yes,,4f91d0961aeb
+poi,71,poi,Petřínské sady,4,minitest,yes,,a4ce1bee1a4e
+poi,72,poi,"Ferrari World Yas Island, Abu Dhabi",4,minitest,yes,,faf63742575c
+poi,73,poi,Century Hotel Doha,4,minitest,yes,,425c434f838d
+poi,74,poi,Emirates Park,4,minitest,yes,,1d1b110c011e
+poi,75,poi,مركز الحمد الطبى,4,minitest,yes,,531373dd59a2
+poi,76,poi,Maxus,4,minitest,yes,,52a963b886c4
+poi,77,poi,Murree Hotels Murree,4,minitest|test,yes,,f428df54089c
+poi,78,poi,Summer Palace,4,minitest,yes,,a1e7eee73d36
+poi,79,poi,The Cross Fit Narayanganj,4,minitest|test,yes,,ff3fa8b63639
+poi,80,poi,Xstrike,4,minitest|test,yes,,565756e9c126
+poi,81,poi,Bin Safwan,4,minitest,yes,,06fa6e191a88
+poi,82,poi,5736,4,minitest|test,yes,,506bc5786b2c
+poi,83,poi,Knockdown Center,4,minitest,yes,,021a18e8144d
+poi,84,poi,Um,4,minitest,yes,,9a7b49fd5a86
+poi,85,poi,Korakendra Dome 2,4,minitest,yes,,0c249358c260
+poi,86,poi,Schloss Lamberg Events,4,minitest|test,yes,,69cfe48c0608
+poi,87,poi,Buffels River,4,minitest,yes,,fc75c2edc33f
+poi,88,poi,Aqua Hotel,4,minitest,yes,,7adf17fe3e5f
+poi,89,poi,7am,4,minitest,yes,,16c8b7287f4d
+poi,90,poi,Narayanganj Garments,4,minitest|test,yes,,47797e505787
+poi,91,poi,Elsewhere,4,minitest|test,yes,,fa1f4a359b96
+poi,92,poi,Whipps Cross University Hospital,4,minitest,yes,,3744925ac3a5
+poi,93,poi,Barclays Center,4,minitest,yes,,6d9a90988571
+poi,94,poi,Kameluschi,4,minitest|test,yes,,cbb4037e2435
+poi,95,poi,No delivery,4,minitest,yes,,288e7b474768
+poi,96,poi,Tabrezian restaurant,4,minitest,yes,,0baede027037
+poi,97,poi,Museum Arbeitswelt Steyr,4,minitest,yes,,3229a26e66b7
+poi,98,poi,সি শেল রেসিডেন্স / Sea Shell Residence,4,minitest|test,yes,,4a4e4d28ea7c
+poi,99,poi,বীর মুক্তিযোদ্ধা মাষ্টার তৈয়ব\n আলী স্মৃতি গ্রন্থাগার,4,minitest,yes,,1be76e6fea44
+poi,100,poi,Pacific University Forest Grove Campus,4,minitest,yes,,fcd2cc182c15
+poi,101,poi,8153,4,minitest,yes,,122f572ea66b
+poi,102,poi,Garden Residents Uttara - Lake View,4,minitest|test,yes,,5f2ff1e5c6ea
+poi,103,poi,tower bridge,4,minitest,yes,,d30633845d9e
+poi,104,poi,Asamakakushiyama,4,minitest,yes,,a49a13385094
+poi,105,poi,Mount Mackay National Park,4,minitest,yes,,9ba2d2e5bfc7
+poi,106,poi,Tamanna Pharmacy,4,minitest,yes,,f63e46906328
+poi,107,poi,Menza Étterem és Kávéház,4,minitest,yes,,20f86e2107a7
+poi,108,poi,Business school,4,minitest,yes,,6229b7e62221
+poi,109,poi,Forest Hills Golf Course,4,minitest,yes,,dcc5b5c6aaf0
+poi,110,poi,Tobacco Dock,4,minitest,yes,,7675169b0912
+poi,111,poi,San Filippo Neri Hospital,4,minitest,yes,,9cd9a702b803
+poi,112,poi,Freizeitpark Behamberg,4,minitest,yes,,a787dee704a0
+poi,113,poi,Hotel Country Villa,4,minitest,yes,,8af45cd4d3dc
+poi,114,poi,Al,4,minitest,yes,,3e94340d204d
+poi,115,poi,Peking University,4,minitest,yes,,ea9f0a5f810e
+poi,116,poi,Any time,4,minitest,yes,,4c33f3227b00
+poi,117,poi,Gangyoe Community Temple,4,minitest,yes,,17ae869270f5
+poi,118,poi,Natural History Museum of Los Angeles County,4,minitest,yes,,33f3556e943d
+poi,119,poi,London Stadium,4,minitest,yes,,8aefd9036d0a
+poi,120,poi,City Hostel Geneva,4,minitest,yes,,336ca02ccc7b
+poi,121,poi,No delivery,4,minitest,yes,,366a12390b1c
+nearby,1,nearby,Al Ihsan Jame Mosque,4,minitest,yes,,f125a244a587
+nearby,2,nearby,Comfort Lodge,4,minitest,yes,,a077424dc1d4
+nearby,3,nearby,US-Bangla Airlines Mohammadpur Outlet,4,minitest,yes,,89d09e51a9af
+nearby,4,nearby,"Adolf Fredriks Forsamling' ""St Peter's Church"" 'City Church",2,minitest,yes,,ec32d06fcc15
+nearby,5,nearby,Howth Castle,4,minitest,yes,,441b948ed4f7
+nearby,6,nearby,ТЦ Мини Молл,4,minitest,yes,,8e84691f4a92
+nearby,7,nearby,গোমা বাজার জামে মসজিদ,4,minitest,yes,,dde901857d49
+nearby,8,nearby,Tobala L1,4,minitest,yes,,9148430ff1bc
+nearby,9,nearby,Monroe College,4,minitest|test,yes,,c13a02ee157f
+nearby,10,nearby,Dum Dum Municipal Specialized Hospital and Cancer Research Center,4,minitest|test,yes,,a0901ab4c41e
+nearby,11,nearby,"Meghpunji Resort, Sajek",4,minitest|test,yes,,e53a84ee0b2e
+nearby,12,nearby,Blaak,4,minitest|test,yes,,13457d02539c
+nearby,13,nearby,Gharrafat Al Rayyan Health Center \u200e مركز غرافة الريان الصحي,4,minitest,yes,,f89e8a4d03b6
+nearby,14,nearby,Westminster Bridge,4,minitest,yes,,a720c63bcd5c
+nearby,15,nearby,Hungerford Bridge and Golden Jubilee Bridges,4,minitest|test,yes,,51864f357e6a
+nearby,16,nearby,Le Super Qualité,2,minitest,yes,,30aad86d7b6c
+nearby,17,nearby,Masjid Zahir,4,minitest,yes,,778da948ac61
+nearby,18,nearby,Tea Connection,4,minitest|test,yes,,4c526461cd5a
+nearby,19,nearby,Panzerarena,4,minitest,yes,,f0fa27fb67b7
+nearby,20,nearby,secret pool,4,minitest|test,yes,,ede65be47aad
+nearby,21,nearby,Jade Restaurant,4,minitest|test,yes,,ff56cb30665e
+nearby,22,nearby,Flavors,4,minitest,yes,,de8485af14de
+nearby,23,nearby,NBM Bank ATM,4,minitest,yes,,7204ac64bd9a
+nearby,24,nearby,YoPlug,4,minitest|test,yes,,3f2bddb6906b
+nearby,25,nearby,Abgeordnetenkammer,4,minitest|test,yes,,4191530744e0
+nearby,26,nearby,Ordination Dr. Sabine Hackl,4,minitest,yes,,1900c78edeb1
+nearby,27,nearby,PJC Jean Coutu Santé,4,minitest,yes,,84631714de3e
+nearby,28,nearby,চৌমাথা বাজার,4,minitest|test,yes,,e67aed15f92c
+nearby,29,nearby,Masjid Mohammad Iskandar Wan Tempawan,4,minitest|test,yes,,6a33a018d405
+nearby,30,nearby,Hotel Happy Tree,4,minitest,yes,,52e84ca58caf
+nearby,31,nearby,Hotel Omni Mont-Royal,4,minitest,yes,,4b0db44662bb
+nearby,32,nearby,Bilpar Play Ground,4,minitest,yes,,e45517216dda
+nearby,33,nearby,Al Thumama Health Center,4,minitest,yes,,f3de1cb3d851
+nearby,34,nearby,The Cotton House,4,minitest,yes,,aadf977546a3
+nearby,35,nearby,Wat Sa Thale,4,minitest|test,yes,,acd126cf7263
+nearby,36,nearby,Comfort Hotel Bergen,4,minitest|test,yes,,6c85e5ab5af9
+nearby,37,nearby,The Mermaids Tail,4,minitest|test,yes,,234b4244b152
+nearby,38,nearby,Fordham University,4,minitest,yes,,25d7b60e5e1f
+nearby,39,nearby,Darianagar Sea View Park,4,minitest|test,yes,,697a44bde86a
+nearby,40,nearby,The Usual Rotterdam,4,minitest,yes,,f27092df4fd0
+nearby,41,nearby,Mollah hotel & restaurant,4,minitest,yes,,5a2cf645b8a4
+nearby,42,nearby,Archaeological Crypt,4,minitest|test,yes,,4c37a8fd7b13
+nearby,43,nearby,Gharrafat Al Rayyan Health Center \u200e مركز غرافة الريان الصحي,4,minitest,yes,,517347fe56e5
+nearby,44,nearby,Honeymoon Cottage,4,minitest,yes,,4aa707b05534
+nearby,45,nearby,Unitropico,4,minitest|test,yes,,17bf802e12e1
+nearby,46,nearby,Yam Hotel,4,minitest,yes,,c0ec6eb40463
+nearby,47,nearby,"Cleopatra's Needle"" 'The National Gallery",3,minitest,yes,,84c2268a2738
+nearby,48,nearby,Green Life Medical College Hospital,4,minitest,yes,,97b55b46be07
+nearby,49,nearby,Car Museum,4,minitest|test,yes,,58af69d91788
+nearby,50,nearby,Grand River View Hotel,4,minitest|test,yes,,1cbbd4ed26bb
+nearby,51,nearby,Medzy,4,minitest,yes,,392c95eab090
+nearby,52,nearby,Beijing tourism hub,4,minitest,yes,,52d7dddd23ad
+nearby,53,nearby,McDonald’s,4,minitest,yes,,7c80f4360efc
+nearby,54,nearby,Hamad International Airport,4,minitest|test,yes,,1a906a9d0e5e
+nearby,55,nearby,오륙도 해맞이공원,4,minitest,yes,,cd467ecb184b
+nearby,56,nearby,Circle Stone,4,minitest|test,yes,,45aefa10f6e2
+nearby,57,nearby,Ordination Dr. Sabine Hackl,4,minitest|test,yes,,db880f0e8b06
+nearby,58,nearby,فندق هورايزون مانور,4,minitest,yes,,fa081bffe542
+nearby,59,nearby,Hook Line & Srinker,4,minitest|test,yes,,77247ceb0a95
+nearby,60,nearby,Fontaine aux colombes,4,minitest|test,yes,,30a1bb344a4d
+nearby,61,nearby,Bogura Online Book Shop,4,minitest,yes,,6f83e2963073
+nearby,62,nearby,Mr. Bento Burger,4,minitest,yes,,9a77e8039016
+nearby,63,nearby,Przedszkole No. 199,4,minitest|test,yes,,02a518a5ea3d
+nearby,64,nearby,Neto Santa Maria 9058,4,minitest,yes,,3974f17e2cf7
+nearby,65,nearby,Nhà Thờ Kon Rơ Bang,4,minitest|test,yes,,fa4af1bc5d4d
+nearby,66,nearby,Fontaine aux colombes,4,minitest,yes,,b494178dfaef
+nearby,67,nearby,Wat Ban Khao Hin Kling,4,minitest,yes,,7fc9c98658f9
+nearby,68,nearby,Restauracja Locale,4,minitest,yes,,4d09222b9205
+nearby,69,nearby,McIntyre Medical Science Building - Lower Entrance,4,minitest|test,yes,,3c3a658076e5
+nearby,70,nearby,Mandarin Oriental,4,minitest|test,yes,,31d3c359f054
+nearby,71,nearby,Uttara 4 Sector Jame Masjid,4,minitest,yes,,f12a298fda9d
+nearby,72,nearby,গোমা বাজার জামে মসজিদ,4,minitest,yes,,12a9d87c7d43
+nearby,73,nearby,Cora Breakfast and Lunch,4,minitest|test,yes,,fc2c80746edc
+nearby,74,nearby,Lidl,4,minitest,yes,,18e23bdccd47
+nearby,75,nearby,Juhana Herttuan kellari,3,minitest|test,yes,,134cff0be71b
+nearby,76,nearby,Waterloo Bridge,4,minitest,yes,,18056caf1279
+nearby,77,nearby,Hotel Seasons,4,minitest|test,yes,,b1473047db71
+nearby,78,nearby,Honeymoon Cottage,4,minitest|test,yes,,165e07045ddb
+nearby,79,nearby,Du Roi Cafe & Restaurant,4,minitest|test,yes,,c2c49eccfa83
+nearby,80,nearby,"Copper River Restaurant & Bar' ""BJ's Restaurant & Brewhouse"" 'Mr. Bento Burger",2,minitest,yes,,eb6bbf56afc6
+nearby,81,nearby,Kossuth,4,minitest,yes,,9c5d8e44ddca
+nearby,82,nearby,Tea Time Karthiyath,4,minitest,yes,,f58bab9f995e
+nearby,83,nearby,Wilshire Park,4,minitest,yes,,2e25b8f5f61b
+nearby,84,nearby,THALASSO HOTEL & Spa,4,minitest,yes,,78702a6d03b3
+nearby,85,nearby,Salle Saint-Georges,4,minitest|test,yes,,6c1506fc4d88
+nearby,86,nearby,Luxembourg City History Museum,4,minitest,yes,,944c20b2b6dc
+nearby,87,nearby,Duanmen,4,minitest,yes,,bda77ec66d83
+nearby,88,nearby,Brainware University,4,minitest|test,yes,,65209677f94a
+nearby,89,nearby,Møllegrillen Herning,4,minitest,yes,,78a26a4cfa31
+nearby,90,nearby,Peerless Hospital,4,minitest,yes,,db762a86b17e
+nearby,91,nearby,Kalumaria Mosque,4,minitest,yes,,73394977d5eb
+routing,1,routing,Yörük Sk,4,minitest,yes,,992868f83369
+routing,2,routing,"How far is the public library from Central Park? if take the path Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem,Bramha Karmali-Shelphem Rd,Shree Datta Mandir,koparde to nagargoan road,Hedode ,edode Titha,Thane,hri Saibaba Temple onto NH 748AA,Jamblikade",4,minitest,yes,,358621f63279
+routing,3,routing,550m,4,again,yes,,b310b10d8528
+routing,4,routing,Hell Gate Bridge,2,minitest|test,yes,,af46ce872cd4
+routing,5,routing,"Hokien St to New Bridge RdHavelock Rd, Upper Pickering St and Church St to Marina View\n Marina View Link",4,minitest,yes,,f710441d9430
+routing,6,routing,Seabird Water Taxi\nHead northwest on High Broad St toward Andrews St\nTurn right toward Cole St\nTurn left at the 1st cross street onto Cole St\nCole Street Guesthouse\nHead northeast on Cole St toward Damba Rd\nTurn right at the 1st cross street toward Macaulay St\nTurn right at the 2nd cross street onto Macaulay St\nSierra Leone Grammar School,4,minitest,yes,,162cce1e52d0
+routing,7,routing,"Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani",4,minitest|test,yes,,4c61c3449c74
+routing,8,routing,Notre-Dame-de-Bon-Secours Chapel,4,minitest|test,yes,,78feaff94588
+routing,9,routing,Bangladesh Medical College Hospital,4,minitest,yes,,f6c58eb1f474
+routing,10,routing,2 km,4,minitest,yes,,4c8bcf59a10c
+routing,11,routing,Wat Khok Hin,4,minitest|test,yes,,6c9f648e22c1
+routing,12,routing,Navana CNG Filling Station,4,again,yes,,70cec773797f
+routing,13,routing,Bashundhara City Shopping Complex,4,minitest,yes,,3923e87e9799
+routing,14,routing,"Head east on Downing St toward K Quinn St\n Restricted usage road,Whitehall/A3212,Horse Guards Rd",3,minitest,yes,,32383e1cfe46
+routing,15,routing,"Barisal Bypass toward BM College Rd,Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka,Kamal Ataturk Ave/Kemal Ataturk Ave. Take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd",4,minitest,yes,,130059fc4a5c
+routing,16,routing,Sonali Bank Limited | ATM Booth,4,minitest,yes,,4eee49b05599
+routing,17,routing,"Cook St toward Ricketts Ave,Glebe Point Rd,Wigram Rd,Minogue Cres,The Crescent,Nelson St,Dalgal Wy,Partial restricted usage road",4,minitest,yes,,da5f7b690173
+routing,18,routing,Left,4,minitest,yes,,42a5283de1c6
+routing,19,routing,Crafoord Place Hostel\nFollow Hälsobrunnsgatan and Torsgränd to Torsgatan\nContinue on Torsgatan to Norrmalm\nTake Barnhusgatan to Adolf Fredriks kyrkogata\n\nCity Church\nHead northeast on Adolf Fredriks kyrkogata toward Holländargatan\nTurn left onto Sveavägen\nTurn right onto Tegnérgatan\nTurn right onto Döbelnsgatan\nKeep left to stay on Döbelnsgatan\n\nSt Johannes kyrkogård,4,minitest|test,yes,,08dd6959a472
+routing,20,routing,350m,4,minitest|test,yes,,adde886c238e
+routing,21,routing,Vibrant,4,minitest,yes,,bb859a4b4ab3
+routing,22,routing,Prosto z pieca,4,minitest|test,yes,,a1b34b65b555
+routing,23,routing,"ทางหลวงชนบท,ทางหลวงชนบท, Route 3004 and นว.4105 to ตำบล วังข่อย",4,minitest,yes,,5995ce2f1874
+routing,24,routing,"W Sahara Ave,S Durango Dr",4,minitest|test,yes,,b8c38fc58943
+routing,25,routing,450m,4,minitest|test,yes,,fb9bc8ae621c
+routing,26,routing,99 Minutesv,4,minitest|test,yes,,bda45b74bc56
+routing,27,routing,National Institute of Kidney Diseases & Urology (NIKDU),4,minitest,yes,,2505a0cfd1a5
+routing,28,routing,"Lulu Hypermarket - D-ring Road\nD Ring Rd, Doha\n\n\nContinue to Jaber Bin Hayyan St\n1 min (160 m)\n\n\nDrive from D Ring Rd, Al Muntazah St/Rawdat Al Khail St and Industrial Area Rd to Al Rayyan Municipality\n11 min (7 km)\n\n\nTake \u202bWadi Al Fesseela St\u202c\u200e to your destination\n2 min (650 m)\nSafari Mall\nAl khawla st, Abu Hamour, Doha",3,minitest,yes,,17900c729f0c
+routing,29,routing,Baltusrol Golf Club,4,minitest,yes,,0fa0a25ba6f1
+routing,30,routing,Vista Pharmacy Maida Vale,4,minitest|test,yes,,fa9b27dfb1cf
+routing,31,routing,Masjid Al-Irfan,4,minitest,yes,,5d0b5649604f
+routing,32,routing,Garden and Eidgah,4,minitest|test,yes,,8cb44a3490c3
+routing,33,routing,Boki Restaurant,4,minitest|test,yes,,390d8b35eded
+routing,34,routing,Bass Lake Park,4,minitest,yes,,c287e0c38d2d
+routing,35,routing,Fatburger & Buffalo's,4,minitest,yes,,45e0e164388c
+routing,36,routing,Mohasthan Filling station,4,minitest|test,yes,,d4930169076f
+routing,37,routing,183km,4,minitest,yes,,8a97ad820a8f
+routing,38,routing,"Head southwest on Weller St toward Trundle St,o Lant St\nSouthwark Bridge Rd/A300,Thrale St,Sumner St,Emerson St, Park St",4,minitest,yes,,a9d44fdf4404
+routing,39,routing,19minutes,4,again,yes,,488d3e40ae82
+routing,40,routing,Mara Lounge Restaurant,4,minitest,yes,,8c0ac259b074
+routing,41,routing,Anondo Bakery,4,minitest,yes,,571b8b12f60a
+routing,42,routing,Love Lake - Al Qudra,4,minitest|test,yes,,7b8e950b8bb2
+routing,43,routing,450m,4,again,yes,,3756d35f9e63
+routing,44,routing,Varca Beach,4,minitest,yes,,57c01297d90a
+routing,45,routing,Molino de Enmedio Villacañas,4,minitest|test,yes,,7e9be7563f3b
+routing,46,routing,Via Bethaniagade,4,minitest,yes,,173f368e3d53
+routing,47,routing,Jaman grocery,4,minitest,yes,,3a17c50a631b
+routing,48,routing,"Bakshi Bazar Road toward Zahir Raihan Rd,Dhaka Medical College Bldg St,Restricted usage road",4,minitest,yes,,bcca3900a6cd
+routing,49,routing,4 km,4,minitest|again,yes,,8dd1ba39e5eb
+routing,50,routing,"Merchant St ,Harrow Rd,Harrow Rd,Liberty St,Gladstone St",4,minitest|test,yes,,972eb8d172e5
+routing,51,routing,Beffen Route accross river,4,again,yes,,7b3b79d932fc
+routing,52,routing,Brac Bank Limited Shymoli Branch,4,minitest,yes,,0c50a821aba5
+routing,53,routing,Square Hospital,4,minitest,yes,,d444ba1810b9
+routing,54,routing,Noakhali Super Market,4,minitest|test,yes,,bd9547f9094c
+routing,55,routing,30m,4,minitest|test,yes,,b7e6bbc11b58
+routing,56,routing,Madinah Pharmacy,4,minitest|test,yes,,14ec120f2144
+routing,57,routing,8km,4,minitest|test,yes,,1cad1220ceec
+routing,58,routing,"Bir Uttam Samsul Alam Sarak/VIP Rd,Minto Rd, Kazi Nazrul Islam Ave,Kazi Nazrul Islam Ave,Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance",4,minitest,yes,,a1ac7c3f6ebc
+routing,59,routing,National Institute of Opthalmology & Hospital (NIOH),4,minitest,yes,,fba785ab956f
+routing,60,routing,"Take 浅間・白根・志賀さわやか街道 to 国道144号/国道406号,国道406号 and 国道145号 to 長野原町 川原畑. Take the exit toward Kawarayu from 国道145号",4,minitest,yes,,c29b26974ef9
+routing,61,routing,Belfry of Mons,4,minitest,yes,,5bd37dac04d2
+routing,62,routing,Ward's Island Bridge,4,minitest,yes,,ef915d9fa7ed
+routing,63,routing,Silos de la Atalaya,4,minitest,yes,,6d7b737d4fff
+routing,64,routing,23 km,4,minitest,yes,,fb2b848982f8
+routing,65,routing,Shajjad Hotel & Restora,4,minitest,yes,,ebd2b093cf43
+routing,66,routing,Bangladesh Air Force Museum,4,minitest,yes,,44e0e8d34827
+routing,67,routing,"Gurusaday Dutta Rd,Syed Amir Ali Ave, Circus Ave and Debendra Lal Khan Rd to Baker Rd/Biplabi Kanai Bhattacharya Sarani in Alipore Police Line,Baker Rd/Biplabi Kanai Bhattacharya Sarani,Judges Court Rd,Survey Bldg",4,minitest|test,yes,,9220aa7fe22c
+routing,68,routing,Shymoli Park,4,minitest,yes,,48ab946898f3
+routing,69,routing,Xpeed CNG Station,4,minitest|test,yes,,add63b5e65ef
+routing,70,routing,"Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N 1st St,E Ogden Ave,S City Pkwy,Grand Central Pkwy,West Carson Avenue,Promenade Pl",4,minitest,yes,,d815a5c60267
+routing,71,routing,Терлецкий парк,3,minitest,yes,,47662d2adaa7
+routing,72,routing,3 hr 52 min,4,minitest|test,yes,,1d6364ba0965
+routing,73,routing,"Robert F. Kennedy Bridge' ""Ward's Island Bridge"" ""Randall's Island Urban Farm",2,minitest,yes,,7363f3cd71f4
+routing,74,routing,National Institute of CardioVascular Diseases (NICVD),4,minitest,yes,,781dd6387a4e
+routing,75,routing,1km,4,minitest|test,yes,,124269ecebe3
+routing,76,routing,249km,4,again,yes,,0e285096ef93
+routing,77,routing,Pisina,4,minitest,yes,,edc2bc7d8b96
+routing,78,routing,Primark,4,minitest,yes,,3fbcf16232f7
+routing,79,routing,Elite Filling Station,4,minitest,yes,,2ce58f8945fd
+routing,80,routing,"Merchant St, Cambridge St,Holt St",4,minitest,yes,,3f64972bc6e0
+counting,1,counting,Two,4,minitest,yes,,e989f859d718
+counting,2,counting,Three,4,minitest|test,yes,,0ec4d8d6fec4
+counting,3,counting,Ten,4,minitest,yes,,bf27e14258c2
+counting,4,counting,Five,4,minitest|test,yes,,ed8f1c9e4e6d
+counting,5,counting,Three,4,minitest,yes,,bb8bd56f1027
+counting,6,counting,Four,4,minitest,yes,,ce38c6fdaad6
+counting,7,counting,Three,4,minitest,yes,,5978a10a681b
+counting,8,counting,Seven,4,minitest,yes,,58c9367b0b05
+counting,9,counting,Two,4,minitest,yes,,b1ccf04bb732
+counting,10,counting,Fourteen,4,minitest|test,yes,,e94621908830
+counting,11,counting,four,4,minitest,yes,,92386150be22
+counting,12,counting,Two,4,minitest,yes,,4a7f0d1b444c
+counting,13,counting,Two,4,minitest,yes,,144ebb00cfe9
+counting,14,counting,Four,4,minitest|test,yes,,fdf26eadc9eb
+counting,15,counting,Four,4,minitest,yes,,581b50587f2c
+counting,16,counting,Two,4,minitest,yes,,855c8b3631eb
+counting,17,counting,Four,4,minitest|test,yes,,ce38c6fdaad6
+counting,18,counting,One,4,minitest,yes,,2fe990b87226
+counting,19,counting,Two,4,minitest,yes,,7fdcd82fe862
+counting,20,counting,Nine,4,minitest|test,yes,,4a53710d86e9
+counting,21,counting,Two,4,minitest|test,yes,,0572fbfa28cd
+counting,22,counting,Two,4,minitest,yes,,0d8d90e0c715
+counting,23,counting,One,4,minitest,yes,,f54a24fecfa9
+counting,24,counting,Five,4,minitest|test,yes,,b3c02477abd9
+counting,25,counting,Five,4,minitest|test,yes,,4a53710d86e9
+counting,26,counting,One,4,minitest|test,yes,,1795810b9563
+counting,27,counting,Two,4,minitest|test,yes,,6096603d4db2
+counting,28,counting,Two,4,minitest|test,yes,,34b5b5560744
+counting,29,counting,Three,4,minitest,yes,,2da00d995c76
+counting,30,counting,Eight,4,minitest,yes,,7381269b3c0b
+counting,31,counting,One,4,minitest,yes,,44eb1aab14b1
+counting,32,counting,one,4,minitest,yes,,8a15489c8a46
+counting,33,counting,Three,4,minitest|test,yes,,e61a2db88fa2
+counting,34,counting,Nine,4,minitest,yes,,19cb6dc7f3c1
+counting,35,counting,Two,4,minitest|test,yes,,d7ede526fdb8
+counting,36,counting,Six,4,minitest|test,yes,,9a9c149e8580
+counting,37,counting,Six,4,minitest|test,yes,,4a53710d86e9
+counting,38,counting,Five,4,minitest,yes,,366e4f700753
+counting,39,counting,Eight,4,minitest,yes,,e54c64560f09
+counting,40,counting,Five,4,minitest|test,yes,,89e81eacfc62
+counting,41,counting,Three,4,minitest,yes,,094ad2caef5d
+counting,42,counting,Nine,4,minitest|test,yes,,8e3e24ce6a8b
+counting,43,counting,Five,4,minitest|test,yes,,fdd3a109342b
+counting,44,counting,Four,4,minitest,yes,,b1f1cfa17411
+counting,45,counting,Nine,4,minitest|test,yes,,63b081627dce
+counting,46,counting,Nine,4,minitest|test,yes,,18e652dd0e9d
+counting,47,counting,Four,4,minitest,yes,,d81297b7da73
+counting,48,counting,Three,4,minitest|test,yes,,a2a0b5665bdc
+counting,49,counting,One,4,minitest|test,yes,,b5c3f3524408
+counting,50,counting,Four,4,minitest,yes,,bdfadd98719b
+counting,51,counting,Five,4,minitest,yes,,1e1c434fc8bb
+counting,52,counting,Seven,4,minitest,yes,,825ea7e8921b
+counting,53,counting,Three,4,minitest,yes,,18e652dd0e9d
+counting,54,counting,Four,4,minitest,yes,,ec726d344fe3
+counting,55,counting,Five,4,minitest,yes,,d8a244c9f9f6
+counting,56,counting,Nine,4,minitest|test,yes,,884605f46b73
+counting,57,counting,Fifteen,4,minitest|test,yes,,58374a200256
+counting,58,counting,Three,4,minitest|test,yes,,51f763ecbf9e
+counting,59,counting,Three,4,minitest|test,yes,,acb9ba19da10
+counting,60,counting,Two,4,minitest,yes,,0b7c2a1d189b
+counting,61,counting,Two,4,minitest,yes,,144ebb00cfe9
+counting,62,counting,Three,4,minitest,yes,,fa98146c88ac
+counting,63,counting,Two,4,minitest,yes,,c3f98ce84a8d
+counting,64,counting,One,4,minitest,yes,,822686ede4a1
+counting,65,counting,Two,4,minitest|test,yes,,2655334fcc1d
+counting,66,counting,Five,4,minitest|test,yes,,144ebb00cfe9
+counting,67,counting,Two,4,minitest|test,yes,,7b7555254247
+counting,68,counting,Nine,4,minitest|test,yes,,8e1a4fb05eb1
+counting,69,counting,Seven,4,minitest,yes,,0eb4d2ee3f82
+counting,70,counting,Three,4,minitest|test,yes,,167f47db0448
+counting,71,counting,Three,4,minitest|test,yes,,b72110121f64
+counting,72,counting,Three,4,minitest|test,yes,,2bc121384620
+counting,73,counting,Five,4,minitest,yes,,4323397a46e4
+counting,74,counting,Two,4,minitest,yes,,f2ec34522f2b
+counting,75,counting,Five,4,minitest|test,yes,,48e52a885fc4
+counting,76,counting,Three,4,minitest,yes,,2d84c22aa476
+counting,77,counting,Three,4,minitest,yes,,e58c5154ff4f
+counting,78,counting,Fourteen,4,minitest|test,yes,,62bb44485bb4
+counting,79,counting,Two,4,minitest|test,yes,,b1ccf04bb732
+counting,80,counting,Two,4,minitest,yes,,5f885317d93a
+counting,81,counting,Three,4,minitest,yes,,db9309b4b17b
+counting,82,counting,One,4,minitest,yes,,303b7ebe0628
+counting,83,counting,One,4,minitest,yes,,9924e4cfeede
+counting,84,counting,Two,4,minitest|test,yes,,24ae21bdae31
+counting,85,counting,Thirteen,4,minitest|test,yes,,279adf1afd87
+counting,86,counting,Nine,4,minitest,yes,,1958a553cfc3
+counting,87,counting,Twelve,4,minitest|test,yes,,602b89703296
+counting,88,counting,Four,4,minitest,yes,,53d489526c42
+unanswerable,1,unanswerable,Unanswerable,4,minitest,yes,,8a797200cdcb
+unanswerable,2,unanswerable,Unanswerable,4,minitest,yes,,6da88ac24f85
+unanswerable,3,unanswerable,Unanswerable,4,minitest,yes,,333c9471ac8d
+unanswerable,4,unanswerable,Unanswerable,4,minitest|test,yes,,1caa47470817
+unanswerable,5,unanswerable,Unanswerable,4,minitest|test,yes,,fa5b4e350411
+unanswerable,6,unanswerable,Unanswerable,4,minitest|test,yes,,e87358a8e0a0
+unanswerable,7,unanswerable,Unanswerable,2,minitest|test,yes,,52fb026abf25
+unanswerable,8,unanswerable,Unanswerable,4,minitest|test,yes,,371ad1f34b53
+unanswerable,9,unanswerable,Unanswerable,4,minitest|test,yes,,ac135d77fdaa
+unanswerable,10,unanswerable,Unanswerable,4,minitest|test,yes,,3fe85779eb18
+unanswerable,11,unanswerable,Unanswerable,4,minitest|test,yes,,aa61ca1da9c0
+unanswerable,12,unanswerable,Unanswerable,4,minitest,yes,,cd44dd4d2c81
+unanswerable,13,unanswerable,Unanswerable,4,minitest,yes,,33e3b26ed873
+unanswerable,14,unanswerable,Unanswerable,4,minitest|test,yes,,e87358a8e0a0
+unanswerable,15,unanswerable,Unanswerable,4,minitest|test,yes,,51581b9bc3ea
+unanswerable,16,unanswerable,Unanswerable,4,minitest|test,yes,,323fe1983e15
+unanswerable,17,unanswerable,Unanswerable,4,minitest|test,yes,,cd44dd4d2c81
+unanswerable,18,unanswerable,Unanswerable,4,minitest|test,yes,,a2a373b2b4c5
+unanswerable,19,unanswerable,Unanswerable,4,minitest|test,yes,,33365cb1eb7f
+unanswerable,20,unanswerable,Unanswerable,4,minitest|test,yes,,ac27979dd311

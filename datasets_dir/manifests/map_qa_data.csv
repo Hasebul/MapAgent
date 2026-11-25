@@ -1,0 +1,2207 @@
+task,pid,category,answer,num_options,splits,evaluated,note,question_sha1
+task_1,1,type_1,Plan Check,0,minitest,yes,,d5a0a39b9276
+task_1,2,type_1,Union Kitchen & Tap,0,test,yes,,b8caa8207b06
+task_1,3,type_1,The Coffee Bean & Tea Leaf,0,minitest,yes,,540e232a935d
+task_1,4,type_1,Beso Hollywood,0,minitest,yes,,9b431effea4c
+task_1,5,type_1,Gor Gai Thai Kitchen,0,test,yes,,84399cc5dc6b
+task_1,6,type_1,Scout Coffee Co.,0,minitest,yes,,fc1ef9135e74
+task_1,7,type_1,El Gringo,0,test,yes,,16e1073f033b
+task_1,8,type_1,Pizza Pizza,0,test,yes,,2293acf90f88
+task_1,9,type_1,ZPizza,0,minitest|test,yes,,24ff959ca589
+task_1,10,type_1,Snooty Fox; Baja Fish Tacos,0,minitest,yes,,0327a1c09141
+task_1,11,type_1,Blaze Pizza,0,minitest|test,yes,,54f909c936c6
+task_1,12,type_1,First Christian Church,0,minitest,yes,,5c991720f707
+task_1,13,type_1,Trimana,0,minitest,yes,,8c9eac76a8df
+task_1,14,type_1,Wahlburgers,0,minitest|test,yes,,0c2d0be46917
+task_1,15,type_1,Avis,0,minitest,yes,,1f297da6705d
+task_1,16,type_1,Yummys Donuts; Juice It Up!,0,minitest|test,yes,,58755b7aa755
+task_1,17,type_1,Capital One,0,minitest|test,yes,,b0d3be3a57b4
+task_1,18,type_1,Frank's Pizza Joint; Subway; Natural Delights Juice Bar,0,minitest|test,yes,,5f48a7786426
+task_1,19,type_1,Meze Greek Fusion; The Broken Yolk Cafe; Lucky's Lunch Counter,0,minitest,yes,,f1e12be237cb
+task_1,20,type_1,Socalo,0,minitest,yes,,1fd9ef499b86
+task_1,21,type_1,Redbox; California Lottery,0,minitest|test,yes,,b024a0bed332
+task_1,22,type_1,Faith Baptist Church,0,minitest,yes,,1d7164235e2d
+task_1,23,type_1,HSBC,0,minitest,yes,,66c8a746f790
+task_1,24,type_1,Charles C Wood D D S,0,minitest|test,yes,,9cc5cc35b618
+task_1,25,type_1,Round Table Pizza; Gen Sushi; Pan of Asia,0,minitest,yes,,f1264552bde1
+task_1,26,type_1,The Bulldog Pub,0,minitest,yes,,cbb3690a4cd4
+task_1,27,type_1,Auto wash,0,minitest,yes,,cbbcb868ba12
+task_1,28,type_1,Bethel Missionary Baptist Church,0,minitest,yes,,da84cb5f5cbf
+task_1,29,type_1,Little sister,0,minitest|test,yes,,b887fd28db4e
+task_1,30,type_1,The Good Lion,0,minitest,yes,,63c71b2ef31e
+task_1,31,type_1,Sweetfin,0,minitest,yes,,4fa2e142a6e9
+task_1,32,type_1,The Naked Fish; Next Door Bistro; F. McLintocks Saloon,0,minitest|test,yes,,794538b59fbe
+task_1,33,type_1,626 Night Market Mini,0,test,yes,,28130cf0b40c
+task_1,34,type_1,Ginos,0,minitest,yes,,e1b59d9e6d93
+task_1,35,type_1,Tuscan Son,0,minitest,yes,,83796d0e4542
+task_1,36,type_1,Lake Arrowhead Post Office,0,minitest,yes,,1b5839e21817
+task_1,37,type_1,Jamba; Zankou Chicken; Al's Hot Chicken; Fatburger,0,problems,yes,,7c55c8fcd7ae
+task_1,38,type_1,Wingstop,0,minitest|test,yes,,ab9bc9c54401
+task_1,39,type_1,Walgreens,0,minitest,yes,,a4aaf2ff7524
+task_1,40,type_1,Yamato; Philly's Best; Pieology Pizzeria,0,minitest|test,yes,,2d69792cd791
+task_1,41,type_1,Pilgrim Lutheran School; Christian Academy of Chula Vista,0,minitest,yes,,346ca3dcfd1a
+task_1,42,type_1,WaBa Grill,0,minitest|test,yes,,e453d8f4a5eb
+task_1,43,type_1,Wells Fargo; Wachovia Bank,0,minitest,yes,,8998e6fdf125
+task_1,44,type_1,The Auld Fella,0,minitest,yes,,02791a052ae8
+task_1,45,type_1,Chipotle; Jersey Mike's Subs,0,minitest|test,yes,,af07c13b4d0b
+task_1,46,type_1,Starbucks,0,minitest,yes,,6f6bfa06f856
+task_1,47,type_1,Chantilly’s Ice Cream,0,minitest|test,yes,,1a960052cc19
+task_1,48,type_1,Il Caffe,0,minitest,yes,,40d13f60d08e
+task_1,49,type_1,Thelma Terry Building,0,minitest|test,yes,,9e454f56db75
+task_1,50,type_1,Blown Out,0,minitest|test,yes,,ec8d5b10acfc
+task_1,51,type_1,Wells Fargo,0,minitest|test,yes,,f519d72ef776
+task_1,52,type_1,Leelin Bakery and Cafe,0,minitest,yes,,69443fcd1050
+task_1,53,type_1,Calvary Evangelical Lutheran Church,0,test,yes,,f25129b6fea7
+task_1,54,type_1,Restore Hyper Wellness,0,minitest|test,yes,,bed53e1d7b0b
+task_1,55,type_1,Colegio Vizcaya; Instituto Maral; Preparatoria Heroes de Mexico,0,minitest|test,yes,,5ff6e2f7993f
+task_1,56,type_1,My Store 3:16 Boba Express,0,minitest|test,yes,,a5aa364e5243
+task_1,57,type_1,Ridgewalk Social,0,minitest,yes,,55b0d9ae06a1
+task_1,58,type_1,Happy Veggie; Bollywood Zaika,0,minitest,yes,,554b05b0829a
+task_1,59,type_1,WaBa Grill,0,minitest,yes,,e5318f798e4e
+task_1,60,type_1,LouEddie's Pizza,0,minitest,yes,,209f96f703aa
+task_1,61,type_1,Proof,0,test,yes,,5bc0ebd980a2
+task_1,62,type_1,Baja Betty's,0,minitest|test,yes,,ba35529aeda4
+task_1,63,type_1,The Coffee Bean & Tea Leaf,0,minitest,yes,,26bcd7dae92e
+task_1,64,type_1,Philz Coffee,0,minitest,yes,,562d152dc122
+task_1,65,type_1,Bar Bohemien,0,minitest,yes,,f05be29d1e64
+task_1,66,type_1,Casa Garibay,0,minitest|test,yes,,8292d843a9ad
+task_1,67,type_1,Arco,0,minitest,yes,,3f743aa3aa8c
+task_1,68,type_1,Mezzet,0,minitest,yes,,5bc4417b0395
+task_1,69,type_1,Boa Steakhouse,0,minitest,yes,,e0f612b017b3
+task_1,70,type_1,Action Urgent Care,0,minitest,yes,,d54268c0a1a4
+task_1,71,type_1,Gary's New York Deli,0,minitest|test,yes,,5af12fc57d38
+task_1,72,type_1,Sunset Plaza Dental,0,minitest,yes,,418f5fbf5108
+task_1,73,type_1,The Tasting Kitchen; Piccolo,0,minitest|test,yes,,9109b8d3e688
+task_1,74,type_1,Starbucks,0,minitest|test,yes,,108b19debe43
+task_1,75,type_1,Cali Smiles,0,minitest|test,yes,,97a2e8012b80
+task_1,76,type_1,Tom Ham's Lighthouse,0,minitest|test,yes,,04562e559d6d
+task_1,77,type_1,Envios Monte Alban,0,minitest|test,yes,,8f17557ee46b
+task_1,78,type_1,Nanay Gloria's; Mamma Mia,0,minitest|test,yes,,2812f6535352
+task_1,79,type_1,The Jerk Spot,0,minitest|test,yes,,20dc2529347d
+task_1,80,type_1,Subway,0,minitest|test,yes,,4aabb2071edc
+task_1,81,type_1,Cofax Coffee Fairfax,0,minitest,yes,,a1500e4dace7
+task_1,82,type_1,Little Caesars,0,minitest,yes,,9658c6e327f4
+task_1,83,type_1,Chipotle; Jersey Mike's Subs; California Fish Grill,0,minitest|test,yes,,af2eebe71f1e
+task_1,84,type_1,Gelato,0,minitest|test,yes,,be14ca610a00
+task_1,85,type_1,The Original Pancake House; Pacific Pizza,0,minitest,yes,,d7a067cd0bde
+task_1,86,type_1,FedEx,0,minitest|test,yes,,8465a53c2606
+task_1,87,type_1,TBLA Catering & Cafe,0,minitest,yes,,3d1fc14e9186
+task_1,88,type_1,Pizza Hut Express,0,minitest|test,yes,,2a8681faf18b
+task_1,89,type_1,Moxie,0,minitest|test,yes,,8b068f3e2c37
+task_1,90,type_1,La Colombe Coffee Roasters; Cha Cha Matcha,0,minitest|test,yes,,d3fac07aeee5
+task_1,91,type_1,Hyde Park Miriam Matthews Branch Los Angeles Public Library,0,minitest,yes,,932d46f8a782
+task_1,92,type_1,Rooster and the Pig,0,minitest,yes,,2661ca5de43c
+task_1,93,type_1,Sierra Madre Police Department,0,minitest,yes,,8d15501f85e6
+task_1,94,type_1,Tesla Supercharger,0,minitest,yes,,f8d4fa1b125c
+task_1,95,type_1,La Gran Terraza,0,minitest|test,yes,,45244a77e982
+task_1,96,type_1,Spring & College,0,minitest,yes,,b73f73a14b9a
+task_1,97,type_1,Bella's,0,minitest|test,yes,,1674eb9090de
+task_1,98,type_1,Jamba,0,minitest|test,yes,,7ab1e0a1dcde
+task_1,99,type_1,Chihuahua,0,minitest|test,yes,,4e69688d3a5b
+task_1,100,type_1,Subway,0,minitest|test,yes,,84f9fce3df8c
+task_1,101,type_1,Chevron,0,minitest,yes,,e6c304301d35
+task_1,102,type_1,Taco Village,0,minitest,yes,,6f256db5c20b
+task_1,103,type_1,Redz,0,minitest|test,yes,,e3801e8442b1
+task_1,104,type_1,KFC,0,minitest|test,yes,,d9a736d17a14
+task_1,105,type_1,Found Oyster,0,minitest,yes,,b2c423202340
+task_1,106,type_1,Peet's Coffee,0,minitest|test,yes,,9be958a9dafd
+task_1,107,type_1,Gateway Assembly of God,0,minitest,yes,,1ea2ca65d340
+task_1,108,type_1,Little Caesars,0,minitest|test,yes,,fa61f1501df5
+task_1,109,type_1,JJ Chinese Express,0,minitest|test,yes,,5187ea464b2c
+task_1,110,type_1,El Carbonero; Vietnamese Noodles,0,minitest|test,yes,,c8de28489fc2
+task_1,111,type_1,Black Sheep Bar & Grill; Creeky Tiki,0,minitest|test,yes,,17b35dc8b9b6
+task_1,112,type_1,Juanitas; El Rancho Grande,0,minitest|test,yes,,5fe97dcb9ea6
+task_1,113,type_1,Point Loma Credit Union,0,minitest,yes,,e5609316b05a
+task_1,114,type_1,BrightCare Veterinary Group - Neurology,0,minitest,yes,,26bae6c458f4
+task_1,115,type_1,WaBa Grill,0,minitest,yes,,b9c6456077db
+task_1,116,type_1,Woori,0,minitest|test,yes,,72cc5fad358a
+task_1,117,type_1,Burros & fries; bluepokē,0,minitest|test,yes,,b4bf70a9c98a
+task_1,118,type_1,A La Carte Thai Bistro / Thai Dishes,0,minitest,yes,,5502adb0b068
+task_1,119,type_1,Los Primos Mexican Food; Ika Sushi & Grill,0,minitest,yes,,e586a378075e
+task_1,120,type_1,Restrooms; Restrooms,0,minitest|test,yes,,31d3d9712bbb
+task_1,121,type_1,Point of Contact Ministries,0,minitest,yes,,cd2d2e3e71de
+task_1,122,type_1,Citizens Business Bank,0,minitest,yes,,f9be719c643a
+task_1,123,type_1,Bistro Miyoda & Sushi Ichiriki,0,minitest|test,yes,,a5552cf306c2
+task_1,124,type_1,Chase,0,minitest,yes,,c0685a9b6243
+task_1,125,type_1,Manila Sunset,0,minitest|test,yes,,9c42791b51da
+task_1,126,type_1,Menchie's,0,minitest|test,yes,,3188444d5205
+task_1,127,type_1,Hop Louies; Blossom,0,minitest|test,yes,,1fd9f3f12b62
+task_1,128,type_1,East West Bank,0,minitest,yes,,2c9c3b96a548
+task_1,129,type_1,Navy Federal Credit Union,0,minitest|test,yes,,49349db2213e
+task_1,130,type_1,Aloha Cafe,0,minitest,yes,,50c670070a71
+task_1,131,type_1,Fortune Cookie Express,0,minitest|test,yes,,ea2d048de789
+task_1,132,type_1,Dunkin',0,minitest|test,yes,,234a21aa7b63
+task_1,133,type_1,Angel's Smog Master,0,minitest|test,yes,,3da4c06a8cf3
+task_1,134,type_1,Exer Urgent Care,0,minitest,yes,,830fb7c07f68
+task_1,135,type_1,Fertility Care,0,minitest,yes,,46c0397123e9
+task_1,136,type_1,The Little Jewel of New Orleans,0,minitest,yes,,88a7556cec95
+task_1,137,type_1,Delhi Kitchen,0,minitest|test,yes,,2da13287b2f1
+task_1,138,type_1,Mi Jong Lo Han Kung Fu and Tai Chi,0,minitest,yes,,ab4cb6a8897e
+task_1,139,type_1,Top Round Roast Beef,0,minitest,yes,,2b75c993717b
+task_1,140,type_1,Village Dental & Orthodontics,0,minitest,yes,,ab4e1ee20f34
+task_1,141,type_1,Gigo's Cafe & Deli,0,minitest,yes,,5465a756bca1
+task_1,142,type_1,Starr Dawn PhD,0,minitest|test,yes,,104d54dfe076
+task_1,143,type_1,The Crab Shack,0,minitest,yes,,b271ccf61751
+task_1,144,type_1,Los Jilbertos,0,minitest|test,yes,,9e58cb9e24ad
+task_1,145,type_1,Entre Nous French Bistro,0,problems,yes,,6600f6071f53
+task_1,146,type_1,Neca's Kitchen,0,minitest|test,yes,,79fee1d52ace
+task_1,147,type_1,Wetzel's Pretzels,0,minitest|test,yes,,9bd363140672
+task_1,148,type_1,Fellow,0,minitest|test,yes,,103f54e01a16
+task_1,149,type_1,Peal Thai Noodle House; La Memela,0,minitest|test,yes,,fa0875f636d7
+task_1,150,type_1,First Citizens Bank,0,minitest,yes,,d7e5070ba313
+task_1,151,type_1,Joel Bickler,0,minitest,yes,,465fde744c9e
+task_1,152,type_1,76,0,minitest|test,yes,,828598a84d86
+task_1,153,type_1,Cafe 86,0,minitest,yes,,b95eba87dcac
+task_1,154,type_1,Kumon,0,minitest,yes,,ca61782d630f
+task_1,155,type_1,US Bank,0,minitest,yes,,7ba8a91b054a
+task_1,156,type_1,Baskin Robins,0,minitest|test,yes,,5d6623fd40ea
+task_1,157,type_1,OC Urgent Care,0,minitest,yes,,df545e5d6e5c
+task_1,158,type_1,Mia's Cafe; Ume Tea,0,minitest,yes,,aae9cdda3856
+task_1,159,type_1,Chase,0,minitest,yes,,788c9e4198d8
+task_1,160,type_1,Vallerta Express,0,minitest|test,yes,,1b48240d3aef
+task_1,161,type_1,Aladdin,0,minitest|test,yes,,79e9a99c559c
+task_1,162,type_1,Phở 99; Costa Delmar,0,minitest|test,yes,,3962d0b2a747
+task_1,163,type_1,City Parking Lot 2,0,minitest,yes,,3fe9d086ea4c
+task_1,164,type_1,Subway; China Express; Domino's,0,minitest|test,yes,,2063babc6460
+task_1,165,type_1,Bouchon; Brasil Arts Café,0,minitest|test,yes,,9a2148ea6bc7
+task_1,166,type_1,Pickles & Swiss,0,minitest|test,yes,,cbb5ef977aa6
+task_1,167,type_1,Bronzed Aussie; Pizza Hut,0,minitest|test,yes,,1d72da25ea3c
+task_1,168,type_1,Boba n More,0,minitest|test,yes,,2aef2eee6664
+task_1,169,type_1,Los Panchos Taco Shop,0,minitest|test,yes,,861b596abd47
+task_1,170,type_1,Bristol Warner Marketplace,0,minitest,yes,,82945e2e4b85
+task_1,171,type_1,Wingstop,0,minitest|test,yes,,e8ab2c60882a
+task_1,172,type_1,Brewberry Cafe,0,minitest,yes,,2100c1bddf70
+task_1,173,type_1,Obi's Sushi,0,minitest|test,yes,,f231b24f3cc0
+task_1,174,type_1,tropi Fruta,0,minitest,yes,,d8c2d26d4a3f
+task_1,175,type_1,Chipotle,0,minitest|test,yes,,9492850c047e
+task_1,176,type_1,Azusa Pacific University,0,minitest|test,yes,,a85bc83afa50
+task_1,177,type_1,El Burrito Panzon,0,minitest|test,yes,,2dc7fff1f911
+task_1,178,type_1,Lutheran School,0,minitest,yes,,65efca3619a6
+task_1,179,type_1,The Coffee Bean & Tea Leaf,0,minitest,yes,,37be6df46761
+task_1,180,type_1,Chicken Dijon; The Standing Room; Phở & Poké,0,minitest|test,yes,,7a2ad044abb4
+task_1,181,type_1,El Burro Taco Shop,0,minitest|test,yes,,bc56479c0ef4
+task_1,182,type_1,D'Lish Gourmet Pasta & Pizza,0,minitest,yes,,0ea7a60082e9
+task_1,183,type_1,Little Free Library,0,minitest,yes,,6767e5dbfa30
+task_1,184,type_1,Dr. Smile,0,minitest,yes,,c79dab16e1f3
+task_1,185,type_1,Descanso Post Office,0,,yes,,07be79b49c2b
+task_1,186,type_1,Lincoln Avenue Presbyterian Church,0,minitest,yes,,10051d0fbdc0
+task_1,187,type_1,Starbucks,0,minitest|test,yes,,1085ad6f9998
+task_1,188,type_1,Starbucks; Vanitea,0,minitest|test,yes,,94f84120e89d
+task_1,189,type_1,McConnell's Fine Ice Creams,0,minitest,yes,,2c4d3104de86
+task_1,190,type_1,Fresh Brothers Pizza Calabasas,0,minitest,yes,,45363798f89c
+task_1,191,type_1,Wisteria,0,minitest|test,yes,,a099c153fdc1
+task_1,192,type_1,Snowy Village Dessert Cafe; Ding Tea,0,minitest,yes,,e3821d355234
+task_1,193,type_1,Red Baron Pizza; Restaurant & Sports Bar,0,minitest,yes,,695c13774b6b
+task_1,194,type_1,Sombrero Mexican Food; Subway,0,minitest|test,yes,,902b236d44b2
+task_1,195,type_1,Follow Your Heart Cafe,0,minitest|test,yes,,6824c820016f
+task_1,196,type_1,breakfast by salt’s cure,0,minitest|test,yes,,a2ef6c7cb4c6
+task_1,197,type_1,Pam's Donut & Ice Cream,0,minitest,yes,,e8d93f96189d
+task_1,198,type_1,Ono Hawaiian BBQ,0,minitest|test,yes,,64039c2be940
+task_1,199,type_1,La Llorna Birria & Marisco; Veggos,0,minitest|test,yes,,e869ff6c046a
+task_1,200,type_1,Senfuku Japannese Restaurant; Sebastian's Mediterranean Cuisine; Baramee Thai Restaurant,0,minitest,yes,,13fa29dc18e0
+task_1,201,type_1,Cheval Bistro,0,minitest,yes,,abe5b592789e
+task_1,202,type_1,Bella's Pizza,0,minitest,yes,,dc4320e79d0d
+task_1,203,type_1,Fogo de Chão; O2 Sushi pasadena,0,minitest|test,yes,,34188dbade12
+task_1,204,type_1,J'Adore Café,0,minitest,yes,,62119ad58d5a
+task_1,205,type_1,Kitchen Of Korea; BJ's,0,minitest,yes,,bfa53e29de89
+task_1,206,type_1,Enterprise,0,minitest,yes,,e919f8e50aa6
+task_1,207,type_1,Thomas Hill Organics,0,minitest|test,yes,,ec9dafcca21a
+task_1,208,type_1,Laemmle's Royal,0,minitest,yes,,12568782dd1d
+task_1,209,type_1,McFadden Public Market,0,minitest|test,yes,,944368522474
+task_1,210,type_1,Dentist,0,minitest|test,yes,,272a93ebde55
+task_1,211,type_1,Wood Ranch,0,minitest|test,yes,,6de37656b48c
+task_1,212,type_1,Santa Monica Dentistry For Children,0,minitest,yes,,2e5965d4019e
+task_1,213,type_1,Korean Cultural Center,0,minitest,yes,,89b77ef01fe8
+task_1,214,type_1,Tender Greens,0,minitest|test,yes,,9d69f07b3883
+task_1,215,type_1,Citibank,0,,yes,,4573dd3f3f7d
+task_1,216,type_1,India Sweets & Spices,0,minitest|test,yes,,4ee5988a4a06
+task_1,217,type_1,Dave's Hot Chicken,0,minitest,yes,,aaa0993457a1
+task_1,218,type_1,The Laguna Coffee Company,0,minitest,yes,,74f486ca48da
+task_1,219,type_1,Chipotle; The Melt,0,minitest,yes,,24c9182fae1c
+task_1,220,type_1,The Coffee Bean & Tea Leaf,0,minitest|test,yes,,579cda1a12bb
+task_1,221,type_1,The Gibson Girl Ice Cream Parlor,0,minitest,yes,,df681cc763c0
+task_1,222,type_1,Chubby's Homemade Ice Cream,0,minitest,yes,,823357bd1077
+task_1,223,type_1,Rosa y José,0,minitest,yes,,cb494480a572
+task_1,224,type_1,Jimmy John's; Nekter Juice Bar; Poké Kai,0,minitest|test,yes,,f311ca37ccf5
+task_1,225,type_1,Pressed Juicery,0,minitest|test,yes,,7f9142d1b86d
+task_1,226,type_1,Plateia,0,minitest,yes,,36b80bc036be
+task_1,227,type_1,Et Voilà; Ribline,0,minitest,yes,,238e60fec00d
+task_1,228,type_1,Auntie Anne's,0,minitest|test,yes,,465e2811777b
+task_1,229,type_1,Tempura House,0,minitest|test,yes,,7395efa02a98
+task_1,230,type_1,Taco Bell; Primo's Donuts,0,minitest|test,yes,,0775cd612540
+task_1,231,type_1,Enterprise,0,minitest,yes,,c6b5975ee75b
+task_1,232,type_1,FLO,0,minitest|test,yes,,957f9349143d
+task_1,233,type_1,Yoga-urt,0,minitest|test,yes,,7a709bd12dec
+task_1,234,type_1,"Cucamonga Valley Medical Group; Mark Alwan, M.D. Obstetrics & Gynecology; Basim Z. Abdelkarim, M.D. Gastroenterology & Liver Diseases; The Neurology Group; LabCorp; Care for Womens Obstetrics & Gynecology; Parkside Medical Group",0,minitest|test,yes,,30085845eaef
+task_1,235,type_1,Koon Thai Kitchen,0,minitest|test,yes,,688738e1e3c4
+task_1,236,type_1,Cross Grain Brewhouse,0,minitest,yes,,fcfa105b8382
+task_1,237,type_1,Fatburger,0,minitest,yes,,7da9d3de07e2
+task_1,238,type_1,Rabano; Best Donuts,0,minitest|test,yes,,98ca602b5239
+task_1,239,type_1,Starbucks,0,minitest,yes,,5d6a7d5e520f
+task_1,240,type_1,UCSD - Nuevo West,0,minitest|test,yes,,23113df28d99
+task_1,241,type_1,La Michoacana,0,minitest|test,yes,,6ddeb47f40ac
+task_1,242,type_1,Ten Ren's Tea Time,0,minitest|test,yes,,365427601085
+task_1,243,type_1,Our Lady of Angels School,0,minitest,yes,,38d70779ac91
+task_1,244,type_1,Mario's Peruvian Restaurant,0,minitest,yes,,b2fa715338b8
+task_1,245,type_1,Urban Golf Performance,0,minitest|test,yes,,0fe8810f45fd
+task_1,246,type_1,Emperors College of Traditional Oriental Medicine,0,minitest,yes,,7d703adaefca
+task_1,247,type_1,Ghisallo,0,minitest|test,yes,,81ad16f74891
+task_1,248,type_1,Chicken BunBun; Organico,0,minitest,yes,,b346fd9cb378
+task_1,249,type_1,The Corner Door,0,minitest|test,yes,,b43410653d2f
+task_1,250,type_1,Tender Greens; ADYA; Breakfast Republic,0,minitest,yes,,cb859997d0d1
+task_2,1,type_2,waste_basket,0,test,yes,,d1370aaf4359
+task_2,2,type_2,No amenities found,0,,yes,,76700fd6432e
+task_2,3,type_2,dentist; dojo; restaurant,0,minitest|test,yes,,5683ed421782
+task_2,4,type_2,bank,0,minitest|test,yes,,4ad5f18231fa
+task_2,5,type_2,No amenities found,0,minitest,yes,,f3f925a41f41
+task_2,6,type_2,No amenities found,0,minitest|test,yes,,f0e3ae7dcd16
+task_2,7,type_2,No amenities found,0,minitest,yes,,c4c56ca91f93
+task_2,8,type_2,No amenities found,0,minitest,yes,,2805933fc082
+task_2,9,type_2,No amenities found,0,minitest,yes,,a450817114f1
+task_2,10,type_2,place_of_worship; school,0,minitest|test,yes,,3e4857f31e29
+task_2,11,type_2,No amenities found,0,minitest|test,yes,,9b793232f0b3
+task_2,12,type_2,No amenities found,0,minitest|test,yes,,08a09e4cb336
+task_2,13,type_2,cafe; family_planning; psychic; studio,0,minitest|test,yes,,9318e4598013
+task_2,14,type_2,restaurant,0,minitest|test,yes,,ad0e9c762022
+task_2,15,type_2,ice_cream,0,minitest|test,yes,,208e10187fe0
+task_2,16,type_2,driving_school; social_facility,0,minitest|test,yes,,851570784de4
+task_2,17,type_2,No amenities found,0,minitest,yes,,e35798a484c4
+task_2,18,type_2,restaurant,0,minitest,yes,,7d1788e6b685
+task_2,19,type_2,cafe; post_office; restaurant,0,minitest|test,yes,,35596ca125cc
+task_2,20,type_2,restaurant,0,minitest|test,yes,,1651549d8896
+task_2,21,type_2,townhall,0,minitest|test,yes,,c5650d4e4f48
+task_2,22,type_2,library; social_centre; theatre; university,0,minitest|test,yes,,e6be4cac9e08
+task_2,23,type_2,bank; cafe; fast_food; marketplace; pharmacy; restaurant,0,minitest|test,yes,,11a4527e2e94
+task_2,24,type_2,place_of_worship; school,0,minitest|test,yes,,17a3501ac8e3
+task_2,25,type_2,No amenities found,0,minitest,yes,,c68be703362a
+task_2,26,type_2,No amenities found,0,minitest,yes,,b714e1e3f1ba
+task_2,27,type_2,cafe; clinic; ice_cream,0,minitest|test,yes,,691913b596ba
+task_2,28,type_2,cafe; restaurant,0,minitest|test,yes,,d5195b144144
+task_2,29,type_2,No amenities found,0,minitest,yes,,c4016056aa85
+task_2,30,type_2,bar; cafe; ice_cream; parking_entrance; restaurant,0,minitest|test,yes,,e42ab9098880
+task_2,31,type_2,No amenities found,0,minitest,yes,,275df1e824a5
+task_2,32,type_2,No amenities found,0,minitest,yes,,30692a991176
+task_2,33,type_2,restaurant,0,minitest,yes,,e00921631370
+task_2,34,type_2,fast_food; restaurant,0,minitest|test,yes,,a39077b7caa5
+task_2,35,type_2,atm; drinking_water; vending_machine,0,minitest|test,yes,,004de2cc6903
+task_2,36,type_2,No amenities found,0,minitest|test,yes,,b99a490e6a4f
+task_2,37,type_2,No amenities found,0,,yes,,f53510036a07
+task_2,38,type_2,No amenities found,0,minitest,yes,,5346a74af5ff
+task_2,39,type_2,bar; cafe; fast_food; restaurant,0,minitest|test,yes,,80a72090c3ae
+task_2,40,type_2,bicycle_rental; fast_food; library; restaurant; veterinary,0,minitest|test,yes,,41d981d45f5e
+task_2,41,type_2,No amenities found,0,minitest|test,yes,,04fca97804f5
+task_2,42,type_2,No amenities found,0,minitest,yes,,f6c7fc683478
+task_2,43,type_2,post_office; restaurant,0,minitest|test,yes,,fb908e98e47c
+task_2,44,type_2,bicycle_parking,0,minitest|test,yes,,dd808d9675bf
+task_2,45,type_2,No amenities found,0,minitest|test,yes,,25b1011c1478
+task_2,46,type_2,drinking_water; fast_food; pub; toilets; vending_machine,0,minitest|test,yes,,acfe44c1e54f
+task_2,47,type_2,clock,0,minitest|test,yes,,cd765479b271
+task_2,48,type_2,restaurant,0,test,yes,,d2446c6f847a
+task_2,49,type_2,cafe; parking; place_of_worship; restaurant; theatre,0,minitest|test,yes,,d0ac5e7c94b0
+task_2,50,type_2,No amenities found,0,minitest,yes,,b691baf3a7b2
+task_2,51,type_2,cafe; drinking_water; fast_food; food_court; ice_cream; restaurant,0,minitest|test,yes,,9ccac425751d
+task_2,52,type_2,cafe; dentist; fast_food; post_box; prep_school; restaurant,0,minitest|test,yes,,c4c0debbf804
+task_2,53,type_2,cafe; library,0,minitest|test,yes,,ee77f65556ea
+task_2,54,type_2,No amenities found,0,minitest|test,yes,,ee69353aa286
+task_2,55,type_2,school,0,minitest|test,yes,,ec0f3fca63a7
+task_2,56,type_2,No amenities found,0,minitest|test,yes,,3cfb7e50a809
+task_2,57,type_2,bicycle_parking; bicycle_rental; drinking_water; fountain,0,minitest|test,yes,,f3b00b12e925
+task_2,58,type_2,No amenities found,0,minitest,yes,,48d1678cd0f3
+task_2,59,type_2,fuel; place_of_worship,0,minitest|test,yes,,0b0fc8b73c93
+task_2,60,type_2,bicycle_rental; cafe; restaurant,0,problems,yes,,63f5c74677ad
+task_2,61,type_2,No amenities found,0,minitest|test,yes,,0130483c2943
+task_2,62,type_2,No amenities found,0,minitest|test,yes,,f232f6c84501
+task_2,63,type_2,No amenities found,0,minitest,yes,,380ba6c32ade
+task_2,64,type_2,No amenities found,0,minitest|test,yes,,72fb12224ff2
+task_2,65,type_2,fountain; parking_entrance,0,minitest|test,yes,,b0dade721511
+task_2,66,type_2,No amenities found,0,minitest|test,yes,,68ca1ba1798d
+task_2,67,type_2,fire_station,0,minitest|test,yes,,d008e7045140
+task_2,68,type_2,public_transport_tickets; telephone; vending_machine,0,minitest|test,yes,,00bc2ed70e31
+task_2,69,type_2,No amenities found,0,minitest,yes,,7348f8c18784
+task_2,70,type_2,clinic; dentist; social_facility,0,minitest|test,yes,,55bd82d403a8
+task_2,71,type_2,doctors; fast_food; place_of_worship; restaurant; theatre,0,minitest|test,yes,,dd1f91ff9905
+task_2,72,type_2,No amenities found,0,minitest|test,yes,,fdaed50e7121
+task_2,73,type_2,arts_centre; bar; bench; bicycle_parking; bus_station; clock; courthouse; library; post_box; restaurant; toilets,0,minitest|test,yes,,996bfb9d1ed9
+task_2,74,type_2,No amenities found,0,minitest,yes,,177fbe5c7bc8
+task_2,75,type_2,school,0,minitest|test,yes,,ea95e8729cf1
+task_2,76,type_2,No amenities found,0,minitest|test,yes,,87a45435627c
+task_2,77,type_2,charging_station; fast_food; vending_machine,0,minitest|test,yes,,66c9ccdaa895
+task_2,78,type_2,fast_food,0,minitest|test,yes,,24f4e4a3973b
+task_2,79,type_2,No amenities found,0,test,yes,,b25a3d5f0576
+task_2,80,type_2,No amenities found,0,minitest,yes,,86d8d0a84c6e
+task_2,81,type_2,No amenities found,0,minitest|test,yes,,a143eccb5b1e
+task_2,82,type_2,No amenities found,0,minitest|test,yes,,1a81cc5272c9
+task_2,83,type_2,veterinary,0,minitest|test,yes,,27c26469a94f
+task_2,84,type_2,community_centre,0,minitest|test,yes,,8c5d8dee9903
+task_2,85,type_2,bar; ice_cream; parking; parking_entrance; pub; reception_desk,0,minitest|test,yes,,dc6078a4d5fa
+task_2,86,type_2,place_of_worship,0,minitest|test,yes,,4c9ee6bc2fb5
+task_2,87,type_2,No amenities found,0,minitest|test,yes,,a946bdd3a84e
+task_2,88,type_2,No amenities found,0,minitest,yes,,560de6c439fd
+task_2,89,type_2,school,0,minitest|test,yes,,7ed3edd6fd1b
+task_2,90,type_2,car_wash; place_of_worship,0,minitest|test,yes,,430e522e5fb2
+task_2,91,type_2,cafe; fast_food; restaurant,0,minitest|test,yes,,2eff5dc8b571
+task_2,92,type_2,fire_station,0,test,yes,,1e3ae53ed2c3
+task_2,93,type_2,cafe; restaurant,0,minitest,yes,,abb08b6e29ff
+task_2,94,type_2,bicycle_parking; community_centre; theatre,0,minitest|test,yes,,586cb930bccf
+task_2,95,type_2,atm; bank,0,minitest,yes,,6ffc6dc8ea62
+task_2,96,type_2,cinema; clinic; fast_food; restaurant,0,minitest|test,yes,,fb113c3a9185
+task_2,97,type_2,No amenities found,0,minitest,yes,,84fef6c93e31
+task_2,98,type_2,bench; bicycle_parking; cafe; fountain,0,minitest|test,yes,,1e5eaf074869
+task_2,99,type_2,No amenities found,0,minitest|test,yes,,5eb0c60cc4cd
+task_2,100,type_2,bar; cafe; theatre,0,test,yes,,365e2f585a64
+task_2,101,type_2,cafe; fast_food,0,minitest|test,yes,,1a7a6d2083f4
+task_2,102,type_2,No amenities found,0,minitest,yes,,3c94267f9978
+task_2,103,type_2,No amenities found,0,minitest,yes,,c6642becd3e4
+task_2,104,type_2,cafe; marketplace; pharmacy; restaurant,0,test,yes,,81381d79e911
+task_2,105,type_2,fuel,0,minitest|test,yes,,870b361cbd05
+task_2,106,type_2,No amenities found,0,minitest,yes,,75fc1a5c30b3
+task_2,107,type_2,fast_food,0,minitest|test,yes,,4cad3a1a6c66
+task_2,108,type_2,drinking_water; fast_food; toilets,0,minitest|test,yes,,1b45ab545ea1
+task_2,109,type_2,bank; parking_entrance,0,minitest|test,yes,,92be840e81db
+task_2,110,type_2,restaurant,0,minitest|test,yes,,22fb7671939e
+task_2,111,type_2,fast_food; parking_entrance,0,minitest|test,yes,,ef109cdb2576
+task_2,112,type_2,bar; cafe; fast_food,0,minitest|test,yes,,88b5f149a971
+task_2,113,type_2,fast_food; restaurant,0,minitest|test,yes,,ec10cee3b0d6
+task_2,114,type_2,place_of_worship,0,minitest|test,yes,,6a47241d8e77
+task_2,115,type_2,bank,0,minitest|test,yes,,402bbf73a79b
+task_2,116,type_2,No amenities found,0,minitest,yes,,55db37a0d1bb
+task_2,117,type_2,library; school,0,minitest|test,yes,,d67d5ae49102
+task_2,118,type_2,cafe; fast_food,0,minitest|test,yes,,0df88c92e82a
+task_2,119,type_2,No amenities found,0,minitest,yes,,71526de166dc
+task_2,120,type_2,atm; bank; cafe; clinic; dentist; doctors; restaurant,0,minitest|test,yes,,6d49e142742e
+task_2,121,type_2,restaurant; telephone,0,minitest,yes,,35cbcbd38144
+task_2,122,type_2,atm; dojo; fast_food; fuel; ice_cream; vending_machine,0,minitest|test,yes,,c05e6e9bf98a
+task_2,123,type_2,cafe; parking; pharmacy; post_office; restaurant; vending_machine,0,minitest|test,yes,,0bb5835d6291
+task_2,124,type_2,No amenities found,0,,yes,,ad509231fc6e
+task_2,125,type_2,cafe; post_office,0,minitest|test,yes,,104f2127d9ed
+task_2,126,type_2,clinic; fast_food; restaurant,0,minitest|test,yes,,1c3e7b1d8cea
+task_2,127,type_2,No amenities found,0,minitest,yes,,c5c4ef38619f
+task_2,128,type_2,No amenities found,0,minitest,yes,,0060143958b4
+task_2,129,type_2,No amenities found,0,minitest|test,yes,,05aa06db85ac
+task_2,130,type_2,No amenities found,0,minitest|test,yes,,db5f459a7326
+task_2,131,type_2,bank; restaurant,0,minitest|test,yes,,2a0f002f58c7
+task_2,132,type_2,fast_food,0,minitest|test,yes,,a47c1cc0614d
+task_2,133,type_2,No amenities found,0,minitest|test,yes,,56926e75e954
+task_2,134,type_2,bar; dentist,0,minitest|test,yes,,cc4f4eaf7260
+task_2,135,type_2,clinic; dojo; fast_food; parking_entrance; prep_school; restaurant,0,minitest|test,yes,,0334ad735829
+task_2,136,type_2,No amenities found,0,minitest|test,yes,,e0c50666b4e7
+task_2,137,type_2,ice_cream,0,minitest|test,yes,,416cbfff6221
+task_2,138,type_2,bar; fast_food; pub; restaurant,0,minitest|test,yes,,800a1d08bf47
+task_2,139,type_2,No amenities found,0,minitest|test,yes,,d0c5501272af
+task_2,140,type_2,bench,0,minitest|test,yes,,9ec1342676aa
+task_2,141,type_2,bank,0,minitest|test,yes,,3020df6e6a5d
+task_2,142,type_2,fast_food; restaurant,0,minitest|test,yes,,7ed2968641f8
+task_2,143,type_2,bench,0,minitest|test,yes,,6f072d392034
+task_2,144,type_2,No amenities found,0,minitest,yes,,5e18b7fa9a83
+task_2,145,type_2,No amenities found,0,minitest|test,yes,,7cc8444e75bc
+task_2,146,type_2,restaurant,0,minitest|test,yes,,ffd947aeae98
+task_2,147,type_2,atm; bank; bicycle_parking; cafe; drinking_water; fast_food; parcel_locker; police; post_box; restaurant,0,minitest|test,yes,,29c7b2bef4d9
+task_2,148,type_2,No amenities found,0,minitest,yes,,2f257f25bce1
+task_2,149,type_2,bank; fast_food; restaurant,0,minitest|test,yes,,9a9433a922f2
+task_2,150,type_2,No amenities found,0,minitest|test,yes,,81b409dbd3f5
+task_2,151,type_2,fast_food; restaurant,0,minitest|test,yes,,e4db6f72ab7c
+task_2,152,type_2,bicycle_repair_station; parking_entrance; restaurant,0,minitest|test,yes,,95aff56c5aff
+task_2,153,type_2,ice_cream,0,minitest|test,yes,,47c46c09c8b9
+task_2,154,type_2,cafe; ice_cream; restaurant; theatre,0,minitest|test,yes,,746d786b272b
+task_2,155,type_2,No amenities found,0,minitest|test,yes,,b66f34d98829
+task_2,156,type_2,cafe; car_rental; clinic; dentist; doctors; fast_food; post_office; restaurant,0,minitest|test,yes,,217816fbd7a7
+task_2,157,type_2,No amenities found,0,minitest|test,yes,,dfb7b23f590e
+task_2,158,type_2,bank; cafe; parking_entrance; post_box; prep_school,0,minitest|test,yes,,7b8faf8e0072
+task_2,159,type_2,No amenities found,0,minitest|test,yes,,dc878b08e7ee
+task_2,160,type_2,fast_food,0,minitest|test,yes,,411df3ada55a
+task_2,161,type_2,No amenities found,0,minitest|test,yes,,d8e88c48a110
+task_2,162,type_2,cafe; restaurant,0,minitest,yes,,f22cdeae5353
+task_2,163,type_2,clinic; restaurant,0,minitest|test,yes,,3d8937c90029
+task_2,164,type_2,No amenities found,0,minitest|test,yes,,69f7c03a74f1
+task_2,165,type_2,No amenities found,0,minitest|test,yes,,a3b18442b0cd
+task_2,166,type_2,bank; cafe; fast_food; post_box; restaurant,0,minitest|test,yes,,b192dc1d385e
+task_2,167,type_2,car_rental,0,minitest|test,yes,,3f8199a8ad3a
+task_2,168,type_2,restaurant,0,minitest|test,yes,,fd3bcaa19f78
+task_2,169,type_2,No amenities found,0,minitest|test,yes,,dcec26f94cb9
+task_2,170,type_2,No amenities found,0,minitest|test,yes,,b5e66dd26beb
+task_2,171,type_2,No amenities found,0,minitest,yes,,9cc235ddb3c6
+task_2,172,type_2,place_of_worship; telephone,0,minitest|test,yes,,bddcc015bd18
+task_2,173,type_2,bar,0,minitest|test,yes,,e7461084c82f
+task_2,174,type_2,community_centre,0,minitest|test,yes,,8eeee2cfab8f
+task_2,175,type_2,No amenities found,0,minitest,yes,,a739cfec6f98
+task_2,176,type_2,No amenities found,0,minitest,yes,,3fb76aa73528
+task_2,177,type_2,fast_food; fuel,0,minitest|test,yes,,29c50d9c1444
+task_2,178,type_2,No amenities found,0,minitest,yes,,c8ddfd7c7a2b
+task_2,179,type_2,dentist; restaurant,0,minitest|test,yes,,c609d6071b91
+task_2,180,type_2,fast_food; restaurant,0,minitest|test,yes,,602e59501653
+task_2,181,type_2,bank; bar; cafe; fast_food; restaurant; toilets,0,minitest|test,yes,,80c5d6430a8f
+task_2,182,type_2,No amenities found,0,minitest|test,yes,,1d2f422a64b8
+task_2,183,type_2,atm; bureau_de_change; cafe; dentist; fast_food; pharmacy; place_of_worship; toilets; townhall,0,problems,yes,,1f8535cc5c52
+task_2,184,type_2,bbq; cafe; fast_food; fountain; ice_cream; parking_entrance; restaurant; school,0,minitest|test,yes,,0ad1158901e9
+task_2,185,type_2,No amenities found,0,minitest|test,yes,,e9e765207f7c
+task_2,186,type_2,bench; clock; drinking_water; fast_food; theatre; toilets,0,minitest|test,yes,,0658d1340e80
+task_2,187,type_2,dentist; restaurant,0,minitest|test,yes,,900b155bc6e9
+task_2,188,type_2,place_of_worship,0,minitest|test,yes,,43481ab920af
+task_2,189,type_2,No amenities found,0,minitest,yes,,071f8b688f8c
+task_2,190,type_2,fast_food; kindergarten,0,minitest|test,yes,,dd99420bde60
+task_2,191,type_2,No amenities found,0,test,yes,,70845368048f
+task_2,192,type_2,cafe; clinic; dentist; fast_food; post_office; restaurant; social_facility,0,minitest|test,yes,,e22608a47923
+task_2,193,type_2,bicycle_parking; cafe; dojo; kindergarten; music_school; restaurant,0,minitest|test,yes,,e6702b082fbd
+task_2,194,type_2,restaurant,0,minitest|test,yes,,2bb2c51098be
+task_2,195,type_2,bicycle_parking; vending_machine,0,minitest|test,yes,,da67931faa92
+task_2,196,type_2,bicycle_parking; drinking_water; ice_cream; restaurant; toilets; vending_machine,0,minitest|test,yes,,2091cb5cfe43
+task_2,197,type_2,No amenities found,0,minitest,yes,,556f81b8b061
+task_2,198,type_2,bank; cafe; fast_food; parking_entrance; restaurant,0,minitest|test,yes,,fb4fdb727d82
+task_2,199,type_2,No amenities found,0,minitest,yes,,b80877783566
+task_2,200,type_2,bank; clinic; ice_cream; post_office; prep_school,0,minitest|test,yes,,9a302218365a
+task_2,201,type_2,No amenities found,0,minitest|test,yes,,db3deab2ef87
+task_2,202,type_2,No amenities found,0,minitest,yes,,8c3f7e44c04f
+task_2,203,type_2,cafe; post_office,0,minitest|test,yes,,e15042bd3e01
+task_2,204,type_2,cafe; clinic; ice_cream,0,minitest|test,yes,,52e32201d0a7
+task_2,205,type_2,fast_food; restaurant,0,minitest|test,yes,,30574c651741
+task_2,206,type_2,cafe; ice_cream; restaurant,0,minitest|test,yes,,56f7837ddc74
+task_2,207,type_2,restaurant,0,minitest|test,yes,,5fca5afa291c
+task_2,208,type_2,dojo,0,minitest|test,yes,,99de2903f8ee
+task_2,209,type_2,clinic; place_of_worship,0,minitest|test,yes,,206de46d8b2e
+task_2,210,type_2,No amenities found,0,minitest|test,yes,,fd2fd48845e2
+task_2,211,type_2,restaurant,0,minitest|test,yes,,d9caa4382231
+task_2,212,type_2,atm; fast_food; fuel,0,minitest|test,yes,,a147630e9712
+task_2,213,type_2,No amenities found,0,minitest|test,yes,,ae063f597c3f
+task_2,214,type_2,dentist; fast_food; ice_cream; restaurant,0,minitest|test,yes,,f6222e778b53
+task_2,215,type_2,No amenities found,0,minitest,yes,,9ce507a819cc
+task_2,216,type_2,No amenities found,0,minitest|test,yes,,5d1d448ea757
+task_2,217,type_2,cafe; restaurant; veterinary,0,minitest|test,yes,,b66dcb475e13
+task_2,218,type_2,car_wash; restaurant,0,minitest|test,yes,,f96c127c7b11
+task_2,219,type_2,restaurant,0,minitest|test,yes,,63d845a25ffb
+task_2,220,type_2,No amenities found,0,minitest,yes,,5e1253b3f09b
+task_2,221,type_2,bar; cafe; fuel; restaurant,0,minitest|test,yes,,7aac17fcc052
+task_2,222,type_2,college,0,minitest|test,yes,,6ba964002572
+task_2,223,type_2,No amenities found,0,minitest|test,yes,,1fb68d9d07fa
+task_2,224,type_2,bench; bicycle_parking; cafe; fast_food; parking_entrance; restaurant,0,minitest|test,yes,,c27e1113e369
+task_2,225,type_2,cafe; restaurant,0,minitest|test,yes,,b4b653cfa6ab
+task_2,226,type_2,No amenities found,0,minitest|test,yes,,609d91879eec
+task_2,227,type_2,kindergarten; social_facility,0,minitest|test,yes,,fb3122194cd6
+task_2,228,type_2,bench; clock; drinking_water; fountain; post_box; theatre; toilets,0,minitest|test,yes,,29c36dc94adf
+task_2,229,type_2,bar; bench; cafe; ice_cream; restaurant,0,minitest|test,yes,,09e63047adeb
+task_2,230,type_2,atm; car_wash; fast_food; fuel; restaurant,0,minitest|test,yes,,91089a97ef06
+task_2,231,type_2,fuel,0,minitest|test,yes,,c242d6b445f0
+task_2,232,type_2,No amenities found,0,minitest,yes,,4e0570e28dc5
+task_2,233,type_2,fast_food; restaurant,0,minitest|test,yes,,f1eb344c5c13
+task_2,234,type_2,No amenities found,0,minitest,yes,,de54b6094f0f
+task_2,235,type_2,cafe; fast_food; parking_entrance; restaurant,0,minitest|test,yes,,98bd0bea9d6a
+task_2,236,type_2,bicycle_parking; cafe; clinic; fast_food; parking_entrance; restaurant; watering_place,0,minitest|test,yes,,c3d83258833c
+task_2,237,type_2,fast_food; restaurant; veterinary,0,,yes,,4b19aad90ca5
+task_2,238,type_2,fuel,0,minitest|test,yes,,641c58932137
+task_2,239,type_2,fast_food,0,minitest|test,yes,,b7211d575624
+task_2,240,type_2,No amenities found,0,minitest,yes,,e76226f43aa3
+task_2,241,type_2,No amenities found,0,minitest,yes,,3f3a3230bd11
+task_2,242,type_2,place_of_worship,0,minitest|test,yes,,333d5b772ba6
+task_2,243,type_2,restaurant,0,minitest|test,yes,,56c7342ec134
+task_2,244,type_2,No amenities found,0,minitest,yes,,3e5c873667a7
+task_2,245,type_2,cafe; fast_food; ice_cream; restaurant,0,minitest|test,yes,,ac06773b1cfd
+task_2,246,type_2,fuel,0,minitest|test,yes,,88731f73b14a
+task_2,247,type_2,dentist; events_venue; restaurant; social_centre,0,minitest|test,yes,,6e88b8d0e1c1
+task_2,248,type_2,school,0,minitest|test,yes,,ef8e9d90ace7
+task_2,249,type_2,No amenities found,0,minitest|test,yes,,a27d5d51a324
+task_2,250,type_2,No amenities found,0,minitest|test,yes,,65d494f6a151
+task_3,1,type_3,studio,0,minitest|test,yes,,1bacc8d0d9e9
+task_3,2,type_3,fast_food,0,test,yes,,0321980034c5
+task_3,3,type_3,fast_food,0,test,yes,,5d3cc25e37b9
+task_3,4,type_3,fast_food,0,test,yes,,f836a327de1c
+task_3,5,type_3,pub,0,minitest|test,yes,,87fd52c0f9b1
+task_3,6,type_3,pub,0,minitest|test,yes,,607230eeb407
+task_3,7,type_3,pub,0,minitest|test,yes,,bd101cb37403
+task_3,8,type_3,fuel,0,minitest|test,yes,,7c944993bb11
+task_3,9,type_3,restaurant,0,minitest|test,yes,,7d6c87889037
+task_3,10,type_3,restaurant,0,minitest|test,yes,,d0edc5962032
+task_3,11,type_3,restaurant,0,minitest,yes,,d14c7b26115c
+task_3,12,type_3,restaurant,0,minitest|test,yes,,38209bf5553d
+task_3,13,type_3,restaurant,0,minitest,yes,,1f5cbfd48449
+task_3,14,type_3,restaurant,0,minitest|test,yes,,a93dcadd90dc
+task_3,15,type_3,fuel,0,minitest|test,yes,,02b1fba3febc
+task_3,16,type_3,pub,0,minitest|test,yes,,21cc99b8eee4
+task_3,17,type_3,pub,0,minitest|test,yes,,581528bb5fec
+task_3,18,type_3,ferry_terminal,0,minitest|test,yes,,935e38bf881c
+task_3,19,type_3,ferry_terminal,0,minitest|test,yes,,e8cd844fa402
+task_3,20,type_3,community_centre,0,minitest|test,yes,,0ce6987b363e
+task_3,21,type_3,parking,0,minitest|test,yes,,3f82ce7b0ab1
+task_3,22,type_3,theatre,0,minitest|test,yes,,e232865eae94
+task_3,23,type_3,theatre,0,minitest|test,yes,,06f03e5d1c8a
+task_3,24,type_3,school,0,minitest|test,yes,,fa5b56355b30
+task_3,25,type_3,cafe,0,minitest|test,yes,,10633fdfc9c1
+task_3,26,type_3,trailer_park,0,minitest,yes,,7dedccfbab50
+task_3,27,type_3,fuel,0,minitest|test,yes,,6202a9f89c6c
+task_3,28,type_3,school,0,minitest,yes,,33718581fba3
+task_3,29,type_3,library,0,minitest|test,yes,,0d23d054b331
+task_3,30,type_3,bank,0,minitest|test,yes,,b498a533aa67
+task_3,31,type_3,bar,0,minitest|test,yes,,51b04a3c77d3
+task_3,32,type_3,restaurant,0,minitest|test,yes,,8c97080b5496
+task_3,33,type_3,pharmacy,0,minitest|test,yes,,f232e775aae3
+task_3,34,type_3,bank,0,minitest|test,yes,,b91f55ed2861
+task_3,35,type_3,police,0,minitest|test,yes,,ae12325290e3
+task_3,36,type_3,fuel,0,minitest|test,yes,,98768ab1c8bd
+task_3,37,type_3,fast_food,0,minitest|test,yes,,51e765c1fa75
+task_3,38,type_3,place_of_worship,0,minitest|test,yes,,5c9b39f2a92a
+task_3,39,type_3,restaurant,0,minitest|test,yes,,56d9db9a67f2
+task_3,40,type_3,restaurant,0,minitest|test,yes,,2eaa2c8f0999
+task_3,41,type_3,fuel,0,minitest|test,yes,,3f717ec0b00b
+task_3,42,type_3,fuel,0,minitest|test,yes,,1ec95c38b12e
+task_3,43,type_3,fuel,0,minitest|test,yes,,cb60a3c556c5
+task_3,44,type_3,restaurant,0,minitest|test,yes,,d8d0bd9e0e00
+task_3,45,type_3,cafe,0,minitest|test,yes,,ae47a814e435
+task_3,46,type_3,pharmacy,0,test,yes,,31dc9288ca1a
+task_3,47,type_3,fast_food,0,test,yes,,ac4b9b5a35c7
+task_3,48,type_3,fuel,0,minitest|test,yes,,2b3a12aed537
+task_3,49,type_3,restaurant,0,minitest,yes,,b81b37179ab6
+task_3,50,type_3,nursing_home,0,minitest|test,yes,,069fc262bef1
+task_3,51,type_3,fuel,0,minitest|test,yes,,d56cfed42fd3
+task_3,52,type_3,fast_food,0,minitest|test,yes,,d0da00daf8f6
+task_3,53,type_3,restaurant,0,minitest|test,yes,,4e35be9f51d0
+task_3,54,type_3,cafe,0,minitest|test,yes,,feda0e1e339c
+task_3,55,type_3,restaurant,0,minitest|test,yes,,a0aa6a550dfb
+task_3,56,type_3,bank,0,minitest|test,yes,,022b0c2e9030
+task_3,57,type_3,bank,0,minitest|test,yes,,c9adf70f65f7
+task_3,58,type_3,cafe,0,minitest|test,yes,,3cbafbe135f6
+task_3,59,type_3,restaurant,0,minitest|test,yes,,bc5725ef701b
+task_3,60,type_3,fuel,0,minitest|test,yes,,8ad3bbe7345f
+task_3,61,type_3,place_of_worship,0,minitest|test,yes,,330c2cf2f893
+task_3,62,type_3,parking,0,minitest|test,yes,,9f128ca885e5
+task_3,63,type_3,fuel,0,minitest|test,yes,,1d1d02881f37
+task_3,64,type_3,fuel,0,minitest|test,yes,,06eac4727777
+task_3,65,type_3,fuel,0,minitest|test,yes,,2bb3776b5467
+task_3,66,type_3,restaurant,0,minitest|test,yes,,428b1b51cec4
+task_3,67,type_3,fuel,0,minitest|test,yes,,32e75800dfe6
+task_3,68,type_3,fire_station,0,minitest,yes,,eb7e6c5af504
+task_3,69,type_3,restaurant,0,minitest|test,yes,,456638ca30ed
+task_3,70,type_3,fire_station,0,minitest,yes,,5bd83e0fb357
+task_3,71,type_3,fire_station,0,minitest,yes,,202390c6eb07
+task_3,72,type_3,fire_station,0,minitest,yes,,7f55b3f04e32
+task_3,73,type_3,fire_station,0,minitest,yes,,63404da1edf4
+task_3,74,type_3,fire_station,0,minitest|test,yes,,b31592162fa6
+task_3,75,type_3,fire_station,0,minitest,yes,,2830a3cf16a3
+task_3,76,type_3,fire_station,0,minitest,yes,,d866d1be762e
+task_3,77,type_3,fire_station,0,minitest,yes,,b8cef1794466
+task_3,78,type_3,fire_station,0,minitest|test,yes,,8e11a469bd9a
+task_3,79,type_3,fire_station,0,minitest,yes,,19f728c80476
+task_3,80,type_3,fire_station,0,minitest|test,yes,,3dbbdf67a6cd
+task_3,81,type_3,fire_station,0,minitest|test,yes,,c9ef54b4bf36
+task_3,82,type_3,fuel,0,minitest|test,yes,,5cd6686778f7
+task_3,83,type_3,police,0,minitest|test,yes,,d57bd1e11277
+task_3,84,type_3,fuel,0,minitest|test,yes,,d0a99a2a48cb
+task_3,85,type_3,post_office,0,minitest|test,yes,,82773db9fd3e
+task_3,86,type_3,bank,0,minitest|test,yes,,7af71e76d21f
+task_3,87,type_3,place_of_worship,0,minitest|test,yes,,68b80f2fab8e
+task_3,88,type_3,bank,0,minitest|test,yes,,d240142a7629
+task_3,89,type_3,restaurant,0,minitest|test,yes,,289b9cfecbc1
+task_3,90,type_3,restaurant,0,minitest|test,yes,,fcbb13cbab52
+task_3,91,type_3,fast_food,0,minitest|test,yes,,0937e49858c9
+task_3,92,type_3,restaurant,0,minitest|test,yes,,be7f421be069
+task_3,93,type_3,restaurant,0,minitest|test,yes,,b56f38ec896c
+task_3,94,type_3,restaurant,0,minitest,yes,,4c55e0293507
+task_3,95,type_3,place_of_worship,0,minitest|test,yes,,698dfdaadc89
+task_3,96,type_3,fast_food,0,minitest|test,yes,,55a2f9c56079
+task_3,97,type_3,fast_food,0,minitest|test,yes,,0433d0d4ebfd
+task_3,98,type_3,fast_food,0,minitest|test,yes,,cda5ca3af78c
+task_3,99,type_3,cafe,0,minitest|test,yes,,e17fadc8e486
+task_3,100,type_3,fast_food,0,minitest|test,yes,,21bdd5c3436e
+task_3,101,type_3,restaurant,0,minitest|test,yes,,ff9c119796a6
+task_3,102,type_3,fast_food,0,minitest|test,yes,,55a340890d5f
+task_3,103,type_3,ice_cream,0,minitest|test,yes,,54c2d683c278
+task_3,104,type_3,fast_food,0,minitest|test,yes,,deffdb161af4
+task_3,105,type_3,fast_food,0,minitest|test,yes,,005ab4584fd1
+task_3,106,type_3,fast_food,0,minitest|test,yes,,b581c0eca814
+task_3,107,type_3,fast_food,0,minitest|test,yes,,83995ab881ee
+task_3,108,type_3,fast_food,0,minitest|test,yes,,e97efa53f51c
+task_3,109,type_3,fast_food,0,minitest|test,yes,,8cac19218d85
+task_3,110,type_3,fast_food,0,minitest|test,yes,,1799b519c312
+task_3,111,type_3,fast_food,0,minitest|test,yes,,1f817033de33
+task_3,112,type_3,fast_food,0,minitest|test,yes,,25ac46f79841
+task_3,113,type_3,fast_food,0,minitest|test,yes,,828b20c3c2fe
+task_3,114,type_3,cafe,0,minitest|test,yes,,b40ea469b226
+task_3,115,type_3,fast_food,0,minitest|test,yes,,2c9b260b2a66
+task_3,116,type_3,restaurant,0,minitest|test,yes,,a67fe5ff8590
+task_3,117,type_3,fast_food,0,minitest|test,yes,,2be349899a69
+task_3,118,type_3,fast_food,0,minitest|test,yes,,d5c17bfbd69f
+task_3,119,type_3,fast_food,0,minitest|test,yes,,fe3866891166
+task_3,120,type_3,fast_food,0,minitest|test,yes,,4d7e83216cdf
+task_3,121,type_3,fast_food,0,minitest|test,yes,,183dbd99ac2d
+task_3,122,type_3,fast_food,0,minitest|test,yes,,6cc6a7ead605
+task_3,123,type_3,cafe,0,minitest|test,yes,,ea7051d11381
+task_3,124,type_3,place_of_worship,0,minitest|test,yes,,edde5505a179
+task_3,125,type_3,pharmacy,0,minitest|test,yes,,0611f2d4b573
+task_3,126,type_3,pharmacy,0,minitest|test,yes,,b6b69dfbf110
+task_3,127,type_3,fuel,0,minitest|test,yes,,67d29fbd8051
+task_3,128,type_3,fuel,0,minitest|test,yes,,cb08c46f3ca2
+task_3,129,type_3,bank,0,minitest|test,yes,,f279ce487eb9
+task_3,130,type_3,restaurant,0,minitest|test,yes,,f95ba7b98b49
+task_3,131,type_3,restaurant,0,minitest|test,yes,,abbc4270f17b
+task_3,132,type_3,fuel,0,minitest|test,yes,,103c344a9cf0
+task_3,133,type_3,fast_food,0,minitest|test,yes,,76c1ad965392
+task_3,134,type_3,fuel,0,minitest|test,yes,,0d79a3d9b36a
+task_3,135,type_3,cafe,0,minitest|test,yes,,4fc590b9fcbb
+task_3,136,type_3,restaurant,0,minitest|test,yes,,d71b2810fac0
+task_3,137,type_3,fast_food,0,minitest|test,yes,,bdb3eefd5709
+task_3,138,type_3,restaurant,0,minitest|test,yes,,379cb1f1a65c
+task_3,139,type_3,restaurant,0,minitest|test,yes,,58aad63bd4d9
+task_3,140,type_3,place_of_worship,0,minitest|test,yes,,086a37cf7b58
+task_3,141,type_3,atm,0,minitest|test,yes,,969cd8f7cf2e
+task_3,142,type_3,restaurant,0,minitest|test,yes,,9281c26d4dab
+task_3,143,type_3,fast_food,0,minitest|test,yes,,51c2689bdec2
+task_3,144,type_3,library,0,minitest|test,yes,,b479eea5544f
+task_3,145,type_3,restaurant,0,minitest|test,yes,,ed4aed7f3d5a
+task_3,146,type_3,fire_station,0,minitest|test,yes,,0ad1c5331cf6
+task_3,147,type_3,fire_station,0,minitest|test,yes,,ef793f69ce9e
+task_3,148,type_3,place_of_worship,0,minitest|test,yes,,b4c4e2f66d6e
+task_3,149,type_3,fast_food,0,minitest|test,yes,,92cd6e69506e
+task_3,150,type_3,fast_food,0,minitest|test,yes,,0bab21cf16cd
+task_3,151,type_3,fuel,0,minitest|test,yes,,eae912e0bfde
+task_3,152,type_3,fast_food,0,minitest|test,yes,,c4ddd0b5c39e
+task_3,153,type_3,restaurant,0,minitest,yes,,045c15b87dd5
+task_3,154,type_3,fire_station,0,minitest|test,yes,,07732e5e5dcc
+task_3,155,type_3,fire_station,0,minitest|test,yes,,35cc598a2324
+task_3,156,type_3,townhall,0,minitest|test,yes,,2dff7ed1a6fe
+task_3,157,type_3,restaurant,0,minitest|test,yes,,f21a7446e98d
+task_3,158,type_3,place_of_worship,0,minitest|test,yes,,c6a2506b435a
+task_3,159,type_3,fast_food,0,minitest|test,yes,,efd1c279be3b
+task_3,160,type_3,restaurant,0,minitest|test,yes,,7c1c068231e8
+task_3,161,type_3,restaurant,0,minitest,yes,,36b759aa188a
+task_3,162,type_3,fuel,0,minitest|test,yes,,85f4d30714f3
+task_3,163,type_3,restaurant,0,minitest,yes,,a02f9e6ed1cc
+task_3,164,type_3,library,0,minitest|test,yes,,0f1a0a72efcd
+task_3,165,type_3,pharmacy,0,minitest|test,yes,,97d259b606f2
+task_3,166,type_3,fuel,0,minitest|test,yes,,d6301df8ee31
+task_3,167,type_3,fuel,0,minitest|test,yes,,e1bfaf972f26
+task_3,168,type_3,fire_station,0,minitest,yes,,b239ed193441
+task_3,169,type_3,fuel,0,minitest|test,yes,,148010f6d440
+task_3,170,type_3,prison,0,minitest|test,yes,,3f28271802b4
+task_3,171,type_3,restaurant,0,minitest|test,yes,,d446dfc3f1a2
+task_3,172,type_3,restaurant,0,minitest|test,yes,,3fc58d684592
+task_3,173,type_3,restaurant,0,minitest|test,yes,,77e8d34e815a
+task_3,174,type_3,fast_food,0,minitest|test,yes,,b6361517bfed
+task_3,175,type_3,fast_food,0,minitest|test,yes,,c869f3ed2ede
+task_3,176,type_3,restaurant,0,minitest|test,yes,,5c34e10a16d2
+task_3,177,type_3,restaurant,0,minitest|test,yes,,31a849679a16
+task_3,178,type_3,restaurant,0,minitest|test,yes,,4d253521f3b9
+task_3,179,type_3,bear_box,0,minitest|test,yes,,817b41f9a93c
+task_3,180,type_3,school,0,minitest|test,yes,,97f76adadcbd
+task_3,181,type_3,place_of_worship,0,minitest|test,yes,,a43ca0d85072
+task_3,182,type_3,fire_station,0,minitest|test,yes,,b03160a7981c
+task_3,183,type_3,public_bath,0,minitest|test,yes,,769c5aa9eee5
+task_3,184,type_3,library,0,minitest|test,yes,,bc9faa7835f2
+task_3,185,type_3,fast_food,0,minitest|test,yes,,0adf23920ebd
+task_3,186,type_3,restaurant,0,minitest|test,yes,,abbb4510483f
+task_3,187,type_3,restaurant,0,problems,yes,,c6d4509adb07
+task_3,188,type_3,cafe,0,minitest|test,yes,,13b6fa200c82
+task_3,189,type_3,restaurant,0,minitest|test,yes,,3016a853c53e
+task_3,190,type_3,fast_food,0,minitest|test,yes,,e19e5dc076d1
+task_3,191,type_3,restaurant,0,minitest,yes,,7ef4af950cc1
+task_3,192,type_3,bar,0,minitest,yes,,8a7cc8396b75
+task_3,193,type_3,restaurant,0,minitest|test,yes,,c95ea0a2383b
+task_3,194,type_3,grave_yard,0,minitest|test,yes,,7e6aff7542c2
+task_3,195,type_3,school,0,minitest,yes,,e99d24be08dd
+task_3,196,type_3,school,0,minitest|test,yes,,fea1a6d1fab7
+task_3,197,type_3,school,0,minitest|test,yes,,621344f91e36
+task_3,198,type_3,school,0,minitest|test,yes,,a7db56863993
+task_3,199,type_3,school,0,minitest|test,yes,,daa3a1f3f270
+task_3,200,type_3,school,0,minitest|test,yes,,bcc1e57a7450
+task_3,201,type_3,school,0,minitest|test,yes,,a1c952e861a8
+task_3,202,type_3,school,0,minitest|test,yes,,0369469ad517
+task_3,203,type_3,school,0,minitest|test,yes,,1d63c12e9af4
+task_3,204,type_3,school,0,minitest,yes,,b144df600b1e
+task_3,205,type_3,school,0,minitest,yes,,b37f5b4e7dae
+task_3,206,type_3,school,0,minitest|test,yes,,15dce3716533
+task_3,207,type_3,school,0,minitest|test,yes,,c74fd17e3737
+task_3,208,type_3,school,0,minitest,yes,,f1cd5548a6ca
+task_3,209,type_3,school,0,minitest|test,yes,,3d3eb6df7ac6
+task_3,210,type_3,school,0,minitest|test,yes,,e4ed9fa70cf8
+task_3,211,type_3,school,0,minitest,yes,,3ffadca39397
+task_3,212,type_3,school,0,minitest|test,yes,,0053648e80a3
+task_3,213,type_3,school,0,minitest|test,yes,,3354a15bb3c1
+task_3,214,type_3,school,0,minitest|test,yes,,69d66f77414c
+task_3,215,type_3,school,0,minitest,yes,,7f165eb3fca6
+task_3,216,type_3,school,0,minitest|test,yes,,1dbf6875e5c7
+task_3,217,type_3,school,0,minitest|test,yes,,c4a53118ae3d
+task_3,218,type_3,school,0,minitest|test,yes,,2fde7d38f281
+task_3,219,type_3,school,0,minitest|test,yes,,2fcb8327182c
+task_3,220,type_3,school,0,minitest,yes,,5043355e78d1
+task_3,221,type_3,school,0,minitest|test,yes,,d533a46e339f
+task_3,222,type_3,school,0,minitest|test,yes,,36a730c133ec
+task_3,223,type_3,school,0,minitest|test,yes,,55900b9dfdc5
+task_3,224,type_3,school,0,minitest,yes,,d0353ad0773a
+task_3,225,type_3,school,0,minitest|test,yes,,0b3ba490f6a2
+task_3,226,type_3,school,0,minitest|test,yes,,fcf1fa3c8215
+task_3,227,type_3,school,0,minitest|test,yes,,81ded7c8ff5e
+task_3,228,type_3,school,0,minitest,yes,,cf1f5066d9bd
+task_3,229,type_3,school,0,minitest|test,yes,,802769ea9565
+task_3,230,type_3,school,0,minitest,yes,,7fdcc46dc669
+task_3,231,type_3,school,0,minitest,yes,,2c0d42ebc160
+task_3,232,type_3,school,0,minitest|test,yes,,fb4fa8d63218
+task_3,233,type_3,school,0,minitest|test,yes,,db7316faee5b
+task_3,234,type_3,school,0,minitest|test,yes,,b65cffea9e74
+task_3,235,type_3,school,0,minitest|test,yes,,ab542691e80d
+task_3,236,type_3,school,0,minitest|test,yes,,e810b08cc974
+task_3,237,type_3,school,0,minitest|test,yes,,ac295775b8c6
+task_3,238,type_3,school,0,minitest,yes,,b62067237edd
+task_3,239,type_3,school,0,minitest,yes,,65c0448d0ffd
+task_3,240,type_3,school,0,minitest,yes,,d1115676e79b
+task_3,241,type_3,school,0,minitest|test,yes,,bd05cad58d16
+task_3,242,type_3,school,0,minitest|test,yes,,d51b9d9f383e
+task_3,243,type_3,school,0,minitest|test,yes,,94eda1a73501
+task_3,244,type_3,school,0,minitest|test,yes,,86fc4086f226
+task_3,245,type_3,school,0,minitest|test,yes,,efc087776a3a
+task_3,246,type_3,school,0,minitest,yes,,a1757c8bb30a
+task_3,247,type_3,school,0,minitest,yes,,b58b639d898b
+task_3,248,type_3,school,0,minitest|test,yes,,7aad60b8ad4e
+task_3,249,type_3,school,0,minitest|test,yes,,242a3ea914bc
+task_3,250,type_3,school,0,minitest|test,yes,,5d11186662fe
+task_4,1,type_4,Cheswick’s West; Tony’s Newport Cafe; Sunshine Company,0,minitest|test,yes,,2c1fed9a4836
+task_4,2,type_4,Chase,0,minitest,yes,,d69ecd45f543
+task_4,3,type_4,Hamilton's Tavern,0,minitest,yes,,00ab7e70fc3f
+task_4,4,type_4,Union Bank,0,minitest,yes,,026ba003512c
+task_4,5,type_4,PacTrans Federal Credit Union,0,minitest|test,yes,,0283a7b18d16
+task_4,6,type_4,Navy Federal,0,minitest|test,yes,,0666cd0072b8
+task_4,7,type_4,Pacific Western Bank,0,,yes,,e9bbe5cc24eb
+task_4,8,type_4,Schools First Credit Union,0,minitest|test,yes,,dc6c52bdc635
+task_4,9,type_4,Woori,0,minitest|test,yes,,cfa485523a59
+task_4,10,type_4,Social and Public Art Resource Center,0,minitest,yes,,da69a3bf6b7d
+task_4,11,type_4,Wells Fargo,0,minitest,yes,,d817d1f0bcf2
+task_4,12,type_4,Recognize Cocktails,0,minitest|test,yes,,af1cd8913c51
+task_4,13,type_4,Dumonts,0,minitest|test,yes,,7a091603a3bf
+task_4,14,type_4,Bluefoot; Modern Times: North Park Flavordome,0,test,yes,,2239dff24a9e
+task_4,15,type_4,Wells Fargo; Chase,0,minitest|test,yes,,439a043ddf0b
+task_4,16,type_4,Chatterbox,0,minitest|test,yes,,e2f28e5b4026
+task_4,17,type_4,Park & Rec,0,minitest|test,yes,,f682f49a1521
+task_4,18,type_4,Rainbow Bar and Grill,0,minitest|test,yes,,e4de4029edf8
+task_4,19,type_4,Mike Hess Brewing,0,minitest|test,yes,,367024429b22
+task_4,20,type_4,Stage 21,0,minitest|test,yes,,79957084383b
+task_4,21,type_4,Chase,0,minitest,yes,,b631c6bb11a7
+task_4,22,type_4,Western Union,0,minitest,yes,,8a1e8abb1083
+task_4,23,type_4,Chatterbox,0,minitest|test,yes,,0456d2119d9c
+task_4,24,type_4,Cheswick’s West; Tony’s Newport Cafe; Sunshine Company,0,minitest|test,yes,,502680606da5
+task_4,25,type_4,Coin-Op Game Room,0,test,yes,,81bbfc6c6ad7
+task_4,26,type_4,Ale House,0,minitest|test,yes,,d052f138f202
+task_4,27,type_4,11,0,minitest|test,yes,,de2aab4e3458
+task_4,28,type_4,Diablo Pase Wines,0,minitest|test,yes,,5e5713b574c5
+task_4,29,type_4,Pariah Brewing Company; Eppig Brewing North Park,0,test,yes,,12a73bfae8f6
+task_4,30,type_4,Double Black Lounge Bar & Kitchen,0,minitest,yes,,a78d69320a01
+task_4,31,type_4,Pariah Brewing Company; Eppig Brewing North Park,0,minitest|test,yes,,12a73bfae8f6
+task_4,32,type_4,Gaslamp Tavern,0,minitest|test,yes,,66ee80270405
+task_4,33,type_4,Torrey Pines Bank,0,minitest,yes,,a7f71552c1d8
+task_4,34,type_4,Mason Memorial Bench; Sikand Memorial Bench; Chien Memorial Bench,0,minitest|test,yes,,f5c8e08e1f39
+task_4,35,type_4,Wells Fargo; Chase,0,minitest|test,yes,,b062afd7d9a2
+task_4,36,type_4,Citibank,0,minitest,yes,,5a4486dfdd95
+task_4,37,type_4,Fiesta Cantina,0,minitest|test,yes,,62be51a4a3f8
+task_4,38,type_4,analog bar,0,minitest|test,yes,,2fce2e129198
+task_4,39,type_4,El Dorado,0,minitest|test,yes,,78cf7725dbcb
+task_4,40,type_4,Spring St Bar,0,minitest,yes,,905ed8dd9ad3
+task_4,41,type_4,Fairweather Rooftop Bar,0,minitest|test,yes,,511094879376
+task_4,42,type_4,The Ould Sod,0,minitest,yes,,c93cb99b4837
+task_4,43,type_4,El Dorado,0,minitest|test,yes,,0364a75978c6
+task_4,44,type_4,Chase,0,minitest|test,yes,,e09e74fc10ba
+task_4,45,type_4,Wells Fargo; Chase,0,minitest|test,yes,,a959b044e6fb
+task_4,46,type_4,The Shout! House,0,minitest|test,yes,,ae50f0b3d07e
+task_4,47,type_4,Redwing Bar and Grill,0,minitest,yes,,d5466f92d578
+task_4,48,type_4,Mother's Tavern,0,minitest|test,yes,,a5005e442c43
+task_4,49,type_4,Pacific Western Bank,0,minitest,yes,,745f65cfeff6
+task_4,50,type_4,City National Bank,0,minitest,yes,,0b86c4c028fa
+task_4,51,type_4,Romano's,0,minitest|test,yes,,eb0cbfc011cf
+task_4,52,type_4,La Barrita Bar,0,minitest|test,yes,,c07700584ebb
+task_4,53,type_4,The South Park Abbey,0,minitest,yes,,8b1aa37d0289
+task_4,54,type_4,Romano's,0,minitest|test,yes,,eb0cbfc011cf
+task_4,55,type_4,1901,0,minitest|test,yes,,24014b771e82
+task_4,56,type_4,Beer Company,0,minitest|test,yes,,1438e2912023
+task_4,57,type_4,Creeky Tiki,0,minitest|test,yes,,8bcc7434548b
+task_4,58,type_4,Chase; Wells Fargo,0,minitest|test,yes,,eb9f5a514fbb
+task_4,59,type_4,Petes Place,0,minitest|test,yes,,0bde13d4f932
+task_4,60,type_4,Bar Ama,0,minitest|test,yes,,581b8bfd57ff
+task_4,61,type_4,Downtown Experiment,0,minitest|test,yes,,78c7be849f5a
+task_4,62,type_4,Wells Fargo,0,minitest|test,yes,,49da5a95e9e9
+task_4,63,type_4,Hamilton's Tavern,0,minitest,yes,,0b72ce7d94bd
+task_4,64,type_4,Cheswick’s West; Tony’s Newport Cafe; Sunshine Company,0,minitest|test,yes,,2c1fed9a4836
+task_4,65,type_4,Chase,0,minitest,yes,,6977317d4a09
+task_4,66,type_4,HSBC (Global),0,minitest|test,yes,,7469b77ee2ac
+task_4,67,type_4,Mike Hess Brewing,0,minitest|test,yes,,203616d5073a
+task_4,68,type_4,Wells Fargo; Chase,0,minitest|test,yes,,571c86ec2a0f
+task_4,69,type_4,W at Worthington's; Downtown Experiment; Raincross Pub,0,minitest|test,yes,,6285504f21dc
+task_4,70,type_4,1901,0,minitest|test,yes,,6b1f82e33424
+task_4,71,type_4,Navy Federal,0,minitest|test,yes,,689fd3a1293f
+task_4,72,type_4,Uptown Tavern,0,minitest,yes,,773e8fcd5e31
+task_4,73,type_4,Diablo Pase Wines,0,minitest|test,yes,,f2186f24a22e
+task_4,74,type_4,The Red Piano,0,minitest|test,yes,,f1e773a2300a
+task_4,75,type_4,Stage 21,0,minitest|test,yes,,adad0c2c1f29
+task_4,76,type_4,Western Union,0,minitest|test,yes,,6aced429749f
+task_4,77,type_4,Meleose Rooftop,0,minitest|test,yes,,533d02cc8458
+task_4,78,type_4,Chase,0,minitest,yes,,f8103d759059
+task_4,79,type_4,Redwing Bar and Grill,0,minitest,yes,,13cfbb45aa62
+task_4,80,type_4,The Tonga Hut,0,minitest|test,yes,,f391ddcd8a8d
+task_4,81,type_4,Wells Fargo,0,,yes,,14e113724092
+task_4,82,type_4,City National Bank,0,minitest,yes,,0b86c4c028fa
+task_4,83,type_4,Raincross Pub,0,minitest|test,yes,,94aacaaf2dca
+task_4,84,type_4,Bar Pink; Califronia Tap Room; True North,0,minitest,yes,,90ed2646b720
+task_4,85,type_4,Spring St Bar,0,minitest,yes,,905ed8dd9ad3
+task_4,86,type_4,Wells Fargo,0,minitest|test,yes,,0b298ca29f8a
+task_4,87,type_4,Union Bank,0,,yes,,87ec88ca0ce9
+task_4,88,type_4,Gold Room,0,minitest|test,yes,,a834fcc2156f
+task_4,89,type_4,broken shaker,0,minitest|test,yes,,2494a6f7563a
+task_4,90,type_4,Chase; Wells Fargo,0,minitest|test,yes,,f1057a8ca4a4
+task_4,91,type_4,Cherrobomb,0,minitest|test,yes,,e9a5436264a0
+task_4,92,type_4,Dumonts,0,minitest|test,yes,,787d25b4d9ee
+task_4,93,type_4,8,0,minitest|test,yes,,b180ad29586e
+task_4,94,type_4,Beach Ball,0,minitest,yes,,a7a861183455
+task_4,95,type_4,The Shout! House,0,minitest|test,yes,,c3ea308daca6
+task_4,96,type_4,Simplicity Bank,0,minitest,yes,,b9e32d16edf6
+task_4,97,type_4,Wells Fargo,0,minitest|test,yes,,f44618885ea3
+task_4,98,type_4,Schools First Credit Union,0,minitest|test,yes,,e274113fdb29
+task_4,99,type_4,Tommys Place,0,minitest|test,yes,,8a21f318177a
+task_4,100,type_4,Gold Room,0,minitest|test,yes,,7429a39b2096
+task_4,101,type_4,The South Park Abbey,0,minitest|test,yes,,8b28a6a20426
+task_4,102,type_4,Torrey Pines Bank,0,minitest,yes,,825e96fbd222
+task_4,103,type_4,Chase,0,minitest|test,yes,,ef3d0dd760e5
+task_4,104,type_4,Double Black Lounge Bar & Kitchen,0,minitest|test,yes,,a78d69320a01
+task_4,105,type_4,Wells Fargo; Chase,0,minitest|test,yes,,571c86ec2a0f
+task_4,106,type_4,Citibank,0,problems,yes,,32efba2abeeb
+task_4,107,type_4,Fiesta Cantina,0,minitest|test,yes,,826e7c7b8743
+task_4,108,type_4,Bull's Tavern; Creeky Tiki,0,minitest|test,yes,,f1e3749b1919
+task_4,109,type_4,Menagerie; W at Worthington's; Raincross Pub,0,minitest|test,yes,,2b59ab6ac6df
+task_4,110,type_4,Union Bank,0,,yes,,4b5b244322d5
+task_4,111,type_4,Citibank,0,minitest,yes,,5eeca83ed558
+task_4,112,type_4,Wells Fargo External ATM,0,minitest,yes,,cce23162576e
+task_4,113,type_4,Bar Pink,0,minitest|test,yes,,6f420d3a44d4
+task_4,114,type_4,Wells Fargo; Chase,0,minitest|test,yes,,c827bc90d474
+task_4,115,type_4,University Credit Union,0,minitest,yes,,1159f8026b57
+task_4,116,type_4,Ale House,0,minitest|test,yes,,26086d152537
+task_4,117,type_4,Cheswick’s West; Tony’s Newport Cafe; Sunshine Company,0,minitest|test,yes,,eb0e48898d04
+task_4,118,type_4,Mason Memorial Bench; Sikand Memorial Bench; Chien Memorial Bench,0,minitest|test,yes,,40685f15acc4
+task_4,119,type_4,19,0,test,yes,,8afd387f5eec
+task_4,120,type_4,Bank of the West,0,minitest|test,yes,,a5c3baedec94
+task_4,121,type_4,Desert Fox Bar,0,minitest|test,yes,,e68c995ec4f5
+task_4,122,type_4,Chase,0,minitest|test,yes,,90a53d0005c7
+task_4,123,type_4,19,0,test,yes,,7161943caf70
+task_4,124,type_4,Side Bar,0,minitest,yes,,38c18aa0f640
+task_4,125,type_4,Mother's Tavern,0,minitest|test,yes,,3a861ddb5b24
+task_4,126,type_4,Premier America Credit Union,0,minitest,yes,,f3230622df31
+task_4,127,type_4,Modern Times: North Park Flavordome,0,minitest|test,yes,,3d04d5008f43
+task_4,128,type_4,Mason Memorial Bench; Sikand Memorial Bench; Chien Memorial Bench,0,minitest|test,yes,,946d7c866a88
+task_4,129,type_4,City National Bank,0,minitest,yes,,2b266dddae2c
+task_4,130,type_4,Tom Tom Bar,0,minitest|test,yes,,4777ecde9984
+task_4,131,type_4,HSBC (Global),0,minitest,yes,,5b7b172935e7
+task_4,132,type_4,California Credit Union,0,,yes,,a07549cfae63
+task_4,133,type_4,Citibank,0,,yes,,c8f7068e92cd
+task_4,134,type_4,Silver Sands,0,minitest|test,yes,,b26639ac6275
+task_4,135,type_4,North Pine Brewing,0,minitest|test,yes,,f4ad06836e29
+task_4,136,type_4,Union Bank,0,minitest|test,yes,,026ba003512c
+task_4,137,type_4,Coin-Op Game Room,0,problems,yes,,d4fa90beb0e1
+task_4,138,type_4,Kensington Club,0,minitest,yes,,875870e2f450
+task_4,139,type_4,Tom Tom Bar,0,test,yes,,8edf53d7d240
+task_4,140,type_4,Simplicity Bank,0,minitest,yes,,5c91c69ffbb6
+task_4,141,type_4,Key Point Credit Union,0,,yes,,840da322b6dd
+task_4,142,type_4,The Olde Carriage Tavern,0,minitest|test,yes,,9ea0f2aa3a73
+task_4,143,type_4,Bank of America,0,minitest|test,yes,,f6b4461db3a5
+task_4,144,type_4,The Olde Carriage Tavern,0,minitest|test,yes,,372387050a18
+task_4,145,type_4,Key Point Credit Union,0,problems,yes,,a5798182631a
+task_4,146,type_4,Bank of America,0,minitest,yes,,0cbd29a1ffa3
+task_4,147,type_4,Wells Fargo,0,minitest,yes,,b37b5cfa454e
+task_4,148,type_4,Bank of the West,0,minitest|test,yes,,f7b29d4c471f
+task_4,149,type_4,Griffin's of Kinsale,0,minitest,yes,,100e6c4150c2
+task_4,150,type_4,The Red Piano,0,minitest|test,yes,,e2ed72e6a3b0
+task_4,151,type_4,Tommys Place,0,minitest|test,yes,,6ab5bfce7588
+task_4,152,type_4,Urban Bar & Grill; Trailer Park After Dark,0,minitest|test,yes,,2d94bd1ef2d4
+task_4,153,type_4,Bank of America,0,minitest,yes,,6c28f3f5ca63
+task_4,154,type_4,Wells Fargo,0,minitest,yes,,2255099bdef0
+task_4,155,type_4,The Tonga Hut; Desert Fox Bar,0,minitest|test,yes,,d2643bb21784
+task_4,156,type_4,Citibank; Chase,0,minitest,yes,,4e588288921a
+task_4,157,type_4,Kensington Club,0,minitest,yes,,68cfb7a7fa6e
+task_4,158,type_4,University Credit Union,0,minitest|test,yes,,cc9f57f1ebc5
+task_4,159,type_4,Wells Fargo,0,minitest,yes,,3c1435678cae
+task_4,160,type_4,Recognize Cocktails,0,minitest|test,yes,,49a611b35509
+task_4,161,type_4,Premier America Credit Union,0,minitest,yes,,3e06d1d14092
+task_4,162,type_4,Chase; Wells Fargo,0,minitest|test,yes,,13b02583638c
+task_4,163,type_4,Gaslamp Tavern,0,minitest|test,yes,,66ee80270405
+task_4,164,type_4,Ginger’s,0,minitest|test,yes,,acb0b2edafbb
+task_4,165,type_4,United Club,0,minitest|test,yes,,787056213c47
+task_4,166,type_4,11,0,minitest|test,yes,,99a0c8fbf8df
+task_4,167,type_4,Beach Ball,0,minitest,yes,,aac94b9ac226
+task_4,168,type_4,Chase,0,minitest|test,yes,,25d697cf8077
+task_4,169,type_4,Wells Fargo External ATM,0,minitest,yes,,e3bdf43867d4
+task_4,170,type_4,Urban Bar & Grill; Trailer Park After Dark; analog bar,0,minitest|test,yes,,ecc81809f9be
+task_4,171,type_4,Rainbow Bar and Grill,0,minitest|test,yes,,57cefdff2fd9
+task_4,172,type_4,Chase,0,minitest,yes,,90a53d0005c7
+task_4,173,type_4,Side Bar,0,minitest,yes,,b4175b4a6044
+task_4,174,type_4,Cherrobomb,0,minitest|test,yes,,fb228a55b06c
+task_4,175,type_4,Western Union,0,minitest|test,yes,,10ede8f8ecaa
+task_4,176,type_4,Califronia Tap Room; True North,0,minitest,yes,,8d607cd4b4e6
+task_4,177,type_4,Tropicana Bar,0,minitest,yes,,c991498bcc17
+task_4,178,type_4,The Ould Sod,0,minitest,yes,,0275b7add41c
+task_4,179,type_4,Ginger’s,0,minitest|test,yes,,3bcac3c2f972
+task_4,180,type_4,Rocco's Tavern,0,minitest|test,yes,,98e35c601d8c
+task_4,181,type_4,La Barrita Bar,0,minitest|test,yes,,523e117fa2bf
+task_4,182,type_4,North Pine Brewing,0,minitest|test,yes,,939762c55844
+task_4,183,type_4,Pariah Brewing Company; Eppig Brewing North Park,0,minitest|test,yes,,e251dadfd42b
+task_4,184,type_4,PacTrans Federal Credit Union,0,minitest|test,yes,,0283a7b18d16
+task_4,185,type_4,Bluefoot,0,minitest|test,yes,,2b0f12a437b5
+task_4,186,type_4,Fairweather Rooftop Bar,0,minitest|test,yes,,555eac62c104
+task_4,187,type_4,Califronia Tap Room; True North,0,minitest|test,yes,,608e00d69693
+task_4,188,type_4,Taste and Thirst,0,minitest,yes,,58888035e57d
+task_4,189,type_4,Chase; Wells Fargo,0,minitest|test,yes,,6c7a3c09d060
+task_4,190,type_4,Wells Fargo; Chase,0,minitest|test,yes,,771f7156ece4
+task_4,191,type_4,City National Bank,0,minitest,yes,,4c24cffd0d42
+task_4,192,type_4,Western Union,0,minitest|test,yes,,7ecc062d0032
+task_4,193,type_4,Bar Ama,0,minitest|test,yes,,95c190c15e76
+task_4,194,type_4,Citibank,0,problems,yes,,d886d07ed822
+task_4,195,type_4,Spurline,0,minitest|test,yes,,3357b1d7e50f
+task_4,196,type_4,Meleose Rooftop,0,minitest|test,yes,,533d02cc8458
+task_4,197,type_4,Spurline,0,minitest|test,yes,,85ccf8847e09
+task_4,198,type_4,Mason Memorial Bench; Sikand Memorial Bench; Chien Memorial Bench,0,minitest|test,yes,,946d7c866a88
+task_4,199,type_4,Pacific Western Bank,0,problems,yes,,06280d870550
+task_4,200,type_4,Griffin's of Kinsale,0,minitest,yes,,19a1290620b1
+task_4,201,type_4,Pacific Western Bank,0,minitest|test,yes,,fcfb29f53821
+task_4,202,type_4,Bull's Tavern,0,minitest|test,yes,,3f92dfce702c
+task_4,203,type_4,8,0,minitest|test,yes,,66f33d2cb217
+task_4,204,type_4,Machete Beer House,0,minitest|test,yes,,942804fa3625
+task_4,205,type_4,California Credit Union,0,minitest,yes,,df566eb4da3c
+task_4,206,type_4,Wells Fargo,0,minitest|test,yes,,7e18948cdc05
+task_4,207,type_4,Wells Fargo,0,minitest|test,yes,,02f46fc43c9d
+task_4,208,type_4,broken shaker,0,minitest|test,yes,,14e8ad700d5e
+task_4,209,type_4,Uptown Tavern,0,minitest,yes,,9b1d0619cd5a
+task_4,210,type_4,Taste and Thirst,0,minitest,yes,,62d337d4cb2b
+task_4,211,type_4,Wachovia Bank,0,minitest,yes,,7c5f89b6de59
+task_4,212,type_4,Wachovia Bank,0,minitest|test,yes,,a5e57562eb62
+task_4,213,type_4,Urban Bar & Grill; Trailer Park After Dark,0,minitest|test,yes,,644dd5db3d10
+task_4,214,type_4,Social and Public Art Resource Center,0,minitest,yes,,da69a3bf6b7d
+task_4,215,type_4,Beer Company,0,minitest|test,yes,,861692e4c20e
+task_4,216,type_4,Petes Place,0,minitest|test,yes,,0bde13d4f932
+task_4,217,type_4,Woori,0,minitest|test,yes,,86bae0b04ea2
+task_4,218,type_4,Silver Sands,0,minitest|test,yes,,ccfa052e637c
+task_4,219,type_4,United Club,0,minitest|test,yes,,c6bfdf21fba0
+task_4,220,type_4,Rocco's Tavern,0,minitest,yes,,023203d3e33e
+task_4,221,type_4,Bank of America,0,minitest|test,yes,,d02c90663eba
+task_4,222,type_4,Machete Beer House,0,minitest|test,yes,,f40382ac74da
+task_4,223,type_4,W at Worthington's; Raincross Pub,0,minitest|test,yes,,910cdfa9d882
+task_4,224,type_4,Tropicana Bar,0,minitest,yes,,882e99e1937a
+task_4,225,type_4,Park & Rec,0,minitest|test,yes,,29ece62280cf
+task_5,1,type_5,Yoshinoya,0,minitest,yes,,9a9db58a45e9
+task_5,2,type_5,Royal Falconer,0,minitest,yes,,ea1f83cf6631
+task_5,3,type_5,Benjarong Thai Cuisine,0,minitest,yes,,229045c316d6
+task_5,4,type_5,Pho Ha Vietnamese Restaurant,0,minitest,yes,,e2358e52d1b9
+task_5,5,type_5,Arco,0,minitest,yes,,412e433f76e0
+task_5,6,type_5,Balboa Island Ferry,0,minitest,yes,,0aed951b7831
+task_5,7,type_5,Lot D,0,minitest,yes,,35877126d628
+task_5,8,type_5,Camp Irwin Owen,0,minitest,yes,,b4fe89c36a98
+task_5,9,type_5,Chevron,0,minitest,yes,,2507065e57e0
+task_5,10,type_5,Wells Fargo,0,minitest,yes,,624c96f5c570
+task_5,11,type_5,CVS Pharmacy,0,minitest,yes,,dc50f53841b1
+task_5,12,type_5,Chevron,0,minitest,yes,,d27947f22bbe
+task_5,13,type_5,Leucadia,0,minitest,yes,,7778bbb78e27
+task_5,14,type_5,Shell,0,minitest,yes,,149dd0acbe73
+task_5,15,type_5,Tapioca Express,0,minitest,yes,,5e4562cd04b5
+task_5,16,type_5,Clairemont Auto Care,0,minitest,yes,,d619188dfc48
+task_5,17,type_5,Chevron Mission Car Wash,0,minitest,yes,,2dd4aafdad90
+task_5,18,type_5,The Daily Bagel,0,minitest,yes,,9c2f0959ae7b
+task_5,19,type_5,Citibank,0,minitest,yes,,25f7f3cb6cad
+task_5,20,type_5,Flying J,0,minitest,yes,,2e280fa74340
+task_5,21,type_5,Arco,0,minitest,yes,,63780e41649c
+task_5,22,type_5,Cafe 222,0,minitest,yes,,890fff10a494
+task_5,23,type_5,L B Fire Station #17,0,minitest,yes,,30a9ed3bc495
+task_5,24,type_5,Terminal Island Fire Station,0,minitest,yes,,735fc051841b
+task_5,25,type_5,Long Beach Fire Station #7,0,minitest,yes,,9c2759c1676d
+task_5,26,type_5,Long Beach Fire Station #15,0,,yes,,4bef65198e99
+task_5,27,type_5,NewLife Christian Fellowship,0,minitest,yes,,54cee1287775
+task_5,28,type_5,Round Table Pizza,0,minitest,yes,,7586f6c0d26d
+task_5,29,type_5,El Torito,0,minitest,yes,,7d8dabffc577
+task_5,30,type_5,Roberto's Taco Shop,0,minitest,yes,,72c0a142d90a
+task_5,31,type_5,Starbucks,0,,yes,,25aa2ffe7ba9
+task_5,32,type_5,Togo's,0,minitest,yes,,361dff74829a
+task_5,33,type_5,Little Caesars,0,minitest,yes,,ddeffef0368a
+task_5,34,type_5,Taco Bell,0,minitest,yes,,a5fbe8037575
+task_5,35,type_5,Mamma's Brick Oven Pizza & Pasta,0,minitest,yes,,32ac2f63e76e
+task_5,36,type_5,Roadhouse,0,minitest,yes,,291419a5f2fd
+task_5,37,type_5,El Pollo Loco,0,,yes,,3c7acd9ad407
+task_5,38,type_5,El Pollo Loco,0,minitest,yes,,ab3c4f3ba22a
+task_5,39,type_5,Starbucks,0,minitest,yes,,537000f874f6
+task_5,40,type_5,CVS Pharmacy,0,minitest,yes,,f81471a00acc
+task_5,41,type_5,Chase,0,minitest,yes,,493122383d43
+task_5,42,type_5,76,0,,yes,,0cf3a5502293
+task_5,43,type_5,Starbucks,0,minitest,yes,,09ad58dd00e6
+task_5,44,type_5,Clearman's Galley,0,minitest,yes,,3f99d80af3e1
+task_5,45,type_5,Wells Fargo,0,minitest,yes,,50acb5f5af35
+task_5,46,type_5,Sunland-Tujunga Library,0,minitest,yes,,a7615abdaef1
+task_5,47,type_5,Clear Creek Fire Station,0,minitest,yes,,030232e7adcf
+task_5,48,type_5,Jersey Mike's Subs,0,minitest,yes,,0fe72efe9cdb
+task_5,49,type_5,Pizza Hut,0,minitest,yes,,0ebc48544901
+task_5,50,type_5,Sunland-Tujunga Municipal Building,0,minitest,yes,,ab2232a4d56a
+task_5,51,type_5,Popeyes,0,minitest,yes,,186383a385d7
+task_5,52,type_5,Mission 76,0,minitest,yes,,f58929239311
+task_5,53,type_5,Rite Aid,0,minitest,yes,,f65e80f52da9
+task_5,54,type_5,Fire Department,0,minitest,yes,,26e6ed709cde
+task_5,55,type_5,Rock n' Fish,0,minitest,yes,,1c726b64607b
+task_5,56,type_5,Baja Fresh,0,minitest,yes,,8572e20c1fad
+task_5,57,type_5,Jerry's Famous Deli,0,minitest,yes,,675e86c2cb94
+task_5,58,type_5,Camp Hi-Hill,0,minitest,yes,,c0bcd3e1c8a4
+task_5,59,type_5,Deep Creek Hot Springs,0,minitest,yes,,1fbb3dcf549c
+task_5,60,type_5,The Wits End,0,minitest,yes,,a28dee245a9e
+task_5,61,type_5,Pizza Hut,0,problems,yes,,56be1563c3fe
+task_5,62,type_5,Flicks,0,minitest,yes,,ea5e0b0794cc
+task_5,63,type_5,Acacia School,0,minitest,yes,,14e2f1578a23
+task_5,64,type_5,Alamo School,0,minitest,yes,,16902e555f0f
+task_5,65,type_5,Aliso School,0,minitest,yes,,1f434306d1ee
+task_5,66,type_5,Allen Avenue Elementary School,0,minitest,yes,,cde886173fb2
+task_5,67,type_5,Alta Loma Elementary School,0,minitest,yes,,83791bd4aeae
+task_5,68,type_5,Alverno Heights Academy,0,minitest,yes,,e5dfd7fdbdce
+task_5,69,type_5,Amar School,0,minitest,yes,,07a54aeffeb9
+task_5,70,type_5,Annunciation School,0,minitest,yes,,d1183ee5388a
+task_5,71,type_5,Apperson Elementary School,0,minitest,yes,,d47c460c479c
+task_5,72,type_5,Arizona Middle School,0,minitest,yes,,39cfc6922121
+task_5,73,type_5,Arroyo School,0,minitest,yes,,aeafe5ec3673
+task_5,74,type_5,Ascension School,0,minitest,yes,,1824e1b01ead
+task_5,75,type_5,Asuncion School,0,minitest,yes,,e74d0a4633a7
+task_5,76,type_5,Baker Elementary School,0,minitest,yes,,39003870d92a
+task_5,77,type_5,Baldwin Park Christian School,0,minitest,yes,,7ec2543946d7
+task_5,78,type_5,Cajon Valley Union School District,0,minitest,yes,,c6bf5125ef9f
+task_5,79,type_5,Baptist Day School,0,minitest,yes,,6e3d5aa2cd95
+task_5,80,type_5,Barbara Webster Elementary School,0,minitest,yes,,d0cb4d553c60
+task_5,81,type_5,Bellflower Adult Education Center,0,minitest,yes,,e281c531240a
+task_6,1,type_6,nan,,minitest,no,missing gold answer,5c397136c58a
+task_6,2,type_6,Villa Redondo,0,minitest,yes,,5d61dd7d7b10
+task_6,3,type_6,nan,,minitest,no,missing gold answer,b6ad09b88bf6
+task_6,4,type_6,nan,,minitest,no,missing gold answer,5d0f3c4a79d9
+task_6,5,type_6,The UPS Store,0,minitest,yes,,f9c5afcf38ce
+task_6,6,type_6,US Bankruptcy Court,0,minitest,yes,,957e3e955857
+task_6,7,type_6,Deep Creek Hot Springs,0,minitest,yes,,6aad676b33ca
+task_6,8,type_6,Gujarati Indian Christian Church,0,minitest,yes,,392282746195
+task_6,9,type_6,Feet For Life,0,minitest,yes,,20fee457d45f
+task_6,10,type_6,nan,,minitest,no,missing gold answer,d9b27a3b2e04
+task_6,11,type_6,Pet Pharmacy,0,minitest,yes,,2e6e71138a24
+task_6,12,type_6,Xai Verandah Lounge and hookah,0,minitest,yes,,bcb3171116b3
+task_6,13,type_6,USD School of law,0,minitest,yes,,450b5407e9f9
+task_6,14,type_6,Players Sports Bar,0,minitest,yes,,5f2c68fc2b51
+task_6,15,type_6,nan,,minitest,no,missing gold answer,450c4e21e0b1
+task_6,16,type_6,Claremont Chefs Academy,0,minitest,yes,,ea5c7e323a0d
+task_6,17,type_6,Baskin-Robbins,0,minitest,yes,,be9c0c1191b0
+task_6,18,type_6,"Subway,starbucks,panda express,arbys.",0,minitest,yes,,16548c42e0c6
+task_6,19,type_6,nan,,minitest,no,missing gold answer,d66489605f18
+task_6,20,type_6,Carlsbad City Hall,0,minitest,yes,,a93d068a0d12
+task_6,21,type_6,Soups and Such Caf́é,0,minitest,yes,,5a2ff6f40c46
+task_6,22,type_6,Psychic & Astrology,0,minitest,yes,,ed23c76b0a93
+task_6,23,type_6,nan,,minitest,no,missing gold answer,4b0b85565c7a
+task_6,24,type_6,Social Hookah Lounge,0,minitest,yes,,0d0673a28ad8
+task_6,25,type_6,Calvary Chapel Children's Church,0,minitest,yes,,e21ca3aacb28
+task_6,26,type_6,Sisters Disciples of the Divine Master,0,minitest,yes,,72918ed11115
+task_6,27,type_6,nan,,minitest,no,missing gold answer,446de6133091
+task_6,28,type_6,Riff's Music Lessons,0,minitest,yes,,8f8d2ea181b1
+task_6,29,type_6,Momentum Acrobatics,0,minitest,yes,,5552432bbe1a
+task_6,30,type_6,Ticketing | Check In,0,minitest,yes,,54ff31b2cf97
+task_6,31,type_6,Coventry Pet Resort,0,minitest,yes,,de5902911ecb
+task_6,32,type_6,West Coast Krav Maga,0,minitest,yes,,c27ae61fb0ae
+task_6,33,type_6,Mustang Daily,0,minitest,yes,,25932880c1ed
+task_6,34,type_6,Jurupa Cultural Center,0,minitest,yes,,4c6e414cf097
+task_6,35,type_6,nan,,minitest,no,missing gold answer,fef701e426a3
+task_6,36,type_6,Ticketing | Check In,0,minitest,yes,,5a3f1a0f319b
+task_6,37,type_6,nan,,minitest,no,missing gold answer,4f4388dfdc79
+task_6,38,type_6,The Sheared Sheep,0,minitest,yes,,3aef27d56c8b
+task_6,39,type_6,MCASD Sherwood Auditorium,0,,yes,,f1bd08648188
+task_6,40,type_6,Mission Trails Regional Park Headquarters,0,minitest,yes,,e442dc01b502
+task_6,41,type_6,Redlands Footlighters Theatre,0,minitest,yes,,448a47b2bef9
+task_6,42,type_6,iRepair,0,minitest,yes,,e07b8f093097
+task_6,43,type_6,Community Performance Stage,0,,yes,,9e815dab49b1
+task_6,44,type_6,Paddles and Pedals,0,minitest,yes,,3ccee119b602
+task_6,45,type_6,Pioneertown Wild West Theater,0,minitest,yes,,2b4c08cc9cc4
+task_6,46,type_6,Mail Center and More,0,minitest,yes,,7eb636500b92
+task_6,47,type_6,Watermill Express,0,minitest,yes,,98e89eb77578
+task_6,48,type_6,Virtual Snow,0,minitest,yes,,2086dce438f4
+task_6,49,type_6,Chipotle,0,minitest,yes,,39b16df2b4d7
+task_6,50,type_6,Lincoln School,0,minitest,yes,,fd6a9cfbec82
+task_6,51,type_6,California Department of Industrial Relations - San Bernardino District office,0,minitest,yes,,319e3d6dd323
+task_6,52,type_6,Claro's Italian Market,0,minitest,yes,,68bc3629e121
+task_6,53,type_6,Goodwill,0,minitest,yes,,8e23af4d69c4
+task_6,54,type_6,Nix / Payday Today Check Cashing,0,minitest,yes,,fa692d54b182
+task_6,55,type_6,Keystone Education,0,,yes,,88f481de0ed3
+task_6,56,type_6,Coinstar,0,minitest,yes,,5b415f5b56a3
+task_6,57,type_6,Ponderosa Car Wash,0,minitest,yes,,9c748c7548d6
+task_6,58,type_6,Creative Arts Group,0,minitest,yes,,ba1d1dd24d33
+task_6,59,type_6,Nubia Cafe,0,minitest,yes,,4b6f91cbd7c0
+task_6,60,type_6,Gottlieb Transit Corridor,0,minitest,yes,,28b69040adce
+task_6,61,type_6,Center for Neuroeconomics Studies (CNS),0,minitest,yes,,8fd06eaef49a
+task_6,62,type_6,Bear Valley Church,0,minitest,yes,,e860cdf34c4a
+task_6,63,type_6,Our Lady of the Snows Catholic Church,0,minitest,yes,,8c17a580ce2c
+task_6,64,type_6,"Marina ""Mother's"" Beach",0,minitest,yes,,5d54498605bc
+task_6,65,type_6,California Highway Patrol Station 14,0,minitest,yes,,176fbdfc7e14
+task_6,66,type_6,Lucky Dog,0,minitest,yes,,abd24e108b89
+task_6,67,type_6,Automated Postal Machine,0,minitest,yes,,d0accd0c4dcd
+task_6,68,type_6,BW Spa,0,minitest,yes,,e934a6e3028f
+task_6,69,type_6,Academy of Culinary Arts,0,minitest,yes,,f0ee6148bec7
+task_6,70,type_6,Industrial Fabrications,0,minitest,yes,,bff8d6e7e763
+task_6,71,type_6,City of Los Angeles,0,minitest,yes,,0e87401facc8
+task_6,72,type_6,Tae Kwon Do Plus,0,minitest,yes,,bd8bcd25d960
+task_6,73,type_6,Little Free Library,0,minitest,yes,,d349e876bc5a
+task_6,74,type_6,Savers Donation Area,0,minitest,yes,,e0b6b37c2198
+task_6,75,type_6,U.S. Bank,0,minitest,yes,,6e5349cfd77b
+task_6,76,type_6,Regelin Hall,0,minitest,yes,,69b4fd501938
+task_6,77,type_6,Turkey Legs,0,minitest,yes,,31c0f3a617ce
+task_6,78,type_6,Enterprise,0,minitest,yes,,5dfc3ee837ba
+task_6,79,type_6,Burgertown USA,0,minitest,yes,,3bfb2124f88e
+task_6,80,type_6,Coast Community College District Office,0,minitest,yes,,dbb71a506a40
+task_6,81,type_6,Remington Hot Springs,0,minitest,yes,,0f50d490d24c
+task_6,82,type_6,Warner Brothers Studio Cafeteria,0,minitest,yes,,1665389461dd
+task_6,83,type_6,Sprachcaffe Language Plus,0,minitest,yes,,096d8e42454c
+task_6,84,type_6,Depth Perceptions,0,minitest,yes,,382e384dbf32
+task_6,85,type_6,7-Eleven,0,minitest,yes,,ebf127dfe94b
+task_6,86,type_6,USU East Conference Center,0,minitest,yes,,12906ee927f2
+task_6,87,type_6,Pacers Showgirls International,0,,yes,,c73b168ae358
+task_6,88,type_6,Pretzels Boardwalk,0,minitest,yes,,8e20fed0e23f
+task_6,89,type_6,Pasadena Senior Center,0,minitest,yes,,99f304e95314
+task_6,90,type_6,Kindred Hospital Westminster,0,minitest,yes,,da96dd90f266
+task_6,91,type_6,City of Los Angeles,0,minitest,yes,,13b0ad97fed6
+task_6,92,type_6,Blenders,0,minitest,yes,,4547dcebc54a
+task_6,93,type_6,Campbell-Chilwell-Mount Laguna Cemetery,0,minitest,yes,,9ab2fb50cdbf
+task_6,94,type_6,Family Recovery Center,0,minitest,yes,,1bdf38ab9472
+task_6,95,type_6,Western Union,0,minitest,yes,,ba2e3fa1d25a
+task_6,96,type_6,Alhambra Trial Court,0,,yes,,c4515b4ee258
+task_6,97,type_6,Wells Fargo,0,minitest,yes,,e8e39e4910dd
+task_6,98,type_6,Super Seafood Market,0,minitest,yes,,70c682b21023
+task_6,99,type_6,"Marina ""Mother's"" Beach",0,minitest,yes,,7511827c8ec0
+task_6,100,type_6,Watermill Express,0,minitest,yes,,6a52d580645c
+task_6,101,type_6,USPS,0,minitest,yes,,0bf2702cefb9
+task_6,102,type_6,Hawthorne Plaza,0,minitest,yes,,4d3bba3d2127
+task_6,103,type_6,Wilbur Grave,0,minitest,yes,,d695e6f6e884
+task_6,104,type_6,Mellano Orthopedics,0,minitest,yes,,d4240d84e684
+task_6,105,type_6,The Show,0,,yes,,a5a5330db758
+task_6,106,type_6,Chick-fil-A,0,minitest,yes,,1d36deb565e8
+task_6,107,type_6,Riverside Animal Hospital,0,minitest,yes,,aa2076be3863
+task_6,108,type_6,Raas Marketplace,0,minitest,yes,,82ff5c442ae7
+task_6,109,type_6,Xai Verandah Lounge and hookah,0,minitest,yes,,9eede6db2fd5
+task_6,110,type_6,El Toro Mailboxes,0,minitest,yes,,b4b735377aeb
+task_6,111,type_6,Menchie's,0,minitest,yes,,66da4abfb27d
+task_6,112,type_6,UPS Customer Center,0,minitest,yes,,57759f327fbb
+task_6,113,type_6,ChromeCart,0,minitest,yes,,0205e572c276
+task_6,114,type_6,Mt Laguna Post Office,0,minitest,yes,,00b23ffbc601
+task_6,115,type_6,Coast Community College District Office,0,minitest,yes,,447d737e5700
+task_6,116,type_6,Barstow Dental,0,minitest,yes,,f4f5ee6e488b
+task_6,117,type_6,Laguna Hills Mobile Home Estates,0,minitest,yes,,a6946d4d5979
+task_6,118,type_6,English Language Centers,0,minitest,yes,,c4de2a231cb4
+task_6,119,type_6,Carol's Custom Draperies,0,minitest,yes,,20079097ca79
+task_6,120,type_6,Mellano Orthopedics,0,minitest,yes,,e534c12c346f
+task_6,121,type_6,GoldMax,0,minitest,yes,,862a9cad424d
+task_6,122,type_6,Figueroa Mountain Brewing Company,0,minitest,yes,,71c5c5358a91
+task_6,123,type_6,Southern Lites Collective,0,minitest,yes,,3fab46bce1f2
+task_6,124,type_6,Fish District Eatery,0,minitest,yes,,fa157604f2d4
+task_6,125,type_6,Enterprise,0,minitest,yes,,1689c519ca0d
+task_6,126,type_6,Helix Brewing Co,0,minitest,yes,,491bf9017bfa
+task_6,127,type_6,Prometric Testing Center,0,minitest,yes,,58238ed8f05d
+task_6,128,type_6,Subway,0,minitest,yes,,b8e7f4346808
+task_6,129,type_6,iRepair,0,minitest,yes,,1b8a33aca429
+task_6,130,type_6,Collab&Play,0,minitest,yes,,da65abae0430
+task_6,131,type_6,American Martial Arts Academy,0,minitest,yes,,f9899da5d4e8
+task_6,132,type_6,Ticketing | Check In,0,minitest,yes,,88f57ea90561
+task_6,133,type_6,Vapor,0,,yes,,097574678d4b
+task_6,134,type_6,Jacumba Fire Station,0,minitest,yes,,822104245e2f
+task_6,135,type_6,iRepair,0,minitest,yes,,0c0e2462697f
+task_6,136,type_6,Oasis Elementary School,0,minitest,yes,,0122ec5e071e
+task_6,137,type_6,Mellano Orthopedics,0,minitest,yes,,6fc50120a455
+task_6,138,type_6,Santa Maria Care Center,0,minitest,yes,,f7b93396ae26
+task_6,139,type_6,Paul A. Biane Library,0,minitest,yes,,e6cd19eb094a
+task_6,140,type_6,Providence Mount Rubidoux,0,minitest,yes,,666854347b8d
+task_6,141,type_6,Psychic & Astrology,0,minitest,yes,,9216c526a1f1
+task_6,142,type_6,Hacienda Food Court,0,minitest,yes,,769c4de3b729
+task_6,143,type_6,Sasha Cosmetics,0,minitest,yes,,87bb15854c50
+task_6,144,type_6,Savers Donation Area,0,minitest,yes,,766ecae1fac0
+task_6,145,type_6,Max Karaoke,0,minitest,yes,,5516496ad2fc
+task_6,146,type_6,Aerocademy,0,minitest,yes,,2c3291426c50
+task_6,147,type_6,Broadway Discount Center,0,minitest,yes,,225fdb763ac1
+task_6,148,type_6,Road One Towing,0,minitest,yes,,c3fc467b291a
+task_6,149,type_6,Crafted Greens,0,minitest,yes,,311012830451
+task_6,150,type_6,GoBuild,0,minitest,yes,,2e04e58dbc18
+task_6,151,type_6,Big Bully Turf,0,minitest,yes,,d2105a753fab
+task_6,152,type_6,Eppig Biergarten,0,minitest,yes,,e92fb547a9af
+task_6,153,type_6,Los Angeles County Sheriff's Department - Crescenta Valley Station,0,minitest,yes,,a6832ad97fb8
+task_6,154,type_6,Bakersfield Civic Auditorium,0,minitest,yes,,63c0d78dc804
+task_6,155,type_6,La Mesa Medical Group,0,minitest,yes,,62eab74fbad0
+task_6,156,type_6,Canyon View Ranch,0,minitest,yes,,2ec8f3e0e4f6
+task_6,157,type_6,Nature’s Juice,0,minitest,yes,,77c22576763c
+task_6,158,type_6,Irvine Farmers Market at Historic Park,0,minitest,yes,,8c934a941bbb
+task_6,159,type_6,Lucky Dog,0,minitest,yes,,e24207868020
+task_6,160,type_6,Big Bear Superior Court,0,minitest,yes,,a8bec864d520
+task_6,161,type_6,KKJZ 88.1 campus radio,0,minitest,yes,,1f8e37b47b39
+task_6,162,type_6,Chase,0,minitest,yes,,2d8f8a1f257e
+task_6,163,type_6,Arco,0,minitest,yes,,82669d23c3b3
+task_6,164,type_6,HueHue Pronto a Guatemala,0,minitest,yes,,e06439f792c6
+task_6,165,type_6,Compass Recovery,0,minitest,yes,,c313e2d51dba
+task_6,166,type_6,Turkey Legs,0,minitest,yes,,4db575c00c7a
+task_6,167,type_6,Riverside Medical Center (Urgent),0,minitest,yes,,8bb810da8b2b
+task_6,168,type_6,Banorte,0,minitest,yes,,26497d0e11b5
+task_6,169,type_6,Xai Verandah Lounge and hookah,0,minitest,yes,,686363511267
+task_6,170,type_6,Studio 101 West Photography,0,minitest,yes,,3f92e2b8df22
+task_6,171,type_6,Little Free Library,0,minitest,yes,,cf0d7973ce93
+task_6,172,type_6,Valero,0,minitest,yes,,fa2b01955511
+task_6,173,type_6,Lengthwise Brewing Company,0,minitest,yes,,e560623939d2
+task_6,174,type_6,Hookah,0,minitest,yes,,c7368c2bbb85
+task_6,175,type_6,Goodwill,0,minitest,yes,,6e685afed345
+task_6,176,type_6,Old Cambria Car Wash,0,minitest,yes,,ee0154a91744
+task_6,177,type_6,Gateway to Nature,0,minitest,yes,,1878037bf391
+task_6,178,type_6,Walgreens,0,minitest,yes,,77f7616b827b
+task_6,179,type_6,Regelin Hall,0,minitest,yes,,5b4e8ed94456
+task_6,180,type_6,Savers Donation Area,0,minitest,yes,,7f3b0191032f
+task_6,181,type_6,Big Bear Superior Court,0,minitest,yes,,4b7217a632cb
+task_6,182,type_6,Figueroa Mountain Brewing Company,0,minitest,yes,,e501c0f5b43c
+task_6,183,type_6,MONTCLAIR,0,minitest,yes,,7306012c42ac
+task_6,184,type_6,El Toro Mailboxes,0,minitest,yes,,08953bb9cdae
+task_6,185,type_6,The Savoy,0,minitest,yes,,8e616e5c731e
+task_6,186,type_6,Somis Post Office,0,minitest,yes,,0ffce047068b
+task_6,187,type_6,Olson Cemetery,0,minitest,yes,,deda8a809ff6
+task_6,188,type_6,Xai Verandah Lounge and hookah,0,minitest,yes,,41f70f83a45b
+task_6,189,type_6,North County Transporation Center,0,minitest,yes,,e5acbb88b215
+task_6,190,type_6,Virtual Snow,0,minitest,yes,,9ffd6ff96156
+task_6,191,type_6,South Esplanade Lockers,0,minitest,yes,,b1ac6bab2f1c
+task_6,192,type_6,AMC Otay Ranch 12,0,minitest,yes,,a935788a4f68
+task_6,193,type_6,JT Salon,0,minitest,yes,,792a3c2260b2
+task_6,194,type_6,Social Hookah Lounge,0,minitest,yes,,ea68b736525d
+task_6,195,type_6,Advance America Cash Advance,0,minitest,yes,,5daf5f8056e5
+task_6,196,type_6,BizMilk - Orange County Web Design,0,minitest,yes,,32c04481ce6d
+task_6,197,type_6,Regimental Aid Station,0,minitest,yes,,842d470cb588
+task_6,198,type_6,Calipatria City Hall,0,minitest,yes,,262e43165446
+task_6,199,type_6,Coinstar,0,minitest,yes,,7f03793d0404
+task_6,200,type_6,LA Community Fridge East Palmdale,0,minitest,yes,,4dab9b4aabc9
+task_6,201,type_6,Semper Solaris,0,minitest,yes,,4f8773782bd5
+task_6,202,type_6,Mustang Daily,0,minitest,yes,,43a47fa70189
+task_6,203,type_6,Phillips Graduate Institute,0,minitest,yes,,af1d5b86ba8c
+task_6,204,type_6,Sasha Cosmetics,0,minitest,yes,,6640780cdc94
+task_6,205,type_6,Adelanto Correctional Facility,0,minitest,yes,,78f00855cbab
+task_6,206,type_6,Chula Vista Animal Care Facility,0,minitest,yes,,596ca76bfe7d
+task_6,207,type_6,Social Hookah Lounge,0,minitest,yes,,27b701170e15
+task_6,208,type_6,Orcutt Post Office,0,minitest,yes,,e90e1755903f
+task_6,209,type_6,Mustang Daily,0,minitest,yes,,0a1f4793d09a
+task_6,210,type_6,Coronado Brewing Company | Brew Pub,0,minitest,yes,,76c948a53ca9
+task_6,211,type_6,Law Office of Raymond Perez,0,minitest,yes,,655948cc4f47
+task_6,212,type_6,Mission Career College,0,minitest,yes,,d74ea6d56c98
+task_6,213,type_6,Shell,0,minitest,yes,,13f0f461ff58
+task_6,214,type_6,Ticketing | Check In,0,minitest,yes,,f78ed36af776
+task_6,215,type_6,PHD Remodel,0,minitest,yes,,db7caea91585
+task_6,216,type_6,Tortillas,0,minitest,yes,,e4d94e2da478
+task_6,217,type_6,Romero Bench Hitching Post,0,,yes,,9cd348722ad3
+task_6,218,type_6,76,0,minitest,yes,,b5e4618471f2
+task_6,219,type_6,Spearmint Rhino Gentlemen's Club,0,,yes,,9d0c40a6ab61
+task_6,220,type_6,Transit Center;Santa Barbara Transit Center,0,minitest,yes,,88b9d0309446
+task_6,221,type_6,USU East Conference Center,0,minitest,yes,,e45f573a008f
+task_6,222,type_6,Inglewood Cemetery Mortuary,0,minitest,yes,,45c80f400dcf
+task_6,223,type_6,Canyon View Ranch,0,minitest,yes,,574891412cab
+task_6,224,type_6,Stanley,0,minitest,yes,,b78a6badab83
+task_6,225,type_6,Turkey Legs,0,minitest,yes,,707b2987a89e
+task_6,226,type_6,Mellano Orthopedics,0,minitest,yes,,a71aa898fbee
+task_6,227,type_6,GoldMax,0,minitest,yes,,4cd7310a8ba2
+task_6,228,type_6,HearUSA,0,minitest,yes,,4c78e129fdd4
+task_6,229,type_6,Baskin-Robbins,0,minitest,yes,,5c1202118334
+task_6,230,type_6,Flying Flags RV Resort,0,minitest,yes,,60ef6c6a4832
+task_6,231,type_6,Dana Wharf,0,minitest,yes,,2de8ca71390d
+task_6,232,type_6,Little Caesars,0,minitest,yes,,4dd3eaaa799b
+task_6,233,type_6,Guest Services,0,minitest,yes,,03bb82cb2fbb
+task_6,234,type_6,Jack in the Box,0,minitest,yes,,6431ddaa7ab9
+task_6,235,type_6,Chevron,0,minitest,yes,,280b857339ef
+task_6,236,type_6,Chevron,0,minitest,yes,,65640ef732a6
+task_6,237,type_6,Cerritos Library book return,0,minitest,yes,,fbd9df23644e
+task_6,238,type_6,Charter Oak Branch County of Los Angeles Public Library,0,minitest,yes,,94ea4ef794ba
+task_6,239,type_6,GoBuild,0,minitest,yes,,a71c023dc6c5
+task_6,240,type_6,Nature’s Juice,0,minitest,yes,,38b2d7a276f6
+task_6,241,type_6,Stanley,0,minitest,yes,,795fab0e4f52
+task_6,242,type_6,Law Office of Raymond Perez,0,minitest,yes,,ba4547459fee
+task_6,243,type_6,Chevron,0,minitest,yes,,344ee6f52792
+task_6,244,type_6,Ticketing | Check In,0,minitest,yes,,a6b9ef13f694
+task_6,245,type_6,ChromeCart,0,minitest,yes,,f4e06100131b
+task_6,246,type_6,SEA Landing,0,minitest,yes,,4dbb5076325a
+task_6,247,type_6,Villa Barhi,0,minitest,yes,,f2787f1c589b
+task_6,248,type_6,Pico Rivera Sheriffs Station,0,minitest,yes,,2f9d9f34e388
+task_6,249,type_6,Joslyn Senior Center,0,minitest,yes,,e4a9f3179d68
+task_6,250,type_6,iRepair,0,minitest,yes,,3ce81ebbae78
+task_7,1,type_7,22872.87 meters,0,,yes,,32cff3a3c768
+task_7,2,type_7,76411.44 meters,0,minitest,yes,,71221912f899
+task_7,3,type_7,53943.50 meters,0,,yes,,ec6db0e77514
+task_7,4,type_7,75707.99 meters,0,minitest,yes,,5eaf2405f7ee
+task_7,5,type_7,325996.12 meters,0,,yes,,7fae8adcc4de
+task_7,6,type_7,219363.04 meters,0,,yes,,f2e01fb8abe6
+task_7,7,type_7,373761.01 meters,0,,yes,,89ced2383675
+task_7,8,type_7,414515.97 meters,0,,yes,,9a26e29689d0
+task_7,9,type_7,70884.11 meters,0,minitest,yes,,912ecc22918b
+task_7,10,type_7,428212.19 meters,0,,yes,,f151c0fb9bb7
+task_7,11,type_7,381005.50 meters,0,,yes,,714469bd23b9
+task_7,12,type_7,21694.66 meters,0,minitest,yes,,f823e2657e19
+task_7,13,type_7,22481.11 meters,0,,yes,,e13d888fd6d1
+task_7,14,type_7,16372.98 meters,0,minitest,yes,,412662f38f78
+task_7,15,type_7,211610.91 meters,0,,yes,,6b39470a0dcf
+task_7,16,type_7,232825.31 meters,0,,yes,,aed989cec489
+task_7,17,type_7,204544.45 meters,0,,yes,,fb14851b8ed7
+task_7,18,type_7,19619.74 meters,0,,yes,,8018ba3b5f5e
+task_7,19,type_7,163147.51 meters,0,,yes,,ff47c93680c3
+task_7,20,type_7,75363.69 meters,0,,yes,,85543ff7b32d
+task_7,21,type_7,162813.35 meters,0,,yes,,52c034b92d85
+task_7,22,type_7,290010.90 meters,0,,yes,,1724a3151930
+task_7,23,type_7,346563.84 meters,0,,yes,,18804ef225e0
+task_7,24,type_7,40292.23 meters,0,,yes,,3ff6ce01be8c
+task_7,25,type_7,108977.01 meters,0,,yes,,96abbd875d78
+task_7,26,type_7,14418.57 meters,0,,yes,,20a8d4ca9bef
+task_7,27,type_7,56208.58 meters,0,,yes,,1fe9b874644b
+task_7,28,type_7,9059.35 meters,0,,yes,,32e1c7f28940
+task_7,29,type_7,49016.40 meters,0,,yes,,1337e24b277d
+task_7,30,type_7,501884.24 meters,0,,yes,,c0906b32f93e
+task_7,31,type_7,2575.62 meters,0,minitest,yes,,bebc0a5618fb
+task_7,32,type_7,18617.47 meters,0,,yes,,58730035d825
+task_7,33,type_7,163801.53 meters,0,minitest,yes,,b4ed97770f23
+task_7,34,type_7,26324.42 meters,0,minitest,yes,,63b4daffb367
+task_7,35,type_7,439661.06 meters,0,,yes,,4758fb665a4b
+task_7,36,type_7,145913.06 meters,0,,yes,,cbc1346a132c
+task_7,37,type_7,226828.83 meters,0,,yes,,1d4918af5249
+task_7,38,type_7,55167.30 meters,0,minitest,yes,,710410c49ec8
+task_7,39,type_7,98797.37 meters,0,minitest,yes,,94265a8cd71d
+task_7,40,type_7,78521.72 meters,0,minitest,yes,,4fb4bac4e7d2
+task_7,41,type_7,214801.45 meters,0,,yes,,21ba48f78049
+task_7,42,type_7,313694.24 meters,0,minitest,yes,,5f3b7f783f5d
+task_7,43,type_7,202591.19 meters,0,minitest,yes,,1b9973282659
+task_7,44,type_7,177091.13 meters,0,,yes,,3eac7588853f
+task_7,45,type_7,54088.13 meters,0,minitest,yes,,5a40c1945d85
+task_7,46,type_7,294338.40 meters,0,minitest,yes,,a376cb0c244c
+task_7,47,type_7,203779.61 meters,0,,yes,,1a8d37b4b793
+task_7,48,type_7,538714.13 meters,0,minitest,yes,,813bce2e1cea
+task_7,49,type_7,87969.97 meters,0,,yes,,631f089a9bf4
+task_7,50,type_7,55512.22 meters,0,,yes,,cf48680a8c68
+task_7,51,type_7,16157.96 meters,0,,yes,,436c83953fe5
+task_7,52,type_7,396717.00 meters,0,,yes,,b856c2737e2e
+task_7,53,type_7,43837.08 meters,0,minitest,yes,,402632227967
+task_7,54,type_7,48392.46 meters,0,minitest,yes,,736b0848bba3
+task_7,55,type_7,440311.95 meters,0,minitest,yes,,cd57d15dd4f0
+task_7,56,type_7,9326.29 meters,0,minitest,yes,,1abcd278b7ab
+task_7,57,type_7,123687.91 meters,0,minitest,yes,,0b0cce865635
+task_7,58,type_7,483321.56 meters,0,minitest,yes,,2ee0f0af4604
+task_7,59,type_7,335126.39 meters,0,,yes,,7bf9261c942f
+task_7,60,type_7,62821.72 meters,0,minitest,yes,,4db7d758fa34
+task_7,61,type_7,49748.55 meters,0,minitest,yes,,f9c1a3db5d7a
+task_7,62,type_7,47521.46 meters,0,minitest,yes,,8d886c3f0fa8
+task_7,63,type_7,227209.89 meters,0,,yes,,67cb0dbb1d2f
+task_7,64,type_7,81935.06 meters,0,,yes,,391dc7c12dae
+task_7,65,type_7,393997.60 meters,0,,yes,,1b13ccd908c0
+task_7,66,type_7,167866.62 meters,0,minitest,yes,,21b02de3bd4c
+task_7,67,type_7,65375.54 meters,0,minitest,yes,,dcb70f4af0f6
+task_7,68,type_7,426110.93 meters,0,minitest,yes,,9e888b9e5553
+task_7,69,type_7,158224.21 meters,0,minitest,yes,,bd87af4eaec8
+task_7,70,type_7,68838.90 meters,0,minitest,yes,,1c5e185e8519
+task_7,71,type_7,139111.72 meters,0,minitest,yes,,df6090124403
+task_7,72,type_7,144899.46 meters,0,minitest,yes,,af8c4b66b063
+task_7,73,type_7,167194.49 meters,0,minitest,yes,,51dd90294a35
+task_7,74,type_7,29282.31 meters,0,,yes,,69a9c73c9f1d
+task_7,75,type_7,400375.44 meters,0,minitest,yes,,beb8d805b198
+task_7,76,type_7,318611.48 meters,0,minitest,yes,,88b4de7e9759
+task_7,77,type_7,51278.25 meters,0,minitest,yes,,ef5ba525bca1
+task_7,78,type_7,110713.82 meters,0,minitest,yes,,4974c02ee3c7
+task_7,79,type_7,275389.35 meters,0,minitest,yes,,981c1f9a34e1
+task_7,80,type_7,219330.79 meters,0,minitest,yes,,d52b14119d10
+task_7,81,type_7,239553.93 meters,0,minitest,yes,,f32a0b3c1d0c
+task_7,82,type_7,309951.93 meters,0,minitest,yes,,7d9c6a3703b8
+task_7,83,type_7,38276.82 meters,0,minitest,yes,,80a7e8f17a84
+task_7,84,type_7,89730.28 meters,0,minitest,yes,,7ff66f93146c
+task_7,85,type_7,374.60 meters,0,minitest,yes,,adbafb96fd4d
+task_7,86,type_7,289777.26 meters,0,minitest,yes,,8036089b5d72
+task_7,87,type_7,9146.17 meters,0,minitest,yes,,83ae7405b033
+task_7,88,type_7,336653.89 meters,0,minitest,yes,,edffcd4d046c
+task_7,89,type_7,191417.66 meters,0,minitest,yes,,91d595bdcd7f
+task_7,90,type_7,70694.29 meters,0,minitest,yes,,b2c751993ec8
+task_7,91,type_7,131321.24 meters,0,minitest,yes,,a5640f0c46cf
+task_7,92,type_7,61386.15 meters,0,minitest,yes,,688b67f069bd
+task_7,93,type_7,2073.84 meters,0,minitest,yes,,40922146f31b
+task_7,94,type_7,250294.90 meters,0,minitest,yes,,1411b9726c4a
+task_7,95,type_7,76938.04 meters,0,minitest,yes,,010bca76e384
+task_7,96,type_7,42667.07 meters,0,minitest,yes,,cbcc4f0bd314
+task_7,97,type_7,242833.64 meters,0,minitest,yes,,dd3dd1c8138a
+task_7,98,type_7,202233.89 meters,0,minitest,yes,,2079eea63fb6
+task_7,99,type_7,8617.27 meters,0,minitest,yes,,91481777c318
+task_7,100,type_7,210660.44 meters,0,minitest,yes,,e0e5cdfd7fc5
+task_7,101,type_7,280027.83 meters,0,minitest,yes,,a4abe3e8b701
+task_7,102,type_7,16385.65 meters,0,minitest,yes,,43b661c3ba0f
+task_7,103,type_7,38124.49 meters,0,minitest,yes,,46a8aecace78
+task_7,104,type_7,23662.04 meters,0,minitest,yes,,e4c03ae00bcc
+task_7,105,type_7,390765.30 meters,0,minitest,yes,,da6487301d74
+task_7,106,type_7,104085.34 meters,0,minitest,yes,,3aa3e090458b
+task_7,107,type_7,250307.87 meters,0,minitest,yes,,43666076cbf9
+task_7,108,type_7,60278.55 meters,0,minitest,yes,,4f8ae5d640ff
+task_7,109,type_7,371378.47 meters,0,minitest,yes,,573207a22689
+task_7,110,type_7,51966.54 meters,0,minitest,yes,,a5046381cc7e
+task_7,111,type_7,386302.60 meters,0,minitest,yes,,d267e4318457
+task_7,112,type_7,187593.36 meters,0,minitest,yes,,04fa5a92510a
+task_7,113,type_7,15890.98 meters,0,minitest,yes,,1876b359011d
+task_7,114,type_7,331512.13 meters,0,minitest,yes,,2f4dc5d070f1
+task_7,115,type_7,15009.79 meters,0,minitest,yes,,ad0d526d6b15
+task_7,116,type_7,313767.87 meters,0,minitest,yes,,8da93b9fc272
+task_7,117,type_7,92564.70 meters,0,minitest,yes,,32cf6f6d4996
+task_7,118,type_7,166442.98 meters,0,minitest,yes,,3ce1b2f8a247
+task_7,119,type_7,127279.80 meters,0,minitest,yes,,7a68e4eb4f57
+task_7,120,type_7,60021.66 meters,0,minitest,yes,,f16aa9b4afbf
+task_7,121,type_7,404448.96 meters,0,minitest,yes,,67b6120287f7
+task_7,122,type_7,14233.28 meters,0,minitest,yes,,ba98ec18db2b
+task_7,123,type_7,427048.95 meters,0,minitest,yes,,0d3f9b7afe41
+task_7,124,type_7,269044.79 meters,0,minitest,yes,,475a162bec89
+task_7,125,type_7,352427.49 meters,0,minitest,yes,,62df4c244382
+task_7,126,type_7,144623.54 meters,0,minitest,yes,,7b818c7e73b7
+task_7,127,type_7,249536.25 meters,0,minitest,yes,,1f2bb2aab3b8
+task_7,128,type_7,287577.37 meters,0,minitest,yes,,22a640b84c0c
+task_7,129,type_7,99658.61 meters,0,minitest,yes,,39ab337c463c
+task_7,130,type_7,136.33 meters,0,minitest,yes,,1ea4ea70133d
+task_7,131,type_7,203633.06 meters,0,minitest,yes,,2cc80d684812
+task_7,132,type_7,30645.02 meters,0,minitest,yes,,9b2c40240629
+task_7,133,type_7,191539.15 meters,0,minitest,yes,,ff7d2bb9b601
+task_7,134,type_7,32111.32 meters,0,minitest,yes,,157264a49412
+task_7,135,type_7,363467.16 meters,0,minitest,yes,,86ce81a79f8a
+task_7,136,type_7,65629.12 meters,0,minitest,yes,,4136d071276a
+task_7,137,type_7,542850.81 meters,0,minitest,yes,,8c1f89ca7e5c
+task_7,138,type_7,181024.02 meters,0,minitest,yes,,2d56ceb1c1f8
+task_7,139,type_7,84746.94 meters,0,minitest,yes,,9ccebeee5414
+task_7,140,type_7,118912.04 meters,0,minitest,yes,,1ce2777be1d0
+task_7,141,type_7,228289.22 meters,0,minitest,yes,,ba92be58c4b6
+task_7,142,type_7,56623.50 meters,0,minitest,yes,,18eb5ffee3b8
+task_7,143,type_7,61311.69 meters,0,minitest,yes,,77e0bc46147d
+task_7,144,type_7,37603.76 meters,0,minitest,yes,,271964f56eb0
+task_7,145,type_7,166632.52 meters,0,minitest,yes,,b29af61994d3
+task_7,146,type_7,31135.89 meters,0,minitest,yes,,d1ff2eee237b
+task_7,147,type_7,106757.20 meters,0,minitest,yes,,73a8c7f7e33c
+task_7,148,type_7,167746.11 meters,0,minitest,yes,,3522221d8a97
+task_7,149,type_7,78543.94 meters,0,minitest,yes,,f2e70f5025bf
+task_7,150,type_7,495421.53 meters,0,minitest,yes,,8925d7201245
+task_7,151,type_7,233286.59 meters,0,minitest,yes,,fcf16cab6f1f
+task_7,152,type_7,266454.91 meters,0,minitest,yes,,a23f6b25d929
+task_7,153,type_7,181910.93 meters,0,minitest,yes,,94d4a3946058
+task_7,154,type_7,154980.60 meters,0,minitest,yes,,8c746c520919
+task_7,155,type_7,87705.89 meters,0,minitest,yes,,b626c224c4dc
+task_7,156,type_7,154752.38 meters,0,minitest,yes,,09da45122ebd
+task_7,157,type_7,55704.41 meters,0,minitest,yes,,c8865ca4fd97
+task_7,158,type_7,154107.42 meters,0,minitest,yes,,ac05b9a0bf48
+task_7,159,type_7,305301.92 meters,0,minitest,yes,,70f829b17349
+task_7,160,type_7,49113.92 meters,0,minitest,yes,,6f832b51a203
+task_7,161,type_7,26597.57 meters,0,minitest,yes,,a016e44df818
+task_7,162,type_7,517114.99 meters,0,minitest,yes,,0b626006b367
+task_7,163,type_7,18366.36 meters,0,minitest,yes,,0f1024ec792d
+task_7,164,type_7,48585.39 meters,0,minitest,yes,,3477e50be4ac
+task_7,165,type_7,166980.11 meters,0,minitest,yes,,86bd3fbbe2e3
+task_7,166,type_7,6025.75 meters,0,minitest,yes,,a71605071fa9
+task_7,167,type_7,127608.26 meters,0,minitest,yes,,f19a36158295
+task_7,168,type_7,211035.98 meters,0,minitest,yes,,ca5f44ef7cc6
+task_7,169,type_7,333258.25 meters,0,minitest,yes,,ff0886b59b45
+task_7,170,type_7,2125.79 meters,0,minitest,yes,,00915abc00eb
+task_7,171,type_7,11454.13 meters,0,minitest,yes,,d2fbb1cd3254
+task_7,172,type_7,72306.38 meters,0,minitest,yes,,559fe884f33c
+task_7,173,type_7,130453.68 meters,0,minitest,yes,,226f6617e6a8
+task_7,174,type_7,154058.58 meters,0,minitest,yes,,716ac9f2dd09
+task_7,175,type_7,12418.36 meters,0,minitest,yes,,b884f2b70eb3
+task_7,176,type_7,104067.71 meters,0,minitest,yes,,00f337ab20ec
+task_7,177,type_7,167127.55 meters,0,minitest,yes,,db260575fc09
+task_7,178,type_7,165327.59 meters,0,minitest,yes,,ea16b00e2302
+task_7,179,type_7,60193.82 meters,0,minitest,yes,,9c740dfc1ae8
+task_7,180,type_7,3797.92 meters,0,minitest,yes,,62232d794d89
+task_7,181,type_7,250237.44 meters,0,minitest,yes,,04531fd1091f
+task_7,182,type_7,56927.28 meters,0,minitest,yes,,1d8f61f84c70
+task_7,183,type_7,118872.94 meters,0,minitest,yes,,f94a9ce19594
+task_7,184,type_7,386442.30 meters,0,minitest,yes,,bf7234e0a50d
+task_7,185,type_7,81259.45 meters,0,minitest,yes,,7aed3b4dabac
+task_7,186,type_7,583555.10 meters,0,minitest,yes,,81c75fa170f8
+task_7,187,type_7,72806.08 meters,0,minitest,yes,,ece2127f17ab
+task_7,188,type_7,100815.34 meters,0,minitest,yes,,abd1810054a3
+task_7,189,type_7,58210.60 meters,0,minitest,yes,,4328c7101613
+task_7,190,type_7,72557.55 meters,0,minitest,yes,,655ab0aa60ca
+task_7,191,type_7,85665.24 meters,0,minitest,yes,,6bdc38f80caa
+task_7,192,type_7,167219.77 meters,0,minitest,yes,,a7a1368b9482
+task_7,193,type_7,673725.09 meters,0,minitest,yes,,5c9f519d18dc
+task_7,194,type_7,55789.74 meters,0,minitest,yes,,c9fc7e82c0ea
+task_7,195,type_7,357410.84 meters,0,minitest,yes,,d9039caa54fc
+task_7,196,type_7,259635.15 meters,0,minitest,yes,,1ecfb14395d9
+task_7,197,type_7,191613.05 meters,0,minitest,yes,,3aa026cbe780
+task_7,198,type_7,85049.16 meters,0,minitest,yes,,2c55e59ad55d
+task_7,199,type_7,71930.55 meters,0,minitest,yes,,ddfeed82e9e0
+task_7,200,type_7,81591.22 meters,0,minitest,yes,,08187306a104
+task_7,201,type_7,117343.06 meters,0,minitest,yes,,3242f19294c1
+task_7,202,type_7,385987.18 meters,0,minitest,yes,,8f31459ec5a8
+task_7,203,type_7,54214.78 meters,0,minitest,yes,,3a17a9b03d69
+task_7,204,type_7,53430.83 meters,0,minitest,yes,,3fc457280e6e
+task_7,205,type_7,70176.52 meters,0,minitest,yes,,8542ecfda9ee
+task_7,206,type_7,601570.27 meters,0,minitest,yes,,fce649b893e3
+task_7,207,type_7,242332.63 meters,0,minitest,yes,,34f9e68e9d99
+task_7,208,type_7,309471.26 meters,0,minitest,yes,,49d9bb603a20
+task_7,209,type_7,61564.80 meters,0,minitest,yes,,c6fc81cf716d
+task_7,210,type_7,33884.42 meters,0,minitest,yes,,e28645e1bf52
+task_7,211,type_7,98358.33 meters,0,minitest,yes,,babcab8c09e3
+task_7,212,type_7,397293.59 meters,0,minitest,yes,,afb9ad932cf1
+task_7,213,type_7,254416.76 meters,0,minitest,yes,,d43671271bb5
+task_7,214,type_7,136558.42 meters,0,minitest,yes,,6e6d161f501b
+task_7,215,type_7,100155.31 meters,0,minitest,yes,,9aef9fd1311e
+task_7,216,type_7,465221.15 meters,0,minitest,yes,,eb7f5477ff4d
+task_7,217,type_7,38981.93 meters,0,minitest,yes,,653be0fdad41
+task_7,218,type_7,369803.35 meters,0,minitest,yes,,123b32f90a2d
+task_7,219,type_7,169731.63 meters,0,minitest,yes,,084e6275d30a
+task_7,220,type_7,65480.98 meters,0,minitest,yes,,d0baab49fe4e
+task_7,221,type_7,327685.28 meters,0,minitest,yes,,85670aaf3e86
+task_7,222,type_7,14145.28 meters,0,minitest,yes,,18c84808169f
+task_7,223,type_7,165773.69 meters,0,minitest,yes,,cf8b95957387
+task_7,224,type_7,20974.19 meters,0,minitest,yes,,c743817c629c
+task_7,225,type_7,7023.21 meters,0,minitest,yes,,216146fcc355
+task_7,226,type_7,598401.45 meters,0,minitest,yes,,2319cb135eb8
+task_7,227,type_7,293607.71 meters,0,minitest,yes,,77a6a42ba5a5
+task_7,228,type_7,238551.00 meters,0,minitest,yes,,778fd6b74792
+task_7,229,type_7,175343.32 meters,0,minitest,yes,,63202f1d1306
+task_7,230,type_7,16096.98 meters,0,minitest,yes,,bced2831713d
+task_7,231,type_7,136412.56 meters,0,minitest,yes,,d754000f5869
+task_7,232,type_7,80762.33 meters,0,minitest,yes,,f984d80d5847
+task_7,233,type_7,181198.57 meters,0,minitest,yes,,e8a6d09d8daa
+task_7,234,type_7,231210.56 meters,0,minitest,yes,,cc308cb3f906
+task_7,235,type_7,173362.98 meters,0,minitest,yes,,48b1740e4be8
+task_7,236,type_7,218191.22 meters,0,minitest,yes,,722b757a9641
+task_7,237,type_7,61898.89 meters,0,minitest,yes,,8d33b7bd4edb
+task_7,238,type_7,38909.49 meters,0,minitest,yes,,49d311e60005
+task_7,239,type_7,24771.26 meters,0,minitest,yes,,8367756fff8a
+task_7,240,type_7,175541.72 meters,0,minitest,yes,,bf20305ab38c
+task_7,241,type_7,108890.88 meters,0,minitest,yes,,511086f7751d
+task_7,242,type_7,60584.29 meters,0,minitest,yes,,8947d1d1fcea
+task_7,243,type_7,105884.89 meters,0,minitest,yes,,eadb836ba31a
+task_7,244,type_7,3427.14 meters,0,minitest,yes,,ac823e42036a
+task_7,245,type_7,560302.16 meters,0,minitest,yes,,7e813ce24080
+task_7,246,type_7,413719.43 meters,0,minitest,yes,,18883233ea1d
+task_7,247,type_7,67684.94 meters,0,minitest,yes,,72d14f75b3f8
+task_7,248,type_7,371579.10 meters,0,minitest,yes,,70822d705237
+task_7,249,type_7,301654.22 meters,0,minitest,yes,,ea3e97ef0bdd
+task_7,250,type_7,232762.84 meters,0,minitest,yes,,0d06d04fcde0
+task_8,1,type_8,Huntington Beach Masonic Center,0,minitest,yes,,64a2489db67a
+task_8,2,type_8,Babi's Beer Emporium,0,minitest,yes,,42b966e66e45
+task_8,3,type_8,Collab&Play,0,,yes,,9c424ce72625
+task_8,4,type_8,CSL Rm 333 Auditorium,0,minitest,yes,,1c0b71b95541
+task_8,5,type_8,Bluewater Sailing,0,minitest,yes,,2e55b5a49cee
+task_8,6,type_8,Hertz Thrify,0,minitest,yes,,b2e3bae93c4e
+task_8,7,type_8,Jollibee,0,minitest,yes,,462f72ff2ead
+task_8,8,type_8,Wells Fargo,0,minitest,yes,,a7bf812a8711
+task_8,9,type_8,Nix / Payday Today Check Cashing,0,minitest,yes,,1a0ea4644b92
+task_8,10,type_8,Caique Jiu Jitsu,0,minitest,yes,,5140be9e6543
+task_8,11,type_8,Bikes and Brew,0,minitest,yes,,c57b024e8a1c
+task_8,12,type_8,The Commerce Casino,0,minitest,yes,,3569b69ee7ad
+task_8,13,type_8,Kernville Cowork,0,minitest,yes,,e2abdd09db7b
+task_8,14,type_8,South Bay Aviation,0,minitest,yes,,93f2ddfe3b9d
+task_8,15,type_8,Distance Education Center,0,minitest,yes,,39a107a3b1d4
+task_8,16,type_8,The Villa,0,minitest,yes,,b77c9cb1c5f3
+task_8,17,type_8,West Coast Surrogacy,0,minitest,yes,,cceb8a48da69
+task_8,18,type_8,Cinemark,0,minitest,yes,,19edb6914136
+task_8,19,type_8,Zoom Room,0,minitest,yes,,7ce1bb4932f5
+task_8,20,type_8,Regelin Hall,0,,yes,,565f5d2025a0
+task_8,21,type_8,Gould Mesa Trail Camp,0,minitest,yes,,e71347991654
+task_8,22,type_8,The Villa,0,minitest,yes,,1c6cea3b9d70
+task_8,23,type_8,Hertz Thrify,0,minitest,yes,,9ce824ae2853
+task_8,24,type_8,Feet For Life,0,minitest,yes,,1f01b20f6517
+task_8,25,type_8,Nix / Payday Today Check Cashing,0,minitest,yes,,a3d9eab2088a
+task_8,26,type_8,Savers Donation Area,0,minitest,yes,,aec97ad8ae3f
+task_8,27,type_8,Disneyland Resort Casting Center,0,minitest,yes,,6dceacca443d
+task_8,28,type_8,Helix Brewing Co,0,minitest,yes,,948db06095ca
+task_8,29,type_8,Stanley,0,minitest,yes,,34842113710f
+task_8,30,type_8,Caique Jiu Jitsu,0,minitest,yes,,0897d439e1d6
+task_8,31,type_8,Academy of Motion Picture Arts and Sciences Film Archive,0,minitest,yes,,e043cbb0b772
+task_8,32,type_8,Catalina Express Long Beach Downtown Landing,0,,yes,,6c20532853b3
+task_8,33,type_8,Pico Rivera Golf,0,minitest,yes,,ba5a45076f8c
+task_8,34,type_8,Computer Lab,0,minitest,yes,,f95d6cde66fe
+task_8,35,type_8,Double Peak Telescope,0,,yes,,0df548456ea2
+task_8,36,type_8,CSL Rm 333 Auditorium,0,minitest,yes,,d81eee9f7df8
+task_8,37,type_8,GoBuild,0,minitest,yes,,e2735fc68602
+task_8,38,type_8,Distance Education Center,0,minitest,yes,,6d15ecf4726e
+task_8,39,type_8,Bikes and Brew,0,minitest,yes,,638bb434ed18
+task_8,40,type_8,Nix / Payday Today Check Cashing,0,minitest,yes,,d8b9d4b8cd9b
+task_8,41,type_8,West Coast Surrogacy,0,minitest,yes,,f86e6a7f0c61
+task_8,42,type_8,Imperial County Courthouse;Imperial County Law Library,0,minitest,yes,,9f6ab8fd9841
+task_8,43,type_8,The Anteatery,0,minitest,yes,,9000eed24b1e
+task_8,44,type_8,Imperial County Courthouse;Imperial County Law Library,0,minitest,yes,,feada19c5d6f
+task_8,45,type_8,Huntington Beach Masonic Center,0,minitest,yes,,cfcd53e436d0
+task_8,46,type_8,Law Office of Raymond Perez,0,minitest,yes,,75345dcf94ab
+task_8,47,type_8,Chablis Cruises,0,,yes,,dc0b647b7e8c
+task_8,48,type_8,CSL Rm 333 Auditorium,0,minitest,yes,,31ed47c2a068
+task_8,49,type_8,Hibachi Barbecue,0,minitest,yes,,48d3aab1db52
+task_8,50,type_8,Liquor Beer Wine Grocery,0,minitest,yes,,546d33a5ade2
+task_8,51,type_8,Brandywine,0,minitest,yes,,97a25913287d
+task_8,52,type_8,3-Point Basketball Shoot,0,minitest,yes,,01c76ebd76e0
+task_8,53,type_8,Goodwill,0,minitest,yes,,ac2ad1fa45f6
+task_8,54,type_8,Depth Perceptions,0,minitest,yes,,29840c32d5e5
+task_8,55,type_8,Tiny Heartz Daycare LLC,0,minitest,yes,,6f20b97c810b
+task_8,56,type_8,eVgo,0,minitest,yes,,19ba0ddea5ed
+task_8,57,type_8,Long Beach Fire Station 21,0,minitest,yes,,92f1ca818645
+task_8,58,type_8,iRepair,0,minitest,yes,,539a1b6190f8
+task_8,59,type_8,Distance Education Center,0,,yes,,bbadb1a40c97
+task_8,60,type_8,21,0,minitest,yes,,fb7f4216751a
+task_8,61,type_8,Long Beach Fire Station 21,0,minitest,yes,,168da183faea
+task_8,62,type_8,blueLA,0,minitest,yes,,e4f4225b4f83
+task_8,63,type_8,Depth Perceptions,0,minitest,yes,,a54cf79f404b
+task_8,64,type_8,Nature’s Juice,0,minitest,yes,,8d9ac878c6d3
+task_8,65,type_8,PayDay Advance,0,minitest,yes,,0bfedd51bdc1
+task_8,66,type_8,The Villa,0,minitest,yes,,0c4baf96a752
+task_8,67,type_8,Mustang Daily,0,minitest,yes,,589a9f2e3438
+task_8,68,type_8,West LA Academy of Dance,0,,yes,,f0eabdf1ef36
+task_8,69,type_8,Cerritos Library book return,0,minitest,yes,,6eb63bc9e541
+task_8,70,type_8,Huntington Beach Masonic Center,0,minitest,yes,,bed975efb76d
+task_8,71,type_8,Feet For Life,0,minitest,yes,,1e516e7d916c
+task_8,72,type_8,Bikes and Brew,0,minitest,yes,,b833ccd5e40e
+task_8,73,type_8,CSL Rm 333 Auditorium,0,,yes,,b258747b96b9
+task_8,74,type_8,Aerocademy,0,minitest,yes,,522dd580642e
+task_8,75,type_8,The Villa,0,minitest,yes,,62505af73da6
+task_8,76,type_8,Pasadena Humane Society,0,minitest,yes,,8e5c1db487ea
+task_8,77,type_8,Academy of Motion Picture Arts and Sciences Film Archive,0,minitest,yes,,c2a2b672438f
+task_8,78,type_8,Locker Rooms,0,,yes,,3c7ceee15f2a
+task_8,79,type_8,Locker Rooms,0,minitest,yes,,1f9b699713b2
+task_8,80,type_8,Figueroa Mountain Brewing Company,0,,yes,,3afd0f131795
+task_8,81,type_8,Locker Rooms,0,minitest,yes,,648e263e6ac1
+task_8,82,type_8,West LA Dogs,0,minitest,yes,,21f7aa1010c4
+task_8,83,type_8,Regelin Hall,0,minitest,yes,,a3cd757a53e6
+task_8,84,type_8,Computer Lab,0,minitest,yes,,3ab767e4e4c2
+task_8,85,type_8,Gould Mesa Trail Camp,0,minitest,yes,,e030b0453adf
+task_8,86,type_8,Long Beach Fire Station 21,0,minitest,yes,,6e510871ba39
+task_8,87,type_8,The Villa,0,minitest,yes,,1e51094386bc
+task_8,88,type_8,Red Point,0,minitest,yes,,cad011728e70
+task_8,89,type_8,MCASD Sherwood Auditorium,0,minitest,yes,,aaa7c9691d7d
+task_8,90,type_8,Hibachi Barbecue,0,minitest,yes,,bdd895896b4c
+task_8,91,type_8,CalArts Bicycle Parking,0,,yes,,4f1628983a3e
+task_8,92,type_8,San Pedro County Courts Building,0,minitest,yes,,0a4d757f0f4b
+task_8,93,type_8,7-Eleven,0,minitest,yes,,9ea26840d7c8
+task_8,94,type_8,eVgo,0,minitest,yes,,8e9b63ce631a
+task_8,95,type_8,Slo City Midwives,0,minitest,yes,,3cbbaa05194c
+task_8,96,type_8,blueLA,0,minitest,yes,,8cb13d75c6a0
+task_8,97,type_8,Huntington Beach Masonic Center,0,minitest,yes,,fd65c17201d1
+task_8,98,type_8,Road One Towing,0,minitest,yes,,e28247e5d2e2
+task_8,99,type_8,Art Zone,0,minitest,yes,,564f9516b912
+task_8,100,type_8,Wells Fargo,0,minitest,yes,,763044b983c1
+task_8,101,type_8,Freeway Easy Traffic and Driving School,0,minitest,yes,,43f9af39fb6b
+task_8,102,type_8,Chase,0,minitest,yes,,436ef9222c22
+task_8,103,type_8,Daryl D. Smith Clock Tower,0,minitest,yes,,a36e8df4671f
+task_8,104,type_8,Long Beach Civic Center,0,minitest,yes,,b58c13f2f008
+task_8,105,type_8,Daryl D. Smith Clock Tower,0,minitest,yes,,010c4eb38d6a
+task_8,106,type_8,I Said Sit!,0,minitest,yes,,40a7504a90e7
+task_8,107,type_8,Catalina Express Long Beach Downtown Landing,0,minitest,yes,,80b110c8e686
+task_8,108,type_8,Gould Mesa Trail Camp,0,minitest,yes,,fb7f3318e8d4
+task_8,109,type_8,Hertz Thrify,0,minitest,yes,,ef6c38baa33b
+task_8,110,type_8,Disneyland Resort Casting Center,0,,yes,,bf4be9bf3d2e
+task_8,111,type_8,Jollibee,0,,yes,,76b2ea8b344d
+task_8,112,type_8,Nob Hill,0,minitest,yes,,ccc20ff38422
+task_8,113,type_8,Canyon View Ranch,0,minitest,yes,,78ee420ba6dc
+task_8,114,type_8,Liquor Beer Wine Grocery,0,minitest,yes,,f10796595b91
+task_8,115,type_8,Tiny Heartz Daycare LLC,0,minitest,yes,,660e7ca9c86d
+task_8,116,type_8,Catalina Express Long Beach Downtown Landing,0,minitest,yes,,89b9874002c3
+task_8,117,type_8,Southern Lites Collective,0,minitest,yes,,060660808e78
+task_8,118,type_8,Minuteman Press,0,minitest,yes,,0331181cffb6
+task_8,119,type_8,Cerritos Library book return,0,minitest,yes,,0d277456e63a
+task_8,120,type_8,Distance Education Center,0,minitest,yes,,241680477a00
+task_8,121,type_8,Bikes and Brew,0,minitest,yes,,493ef5050b90
+task_8,122,type_8,Long Beach Fire Station 21,0,minitest,yes,,a28a6c51f7d3
+task_8,123,type_8,Babi's Beer Emporium,0,minitest,yes,,fae181d03aa2
+task_8,124,type_8,Zoom Room,0,minitest,yes,,22a842533dd5
+task_8,125,type_8,Compass Recovery,0,minitest,yes,,3bb10a18ab87
+task_8,126,type_8,Calvary Chapel Children's Church,0,minitest,yes,,b00215b4e83e
+task_8,127,type_8,Vineyard Car Wash,0,minitest,yes,,1f9701045d41
+task_8,128,type_8,Cabrillo Marina Plaza Oceanview Fountain,0,minitest,yes,,a4b51821d8e4
+task_8,129,type_8,Tiny Heartz Daycare LLC,0,minitest,yes,,6bff549af2d8
+task_8,130,type_8,20,0,minitest,yes,,129469125123
+task_8,131,type_8,Law Office of Raymond Perez,0,minitest,yes,,4d2268dfc92e
+task_8,132,type_8,Disneyland Resort Casting Center,0,minitest,yes,,b749a0fce1fe
+task_8,133,type_8,7-Eleven,0,minitest,yes,,27303764bbfa
+task_8,134,type_8,ACE Dental,0,minitest,yes,,5d69a8540cef
+task_8,135,type_8,SLO Safe Ride,0,minitest,yes,,3e08b1a26ee4
+task_8,136,type_8,medical offices,0,minitest,yes,,b0fc7db7aa4d
+task_8,137,type_8,eVgo,0,minitest,yes,,ce434b209843
+task_8,138,type_8,Van De Kamp Hall,0,minitest,yes,,e35d51227d0e
+task_8,139,type_8,Skyway cafe,0,minitest,yes,,cd68d6557bca
+task_8,140,type_8,Goodwill,0,minitest,yes,,ac5e0c7eea8e
+task_8,141,type_8,Bay Chiropractic,0,minitest,yes,,3b1982fa897e
+task_8,142,type_8,Figueroa Mountain Brewing Company,0,minitest,yes,,1b56324a00f9
+task_8,143,type_8,HearUSA,0,minitest,yes,,5ea5b78184f7
+task_8,144,type_8,Kernville Cowork,0,minitest,yes,,0442fa53fcfe
+task_8,145,type_8,The Villa,0,minitest,yes,,2eea899be0d5
+task_8,146,type_8,Law Office of Raymond Perez,0,minitest,yes,,5c6f4ca621da
+task_8,147,type_8,West Coast Surrogacy,0,minitest,yes,,d765c8bbd430
+task_8,148,type_8,medical offices,0,minitest,yes,,3709f29b4516
+task_8,149,type_8,Bluewater Sailing,0,minitest,yes,,94eeaec29c4d
+task_8,150,type_8,Vernetta's Dance Studio,0,minitest,yes,,05cda8858c96
+task_8,151,type_8,Fish District Eatery,0,minitest,yes,,72ddca4dc119
+task_8,152,type_8,Goodwill,0,minitest,yes,,8b85bdf870eb
+task_8,153,type_8,Long Beach Civic Center,0,minitest,yes,,6291cdcbe8a1
+task_8,154,type_8,Long Beach Civic Center,0,minitest,yes,,9cabc0785544
+task_8,155,type_8,Slo City Midwives,0,minitest,yes,,cb8ca6d0408a
+task_8,156,type_8,Fish District Eatery,0,minitest,yes,,ab95afa7b09e
+task_8,157,type_8,Gould Mesa Trail Camp,0,minitest,yes,,29651d10680d
+task_8,158,type_8,Pico Rivera Golf,0,minitest,yes,,12dc3f930d5c
+task_8,159,type_8,Chase,0,minitest,yes,,6427b861a082
+task_8,160,type_8,Road One Towing,0,minitest,yes,,82ac460ab2ee
+task_8,161,type_8,Express Car Wash,0,minitest,yes,,432a318f9222
+task_8,162,type_8,Depth Perceptions,0,minitest,yes,,da91a5158ce7
+task_8,163,type_8,Locker Rooms,0,minitest,yes,,31a141ac82d5
+task_8,164,type_8,Goodwill,0,minitest,yes,,136c321783c7
+task_8,165,type_8,Caique Jiu Jitsu,0,minitest,yes,,51db7c2ea784
+task_8,166,type_8,I Said Sit!,0,minitest,yes,,a7a9d7195edc
+task_8,167,type_8,Express Car Wash,0,minitest,yes,,2bf56ed734e9
+task_8,168,type_8,Express Car Wash,0,minitest,yes,,edcc63ae7159
+task_8,169,type_8,Fish District Eatery,0,minitest,yes,,22d6194b39a6
+task_8,170,type_8,Academy of Motion Picture Arts and Sciences Film Archive,0,minitest,yes,,e6e12f12ed8e
+task_8,171,type_8,Van De Kamp Hall,0,minitest,yes,,dc046d671d8f
+task_8,172,type_8,Express Car Wash,0,minitest,yes,,16a75caac4bd
+task_8,173,type_8,Long Beach Civic Center,0,minitest,yes,,5c1d029f53ad
+task_8,174,type_8,Bay Chiropractic,0,minitest,yes,,44f3071f0645
+task_8,175,type_8,MCASD Sherwood Auditorium,0,minitest,yes,,a9293389f0b7
+task_8,176,type_8,Express Car Wash,0,minitest,yes,,2ddb44fa1f63
+task_8,177,type_8,7-Eleven,0,minitest,yes,,77057ea3b6fb
+task_8,178,type_8,Willow St & Mateo St,0,minitest,yes,,d0d398f9ebef
+task_8,179,type_8,Brandywine,0,minitest,yes,,7b79e16a9317
+task_8,180,type_8,MCASD Sherwood Auditorium,0,minitest,yes,,e04dcda25012
+task_8,181,type_8,Skyway cafe,0,minitest,yes,,badfc5499842
+task_8,182,type_8,Gould Mesa Trail Camp,0,minitest,yes,,4da976ec9067
+task_8,183,type_8,Depth Perceptions,0,minitest,yes,,2ee375ee2a1a
+task_8,184,type_8,Law Office of Raymond Perez,0,minitest,yes,,2eb0487c23b6
+task_8,185,type_8,Aerocademy,0,minitest,yes,,8b9f2631b0da
+task_8,186,type_8,Bikes and Brew,0,minitest,yes,,c5e184dd34f2
+task_8,187,type_8,Depth Perceptions,0,minitest,yes,,af536b3049e9
+task_8,188,type_8,Liquor Beer Wine Grocery,0,minitest,yes,,2e599e58dc9b
+task_8,189,type_8,Feet For Life,0,minitest,yes,,365b670ad1e1
+task_8,190,type_8,Claremont Chefs Academy,0,minitest,yes,,122312ca3fb5
+task_8,191,type_8,Hibachi Barbecue,0,minitest,yes,,4c046c07679a
+task_8,192,type_8,Big Bully Turf,0,minitest,yes,,d635044010d3
+task_8,193,type_8,Cinemark,0,minitest,yes,,d1de6f15c8b6
+task_8,194,type_8,The Villa,0,minitest,yes,,b9544c702c50
+task_8,195,type_8,Nob Hill,0,minitest,yes,,3adaa5b1cda6
+task_8,196,type_8,MCASD Sherwood Auditorium,0,minitest,yes,,c582b5f8e487
+task_8,197,type_8,Goodwill,0,minitest,yes,,29204eea05ab
+task_8,198,type_8,Hertz Thrify,0,minitest,yes,,9598384cb40e
+task_8,199,type_8,Freeway Easy Traffic and Driving School,0,minitest,yes,,d8264f00bae4
+task_8,200,type_8,Cerritos Library book return,0,minitest,yes,,2c94053569e9
+task_8,201,type_8,The Commerce Casino,0,minitest,yes,,03d9760c8121
+task_8,202,type_8,Anaheim Cultural Arts Center,0,minitest,yes,,b5224fadd789
+task_8,203,type_8,South Bay Aviation,0,minitest,yes,,ad3914578010
+task_8,204,type_8,Long Beach Fire Station 21,0,minitest,yes,,06cbea52424c
+task_8,205,type_8,Mustang Daily,0,minitest,yes,,da7df20fa63a
+task_8,206,type_8,The Anteatery,0,minitest,yes,,38bc4b8a5709
+task_8,207,type_8,Collab&Play,0,minitest,yes,,7dfaae5410a9
+task_8,208,type_8,Hibachi Barbecue,0,minitest,yes,,9af7a23c01f3
+task_8,209,type_8,I Said Sit!,0,minitest,yes,,100f41336090
+task_8,210,type_8,Savers Donation Area,0,minitest,yes,,332b07729144
+task_8,211,type_8,Slo City Midwives,0,minitest,yes,,f6fdc477c810
+task_8,212,type_8,HearUSA,0,minitest,yes,,8049feed5b19
+task_8,213,type_8,Gould Mesa Trail Camp,0,minitest,yes,,f16db1c14a2a
+task_8,214,type_8,The Villa,0,minitest,yes,,72ba425680b2
+task_8,215,type_8,Cinemark,0,minitest,yes,,7e7399efeaad
+task_8,216,type_8,HearUSA,0,minitest,yes,,6948d7f1c648
+task_8,217,type_8,West LA Academy of Dance,0,minitest,yes,,fcb7eab90474
+task_8,218,type_8,3-Point Basketball Shoot,0,minitest,yes,,26ca3986e2a0
+task_8,219,type_8,Cerritos Library book return,0,minitest,yes,,d0a3a8a3e4df
+task_8,220,type_8,Daryl D. Smith Clock Tower,0,minitest,yes,,04b4e533220c
+task_8,221,type_8,Long Beach Civic Center,0,minitest,yes,,be55f333a7b5
+task_8,222,type_8,Cerritos Library book return,0,minitest,yes,,3f2ebdea736b
+task_8,223,type_8,Van De Kamp Hall,0,minitest,yes,,065b75da5192
+task_8,224,type_8,Collab&Play,0,minitest,yes,,6a4a37c11091
+task_8,225,type_8,West Coast Surrogacy,0,minitest,yes,,80a42c0be535
+task_8,226,type_8,Collab&Play,0,minitest,yes,,ab6cc3515652
+task_8,227,type_8,Wells Fargo,0,minitest,yes,,d8735905ca02
+task_8,228,type_8,Feet For Life,0,minitest,yes,,6ee601043fda
+task_8,229,type_8,Catalina Express Long Beach Downtown Landing,0,minitest,yes,,e4a8f762748d
+task_8,230,type_8,Fish District Eatery,0,minitest,yes,,afe67bd7bbb0
+task_8,231,type_8,ACE Dental,0,minitest,yes,,a454cd28455b
+task_8,232,type_8,MCASD Sherwood Auditorium,0,minitest,yes,,92c0ecd8f3ab
+task_8,233,type_8,Red Point,0,minitest,yes,,1b4a196a6a28
+task_8,234,type_8,Imperial County Courthouse;Imperial County Law Library,0,minitest,yes,,b8e569fe8671
+task_8,235,type_8,Red Point,0,minitest,yes,,e06c1eb2c91b
+task_8,236,type_8,Mustang Daily,0,minitest,yes,,cfcda3cd47d1
+task_8,237,type_8,Depth Perceptions,0,minitest,yes,,735daf5c52d1
+task_8,238,type_8,Gould Mesa Trail Camp,0,minitest,yes,,08b857620eec
+task_8,239,type_8,Goodwill,0,minitest,yes,,ee3b01e20b39
+task_8,240,type_8,Computer Lab,0,minitest,yes,,5c49b54a1b78
+task_8,241,type_8,Long Beach Civic Center,0,minitest,yes,,cc3d4577cfa6
+task_8,242,type_8,Inspired Movement,0,minitest,yes,,143e7b1d8e0a
+task_8,243,type_8,Red Point,0,minitest,yes,,73ba031fe15e
+task_8,244,type_8,Locker Rooms,0,minitest,yes,,82e93e44b143
+task_8,245,type_8,Long Beach Fire Station 21,0,minitest,yes,,1bd9d927a0b5
+task_8,246,type_8,Campfire Center,0,minitest,yes,,c049cbb2447f
+task_8,247,type_8,ACE Dental,0,minitest,yes,,837b12e5c3e0
+task_8,248,type_8,Long Beach Fire Station 21,0,minitest,yes,,7d563fc458f4
+task_8,249,type_8,Computer Lab,0,minitest,yes,,3cb0de536217
+task_8,250,type_8,Stanley,0,minitest,yes,,f8e02dabd205
+task_8,251,type_8,Imperial County Courthouse;Imperial County Law Library,0,minitest,yes,,71f3bec9d78c
+task_8,252,type_8,Caique Jiu Jitsu,0,minitest,yes,,8f73c318ab35
+task_8,253,type_8,Nix / Payday Today Check Cashing,0,minitest,yes,,bf94597bb84f
+task_8,254,type_8,Regelin Hall,0,minitest,yes,,396cede9d84d
+task_8,255,type_8,Long Beach Transit Gallery,0,minitest,yes,,d34761e8705c
+task_8,256,type_8,Vernetta's Dance Studio,0,minitest,yes,,cfe63627d825
+task_8,257,type_8,Distance Education Center,0,minitest,yes,,a931ce73545e
+task_8,258,type_8,Nix / Payday Today Check Cashing,0,minitest,yes,,e627cb1ed83a
+task_8,259,type_8,Locker Rooms,0,minitest,yes,,be7b19bb69ee
+task_8,260,type_8,Academy of Motion Picture Arts and Sciences Film Archive,0,minitest,yes,,557d5ea44c20
+task_8,261,type_8,Depth Perceptions,0,minitest,yes,,39b9430ad2bf
+task_8,262,type_8,PayDay Advance,0,minitest,yes,,2b64e279360e
+task_8,263,type_8,Wells Fargo,0,minitest,yes,,634e741a5524
+task_8,264,type_8,Long Beach Civic Center,0,minitest,yes,,1c3059966af3
+task_8,265,type_8,Skyway cafe,0,minitest,yes,,a273837109dd
+task_8,266,type_8,Cabrillo Marina Plaza Oceanview Fountain,0,minitest,yes,,a2bc8dcaac21
+task_8,267,type_8,Stanley,0,minitest,yes,,48b1478a1046
+task_8,268,type_8,Computer Lab,0,minitest,yes,,4082730b1880
+task_8,269,type_8,Stanley,0,minitest,yes,,ed61da618654
+task_8,270,type_8,Bluewater Sailing,0,minitest,yes,,152adbfb4105
+task_8,271,type_8,Mustang Daily,0,minitest,yes,,fb816e8b7e59
+task_8,272,type_8,West Coast Surrogacy,0,minitest,yes,,406b8b4470a4
+task_8,273,type_8,iRepair,0,minitest,yes,,061c6fb6c565
+task_8,274,type_8,Pasadena Humane Society,0,minitest,yes,,32fb81b2445c
+task_8,275,type_8,Skyway cafe,0,minitest,yes,,c4755142118c
+task_8,276,type_8,Anaheim Cultural Arts Center,0,minitest,yes,,9f7864812def
+task_8,277,type_8,Daryl D. Smith Clock Tower,0,minitest,yes,,db693070aa2f
+task_8,278,type_8,South Bay Aviation,0,minitest,yes,,c598f6233fee
+task_8,279,type_8,Minuteman Press,0,minitest,yes,,450ff21e9e8d
+task_8,280,type_8,MCASD Sherwood Auditorium,0,minitest,yes,,fa05cd66a8f7
+task_8,281,type_8,Express Car Wash,0,minitest,yes,,2daec0e529fc
+task_8,282,type_8,Gould Mesa Trail Camp,0,minitest,yes,,1fed9d6065f7
+task_8,283,type_8,Freeway Easy Traffic and Driving School,0,minitest,yes,,6f074520b5f6
+task_8,284,type_8,HearUSA,0,minitest,yes,,b63b9e6b732e
+task_8,285,type_8,Jollibee,0,minitest,yes,,527e9a37a8cc
+task_8,286,type_8,Long Beach Fire Station 21,0,minitest,yes,,f44645445a9d
+task_8,287,type_8,Express Car Wash,0,minitest,yes,,b0686b408378
+task_8,288,type_8,Hibachi Barbecue,0,minitest,yes,,93cb99fc1aad
+task_8,289,type_8,Claremont Chefs Academy,0,minitest,yes,,f48483d0c6a3
+task_8,290,type_8,Depth Perceptions,0,minitest,yes,,49a5fd58cd41
+task_8,291,type_8,Catalina Express Long Beach Downtown Landing,0,minitest,yes,,46e4dff9b879
+task_8,292,type_8,Boubouffe,0,minitest,yes,,7dd7109ba793
+task_8,293,type_8,Jollibee,0,minitest,yes,,a1e607a64f98
+task_8,294,type_8,Imperial County Courthouse;Imperial County Law Library,0,minitest,yes,,09d5f467c9de
+task_8,295,type_8,Ticketing | Check In,0,minitest,yes,,131b39e2f810
+task_8,296,type_8,Bikes and Brew,0,minitest,yes,,9a981368ebc5
+task_8,297,type_8,Canyon View Ranch,0,minitest,yes,,694fbf18781b
+task_8,298,type_8,Long Beach Civic Center,0,minitest,yes,,05c1f5961ae8
+task_8,299,type_8,PayDay Advance,0,minitest,yes,,a179cb743d1c
+task_8,300,type_8,Bluewater Sailing,0,minitest,yes,,1f95383febd4
+task_8,301,type_8,Jollibee,0,minitest,yes,,33d1a72e3ed9
+task_8,302,type_8,Vernetta's Dance Studio,0,minitest,yes,,672b3ec8a410
+task_8,303,type_8,Willow St & Mateo St,0,minitest,yes,,ee96292c0815
+task_8,304,type_8,Road One Towing,0,minitest,yes,,21f1ade6e68e
+task_8,305,type_8,Jollibee,0,minitest,yes,,2e4c231be963
+task_8,306,type_8,Cinemark,0,minitest,yes,,c0e6f135f007
+task_8,307,type_8,Pasadena Humane Society,0,minitest,yes,,30c61e242198
+task_8,308,type_8,Long Beach Transit Gallery,0,minitest,yes,,35ff028e81f3
+task_8,309,type_8,Babi's Beer Emporium,0,minitest,yes,,f6f11178f82f
+task_8,310,type_8,I Said Sit!,0,minitest,yes,,76337d8b3449
+task_8,311,type_8,CalArts Bicycle Parking,0,minitest,yes,,8c404a99ceba
+task_8,312,type_8,PayDay Advance,0,minitest,yes,,d27dce5de65b
+task_8,313,type_8,Cinemark,0,minitest,yes,,bacdf96c4a6f
+task_8,314,type_8,Skyway cafe,0,minitest,yes,,0bd0cb76d5e1
+task_8,315,type_8,Feet For Life,0,minitest,yes,,4df55c306e78
+task_8,316,type_8,Figueroa Mountain Brewing Company,0,minitest,yes,,e0b57c359dce
+task_8,317,type_8,Regelin Hall,0,minitest,yes,,49f6e2c315fe
+task_8,318,type_8,ACE Dental,0,minitest,yes,,bb4da3bb11d2
+task_8,319,type_8,Tiny Heartz Daycare LLC,0,minitest,yes,,3118a13ed81d
+task_8,320,type_8,Gould Mesa Trail Camp,0,minitest,yes,,9ded95aac922
+task_8,321,type_8,Caique Jiu Jitsu,0,minitest,yes,,b406be2538bc
+task_8,322,type_8,Imperial County Courthouse;Imperial County Law Library,0,minitest,yes,,84eeca5c2df9
+task_8,323,type_8,Nob Hill,0,minitest,yes,,a40a6dcbd233
+task_8,324,type_8,Canyon View Ranch,0,minitest,yes,,fb6aea14c91a
+task_8,325,type_8,Operating Engineers Training Trust - Devore,0,minitest,yes,,b2a96ad5a17f
+task_8,326,type_8,Art Zone,0,minitest,yes,,65f3bed85281
+task_8,327,type_8,CalArts Bicycle Parking,0,minitest,yes,,dbce7af4ae3e
+task_8,328,type_8,Vernetta's Dance Studio,0,minitest,yes,,9f4570fcf56c
+task_8,329,type_8,Long Beach Transit Gallery,0,minitest,yes,,c66a0b8a2c58
+task_8,330,type_8,Cinemark,0,minitest,yes,,759df1205020
+task_8,331,type_8,Disneyland Resort Casting Center,0,minitest,yes,,9c0e3e84da1b
+task_8,332,type_8,Calvary Chapel Children's Church,0,minitest,yes,,15871bbd70ee
+task_8,333,type_8,Claremont Chefs Academy,0,minitest,yes,,8468b9254e5c
+task_8,334,type_8,Catalina Express Long Beach Downtown Landing,0,minitest,yes,,bde797a96390
+task_8,335,type_8,San Pedro County Courts Building,0,minitest,yes,,e4773b71825f
+task_8,336,type_8,Anaheim Cultural Arts Center,0,minitest,yes,,adaf18b3dc7e
+task_8,337,type_8,Academy of Motion Picture Arts and Sciences Film Archive,0,minitest,yes,,537a9fdcbf4e
+task_8,338,type_8,West Coast Surrogacy,0,minitest,yes,,be85ab3390a2
+task_8,339,type_8,CSL Rm 333 Auditorium,0,minitest,yes,,6f77ef266e6b
+task_8,340,type_8,Catalina Express Long Beach Downtown Landing,0,minitest,yes,,856d69cae6df
+task_8,341,type_8,Nature’s Juice,0,minitest,yes,,07da5031e7c3
+task_8,342,type_8,Red Point,0,minitest,yes,,69eeae35c2e7
+task_8,343,type_8,Tiny Heartz Daycare LLC,0,minitest,yes,,64aef9ccda8e
+task_8,344,type_8,blueLA,0,minitest,yes,,193ef10824cf
+task_8,345,type_8,Claremont Chefs Academy,0,minitest,yes,,f8e6e6b406a0
+task_8,346,type_8,eVgo,0,minitest,yes,,b44a3870a868
+task_8,347,type_8,Brandywine,0,minitest,yes,,01cdd9982996
+task_8,348,type_8,Nix / Payday Today Check Cashing,0,minitest,yes,,0ff72670f98a
+task_8,349,type_8,ACE Dental,0,minitest,yes,,20447dd16f8b
+task_8,350,type_8,Cerritos Library book return,0,minitest,yes,,99b7299774d8
+task_8,351,type_8,Fish District Eatery,0,minitest,yes,,e65f08c77f9d
+task_8,352,type_8,Long Beach Fire Station 21,0,minitest,yes,,880e4c027322
+task_8,353,type_8,Locker Rooms,0,minitest,yes,,674ce47a32e1
+task_8,354,type_8,Vineyard Car Wash,0,minitest,yes,,dfcf0fc61801
+task_8,355,type_8,West LA Academy of Dance,0,minitest,yes,,e4a27c922b59
+task_8,356,type_8,Calvary Chapel Children's Church,0,minitest,yes,,e6a879bd3764
+task_8,357,type_8,eVgo,0,minitest,yes,,88aa8d989a46
+task_8,358,type_8,Distance Education Center,0,minitest,yes,,e0703cb7352c
+task_8,359,type_8,The Commerce Casino,0,minitest,yes,,76fb2aa00510
+task_8,360,type_8,Academy of Motion Picture Arts and Sciences Film Archive,0,minitest,yes,,36bffe670cb6
+task_8,361,type_8,Long Beach Civic Center,0,minitest,yes,,c7283b9a92f3
+task_8,362,type_8,The Anteatery,0,minitest,yes,,5fd22810e649
+task_8,363,type_8,Depth Perceptions,0,minitest,yes,,55d4c2b2e1ce
+task_8,364,type_8,Gould Mesa Trail Camp,0,minitest,yes,,94c55faf2163
+task_8,365,type_8,Collab&Play,0,minitest,yes,,f43488fd8442
+task_8,366,type_8,Caique Jiu Jitsu,0,minitest,yes,,72a65d88a2fd
+task_8,367,type_8,Long Beach Civic Center,0,minitest,yes,,c6dd3a72de2f
+task_8,368,type_8,Southern Lites Collective,0,minitest,yes,,391d46deab29
+task_8,369,type_8,Long Beach Civic Center,0,minitest,yes,,5a25e30669ad
+task_8,370,type_8,The Villa,0,minitest,yes,,5a02b5533d0e
+task_8,371,type_8,Mustang Daily,0,minitest,yes,,ee21c8d1d9ae
+task_8,372,type_8,Nix / Payday Today Check Cashing,0,minitest,yes,,9620aabdbc90
+task_8,373,type_8,Cinemark,0,minitest,yes,,58f7535c7a7d
+task_8,374,type_8,7-Eleven,0,minitest,yes,,58327aa8e10d
+task_8,375,type_8,Jollibee,0,minitest,yes,,94cccf625009
+task_8,376,type_8,Bay Chiropractic,0,minitest,yes,,eebf5d6d0f3f
+task_8,377,type_8,Anaheim Cultural Arts Center,0,minitest,yes,,17c21e776f3f
+task_8,378,type_8,Bikes and Brew,0,minitest,yes,,e41ced8152a4
+task_8,379,type_8,Vineyard Car Wash,0,minitest,yes,,1e93346bf395
+task_8,380,type_8,Echo Park & Park,0,minitest,yes,,5d10e595a1ca
+task_8,381,type_8,I Said Sit!,0,minitest,yes,,ca9395ace353
+task_8,382,type_8,West Coast Surrogacy,0,minitest,yes,,fa1f4d3b0603
+task_8,383,type_8,Art Zone,0,minitest,yes,,cfd87397e5ce
+task_8,384,type_8,Long Beach Civic Center,0,minitest,yes,,30c451e912a5
+task_8,385,type_8,HearUSA,0,minitest,yes,,bffe29541dda
+task_8,386,type_8,Locker Rooms,0,minitest,yes,,fb43fb8f4401
+task_8,387,type_8,Long Beach Fire Station 21,0,minitest,yes,,5c931c81f201
+task_8,388,type_8,medical offices,0,minitest,yes,,b0f6b0132215
+task_8,389,type_8,Wells Fargo,0,minitest,yes,,43948f177e34
+task_8,390,type_8,Bikes and Brew,0,minitest,yes,,1fb2f166cc3c
+task_8,391,type_8,Depth Perceptions,0,minitest,yes,,10830f3f1cf6
+task_8,392,type_8,Tiny Heartz Daycare LLC,0,minitest,yes,,26fcbb177922
+task_8,393,type_8,Claremont Chefs Academy,0,minitest,yes,,4764f6ba79f3
+task_8,394,type_8,Freeway Easy Traffic and Driving School,0,minitest,yes,,3c1f49161dd9
+task_8,395,type_8,Red Point,0,minitest,yes,,d934e1e7fde3
+task_8,396,type_8,Nob Hill,0,minitest,yes,,5d6e8d485c39
+task_8,397,type_8,Goodwill,0,minitest,yes,,e2b9dd5c517d
+task_8,398,type_8,Law Office of Raymond Perez,0,minitest,yes,,d588c8d1edb7
+task_8,399,type_8,Compass Recovery,0,minitest,yes,,111c9ee5b56a
+task_8,400,type_8,Goodwill,0,minitest,yes,,5bcde146d808
+task_9,1,type_9,Newport Beach Elks Lodge,0,minitest,yes,,282fcb59812b
+task_9,2,type_9,The Church of Jesus Christ of Latter-day Saints,0,minitest,yes,,82b859f9df43
+task_9,3,type_9,Road One Towing,0,minitest,yes,,a16ae5703990
+task_9,4,type_9,Kernville Cowork,0,minitest,yes,,d69e355540f0
+task_9,5,type_9,Santa Clarita Animal Hospital - Veterinarian,0,minitest,yes,,cd9327fbf349
+task_9,6,type_9,iRepair,0,minitest,yes,,464cc5d26324
+task_9,7,type_9,Garden's Elderly Care,0,minitest,yes,,5461c2d16fd2
+task_9,8,type_9,Road One Towing,0,minitest,yes,,95f3c0c77f69
+task_9,9,type_9,Dove Day School;South Hills Church of Christ,0,minitest,yes,,d0317c766912
+task_9,10,type_9,Circle K,0,minitest,yes,,513d02f2c732
+task_9,11,type_9,Imperial County Courthouse;Imperial County Law Library,0,minitest,yes,,675b8bf966e8
+task_9,12,type_9,Turkey Legs,0,minitest,yes,,a12af6c0c176
+task_9,13,type_9,Semper Solaris,0,minitest,yes,,4ce24e81313d
+task_9,14,type_9,Mellano Orthopedics,0,,yes,,8fac063de340
+task_9,15,type_9,Zoom Room,0,minitest,yes,,f2fdc474a60d
+task_9,16,type_9,The Anteatery,0,minitest,yes,,9218f90a57e3
+task_9,17,type_9,Riverside Fire Department Station #7,0,minitest,yes,,620bd818e2a2
+task_9,18,type_9,Remington Hot Springs,0,minitest,yes,,2010e4870480
+task_9,19,type_9,Kaiser Branch Library,0,minitest,yes,,719354ffb829
+task_9,20,type_9,Cerritos Library book return,0,minitest,yes,,2c44d878a441
+task_9,21,type_9,iRepair,0,minitest,yes,,e84c6a2861c5
+task_9,22,type_9,San Pedro County Courts Building,0,minitest,yes,,ff7540243ffd
+task_9,23,type_9,Newport Beach Boat Rental,0,minitest,yes,,e3c179d48e96
+task_9,24,type_9,Dove Day School;South Hills Church of Christ,0,,yes,,5e1d0c403d09
+task_9,25,type_9,Jollibee,0,minitest,yes,,c918b8f66b05
+task_9,26,type_9,California Institution for Men,0,minitest,yes,,774fd13fa003
+task_9,27,type_9,Big Bully Turf,0,,yes,,c89cd94d91e2
+task_9,28,type_9,FedEx World Service Center,0,,yes,,02e56950d015
+task_9,29,type_9,Silverado Children's Center,0,,yes,,7f040926cc0d
+task_9,30,type_9,Lemonade Small World,0,minitest,yes,,c0b25ad2515e
+task_9,31,type_9,U-Haul Truck Rental,0,,yes,,2e6bd1cd505a
+task_9,32,type_9,Skyway cafe,0,minitest,yes,,972032474162
+task_9,33,type_9,Law Office of Raymond Perez,0,minitest,yes,,09553f19f182
+task_9,34,type_9,The Sheared Sheep,0,minitest,yes,,a61e1a9379e3
+task_9,35,type_9,Hawthorne Plaza,0,minitest,yes,,c10166ec8b2e
+task_9,36,type_9,The Commerce Casino,0,minitest,yes,,ed4babf422ab
+task_9,37,type_9,Jumbo's Clown Room,0,minitest,yes,,cce943fa75e7
+task_9,38,type_9,The Anteatery,0,minitest,yes,,6e3360974ef0
+task_9,39,type_9,Turkey Legs,0,minitest,yes,,03c734f231d0
+task_9,40,type_9,Psychic & Astrology,0,minitest,yes,,d0afd8edb255
+task_9,41,type_9,EagleRider,0,minitest,yes,,55e4d9285c92
+task_9,42,type_9,Garden's Elderly Care,0,minitest,yes,,2f3e776b14f2
+task_9,43,type_9,Hillcrest Center for the Arts,0,minitest,yes,,b97c9010f6c3
+task_9,44,type_9,Berlitz Language Services,0,minitest,yes,,2d87db19bede
+task_9,45,type_9,Newport Beach Boat Rental,0,minitest,yes,,6ad513e6665a
+task_9,46,type_9,Joslyn Senior Center,0,minitest,yes,,5dc7ad47321d
+task_9,47,type_9,McCabe's,0,minitest,yes,,d88c99851872
+task_9,48,type_9,Locker Rooms,0,minitest,yes,,d56faecae673
+task_9,49,type_9,Slab City Internet Café,0,minitest,yes,,02729ab82ec9
+task_9,50,type_9,MONTCLAIR,0,minitest,yes,,f528cafd9f62
+task_9,51,type_9,YMCA Child Care,0,minitest,yes,,a7fdb38ba185
+task_9,52,type_9,The UPS Store,0,minitest,yes,,f6b59ad26b9e
+task_9,53,type_9,Palm Terrace Care Center,0,minitest,yes,,b0473dc7400a
+task_9,54,type_9,Joslyn Senior Center,0,minitest,yes,,ebcaa434ce22
+task_9,55,type_9,Jumbo's Clown Room,0,minitest,yes,,409d9bb2a88b
+task_9,56,type_9,Samuel Oschin Planetarium,0,minitest,yes,,97177c0bad83
+task_9,57,type_9,Depth Perceptions,0,minitest,yes,,2427076dcc85
+task_9,58,type_9,Bow Willow Ranger Station,0,minitest,yes,,7b36015f86d6
+task_9,59,type_9,Sister Servants of Mary,0,minitest,yes,,34cb0e32d432
+task_9,60,type_9,"Maginn's Pub: Beer, Whiskey & Fine Food",0,minitest,yes,,75c88bf0df73
+task_9,61,type_9,"Three Sixty Dentistry: Brian Edwards DDS, Amanda Jenney DDS & Stephanie Colletta DDS",0,minitest,yes,,a046605cc381
+task_9,62,type_9,U-Haul Truck Rental,0,minitest,yes,,03762cd074de
+task_9,63,type_9,California Lutheran University,0,minitest,yes,,553ff0ee8d9d
+task_9,64,type_9,Slo City Midwives,0,minitest,yes,,f7ff83d9bf24
+task_9,65,type_9,Jollibee,0,minitest,yes,,6c44ac50fd06
+task_9,66,type_9,California Lutheran University,0,minitest,yes,,c0a665630a2e
+task_9,67,type_9,Big Joe's Tacos,0,minitest,yes,,e209bf2abb2c
+task_9,68,type_9,California Lutheran University,0,minitest,yes,,747e39c4c9f4
+task_9,69,type_9,Garden's Elderly Care,0,minitest,yes,,94ce90c01ebd
+task_9,70,type_9,Compass Recovery,0,minitest,yes,,d782b2fc0a7a
+task_9,71,type_9,The Commerce Casino,0,minitest,yes,,da628fcf3a7c
+task_9,72,type_9,Ticketing | Check In,0,minitest,yes,,f803f829fb56
+task_9,73,type_9,Smog Inspection,0,minitest,yes,,f6a0aaa71958
+task_9,74,type_9,WVOC High School Equivalency Preparation,0,minitest,yes,,de2743519dc5
+task_9,75,type_9,Slo City Midwives,0,,yes,,40e6674ea0af
+task_9,76,type_9,Feet For Life,0,minitest,yes,,d0f5ff282e4a
+task_9,77,type_9,Savers Donation Area,0,minitest,yes,,2c4314b5ef21
+task_9,78,type_9,Manhattan Actor Studio,0,minitest,yes,,ef3ca2a88490
+task_9,79,type_9,Berlitz Language Services,0,minitest,yes,,bf88d3b41a7b
+task_9,80,type_9,LA Community Fridge East Palmdale,0,minitest,yes,,c6ec64876300
+task_9,81,type_9,Tesla Supercharger,0,minitest,yes,,1d6ff25d2d50
+task_9,82,type_9,West Valley Occupational Center,0,minitest,yes,,e77154c88576
+task_9,83,type_9,Calico High School,0,minitest,yes,,bcd01bd64f86
+task_9,84,type_9,Hillcrest Center for the Arts,0,minitest,yes,,eeedf01f1ce4
+task_9,85,type_9,San Pedro County Courts Building,0,minitest,yes,,94493364ad50
+task_9,86,type_9,Camarillo City Hall,0,minitest,yes,,9187025f9059
+task_9,87,type_9,Pet Pharmacy,0,minitest,yes,,0bd702e36171
+task_9,88,type_9,Remington Hot Springs,0,minitest,yes,,4da647e7beaa
+task_9,89,type_9,HueHue Pronto a Guatemala,0,minitest,yes,,1fed4b4624c8
+task_9,90,type_9,Claremont Chefs Academy,0,minitest,yes,,5b2a1747cf26
+task_9,91,type_9,Max Karaoke,0,minitest,yes,,10c8aab831d7
+task_9,92,type_9,Sister Servants of Mary,0,minitest,yes,,b3450739cccb
+task_9,93,type_9,Savers Donation Area,0,minitest,yes,,1cb82fcb0a21
+task_9,94,type_9,Coinstar,0,minitest,yes,,c54de0e82836
+task_9,95,type_9,Mostly Saxes,0,minitest,yes,,499241672d76
+task_9,96,type_9,Stanley,0,minitest,yes,,1760ce1415fa
+task_9,97,type_9,Prometric Testing Center,0,minitest,yes,,d29c4d7f5b0c
+task_9,98,type_9,Vapor,0,minitest,yes,,65880cade393
+task_9,99,type_9,Gould Mesa Trail Camp,0,minitest,yes,,2c74d4786159
+task_9,100,type_9,Chevron,0,minitest,yes,,742e6a607ac3
+task_9,101,type_9,Ciara Dance Studio,0,minitest,yes,,814d2fb9c927
+task_9,102,type_9,Island Packers,0,minitest,yes,,bceee675b9dd
+task_9,103,type_9,YMCA Child Care,0,minitest,yes,,ced95de412ed
+task_9,104,type_9,Chevron,0,minitest,yes,,322ce4b9c704
+task_9,105,type_9,Mostly Saxes,0,minitest,yes,,1f25a5f690ff
+task_9,106,type_9,Road One Towing,0,minitest,yes,,4ce81870f0df
+task_9,107,type_9,Popcorn Small World,0,minitest,yes,,b062b9ac996f
+task_9,108,type_9,Mostly Saxes,0,minitest,yes,,fd7d6afa0909
+task_9,109,type_9,Feet For Life,0,minitest,yes,,70ac859b18cb
+task_9,110,type_9,Ventura County Animal Services,0,minitest,yes,,b7fe14e07e7f
+task_9,111,type_9,Prometric Testing Center,0,minitest,yes,,aa8efed12cdf
+task_9,112,type_9,Big Bully Turf,0,minitest,yes,,adfa8620654a
+task_9,113,type_9,San Pedro County Courts Building,0,minitest,yes,,80193941dece
+task_9,114,type_9,Kern County Sherrif's Department,0,minitest,yes,,642d6fcb4ce2
+task_9,115,type_9,Zoom Room,0,minitest,yes,,1fbc8b5e16c7
+task_9,116,type_9,Newbury Park Bike Shop,0,minitest,yes,,c20e7da7f2a6
+task_9,117,type_9,Chevron,0,minitest,yes,,6cb722d5cbf3
+task_9,118,type_9,Cerritos Library book return,0,minitest,yes,,217d9d43aff4
+task_9,119,type_9,Remington Hot Springs,0,minitest,yes,,cbbe71631921
+task_9,120,type_9,Compass Recovery,0,minitest,yes,,0d86217f20d5
+task_9,121,type_9,Newbury Park Bike Shop,0,minitest,yes,,259184bdae89
+task_9,122,type_9,Claremont Chefs Academy,0,minitest,yes,,9dbca38dffa9
+task_9,123,type_9,Depth Perceptions,0,minitest,yes,,5b7396b2be0e
+task_9,124,type_9,Sister Servants of Mary,0,minitest,yes,,01110ebb30bf
+task_9,125,type_9,Academy of Motion Picture Arts and Sciences Film Archive,0,minitest,yes,,31c1b42c784c
+task_9,126,type_9,Long Beach Civic Center,0,minitest,yes,,94af2447d3b1
+task_9,127,type_9,Disneyland Resort Casting Center,0,minitest,yes,,5aabab2cfbb9
+task_9,128,type_9,Locker Rooms,0,minitest,yes,,ace22a62d1e4
+task_9,129,type_9,Kernville Cowork,0,minitest,yes,,26adbf5e1bc8
+task_9,130,type_9,Ventura County Animal Services,0,minitest,yes,,254f60f1e213
+task_9,131,type_9,Samuel Oschin Planetarium,0,minitest,yes,,f2ab324f8ac0
+task_9,132,type_9,Turkey Legs,0,minitest,yes,,c273cc1c532e
+task_9,133,type_9,BizMilk - Orange County Web Design,0,minitest,yes,,d34866b24265
+task_9,134,type_9,Bikes and Brew,0,minitest,yes,,9fb4f5ba96f5
+task_9,135,type_9,Operating Engineers Training Trust - Devore,0,minitest,yes,,a859dc9191f5
+task_9,136,type_9,U-Haul Truck Rental,0,minitest,yes,,f7c4b576ed2c
+task_9,137,type_9,Chevron,0,minitest,yes,,17a9a354ffae
+task_9,138,type_9,The UPS Store,0,minitest,yes,,d6351823f73d
+task_9,139,type_9,Claremont Chefs Academy,0,minitest,yes,,7ff5b0999852
+task_9,140,type_9,Circle K,0,minitest,yes,,a076a3deff0d
+task_9,141,type_9,Los Angeles County Coroner,0,minitest,yes,,ec5412fa9c10
+task_9,142,type_9,KKJZ 88.1 campus radio,0,minitest,yes,,1cc86f4c2d45
+task_9,143,type_9,The Kitchen Station,0,minitest,yes,,fa9b2a078b49
+task_9,144,type_9,West LA Academy of Dance,0,minitest,yes,,cec4bf7e5c01
+task_9,145,type_9,Road One Towing,0,minitest,yes,,f2bf290e1b4b
+task_9,146,type_9,Taft Senior Quad Stage,0,minitest,yes,,7ce3a8182687
+task_9,147,type_9,Slab City Internet Café,0,minitest,yes,,8aa2582d07b6
+task_9,148,type_9,Guest Services,0,minitest,yes,,f0449b5e9b54
+task_9,149,type_9,Olson Cemetery,0,minitest,yes,,05c07ef2836e
+task_9,150,type_9,Psychic & Astrology,0,minitest,yes,,1c20b78e59c3
+task_9,151,type_9,Joslyn Senior Center,0,minitest,yes,,9430c386d1ec
+task_9,152,type_9,Zipcar,0,minitest,yes,,6476c203b80b
+task_9,153,type_9,BW Spa,0,minitest,yes,,2da79fd51c79
+task_9,154,type_9,Los Angeles County Coroner,0,minitest,yes,,f4b3f86217b7
+task_9,155,type_9,Industrial Fabrications,0,minitest,yes,,8a734e458d27
+task_9,156,type_9,7-Eleven,0,minitest,yes,,361b09fd2520
+task_9,157,type_9,Xai Verandah Lounge and hookah,0,minitest,yes,,250a6762ae3a
+task_9,158,type_9,The Anteatery,0,minitest,yes,,1121eca9f376
+task_9,159,type_9,Riverside University Health System - Arlington Mental Health Facility,0,minitest,yes,,f775af96e7e3
+task_9,160,type_9,Locker Rooms,0,minitest,yes,,4c020fb83493
+task_9,161,type_9,BizMilk - Orange County Web Design,0,minitest,yes,,9fea347fa0f8
+task_9,162,type_9,Collab&Play,0,minitest,yes,,ed2ffe80e387
+task_9,163,type_9,Kernville Cowork,0,minitest,yes,,d5708aeafd25
+task_9,164,type_9,La Michoacana USA,0,minitest,yes,,af66f643bd7d
+task_9,165,type_9,BizMilk - Orange County Web Design,0,minitest,yes,,9f0d7f34c196
+task_9,166,type_9,The Bone Adventure,0,minitest,yes,,f67aa4f02ea1
+task_9,167,type_9,The Sheared Sheep,0,minitest,yes,,dc897f96cd50
+task_9,168,type_9,Stanley,0,minitest,yes,,20580b8267c3
+task_9,169,type_9,West LA Academy of Dance,0,minitest,yes,,4b68a3ffd330
+task_9,170,type_9,Xai Verandah Lounge and hookah,0,minitest,yes,,71ff3598d00a
+task_9,171,type_9,Nubia Cafe,0,minitest,yes,,fc40c5b1b7f8
+task_9,172,type_9,Goodwill,0,minitest,yes,,d2e2bd708438
+task_9,173,type_9,"Three Sixty Dentistry: Brian Edwards DDS, Amanda Jenney DDS & Stephanie Colletta DDS",0,minitest,yes,,18227ee4371b
+task_9,174,type_9,Compass Recovery,0,minitest,yes,,6d90102b5508
+task_9,175,type_9,West Valley Occupational Center,0,minitest,yes,,c6ebd467614f
+task_9,176,type_9,Santa Clarita Animal Hospital - Veterinarian,0,minitest,yes,,3bc0790b42ad
+task_9,177,type_9,Big Bully Turf,0,minitest,yes,,7f998c7130d0
+task_9,178,type_9,Riverside University Health System - Arlington Mental Health Facility,0,minitest,yes,,8721c2a9a42c
+task_9,179,type_9,Calvary Chapel Children's Church,0,minitest,yes,,34f8409813a1
+task_9,180,type_9,Calico High School,0,minitest,yes,,5a6615dbae8f
+task_9,181,type_9,Semper Solaris,0,minitest,yes,,c191c22c7d8f
+task_9,182,type_9,Depth Perceptions,0,minitest,yes,,9f6ed18ba4b0
+task_9,183,type_9,Vapor,0,minitest,yes,,99a3f158386b
+task_9,184,type_9,"Three Sixty Dentistry: Brian Edwards DDS, Amanda Jenney DDS & Stephanie Colletta DDS",0,minitest,yes,,80f97def1802
+task_9,185,type_9,Southern Lites Collective,0,minitest,yes,,b19ddc261d8c
+task_9,186,type_9,HearUSA,0,minitest,yes,,61339bd397e1
+task_9,187,type_9,McCabe's,0,minitest,yes,,6ea021fc6bf1
+task_9,188,type_9,Daggett Post Office,0,minitest,yes,,5f3a904438a6
+task_9,189,type_9,Palm Terrace Care Center,0,minitest,yes,,6e828cd2addf
+task_9,190,type_9,Vineyard Car Wash,0,minitest,yes,,73e8993ab4ff
+task_9,191,type_9,The Kitchen Station,0,minitest,yes,,3065f93f5c0b
+task_9,192,type_9,Pet Pharmacy,0,minitest,yes,,d444cc7a05d1
+task_9,193,type_9,Avila Beach Paddlesports,0,minitest,yes,,07f320e7dc46
+task_9,194,type_9,Unplug Meditation,0,minitest,yes,,ba5ad9783314
+task_9,195,type_9,California Lutheran University,0,minitest,yes,,6e2329682cfd
+task_9,196,type_9,Calvary Chapel Children's Church,0,minitest,yes,,84d7108c51f3
+task_9,197,type_9,CVS Pharmacy,0,minitest,yes,,0264e9f2a130
+task_9,198,type_9,Laguna Hills Mobile Home Estates,0,minitest,yes,,20ea4ef5b227
+task_9,199,type_9,Road One Towing,0,minitest,yes,,65275b8bffa0
+task_9,200,type_9,Newbury Park Bike Shop,0,minitest,yes,,cc5489e59e2c
+task_9,201,type_9,Calico High School,0,minitest,yes,,15f71a696edb
+task_9,202,type_9,Chevron,0,minitest,yes,,0f451008c9b6
+task_9,203,type_9,3-Point Basketball Shoot,0,minitest,yes,,c9cefe390743
+task_9,204,type_9,BW Spa,0,minitest,yes,,57ddc69d9958
+task_9,205,type_9,Locker Rooms,0,minitest,yes,,d421ba943ab1
+task_9,206,type_9,"Maginn's Pub: Beer, Whiskey & Fine Food",0,minitest,yes,,04986df90a7f
+task_9,207,type_9,Operating Engineers Training Trust - Devore,0,minitest,yes,,698ee94c7b3e
+task_9,208,type_9,Berlitz Language Services,0,minitest,yes,,fc4adc14c633
+task_9,209,type_9,MONTCLAIR,0,minitest,yes,,9cb9f74f5c09
+task_9,210,type_9,iRepair,0,minitest,yes,,4fc15baa66e6
+task_9,211,type_9,U-Haul Truck Rental,0,minitest,yes,,4e8e0b30b49e
+task_9,212,type_9,West LA Academy of Dance,0,minitest,yes,,aa4bf0efdb2b
+task_9,213,type_9,GoldMax,0,minitest,yes,,fe8a70c76901
+task_9,214,type_9,Collab&Play,0,minitest,yes,,284cb7e65a7a
+task_9,215,type_9,Cerritos Library book return,0,minitest,yes,,c58000ba59f8
+task_9,216,type_9,Guest Services,0,minitest,yes,,abba889a8476
+task_9,217,type_9,Cabana at Oasis Pool,0,minitest,yes,,2e9453a1c0a2
+task_9,218,type_9,California Lutheran University,0,minitest,yes,,4f44e29fda56
+task_9,219,type_9,Kern County Sherrif's Department,0,minitest,yes,,1386083f6e0a
+task_9,220,type_9,EagleRider,0,minitest,yes,,939ca8aca7d8
+task_9,221,type_9,Riverside Fire Department Station #7,0,minitest,yes,,f53d122411f0
+task_9,222,type_9,Circle K,0,minitest,yes,,4ed6b96b77de
+task_9,223,type_9,Operating Engineers Training Trust - Devore,0,minitest,yes,,d90db9fde689
+task_9,224,type_9,iRepair,0,minitest,yes,,035314146f7f
+task_9,225,type_9,Island Packers,0,minitest,yes,,e2f4b706ad10
+task_9,226,type_9,California Lutheran University,0,minitest,yes,,5e6298c8732b
+task_9,227,type_9,La Michoacana USA,0,minitest,yes,,5cfce93c1527
+task_9,228,type_9,Jumbo's Clown Room,0,minitest,yes,,095d91e47135
+task_9,229,type_9,Watermill Express,0,minitest,yes,,2086d86bd5b3
+task_9,230,type_9,Depth Perceptions,0,minitest,yes,,1dc82e1efd04
+task_9,231,type_9,California Institution for Men,0,minitest,yes,,6e345591af14
+task_9,232,type_9,Newbury Park Bike Shop,0,minitest,yes,,2db69e9e7338
+task_9,233,type_9,JT Salon,0,minitest,yes,,e6cd75a8e581
+task_9,234,type_9,U-Haul Truck Rental,0,minitest,yes,,e88faaf1e507
+task_9,235,type_9,The Anteatery,0,minitest,yes,,6632be52cc25
+task_9,236,type_9,Calvary Chapel Children's Church,0,minitest,yes,,ab31e7dfde18
+task_9,237,type_9,Vapor,0,minitest,yes,,2b9127c899d3
+task_9,238,type_9,Newport Beach Boat Rental,0,minitest,yes,,d5ccd84ca0e2
+task_9,239,type_9,Silverado Children's Center,0,minitest,yes,,642c79649255
+task_9,240,type_9,Hesperia/Joshua Street,0,minitest,yes,,159cc6048743
+task_9,241,type_9,Samuel Oschin Planetarium,0,minitest,yes,,6e27c788505e
+task_9,242,type_9,West Coast Surrogacy,0,minitest,yes,,b419bd05a1ee
+task_9,243,type_9,HearUSA,0,minitest,yes,,83722a78a6d9
+task_9,244,type_9,Collab&Play,0,minitest,yes,,979d0c86ac8b
+task_9,245,type_9,CSL Rm 333 Auditorium,0,minitest,yes,,870f6d63981c
+task_9,246,type_9,WVOC High School Equivalency Preparation,0,minitest,yes,,bfa5aedd5cb9
+task_9,247,type_9,Guest Services,0,minitest,yes,,8c5325dfa39f
+task_9,248,type_9,Berlitz Language Services,0,minitest,yes,,91e54f4212ab
+task_9,249,type_9,Jumbo's Clown Room,0,minitest,yes,,ac67adfbb9a4
+task_9,250,type_9,Guest Services,0,minitest,yes,,9cb385d1c5bb

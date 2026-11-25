@@ -121,7 +121,7 @@ def solve_one(planner: Planner, executor: Executor, example, args, cache_dir: Pa
         "open_ended": example.open_ended,
         "prediction": prediction,
         "prediction_letter": letter,
-        "correct": score_prediction(prediction, example.answer, open_ended=example.open_ended),
+        "correct": score_prediction(prediction, example.answer, open_ended=example.open_ended, choices=example.choices),
         "solution": output_text,
         "trace": {"query_analysis": str(query_analysis), "memory": memory.get_actions(), "steps": steps},
         "usage": usage,

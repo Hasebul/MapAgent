@@ -8,8 +8,11 @@ Examples
     python evaluate.py results/mapeval_api/mapagent_gpt-3.5-turbo/trip.jsonl --output trip_summary.json
 
 Predictions are re-scored from the saved records, so the scoring options can be changed without re-running.
-``--legacy_fuzzy`` reproduces the original release's lenient scorer (fuzzy similarity >= 30%), which accepts
-many wrong options; use it only to compare with old numbers.
+Scoring protocol (see mapagent/scoring.py): a multiple-choice prediction is resolved to the option it equals or, failing
+that, to its single most similar option with fuzzy similarity >= --fuzzy_threshold (default 0.9); it is correct if
+that option is the gold one. Unparseable answers, failed questions and questions listed in the run's manifest.json
+but missing from the result files count as wrong. Overall accuracy is micro-averaged over all questions.
+``--legacy_fuzzy`` reproduces the first release's lenient scorer (fuzzy similarity >= 0.3 against the gold text).
 """
 
 from __future__ import annotations
@@ -18,26 +21,36 @@ import argparse
 import json
 import sys
 from pathlib import Path
-from typing import List
+from typing import Dict, List, Optional
 
 ROOT = Path(__file__).resolve().parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from mapagent.data import TASK_DISPLAY_NAMES  # noqa: E402
-from mapagent.scoring import DEFAULT_NUMERIC_TOLERANCE, format_summary, load_records, summarize  # noqa: E402
+from mapagent.scoring import (  # noqa: E402
+    DEFAULT_FUZZY_THRESHOLD,
+    DEFAULT_NUMERIC_TOLERANCE,
+    format_summary,
+    load_records,
+    summarize,
+)
 
 
 def _collect(path: Path):
-    """Return ``(files, task_order, title)`` for a run directory or a single JSONL file."""
+    """Return ``(files, task_order, expected, title)`` for a run directory or a single JSONL file."""
     if path.is_dir():
         files = sorted(path.glob("*.jsonl"))
         task_order: List[str] = []
+        expected: Optional[Dict[str, List[str]]] = None
         config = path / "config.json"
         if config.exists():
             task_order = json.loads(config.read_text(encoding="utf-8")).get("tasks", [])
-        return files, task_order, str(path)
-    return [path], [], str(path)
+        manifest = path / "manifest.json"
+        if manifest.exists():
+            expected = json.loads(manifest.read_text(encoding="utf-8")).get("questions")
+        return files, task_order, expected, str(path)
+    return [path], [], None, str(path)
 
 
 def main(argv=None) -> int:
@@ -45,8 +58,12 @@ def main(argv=None) -> int:
     parser.add_argument("paths", nargs="+", help="Run directories (containing <task>.jsonl files) or JSONL files.")
     parser.add_argument("--numeric_tolerance", type=float, default=DEFAULT_NUMERIC_TOLERANCE,
                         help="Relative tolerance for numeric open-ended answers (MapQA).")
+    parser.add_argument("--fuzzy_threshold", type=float, default=DEFAULT_FUZZY_THRESHOLD,
+                        help="Minimum fuzzy similarity (fuzz.ratio / 100) for matching a prediction to an option/answer.")
+    parser.add_argument("--ignore_missing", action="store_true",
+                        help="Do not count questions of the run's manifest that have no result as wrong.")
     parser.add_argument("--legacy_fuzzy", action="store_true",
-                        help="Use the original release's fuzzy scorer (similarity >= 30%%).")
+                        help="Use the first release's fuzzy scorer (similarity >= 0.3 against the gold text).")
     parser.add_argument("--output", help="Write the summaries to this JSON file.")
     args = parser.parse_args(argv)
 
@@ -56,7 +73,7 @@ def main(argv=None) -> int:
         if not path.exists():
             print(f"[error] {path} does not exist")
             return 1
-        files, task_order, title = _collect(path)
+        files, task_order, expected, title = _collect(path)
         if not files:
             print(f"[error] no .jsonl result files in {path}")
             return 1
@@ -64,6 +81,8 @@ def main(argv=None) -> int:
             load_records(files),
             task_order=task_order,
             display_names=TASK_DISPLAY_NAMES,
+            expected=None if args.ignore_missing else expected,
+            fuzzy_threshold=args.fuzzy_threshold,
             legacy_fuzzy=args.legacy_fuzzy,
             numeric_tolerance=args.numeric_tolerance,
         )

@@ -151,6 +151,21 @@ OPENAI_API_KEY=EMPTY python run.py --benchmark mapeval_visual \
 python run.py --benchmark mapeval_api --provider azure --model my-gpt-35-deployment
 ```
 
+Every LLM role is configured explicitly. `--model` sets all of them; these flags override single roles:
+
+| Role | Flag | What it does |
+| --- | --- | --- |
+| Planner Agent | `--planner_model` | selects the modules |
+| Map-Tool Agent | `--map_agent_model` | native function calling over the four MapTools (must support tools) |
+| Visual Place Recognizer | `--vpr_model` | VLM, visual questions only |
+| Sequencer | `--sequencer_model` | organizes the retrieved map data |
+| Solution Generator | `--sg_model` | step-by-step solution (VLM for visual questions) |
+| Answer Generator | `--ag_model` | verifies the solution and extracts the answer |
+
+The resolved model of every role, the provider and endpoint, all arguments and the git revision of the code are
+saved in `config.json` of each run, so a result can always be traced back to its exact configuration. There is no
+separate Qwen code path: the same code runs any OpenAI-compatible endpoint that supports tool calling.
+
 Base model (no planner, no tools; the "Base Model" rows of Tables 3, 5 and 6):
 
 ```bash
@@ -178,10 +193,14 @@ Run `python run.py --help` for all options.
 
 ## Evaluation and outputs
 
-Each run directory contains one `<task>.jsonl` file (one record per question), `config.json` and `summary.json`.
-A record stores the selected modules, the output of every module (the tool calls of the Map-Tool Agent, the
-retrieved map data, the solution, ...), the prediction, the gold answer, and the cost of the question
-(LLM calls, tokens, MapTool calls, Google Maps requests, time).
+Each run directory contains:
+
+- `<task>.jsonl` – one record per question: the selected modules, the output of every module (the tool calls of
+  the Map-Tool Agent, the retrieved map data, the solution, ...), the prediction, the gold answer, any error, and
+  the cost of the question (LLM calls, tokens, MapTool calls, Google Maps requests, time);
+- `config.json` – models of every role, provider/endpoint, temperature, all arguments and the git revision;
+- `manifest.json` – the question IDs the run covers (per task) and the questions that were skipped and why;
+- `summary.json` – the scores.
 
 ```bash
 python evaluate.py results/mapeval_api/mapagent_gpt-3.5-turbo
@@ -194,15 +213,27 @@ python evaluate.py results/mapeval_api/mapagent_gpt-3.5-turbo
 Average cost per query: ... LLM calls, ...K tokens, ... MapTool calls, ... Google Maps API calls, ... s
 ```
 
-Scoring:
+### Scoring protocol
 
-- **Multiple choice (MapEval)** – a prediction is correct only if the selected option (or "Unanswerable") is the
-  gold option.
-- **Open-ended (MapQA)** – the extracted answer must match the gold answer after normalisation or contain it as a
-  whole phrase; numeric answers (e.g. `21694.66 meters`) are compared with a 5% relative tolerance after unit
-  conversion (`--numeric_tolerance`).
-- `--legacy_fuzzy` reproduces the scorer of the first release (fuzzy string similarity ≥ 30%). It accepts about
-  half of the wrong MapEval options, so use it only to compare with old result files.
+Fuzzy similarity is fuzzywuzzy's `fuzz.ratio` (difflib implementation) on lower-cased, whitespace-normalised text,
+divided by 100. The threshold is **0.9** (`--fuzzy_threshold`).
+
+- **Multiple choice (MapEval)** – the prediction is resolved to the option it equals or, failing that, to its single
+  most similar option if the similarity is at least 0.9 ("Unanswerable" counts as an option). The answer is correct
+  if that option is the gold option. Since a prediction is always matched to its *closest* option, a wrong option
+  that happens to be 90% similar to the gold one (e.g. "1 hour 3 mins" vs "1 hour 5 mins"; 33 such option pairs
+  exist in MapEval) is never accepted.
+- **Open-ended (MapQA)** – correct if the extracted answer equals the gold answer after normalisation, contains it
+  as a whole phrase, or is at least 0.9 similar to it with the same numbers. Quantities (e.g. `21694.66 meters`)
+  are compared numerically with a 5% relative tolerance after unit conversion (`--numeric_tolerance`).
+- **Denominators** – every question of the evaluated set counts. Unparseable answers and questions whose run
+  failed count as wrong, and questions listed in `manifest.json` without a result count as wrong too
+  (`--ignore_missing` reports accuracy over the answered questions only).
+- **Aggregation** – per-category accuracy is computed within each category; the overall accuracy is
+  micro-averaged over all questions (the macro average over categories is printed as well). A run is a single pass
+  at temperature 0 by default (`--temperature`); to average several runs, evaluate each run directory separately.
+- `--legacy_fuzzy` reproduces the scorer of the first release (commit `a82eedc`: `fuzz.ratio >= 30` against the gold
+  text). It accepts about half of the wrong MapEval options, so use it only to compare with old result files.
 
 `evaluate.py` re-scores the saved predictions, so scoring options can be changed without re-running.
 
@@ -236,6 +267,15 @@ not reproduce them exactly.
 Every task folder holds `problems.json` (`{pid: problem}`) and `pid_splits.json`. MapEval-API and MapEval-Textual
 share the questions; only MapEval-Textual passes the textual `context` to the model. MapQA questions are
 open-ended: their `choices` field only repeats the gold answer and is never shown to the model.
+
+By default (`--split all`) every question in `problems.json` is evaluated: 300 for MapEval-API/Textual and 400 for
+MapEval-Visual. The `minitest` lists of `pid_splits.json` are kept for compatibility but are not complete (for
+MapEval-API/Textual they contain 299 IDs: `poi/21` is missing), and MapEval-API/Textual have no `test` split.
+
+`datasets_dir/manifests/` lists every question (task, ID, category, gold answer, number of options, the splits that
+contain it, whether it is evaluated and why not, and a SHA-1 prefix of the question text):
+`txt_data.csv` (MapEval-API/Textual), `img_data.csv` (MapEval-Visual) and `map_qa_data.csv` (MapQA). Run
+`python scripts/export_manifest.py --check` to verify that your copy of the data matches them.
 
 Data fixes in this version:
 
@@ -293,10 +333,11 @@ The first release could not run end to end and its evaluation over-estimated acc
   almost every plan) returned nothing and crashed the run; the visual pipeline read a missing `img_path` field
   and called a non-existent method; an unknown place raised `UnboundLocalError`; the OctoTools baseline imported a
   package that no longer existed.
-- **Scoring** – answers were counted as correct when their fuzzy similarity with the gold answer was ≥ 30%, which
+- **Scoring** – answers were counted as correct when their fuzzy similarity with the gold answer was ≥ 0.3, which
   accepts 54% of the wrong MapEval options (e.g. "Mary Castle" when the answer is "Howth Castle", or "Seven" for
-  "Ten"). MapQA questions showed the gold answer as the only option. The unanswerable labels and three corrupted
-  items were wrong (see [Datasets](#datasets)).
+  "Ten"). The threshold is now 0.9, applied through closest-option matching (see
+  [Scoring protocol](#scoring-protocol)). MapQA questions showed the gold answer as the only option. The
+  unanswerable labels and three corrupted items were wrong (see [Datasets](#datasets)).
 - **Paper fidelity** – the module inventory follows Table 10 (the planner listed ScienceQA modules such as
   Bing search and knowledge retrieval, partly unimplemented); the Map-Tool Agent uses the prompt of Appendix B.1,
   passes the retrieved data (instead of the raw message list) to the next modules, and receives the place and
@@ -307,8 +348,14 @@ The first release could not run end to end and its evaluation over-estimated acc
 - **Configuration** – model arguments were ignored (Azure deployments were hard-coded) and empty keys were
   embedded in the code; providers, models and keys are now configurable, LLM outputs are no longer `eval`-ed, and
   keys are never printed.
+- **Splits** – the README ran `--split test`, which does not exist for MapEval-API/Textual, and the `minitest` lists
+  miss `poi/21`; the default is now every question, documented in `datasets_dir/manifests/`.
 - **Baseline** – OctoTools reused one memory for all questions, solved only the first question, shipped misleading
   tool demos, and contained a hard-coded key.
+- **Clean-up** – files from other experiments that are not part of MapAgent were removed: the multi-agent debate
+  script, the ScienceQA leftovers of the Chameleon code base (OCR, Bing search, query generation and knowledge
+  retrieval), unused prompts, the generic OctoTools tools (arXiv, PubMed, object detection, ...), and committed test
+  logs and sample images.
 
 ## Responsible use
 

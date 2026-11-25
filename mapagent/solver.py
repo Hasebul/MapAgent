@@ -208,7 +208,9 @@ class MapAgent:
             "modules": modules,
             "prediction": state.prediction,
             "prediction_letter": state.prediction_letter,
-            "correct": score_prediction(state.prediction, example.answer, open_ended=example.open_ended),
+            "correct": score_prediction(
+                state.prediction, example.answer, open_ended=example.open_ended, choices=example.choices
+            ),
             "solution": state.solution,
             "trace": state.trace,
             "usage": self.usage.snapshot().to_dict(),

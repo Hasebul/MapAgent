@@ -1,0 +1,301 @@
+task,pid,category,answer,num_options,splits,evaluated,note,question_sha1
+poi,1,poi,Athens and Rhodes,4,minitest,yes,,6a8040117d60
+poi,2,poi,Gran Caffè La Caffettiera,4,minitest,yes,,e709b912de93
+poi,3,poi,Yes,2,minitest,yes,,b3c5a8d5fd37
+poi,4,poi,Yes,2,minitest,yes,,9d233da26bbb
+poi,5,poi,Royal Takin Preserve,4,minitest,yes,,0e4fe4903395
+poi,6,poi,Széchenyi Thermal Bath and Heroes' Square in Budapest,4,minitest,yes,,f41d548a441c
+poi,7,poi,1115.76 km,4,minitest,yes,,3dc6dc6cf6a4
+poi,8,poi,1.14 km,4,minitest,yes,,ae3d80113087
+poi,9,poi,"East, 0.71 km",4,minitest,yes,,f05a62e3244c
+poi,10,poi,4.1,4,minitest,yes,,b61ba248b450
+poi,11,poi,114.49 km,4,minitest,yes,,cb693d623d5b
+poi,12,poi,West,4,minitest,yes,,ea7de3ee92eb
+poi,13,poi,Petronas Twin Towers and KLCC Park in Kuala Lumpur,4,minitest,yes,,ca6d5e343799
+poi,14,poi,4.99 km,4,minitest,yes,,c22083f92b6f
+poi,15,poi,"Café La Pagoda, Av. 5 de Mayo 10-F, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",4,minitest,yes,,7828332b90e6
+poi,16,poi,"East, 10.14 kilometers",4,minitest,yes,,09c65d9e52bb
+poi,17,poi,"South, 11.68 kilometers",4,minitest,yes,,739f42705e8f
+poi,18,poi,"House 49/A, Rangs KB Square, 4th Floor, Satmasjid Road, Dhaka 1209, Bangladesh",4,minitest,yes,,11b067b8c7bf
+poi,19,poi,Yes,2,minitest,yes,,7a4d062c6209
+poi,20,poi,Yes,2,minitest,yes,,9bde75b1c798
+poi,21,poi,No,2,,yes,,a486a5db9112
+poi,22,poi,The National Museum of Finland,4,minitest,yes,,ebe144d77491
+poi,23,poi,Gdańsk and Wrocław : 376.45 km,4,minitest,yes,,f419dd7b96a9
+poi,24,poi,Columbia University,4,minitest,yes,,3d34012d5d58
+poi,25,poi,West,4,minitest,yes,,03327adcbee0
+poi,26,poi,No,2,minitest,yes,,54d93a71f7ab
+poi,27,poi,Budapest and Debrecen,4,minitest,yes,,6e1e207a6b62
+poi,28,poi,West,4,minitest,yes,,a711d4f1ee38
+poi,29,poi,East,4,minitest,yes,,b2099b52a4dc
+poi,30,poi,East,4,minitest,yes,,40f0b3e82205
+poi,31,poi,280 km,4,minitest,yes,,72fdbf5eed42
+poi,32,poi,South,4,minitest,yes,,47b2c9ff85e0
+poi,33,poi,232.72 km,4,minitest,yes,,d77c2bf54790
+poi,34,poi,447.50 km,4,minitest,yes,,df973bc2432f
+poi,35,poi,North,4,minitest,yes,,437861dc437b
+poi,36,poi,667.14 km,4,minitest,yes,,cbe88c85a567
+poi,37,poi,"West, 9.94 kilometers",4,minitest,yes,,87ec6acee9fd
+poi,38,poi,Plaza de Bolívar and Gold Museum (Museo del Oro) in Bogotá,4,minitest,yes,,9e58c7bdded1
+poi,39,poi,2804,4,minitest,yes,,edb5f342d5e9
+poi,40,poi,Yes,2,minitest,yes,,7cce1df2961f
+poi,41,poi,101 km,4,minitest,yes,,0db470d9c72a
+poi,42,poi,"South, 155.06 km",4,minitest,yes,,5e1fe455d176
+poi,43,poi,2979 km,4,minitest,yes,,9a7053db4b64
+poi,44,poi,North,4,minitest,yes,,38bba03187f4
+poi,45,poi,85.48 km,4,minitest,yes,,2d792ccf316e
+poi,46,poi,George Town and Kota Kinabalu,4,minitest,yes,,aaef3017b27e
+poi,47,poi,The National Gallery of Ireland,4,minitest,yes,,f7156770c418
+poi,48,poi,No,2,minitest,yes,,f9e0c6a74921
+poi,49,poi,Moderate,4,minitest,yes,,09e065d70542
+poi,50,poi,Yes,2,minitest,yes,,c0aeab9e900c
+poi,51,poi,Stockholm and Kiruna,4,minitest,yes,,3c46e189867e
+poi,52,poi,Juba and Malakal,4,minitest,yes,,4776e9fead6b
+poi,53,poi,6.86 km,4,minitest,yes,,00dbf90eefe5
+poi,54,poi,Moderate,4,minitest,yes,,952d98625e01
+poi,55,poi,1272.68 km,4,minitest,yes,,32254fff21c6
+poi,56,poi,Yes,2,minitest,yes,,003c8375beb5
+poi,57,poi,National Archaeological Museum,4,minitest,yes,,f4526ea9f766
+poi,58,poi,Yes,2,minitest,yes,,6cb1cc3bc8e1
+poi,59,poi,South,4,minitest,yes,,0698e2043898
+poi,60,poi,Vigeland Park,4,minitest,yes,,1ad6ebee99a3
+poi,61,poi,Yes,2,minitest,yes,,84026ae82fb5
+poi,62,poi,West,4,minitest,yes,,576d7ffb0156
+poi,63,poi,Freedom Park,4,minitest,yes,,062f8526767d
+poi,64,poi,180 km,4,minitest,yes,,805fce20bdf2
+nearby,1,nearby,Torch Restaurant,4,minitest,yes,,eeaf5d565c61
+nearby,2,nearby,Starbucks Louvre,4,minitest,yes,,f7d7fcee9094
+nearby,3,nearby,Tower Bridge Piazza - 362 Tower Hill,4,minitest,yes,,3c384beeb3cc
+nearby,4,nearby,New York Fries,4,minitest,yes,,8f1102118422
+nearby,5,nearby,"Trinity Square Gardens - Tower Hill Station, 38 Trinity Square",4,minitest,yes,,b8445f0c9ab8
+nearby,6,nearby,"Biblioteca Eusebio F. Kino del Instituto Libre de Filosofía y Ciencia, A. C.",4,minitest,yes,,1b3671428952
+nearby,7,nearby,Nando's Dubai Mall,4,minitest,yes,,5be3983459a3
+nearby,8,nearby,Jebel parking,4,minitest,yes,,869156b2eb65
+nearby,9,nearby,Silver Gardens - 18 Marina Gardens Dr,4,minitest,yes,,9535858e3885
+nearby,10,nearby,EAST BENGAL STADIUM,4,minitest,yes,,fc0c352ce915
+nearby,11,nearby,Mymensingh Head Post Office,4,minitest,yes,,ff25c2e6736c
+nearby,12,nearby,The GrillShack,4,minitest,yes,,8f2f5055a92b
+nearby,13,nearby,United Commercial Bank Limited,4,minitest,yes,,66ee2d951344
+nearby,14,nearby,Bata Amin Shoe Store,4,minitest,yes,,a0fb44ec68d2
+nearby,15,nearby,NMC Medical Centre JAFZA,4,minitest,yes,,2ab423e16450
+nearby,16,nearby,9,4,minitest,yes,,7141e3996856
+nearby,17,nearby,Tooth Aid Dental Zone,4,minitest,yes,,ee4c9ae68c69
+nearby,18,nearby,Hasan Veterinary Pharmacy,4,minitest,yes,,6e9015d968c0
+nearby,19,nearby,Life Style Fitness,4,minitest,yes,,f66e3cc6ff56
+nearby,20,nearby,Marble Palace Zoo,4,minitest,yes,,81cb64854ea1
+nearby,21,nearby,সওদাগর হার্ডওয়্যার,3,minitest,yes,,1cb3fc28d5aa
+nearby,22,nearby,Sajeeb Medicine Center,4,minitest,yes,,db327edf5576
+nearby,23,nearby,Hostaria Al Gladiatore,4,minitest,yes,,3d4b18cbbdd7
+nearby,24,nearby,The GrillShack,4,minitest,yes,,02a2d2a8add5
+nearby,25,nearby,The Pearl Mosque - Masjid,4,minitest,yes,,935d7f2ea151
+nearby,26,nearby,Marina Bay Sands Garden Park,4,minitest,yes,,db6e5f6909e4
+nearby,27,nearby,1,4,minitest,yes,,b4ee3609ad06
+nearby,28,nearby,The GrillShack,4,minitest,yes,,627cdb6ea3db
+nearby,29,nearby,8,4,minitest,yes,,27a42ef608ec
+nearby,30,nearby,15,4,minitest,yes,,a41b89721985
+nearby,31,nearby,Wimpy,4,minitest,yes,,8ddf92aabdad
+nearby,32,nearby,National Palace Museum of Korea,4,minitest,yes,,a6e75f6ccbe8
+nearby,33,nearby,National Palace Museum of Korea,4,minitest,yes,,b4d40a8dbfa6
+nearby,34,nearby,Amorino,4,minitest,yes,,46133cc30bf4
+nearby,35,nearby,Shree Shanidev Mandir,4,minitest,yes,,576c44c50f9d
+nearby,36,nearby,Robson Square,4,minitest,yes,,7fe0901ae7bd
+nearby,37,nearby,Shishir Bakery,4,minitest,yes,,6925ed02f5e5
+nearby,38,nearby,Shree Shree Maa Kali Temple,4,minitest,yes,,e693414ff816
+nearby,39,nearby,"Market Street Catch, Buster's Sea Cove - St. Lawrence Market",4,minitest,yes,,45913950e076
+nearby,40,nearby,McDonald's,4,minitest,yes,,8e7fb1407dee
+nearby,41,nearby,"Market Street Catch, A&W Canada, Quik Sushi, Big Pita, Pizza Pizza",4,minitest,yes,,6cdfb6b92420
+nearby,42,nearby,St. Thomas Church (C.N.I.),4,minitest,yes,,2049ada663cc
+nearby,43,nearby,Lycée Ermesinde Mersch (LEM),4,minitest,yes,,3bc38d8a2576
+nearby,44,nearby,"RBC Royal Bank ATM, CIBC ATM, TD Canada Trust ATM, Shell",4,minitest,yes,,45831feea7b7
+nearby,45,nearby,7,4,minitest,yes,,5d223c5d20c9
+nearby,46,nearby,"Dr. Bernard Heller Museum | 1 West 4th Street, New York",4,minitest,yes,,f5f71cbb9d6b
+nearby,47,nearby,মুক্তা বেকারী এন্ড সুইটস্,4,minitest,yes,,dd5f89256aaa
+nearby,48,nearby,5,4,minitest,yes,,1fa5f9e6e584
+nearby,49,nearby,1,4,minitest,yes,,8377301a54c0
+nearby,50,nearby,1,4,minitest,yes,,1b4785cb7e38
+nearby,51,nearby,Purobi Cinema Hall,4,minitest,yes,,0a21b1324275
+nearby,52,nearby,東京大学医学部附属病院 管理・研究棟,4,minitest,yes,,d275e9add04a
+nearby,53,nearby,Grab & Fly,4,minitest,yes,,c9506bbb1e3f
+nearby,54,nearby,"Deutsche Bank - Largo di Torre Argentina, 4, 00186 Roma RM",4,minitest,yes,,472f7c6b32c5
+nearby,55,nearby,Museum Tavern,4,minitest,yes,,7e7fcf3f88d9
+nearby,56,nearby,Bikanervala Dubai Mall,4,minitest,yes,,8f3921eeac33
+nearby,57,nearby,6123 m,4,minitest,yes,,c2ecc091b719
+nearby,58,nearby,"Yianni's Kitchen, Bar St. Lo, Big Pita, Manotas Organics, Spanish & Latin Foods, Crepe It Up",4,minitest,yes,,266613bf19f5
+nearby,59,nearby,সুনীল লন্ড্রী এন্ড ড্রাই ক্লিনার্স,4,minitest,yes,,9079eee40973
+nearby,60,nearby,5,4,minitest,yes,,94babed1b854
+nearby,61,nearby,GAME OF FITNESS,4,minitest,yes,,e96c6b50d3dc
+nearby,62,nearby,ENEOS Yushima Service Station,4,minitest,yes,,b0e140687274
+nearby,63,nearby,13,4,minitest,yes,,376ce34c0693
+nearby,64,nearby,Western Salon,4,minitest,yes,,ad7bba981f73
+nearby,65,nearby,The GrillShack,4,minitest,yes,,c82d7c84b422
+nearby,66,nearby,The Invisible Tree Publications,4,minitest,yes,,810b0eb3816d
+nearby,67,nearby,2,4,minitest,yes,,1bd6cac3df6a
+nearby,68,nearby,American Wing Cafe and The Great Hall Balcony Cafe,4,minitest,yes,,bad39768ab60
+nearby,69,nearby,General Patton Museum,4,minitest,yes,,993919eb1ed0
+nearby,70,nearby,مسجد النور,4,minitest,yes,,3b46450369c6
+nearby,71,nearby,মেঘলা তিথি পুষ্প কুঞ্জ ইভেন্ট ম্যানেজমেন্ট,4,minitest,yes,,5c3077d9de76
+nearby,72,nearby,5,4,minitest,yes,,ca62f0816b59
+nearby,73,nearby,Boishakhi Hotel And Restaurant,4,minitest,yes,,bbd01e98468d
+nearby,74,nearby,"Buster's Sea Cove - St. Lawrence Market, Big Pita, Bindia Indian Bistro, Market Street Catch, Paddington's Pump",4,minitest,yes,,f918fe6fd86b
+nearby,75,nearby,3,4,minitest,yes,,b55b2b80c55c
+nearby,76,nearby,Mary Orthopedic General Hospital and Diagnosis Center,4,minitest,yes,,2b69c12ae172
+nearby,77,nearby,5,4,minitest,yes,,04ce843811e6
+nearby,78,nearby,Hazari Dental Care,4,minitest,yes,,2205d6177405
+nearby,79,nearby,Wimpy,4,minitest,yes,,1798f68403e3
+nearby,80,nearby,Begum Rokeya University Mosque,4,minitest,yes,,f6bcdf85f3eb
+nearby,81,nearby,মোঃ হেলাল উদ্দিন,4,minitest,yes,,e238d760b56f
+nearby,82,nearby,6,4,minitest,yes,,e07ce66631fd
+nearby,83,nearby,Theme Omor Plaza,4,minitest,yes,,6471cfc01fe9
+routing,1,routing,Turn right onto E Main St,4,minitest,yes,,2d9f82099d5a
+routing,2,routing,2,4,minitest,yes,,6bc54fa3cde8
+routing,3,routing,Turn left onto Mirpur road,4,minitest,yes,,970606ead147
+routing,4,routing,3rd exit,4,minitest,yes,,22427e99987c
+routing,5,routing,Royal Botanic Garden Sydney,2,minitest,yes,,e8c407e0ef03
+routing,6,routing,Turn left onto College Ave,4,minitest,yes,,963a864ab278
+routing,7,routing,Via L1042 and Hainichlandweg,3,minitest,yes,,3169ca2ddb2e
+routing,8,routing,Turn right onto High Rock Rd,4,minitest,yes,,abc7a825c5c0
+routing,9,routing,61.224 km,4,minitest,yes,,0c07c0384239
+routing,10,routing,12522,4,minitest,yes,,8674628c0dc4
+routing,11,routing,Mirpur Rd,4,minitest,yes,,004b747a4c49
+routing,12,routing,Via Hessa St/D61,4,minitest,yes,,7024c452018f
+routing,13,routing,Take exit 22 toward PJA Port Gate 1/PJA Port Gate 2,4,minitest,yes,,734c758020c8
+routing,14,routing,Via Khayaban-e-Suhrwardy,4,minitest,yes,,01023e1690b2
+routing,15,routing,Dollar General,4,minitest,yes,,5cca05536634
+routing,16,routing,7,4,minitest,yes,,44c3daf9d360
+routing,17,routing,Via Al Shamal Rd,4,minitest,yes,,b98b6cf00f03
+routing,18,routing,Green Galleria,4,minitest,yes,,128d5d38163c
+routing,19,routing,6336 m,4,minitest,yes,,b7a9aa1fc40f
+routing,20,routing,Turn left onto Karani Ln/Navroji Ln,4,minitest,yes,,910e983d9c90
+routing,21,routing,Via Jl. Ir. H. Juanda and Jl. Gn. Sahari,3,minitest,yes,,cc0bc5afb0e5
+routing,22,routing,Via Rue Caulaincourt,3,minitest,yes,,5585f7ddfcf4
+routing,23,routing,18 mins,4,minitest,yes,,da86841260d9
+routing,24,routing,Via Satmasjid Road,3,minitest,yes,,08e2dc79b2f3
+routing,25,routing,Via Estr. das Paineiras and R. Cosme Velho,3,minitest,yes,,480b3a46e419
+routing,26,routing,Turn left onto Ghatkopar - Mahul Rd,4,minitest,yes,,e03486876ba1
+routing,27,routing,Slight right at Early St,4,minitest,yes,,2c85a01d4563
+routing,28,routing,1 hour 5 mins,4,minitest,yes,,f064cfc6724c
+routing,29,routing,Via B84,3,minitest,yes,,c0f24062b1cd
+routing,30,routing,18,4,minitest,yes,,80727e6f6f86
+routing,31,routing,Via Av. Paseo Colón and Av. Almte. Brown,3,minitest,yes,,f828e5b97708
+routing,32,routing,21 mins,4,minitest,yes,,dd43e1d51b7e
+routing,33,routing,3,4,minitest,yes,,c3de7be811ef
+routing,34,routing,Mühlhäuser Str. turns slightly left and becomes L2104,4,minitest,yes,,065b5f3d2146
+routing,35,routing,Via L2104,4,minitest,yes,,1bc35135da46
+routing,36,routing,Turn left onto High Bridge Trail,4,minitest,yes,,802ce3018016
+routing,37,routing,Turn right onto E Main St,4,minitest,yes,,1279f5f5162a
+routing,38,routing,Via Av. Paseo Colón and Av. Almte. Brown,3,minitest,yes,,a8ec339849b2
+routing,39,routing,US-33 E/E Livingston Ave,4,minitest,yes,,0fdfb75e8b6c
+routing,40,routing,Via Hessa St/D61,4,minitest,yes,,4a094f0d64b5
+routing,41,routing,Turn right onto Sheikh Zayed Bin Hamdan Al Nahyan Street/D54,4,minitest,yes,,ccb2c05548eb
+routing,42,routing,Continue onto L1042,4,minitest,yes,,61d4e5196843
+routing,43,routing,1 hour 6 mins,4,minitest,yes,,eed3b36bfabd
+routing,44,routing,Via NH 48,3,minitest,yes,,0915f3d5a822
+routing,45,routing,Via CT02,3,minitest,yes,,45dc64b52786
+routing,46,routing,Turn left onto VA-45 N,4,minitest,yes,,97ab00d8eeb4
+routing,47,routing,Keep right to continue on Jinnah Avenue Underpass,4,minitest,yes,,a6b51de389d5
+routing,48,routing,43622,4,minitest,yes,,dd5a7c4500a3
+routing,49,routing,Turn right onto Main Margalla Rd,4,minitest,yes,,d41361b81897
+routing,50,routing,Via Nam Kỳ Khởi Nghĩa and QL1A,3,minitest,yes,,750d70877937
+routing,51,routing,61.224,4,minitest,yes,,885d00c13017
+routing,52,routing,Turn right onto First Al Khail St/D86,4,minitest,yes,,a43c2214647e
+routing,53,routing,Turn left onto Parsons Ave,4,minitest,yes,,b06570efd985
+routing,54,routing,Turn right onto Plank Rd,4,minitest,yes,,34f58d672d2a
+routing,55,routing,Via Hessa St/D61,4,minitest,yes,,3cbdb9815163
+routing,56,routing,6.05 km,4,minitest,yes,,0b9d1f9efae7
+routing,57,routing,Via Hessa St/D61,4,minitest,yes,,1017b2813c17
+routing,58,routing,Continue onto Schlossallee/Thomas-Müntzer-Straße,4,minitest,yes,,97193e7815db
+routing,59,routing,Via Hessa St/D61,4,minitest,yes,,e9b0f806768a
+routing,60,routing,Via 7th Ave,3,minitest,yes,,a2076cbee1fa
+routing,61,routing,Via Av. Ing. Huergo and Av. Almte. Brown,3,minitest,yes,,5e5c60d60364
+routing,62,routing,Via Av. Infante Dom Henrique,3,minitest,yes,,e998b826f6e6
+routing,63,routing,1,4,minitest,yes,,5cff9a3fe9c7
+routing,64,routing,59 mins,4,minitest,yes,,d8669418131f
+routing,65,routing,1,4,minitest,yes,,f97aaf8bef01
+routing,66,routing,3rd exit,4,minitest,yes,,e244e3696e2c
+trip,1,trip,Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (35 mins),4,minitest,yes,,9953f08d56b2
+trip,2,trip,Three,4,minitest,yes,,61c636c226af
+trip,3,trip,Four,4,minitest,yes,,21dbdc92bb04
+trip,4,trip,35 mins,4,minitest,yes,,87f75de677f2
+trip,5,trip,Leave Hostal El Grial at 8 am. -> Visit Cusco Cathedral (8:07 am - 9:37 am) -> Visit Qorikancha (9:46 am - 10:46 am) -> Visit Mercado Central de San Pedro (11:04 am - 12:04 pm) -> Visit Saqsaywaman (12:29 pm - 1:59 pm),4,minitest,yes,,5cd47f5a4247
+trip,6,trip,4:06 PM,4,minitest,yes,,52ad2d0111c4
+trip,7,trip,Four,4,minitest,yes,,a82e6e0a3aa5
+trip,8,trip,38 mins,4,minitest,yes,,5db05cb927a2
+trip,9,trip,24 mins,4,minitest,yes,,2eb983892399
+trip,10,trip,1:37 PM,4,minitest,yes,,01fe0e589c3f
+trip,11,trip,All,4,minitest,yes,,611a8287832d
+trip,12,trip,Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha (49 mins),4,minitest,yes,,f640de017f27
+trip,13,trip,19 mins,4,minitest,yes,,9f8c933daa77
+trip,14,trip,8.39 am,4,minitest,yes,,5ec38fd010ad
+trip,15,trip,4:14 PM,4,minitest,yes,,24c4ba3acef7
+trip,16,trip,29 mins,4,minitest,yes,,49f4b9bc8b87
+trip,17,trip,\n1 hours 19 mins,4,minitest,yes,,ee75bdc43ef5
+trip,18,trip,2 hour 13 mins,4,minitest,yes,,9b965c2144bf
+trip,19,trip,1 hour 58 minutes,4,minitest,yes,,7ba006ec2805
+trip,20,trip,10 mins,4,minitest,yes,,7eb2c9ce871e
+trip,21,trip,Two,4,minitest,yes,,9b7722367ca6
+trip,22,trip,One,4,minitest,yes,,e4d5fa28a5a9
+trip,23,trip,Three,4,minitest,yes,,534bf2e5d5c3
+trip,24,trip,5.6 km,4,minitest,yes,,7f94f7344847
+trip,25,trip,4 minutes,4,minitest,yes,,e45dc359aac6
+trip,26,trip,Sydney Opera House -> Bondi Beach -> Royal Botanic Garden Sydney,4,minitest,yes,,2d526b10b744
+trip,27,trip,34 mins,4,minitest,yes,,e13933c96452
+trip,28,trip,38 mins,4,minitest,yes,,9ce8586a5049
+trip,29,trip,Two,4,minitest,yes,,c2b91de8e959
+trip,30,trip,10.13,4,minitest,yes,,b3abb04142e8
+trip,31,trip,2 hour 13 mins,4,minitest,yes,,49bcb0364216
+trip,32,trip,Home -> Multiplan Center -> Sonali Bank -> Military Museum -> Home,4,minitest,yes,,086216927e83
+trip,33,trip,Sultan's Dine,2,minitest,yes,,3747ca381111
+trip,34,trip,2 hour 43 mins,4,minitest,yes,,7a2399d794fb
+trip,35,trip,6 minutes,4,minitest,yes,,df54c0cb3db8
+trip,36,trip,The Rimrock Resort Hotel -> Banff National Park -> Lake Louise -> Moraine Lake,4,minitest,yes,,8ed169579570
+trip,37,trip,10.44 AM,4,minitest,yes,,374c2df4ff41
+trip,38,trip,10 mins,4,minitest,yes,,e7819478526c
+trip,39,trip,3 hours 22 minutes,4,minitest,yes,,570aa3920c3d
+trip,40,trip,3:04 PM,4,minitest,yes,,534a94b80c1c
+trip,41,trip,No,2,minitest,yes,,d1ebbbc71f8c
+trip,42,trip,Four,4,minitest,yes,,3ad5707b08dd
+trip,43,trip,Leave hotel at 9:00 AM -> Visit Lleras Park (9:02 AM - 10:32 AM) -> Visit Plaza Botero (10:59 AM - 12:59 PM) -> Visit Museum of Antioquia (1:00 PM - 2:00 PM) -> Come back to Hotel at 2:33 PM,4,minitest,yes,,e9f6a41ac6bd
+trip,44,trip,7:38 PM,4,minitest,yes,,0a065e8ae594
+trip,45,trip,Yes,2,minitest,yes,,ea82188f4b3f
+trip,46,trip,4.35 pm,4,minitest,yes,,17953a06111d
+trip,47,trip,32 mins,4,minitest,yes,,782544596265
+trip,48,trip,3:28 PM,4,minitest,yes,,107d3383a67d
+trip,49,trip,11:00 AM,4,minitest,yes,,5acb640ba61e
+trip,50,trip,57 mins,4,minitest,yes,,abbe1e3aeec0
+trip,51,trip,Four,4,minitest,yes,,05ea9210268a
+trip,52,trip,Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha,4,minitest,yes,,9953f08d56b2
+trip,53,trip,5:55 PM,4,minitest,yes,,aebfbafe36ee
+trip,54,trip,(3.00PM - 6.00PM) Visit The Metropolitan Museum of Art -> (6.05PM - 6.35PM) Have coffee at Starbucks  -> (6.39PM - 7.39PM) Spend time in Central Park.,4,minitest,yes,,707f6ee55e53
+trip,55,trip,4:44 PM,4,minitest,yes,,ced14c2f3bce
+trip,56,trip,32 min,4,minitest,yes,,f13b12eb7d46
+trip,57,trip,Park Güell -> Sagrada Família -> La Rambla,4,minitest,yes,,03a42132966a
+trip,58,trip,52 mins,4,minitest,yes,,932d2195017d
+trip,59,trip,99 mins,4,minitest,yes,,4b0f7b8b7aca
+trip,60,trip,(1.00PM - 3.00PM) Visit The British Museum -> Reach Tower of London at 3.33PM -> (3.33 - 5.03PM) Visit the Tower of London -> Reach lastminute.com London Eye at 5.31PM -> (5.31PM - 6.16PM) Enjoy ride on the lastminute.com London Eye.,4,minitest,yes,,4697f3c661e3
+trip,61,trip,Two,4,minitest,yes,,c0cf4be84490
+trip,62,trip,6.11 pm,4,minitest,yes,,9475912aed6b
+trip,63,trip,55 mins,4,minitest,yes,,b1910b7a6ff2
+trip,64,trip,40 mins,4,minitest,yes,,252943fd3b57
+trip,65,trip,16 mins,4,minitest,yes,,1344d1636fd1
+trip,66,trip,Four,4,minitest,yes,,8ce69e638e68
+trip,67,trip,Saqsaywaman -> Cusco Cathedral -> Mercado Central de San Pedro -> Qorikancha,4,minitest,yes,,f640de017f27
+unanswerable,1,unanswerable,Unanswerable,4,minitest,yes,,d4511a0ed049
+unanswerable,2,unanswerable,Unanswerable,3,minitest,yes,,785dfe0fe1fb
+unanswerable,3,unanswerable,Unanswerable,4,minitest,yes,,0c3b71bdea0b
+unanswerable,4,unanswerable,Unanswerable,4,minitest,yes,,8ce426f24ac8
+unanswerable,5,unanswerable,Unanswerable,4,minitest,yes,,a64eb463034f
+unanswerable,6,unanswerable,Unanswerable,4,minitest,yes,,13cbb9e7cd70
+unanswerable,7,unanswerable,Unanswerable,4,minitest,yes,,f6bcdf85f3eb
+unanswerable,8,unanswerable,Unanswerable,3,minitest,yes,,7d8c9c5634d5
+unanswerable,9,unanswerable,Unanswerable,4,minitest,yes,,2889abfc865a
+unanswerable,10,unanswerable,Unanswerable,4,minitest,yes,,aec42d229e93
+unanswerable,11,unanswerable,Unanswerable,4,minitest,yes,,55036a46055e
+unanswerable,12,unanswerable,Unanswerable,4,minitest,yes,,b9e2d1f46f1a
+unanswerable,13,unanswerable,Unanswerable,3,minitest,yes,,6091d50b9161
+unanswerable,14,unanswerable,Unanswerable,4,minitest,yes,,bb3df617fb44
+unanswerable,15,unanswerable,Unanswerable,4,minitest,yes,,d98a0b8a232e
+unanswerable,16,unanswerable,Unanswerable,4,minitest,yes,,186374b59a8b
+unanswerable,17,unanswerable,Unanswerable,4,minitest,yes,,7245e21a758a
+unanswerable,18,unanswerable,Unanswerable,4,minitest,yes,,b94b008ec04f
+unanswerable,19,unanswerable,Unanswerable,4,minitest,yes,,a9ac86ed9093
+unanswerable,20,unanswerable,Unanswerable,4,minitest,yes,,e0393155fe0b

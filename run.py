@@ -16,7 +16,8 @@ Examples
     python run.py --data_root datasets_dir/txt_data/trip --model gpt-4o-mini
 
 Results are written to ``<output_dir>/<benchmark>/<label>/<task>.jsonl`` (one record per question) together
-with ``config.json`` and ``summary.json``. Interrupted runs resume where they stopped.
+with ``config.json`` (models of every role, provider/endpoint, arguments, git revision), ``manifest.json`` (the
+question IDs the run covers) and ``summary.json``. Interrupted runs resume where they stopped.
 """
 
 from __future__ import annotations
@@ -25,6 +26,7 @@ import argparse
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from dataclasses import dataclass
@@ -180,6 +182,34 @@ def resolve_tasks(args: argparse.Namespace):
     return "custom", ("gpt-4o" if use_image else "gpt-3.5-turbo"), [task]
 
 
+def _git_revision() -> Optional[str]:
+    """Commit of the code that produced a run (``-dirty`` when there are uncommitted changes)."""
+    try:
+        run_git = lambda *a: subprocess.run(  # noqa: E731
+            ["git", "--no-optional-locks", "-C", str(ROOT), *a], capture_output=True, text=True, timeout=10
+        ).stdout.strip()
+        revision = run_git("rev-parse", "HEAD")
+        if not revision:
+            return None
+        return revision + ("-dirty" if run_git("status", "--porcelain", "--untracked-files=no") else "")
+    except (OSError, subprocess.SubprocessError):
+        return None
+
+
+def _portable(path: Any) -> Any:
+    """Paths inside the repository are stored relative to it (no user directories in shared result files)."""
+    try:
+        return str(Path(path).resolve().relative_to(ROOT))
+    except (TypeError, ValueError, OSError):
+        return path
+
+
+def _endpoint(args: argparse.Namespace) -> Optional[str]:
+    if args.provider == "azure":
+        return args.base_url or os.getenv("AZURE_OPENAI_ENDPOINT")
+    return args.base_url or os.getenv("OPENAI_BASE_URL") or "https://api.openai.com/v1"
+
+
 def _read_done(path: Path) -> Dict[str, Dict[str, Any]]:
     if not path.exists():
         return {}
@@ -243,10 +273,18 @@ def main(argv: Optional[List[str]] = None, *, llm: Any = None, maps: Any = None)
         json.dump(
             {
                 "version": __version__,
+                "git_revision": _git_revision(),
                 "benchmark": run_name,
                 "tasks": [t.name for t in tasks],
+                "mode": args.mode,
                 "models": {c: config.model_for(c) for c in COMPONENTS},
-                "arguments": vars(args),
+                "provider": args.provider,
+                "endpoint": _endpoint(args),
+                "temperature": args.temperature,
+                "arguments": {
+                    key: _portable(value) if key in ("datasets_root", "data_root", "output_dir") and value else value
+                    for key, value in vars(args).items()
+                },
                 "started": time.strftime("%Y-%m-%d %H:%M:%S"),
             },
             handle,
@@ -255,6 +293,12 @@ def main(argv: Optional[List[str]] = None, *, llm: Any = None, maps: Any = None)
         )
     print(f"Run directory: {run_dir}")
     print(f"Mode: {args.mode} | model: {model} | provider: {args.provider}")
+
+    # manifest.json: the question IDs each task is expected to cover (missing ones count as wrong in evaluate.py)
+    manifest_path = run_dir / "manifest.json"
+    manifest: Dict[str, Any] = {"benchmark": run_name, "questions": {}, "skipped": {}, "selection": {}}
+    if manifest_path.exists():
+        manifest.update(json.loads(manifest_path.read_text(encoding="utf-8")))
 
     for task in tasks:
         examples, skipped = load_task(
@@ -267,6 +311,11 @@ def main(argv: Optional[List[str]] = None, *, llm: Any = None, maps: Any = None)
         )
         for pid, reason in skipped:
             print(f"[{task.name}] skipping pid {pid}: {reason}")
+        manifest["questions"][task.name] = [ex.pid for ex in examples]
+        manifest["skipped"][task.name] = [[pid, reason] for pid, reason in skipped]
+        manifest["selection"][task.name] = {"split": args.split, "limit": args.limit, "data": _portable(task.path)}
+        with open(manifest_path, "w", encoding="utf-8") as handle:
+            json.dump(manifest, handle, indent=2, ensure_ascii=False)
         out_file = run_dir / f"{task.name}.jsonl"
         if args.overwrite and out_file.exists():
             out_file.unlink()
@@ -298,7 +347,9 @@ def main(argv: Optional[List[str]] = None, *, llm: Any = None, maps: Any = None)
         print(f"[{task.name}] accuracy: {100.0 * correct / max(len(task_records), 1):.2f}% ({correct}/{len(task_records)})")
 
     records = load_records(sorted(run_dir.glob("*.jsonl")))
-    summary = summarize(records, task_order=[t.name for t in tasks], display_names=TASK_DISPLAY_NAMES)
+    summary = summarize(
+        records, task_order=[t.name for t in tasks], display_names=TASK_DISPLAY_NAMES, expected=manifest["questions"]
+    )
     with open(run_dir / "summary.json", "w", encoding="utf-8") as handle:
         json.dump(summary, handle, indent=2, ensure_ascii=False)
     print(f"\n{run_name} | {label}\n{format_summary(summary)}")
