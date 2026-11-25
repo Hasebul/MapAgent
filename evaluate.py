@@ -9,7 +9,7 @@ Examples
 
 Predictions are re-scored from the saved records, so the scoring options can be changed without re-running.
 Scoring protocol (see mapagent/scoring.py): a multiple-choice prediction is resolved to the option it equals or, failing
-that, to its single most similar option with fuzzy similarity >= --fuzzy_threshold (default 0.9); it is correct if
+that, to its single most similar option with fuzzy similarity >= --fuzzy_threshold (default 0.95); it is correct if
 that option is the gold one. Unparseable answers, failed questions and questions listed in the run's manifest.json
 but missing from the result files count as wrong. Overall accuracy is micro-averaged over all questions.
 ``--legacy_fuzzy`` reproduces the first release's lenient scorer (fuzzy similarity >= 0.3 against the gold text).

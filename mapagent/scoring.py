@@ -6,10 +6,10 @@ Similarity is fuzzywuzzy's ``fuzz.ratio`` (difflib implementation) on case- and 
 by 100. A prediction is correct when:
 
 * Multiple choice (MapEval-API/Textual/Visual): the prediction is resolved to an option - the option it equals,
-  otherwise the single most similar option if the similarity is at least ``fuzzy_threshold`` (0.9 by default;
+  otherwise the single most similar option if the similarity is at least ``fuzzy_threshold`` (0.95 by default;
   "Unanswerable" counts as an option) - and that option is the gold option. Because the prediction is matched to its
-  *closest* option, a wrong option that is 90% similar to the gold one ("1 hour 3 mins" vs "1 hour 5 mins") is never
-  accepted.
+  *closest* option, a wrong option that is 95% similar to the gold one ("3 hours 2 minutes" vs "3 hours 22 minutes")
+  is never accepted.
 * Open-ended (MapQA): the extracted answer equals the gold answer after normalisation, contains it as a whole phrase,
   or is at least ``fuzzy_threshold`` similar to it with the same numbers; quantities such as "21694.66 meters" are
   compared numerically (5% relative tolerance after unit conversion).
@@ -31,7 +31,7 @@ OPTION_LETTERS = "ABCDEFGH"
 UNANSWERABLE = "Unanswerable"
 LEGACY_FALLBACK_PREDICTION = "Not able to answer the question"
 LEGACY_FUZZY_THRESHOLD = 30  # percent, as in the first release
-DEFAULT_FUZZY_THRESHOLD = 0.9
+DEFAULT_FUZZY_THRESHOLD = 0.95
 DEFAULT_NUMERIC_TOLERANCE = 0.05
 
 # ----------------------------------------------------------------------------- formatting

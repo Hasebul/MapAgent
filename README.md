@@ -216,15 +216,15 @@ Average cost per query: ... LLM calls, ...K tokens, ... MapTool calls, ... Googl
 ### Scoring protocol
 
 Fuzzy similarity is fuzzywuzzy's `fuzz.ratio` (difflib implementation) on lower-cased, whitespace-normalised text,
-divided by 100. The threshold is **0.9** (`--fuzzy_threshold`).
+divided by 100. The threshold is **0.95** (`--fuzzy_threshold`).
 
 - **Multiple choice (MapEval)** – the prediction is resolved to the option it equals or, failing that, to its single
-  most similar option if the similarity is at least 0.9 ("Unanswerable" counts as an option). The answer is correct
+  most similar option if the similarity is at least 0.95 ("Unanswerable" counts as an option). The answer is correct
   if that option is the gold option. Since a prediction is always matched to its *closest* option, a wrong option
-  that happens to be 90% similar to the gold one (e.g. "1 hour 3 mins" vs "1 hour 5 mins"; 33 such option pairs
-  exist in MapEval) is never accepted.
+  that happens to be 95% similar to the gold one (e.g. "3 hours 2 minutes" vs "3 hours 22 minutes"; 8 such option
+  pairs exist in MapEval) is never accepted.
 - **Open-ended (MapQA)** – correct if the extracted answer equals the gold answer after normalisation, contains it
-  as a whole phrase, or is at least 0.9 similar to it with the same numbers. Quantities (e.g. `21694.66 meters`)
+  as a whole phrase, or is at least 0.95 similar to it with the same numbers. Quantities (e.g. `21694.66 meters`)
   are compared numerically with a 5% relative tolerance after unit conversion (`--numeric_tolerance`).
 - **Denominators** – every question of the evaluated set counts. Unparseable answers and questions whose run
   failed count as wrong, and questions listed in `manifest.json` without a result count as wrong too
@@ -335,7 +335,7 @@ The first release could not run end to end and its evaluation over-estimated acc
   package that no longer existed.
 - **Scoring** – answers were counted as correct when their fuzzy similarity with the gold answer was ≥ 0.3, which
   accepts 54% of the wrong MapEval options (e.g. "Mary Castle" when the answer is "Howth Castle", or "Seven" for
-  "Ten"). The threshold is now 0.9, applied through closest-option matching (see
+  "Ten"). The threshold is now 0.95, applied through closest-option matching (see
   [Scoring protocol](#scoring-protocol)). MapQA questions showed the gold answer as the only option. The
   unanswerable labels and three corrupted items were wrong (see [Datasets](#datasets)).
 - **Paper fidelity** – the module inventory follows Table 10 (the planner listed ScienceQA modules such as

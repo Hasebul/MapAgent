@@ -130,26 +130,28 @@ def test_summarize():
     assert summary["cost"]["avg_llm_calls"] == pytest.approx(3.0)
 
 
-def test_fuzzy_threshold_is_point_nine_and_never_accepts_a_closer_wrong_option():
+def test_fuzzy_threshold_is_point_nine_five_and_never_accepts_a_closer_wrong_option():
     from mapagent.scoring import DEFAULT_FUZZY_THRESHOLD, match_option, similarity
 
-    assert DEFAULT_FUZZY_THRESHOLD == 0.9
-    choices = ["1 hour 3 mins", "1 hour 5 mins", "1 hour 7 mins"]
-    assert similarity("1 hour 3 mins", "1 hour 5 mins") >= 0.9  # a naive fuzzy scorer would accept it
-    assert not score_prediction("1 hour 3 mins", "1 hour 5 mins", open_ended=False, choices=choices)
-    assert score_prediction("1 hour 5 mins", "1 hour 5 mins", open_ended=False, choices=choices)
+    assert DEFAULT_FUZZY_THRESHOLD == 0.95
+    choices = ["3 hours 2 minutes", "3 hours 12 minutes", "3 hours 22 minutes"]
+    assert similarity("3 hours 2 minutes", "3 hours 22 minutes") >= 0.95  # a naive fuzzy scorer would accept it
+    assert not score_prediction("3 hours 2 minutes", "3 hours 22 minutes", open_ended=False, choices=choices)
+    assert score_prediction("3 hours 22 minutes", "3 hours 22 minutes", open_ended=False, choices=choices)
     # free-text predictions are matched to their closest option
     places = ["Kelburn Park", "Kelburn Parkway", "Te Papa"]
-    assert match_option("Kelburn Prk", places) == "Kelburn Park"
+    assert match_option("Kelburn Prk", places) == "Kelburn Park"  # similarity 0.96
     assert score_prediction("Kelburn Prk", "Kelburn Park", open_ended=False, choices=places)
-    assert match_option("Te Papa museum and gallery", places) is None  # below 0.9
+    assert match_option("Te Papa museum and gallery", places) is None  # below 0.95
     assert match_option("Unanswerable.", places) == UNANSWERABLE
     # ties are ambiguous
     assert match_option("AB", ["AC", "AD"], threshold=0.5) is None
-    # without the option list, plain fuzzy matching at 0.9
-    assert score_prediction("Howth Castle.", "Howth Castle", open_ended=False)
+    # without the option list, plain fuzzy matching at 0.95
+    assert score_prediction("Howth Castle.", "Howth Castle", open_ended=False)  # 0.96
     assert not score_prediction("Mary Castle", "Howth Castle", open_ended=False)
-    assert not score_prediction("1 hour 3 mins", "1 hour 5 mins", open_ended=False, fuzzy_threshold=0.95)
+    assert not score_prediction("1 hour 3 mins", "1 hour 5 mins", open_ended=False)  # 0.92
+    # the threshold is configurable
+    assert not score_prediction("Kelburn Prk", "Kelburn Park", open_ended=False, choices=places, fuzzy_threshold=0.97)
 
 
 @pytest.mark.parametrize(
