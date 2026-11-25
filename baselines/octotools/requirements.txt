@@ -1,0 +1,7 @@
+# Extra dependencies of the OctoTools baseline (install requirements.txt at the repository root first)
+pydantic>=2.0
+tenacity>=8.0
+pillow>=10.0
+# optional: response caching (ChatOpenAI(enable_cache=True))
+# diskcache>=5.6
+# platformdirs>=4.0

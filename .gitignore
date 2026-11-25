@@ -1,3 +1,23 @@
-./src/mapagent_error_analysis_zoom.pdf
-./src/mapagent_error_analysis.pdf
-./src/error_analysis.ipynb
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets: never commit API keys
+.env
+
+# Run outputs
+results/
+solver_cache/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Local analysis artifacts
+mapagent_error_analysis*.pdf
+error_analysis.ipynb

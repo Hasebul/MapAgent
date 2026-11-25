@@ -1159,12 +1159,12 @@
         "image_path": "Vdata/ID_318.PNG",
         "question": "What is the name of the Cultural landmark in this picture?",
         "choices": [
-            "s Play Museum\" ",
-            "\n ",
-            " ",
-            ""
+            "OliOli® - A Must-Visit Children's Play Museum",
+            "Al Khoory Courtyard",
+            "Xstrike",
+            "Alserkal Avenue"
         ],
-        "answer": "",
+        "answer": "Alserkal Avenue",
         "hint": "",
         "image": "Vdata/ID_318.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -1329,12 +1329,12 @@
         "image_path": "Vdata/ID_574.PNG",
         "question": "I’ve recently moved to Narayanganj’s Chashara area and I want to find a good gym that has modern equipment and fitness classes. Any suggestions?",
         "choices": [
-            "s Gym Narayanganj\" ",
-            "\n ",
-            " ",
-            ""
+            "Hard Knock's Gym Narayanganj",
+            "Parker fitness studio",
+            "The Cross Fit Narayanganj",
+            "POWER HOUSE GYM Narayanganj"
         ],
-        "answer": " ",
+        "answer": "The Cross Fit Narayanganj",
         "hint": "",
         "image": "Vdata/ID_574.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -1346,12 +1346,12 @@
         "image_path": "Vdata/ID_318.PNG",
         "question": "What is the name of the park  in this picture?",
         "choices": [
-            "s Play Museum\" ",
-            "\n ",
-            " ",
-            ""
+            "OliOli® - A Must-Visit Children's Play Museum",
+            "Al Khoory Courtyard",
+            "Xstrike",
+            "Alserkal Avenue"
         ],
-        "answer": " ",
+        "answer": "Xstrike",
         "hint": "",
         "image": "Vdata/ID_318.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",

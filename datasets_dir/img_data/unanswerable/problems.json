@@ -8,7 +8,7 @@
             "Diplomat Chauffeur (Pvt) Ltd",
             "Kumalo Aerobrome Terminal Building"
         ],
-        "answer": "Kumalo Aerobrome Terminal Building",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_909.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -25,7 +25,7 @@
             "Head west Turn left toward 南环中路/建西东路/G312 Turn right onto 南环中路/建西东路/G312 Turn left to stay on 南环中路/建西东路/G312 Turn right to stay on 南环中路/建西东路/G312 Turn left onto 武威路 Turn left to stay on 武威路 Turn left onto 晏家坪北路 Turn right Turn left",
             "Head east Turn right toward 南环中路/建西东路/G312 Turn left onto 南环中路/建西东路/G312 Sharp right onto 晏家坪东路/G212/G248 Turn right onto 晏家坪北路 Turn left"
         ],
-        "answer": "Head east Turn right toward 南环中路/建西东路/G312 Turn left onto 南环中路/建西东路/G312 Sharp right onto 晏家坪东路/G212/G248 Turn right onto 晏家坪北路 Turn left",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_904.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -42,7 +42,7 @@
             "Left of monserrat",
             "Right to Anju pharma"
         ],
-        "answer": "Right to Anju pharma",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_913.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -59,7 +59,7 @@
             "JINSHAXIAN",
             "JINTAXIAN"
         ],
-        "answer": "JINTAXIAN",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_905.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -76,7 +76,7 @@
             "Gazipur Rail Sation",
             "M Monsur Ali Rail Station"
         ],
-        "answer": "M Monsur Ali Rail Station",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_901.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -93,7 +93,7 @@
             "Helipuerto",
             "Aeropuerto internacional"
         ],
-        "answer": "Aeropuerto internacional",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_915.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -108,7 +108,7 @@
             "Ola During Children's Hospital\" \"Children's Hospital\" 'Bishop John Secondary School",
             "Easton Hospital"
         ],
-        "answer": "Easton Hospital",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_907.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -125,7 +125,7 @@
             "Head southwest toward ш. Каширское Take пр-т Андропова and пр. Пролетарский to ул. Кантемировская Take ул. Бехтерева to ул. Севанская Exit from ул. Севанская Take набережная Курьяновская/пр-д 4386-й Проектируемый, проезд Проектируемый 1481 and проезд Проектируемый 4294 to your destination",
             "Head southwest Turn left Slight right Turn right"
         ],
-        "answer": "Head southwest Turn left Slight right Turn right",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_917.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -142,7 +142,7 @@
             "Head southeast on Rawdon St toward Garrison St   Turn left onto Garrison St  Slight right onto Sanni Abacha St",
             "Head west on British Council Road toward Gloucester St  Turn right onto Gloucester St   Turn right onto Rokel St   Turn left onto Goderich Rd   Turn left onto Kissy Rd"
         ],
-        "answer": "Head west on British Council Road toward Gloucester St   Turn right onto Gloucester St   Turn right onto Rokel St   Turn left onto Goderich Rd   Turn left onto Kissy Rd",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_908.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -159,7 +159,7 @@
             "22 min",
             "33 min"
         ],
-        "answer": "33 min",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_919.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -176,7 +176,7 @@
             "Rossdale Linear Park",
             "Rossdale playground"
         ],
-        "answer": "Rossdale playground",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_910.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -193,7 +193,7 @@
             "Province of Buenos Aires SCHOOL No. 507",
             "SCHOOL No.5 Province of Buenos Aires"
         ],
-        "answer": "SCHOOL No.5 Province of Buenos Aires",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_918.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -210,7 +210,7 @@
             "Точка Coffee",
             "Coffee Combo"
         ],
-        "answer": "Coffee Combo",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_916.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -227,7 +227,7 @@
             "Helipuerto",
             "Aeropuerto internacional"
         ],
-        "answer": "Aeropuerto internacional",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_920.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -244,7 +244,7 @@
             "曙光电影院",
             "Dongrong International Film City"
         ],
-        "answer": "Dongrong International Film City",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_902.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -261,7 +261,7 @@
             "Ounong Modeling",
             "Sujia Hewan"
         ],
-        "answer": "Sujia Hewan",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_903.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -278,7 +278,7 @@
             "Province of Buenos Aires SCHOOL No. 507",
             "SCHOOL No.5 Province of Buenos Aires"
         ],
-        "answer": "SCHOOL No.5 Province of Buenos Aires",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_912.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -295,7 +295,7 @@
             "5 hr",
             "4 hr"
         ],
-        "answer": "4 hr",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_914.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -312,7 +312,7 @@
             "Suihua Zhuanwachang Health Clinic",
             "Zhangyunpeng Clinic"
         ],
-        "answer": "Zhangyunpeng Clinic",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_906.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
@@ -329,7 +329,7 @@
             "Promofiesta Norte",
             "285 Restaurant & Bar"
         ],
-        "answer": "285 Restaurant & Bar",
+        "answer": "Unanswerable",
         "hint": "",
         "image": "Vdata/ID_911.PNG",
         "skill": "Fetch context from corresponding google map api and based on the context answer the question ",
